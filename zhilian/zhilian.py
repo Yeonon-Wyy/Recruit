@@ -3,11 +3,8 @@ import re
 from bs4 import BeautifulSoup
 import os
 import csv
-import sys
+import sys 
 from collections import defaultdict
-sys.path.append('.')
-from config import Config
-
 
 
 
@@ -19,20 +16,23 @@ class Zhilian_Info():
 			'user-agent' : self.user_agent
 		}
 		self.job_infos = []
-		self.file_path = Config.FILE_PATH + '/resource/'
+		self.file_path = os.path.abspath('..') + '/resource/zhilian/'
+
+	#根据参数获得响应
 	def request_url(self):
 		for i in range(20):			#20 为可选参数
 			r = requests.get(self.main_url % ("北京","石油 机械",i),headers=self.headers)  #参数可选
 			soup = BeautifulSoup(r.text)
 			yield soup
 
+	#获得对应的职位列表
 	def get_job_list(self):
 		for soup in self.request_url():
 			job_list = soup.find_all('table', class_='newlist')
 			yield job_list
 		
 
-
+	#开始保存提取到的信息
 	def get_job_info(self):
 		soup = self.request_url()
 
@@ -42,7 +42,11 @@ class Zhilian_Info():
 				info['staff'] = job.find_all('a')[0].text
 
 				#处理工资
-				info['salary'] = job.find('td',class_='zwyx').text
+				salary = job.find('td',class_='zwyx').text.split('-')
+				if len(salary) == 2:
+					info['salary'] = (int(salary[0]) + int(salary[1])) / 2
+				else:
+					info['salary'] = -1
 				#处理位置
 				info['position'] = job.find('td',class_='gzdd').text
 
@@ -52,13 +56,22 @@ class Zhilian_Info():
 		
 		return self.job_infos
 
-
+	#对工资划分区间，用于绘图，原始数据未改变
 	def salary_handle(self):
 		salarys = defaultdict(int)
 
 		for job_info in self.job_infos:
 			salary = job_info['salary']
-			salarys[salary] += 1
+			if salary >= 0 and salary < 5000:
+				salarys['0-5000'] += 1
+			elif salary >= 5000 and salary < 8000:
+				salarys['5000-8000'] += 1
+			elif salary >= 8000 and salary <= 12000:
+				salarys['8000-12000'] += 1
+			elif salary >= 12000 and salary <= 15000:
+				salarys['12000-15000'] += 1
+			else:
+				salarys['15000-~'] += 1
 
 		with open(self.file_path + 'salary_for_image.csv','w',encoding='utf-8') as f:
 			f.write(str('salary') + '\n')
@@ -66,7 +79,7 @@ class Zhilian_Info():
 				f.write(str(salary) + ',')
 				f.write(str(num) + '\n')
 
-	#性能有问题，想到好办法再改，先实现功能
+	#对位置分类并统计
 	def position_handle(self):
 		postions = defaultdict(int)
 
@@ -84,6 +97,7 @@ class Zhilian_Info():
 				f.write(str(postion) + ',')
 				f.write(str(num) + '\n')
 
+	#保存文件
 	def saveFile(self,fileName):
 		with open(self.file_path + fileName + '.csv','w',encoding='utf-8') as f:
 			f.write(str(fileName) + '\n')
