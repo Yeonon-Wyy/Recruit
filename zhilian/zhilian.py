@@ -100,7 +100,7 @@ class Zhilian_Info():
 	#保存文件
 	def saveFile(self,fileName):
 		with open(self.file_path + fileName + '.csv','w',encoding='utf-8') as f:
-			f.write(str(fileName) + '\n')
+			f.write(str('position') + '\n')
 			for job_info in self.job_infos:
 				f.write(str(job_info[fileName]) + '\n')
 
