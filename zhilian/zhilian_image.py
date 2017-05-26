@@ -6,7 +6,7 @@ import seaborn as sns
 import matplotlib
 
 
-class Zhilian_generate_image:
+class ZhilianGenImage:
 	def __init__(self):
 		self.FILE_PATH = os.path.abspath('.') + '/resource/zhilian/'
 		self.FONT = {
