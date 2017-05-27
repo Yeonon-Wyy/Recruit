@@ -20,10 +20,10 @@ class ZhilianGenImage:
 		mydata.sort_index()
 
 		if image_kind == 'pie':
-			mydata.plot(kind='pie',subplots=True, figsize=(10,10),autopct='%1.1f%%',fontsize=15)
-		elif image_kind == 'barh':
-			mydata.plot(kind='barh',subplots=True,fontsize=20,figsize=(16,6))
+			mydata.plot(kind='pie',subplots=True, figsize=(10,10),autopct='%1.1f%%',fontsize=20)
+		elif image_kind == 'bar':
+			mydata.plot(kind='bar',subplots=True,fontsize=10,figsize=(4,6))
 		else:
 			raise TypeError('参数错误')
 
-		plt.savefig(self.FILE_PATH + 'images/' + fileName)
+		plt.savefig(self.FILE_PATH + 'images/' + fileName,dpi=100)

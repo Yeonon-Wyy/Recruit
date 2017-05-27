@@ -9,7 +9,7 @@ from collections import defaultdict
 
 
 class Zhilian():
-	def __init__(self):
+	def __init__(self,postion,keyword):
 		self.main_url = "http://sou.zhaopin.com/jobs/searchresult.ashx?jl=%s&kw=%s&sm=0&p=%s"
 		self.user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/58.0.3029.110 Chrome/58.0.3029.110 Safari/537.36"
 		self.headers = {
@@ -17,11 +17,12 @@ class Zhilian():
 		}
 		self.job_infos = []
 		self.file_path = os.path.abspath('.') + '/resource/zhilian/'
-
+		self.POSTION = postion
+		self.KEYWORD = keyword
 	#根据参数获得响应
 	def request_url(self):
 		for i in range(20):			#20 为可选参数
-			r = requests.get(self.main_url % ("北京","石油 机械",i),headers=self.headers)  #参数可选
+			r = requests.get(self.main_url % (self.POSTION,self.KEYWORD,i),headers=self.headers)  #参数可选
 			soup = BeautifulSoup(r.text,'lxml')
 			yield soup
 
@@ -64,15 +65,15 @@ class Zhilian():
 		for job_info in self.job_infos:
 			salary = job_info['salary']
 			if salary >= 0 and salary < 5000:
-				salarys['0-5000'] += 1
+				salarys['0-5K'] += 1
 			elif salary >= 5000 and salary < 8000:
-				salarys['5000-8000'] += 1
+				salarys['5K-8K'] += 1
 			elif salary >= 8000 and salary <= 12000:
-				salarys['8000-12000'] += 1
+				salarys['8K-12K'] += 1
 			elif salary >= 12000 and salary <= 15000:
-				salarys['12000-15000'] += 1
+				salarys['12K-15K'] += 1
 			else:
-				salarys['15000-~'] += 1
+				salarys['15K-~'] += 1
 
 		with open(self.file_path + fileName,'w',encoding='utf-8') as f:
 			f.write(str('salary') + '\n')

@@ -32,3 +32,9 @@ Recruit
 
 
  
+
+
+		qr = MainWindow.frameGeometry()
+        cp = QDesktopWidget().availableGeometry().center()
+        qr.moveCenter(cp)
+        MainWindow.move(qr.topLeft())
