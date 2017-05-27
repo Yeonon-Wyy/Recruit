@@ -5,11 +5,16 @@ import os
 import csv
 import sys 
 from collections import defaultdict
+from queue import Queue
+import threading
+
+
 
 
 
 class Zhilian():
 	def __init__(self,postion,keyword):
+		super().__init__()
 		self.main_url = "http://sou.zhaopin.com/jobs/searchresult.ashx?jl=%s&kw=%s&sm=0&p=%s"
 		self.user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/58.0.3029.110 Chrome/58.0.3029.110 Safari/537.36"
 		self.headers = {
@@ -19,10 +24,21 @@ class Zhilian():
 		self.file_path = os.path.abspath('.') + '/resource/zhilian/'
 		self.POSTION = postion
 		self.KEYWORD = keyword
+		self.url_queue = self.generate_url()
+
+
+	#生成url 队列
+	def generate_url(self):
+		q = Queue()
+		for i in range(20):
+			url = self.main_url % (self.POSTION,self.KEYWORD,i)
+			q.put(url)
+		return q
+
 	#根据参数获得响应
 	def request_url(self):
-		for i in range(20):			#20 为可选参数
-			r = requests.get(self.main_url % (self.POSTION,self.KEYWORD,i),headers=self.headers)  #参数可选
+		for i in range(20):
+			r = requests.get(self.main_url % (self.POSTION,self.KEYWORD,i),headers=self.headers) 
 			soup = BeautifulSoup(r.text,'lxml')
 			yield soup
 
@@ -35,8 +51,6 @@ class Zhilian():
 
 	#开始保存提取到的信息
 	def get_job_info(self):
-		soup = self.request_url()
-
 		for job_list in self.get_job_list():
 			for job in job_list[1:]:
 				info = {}
@@ -54,7 +68,10 @@ class Zhilian():
 
 				info['details_url'] = job.find_all('a')[0].get('href')
 				self.job_infos.append(info)
+		return self.job_infos
 		
+
+	def get_infos(self):
 		return self.job_infos
 
 	#对工资划分区间，用于绘图，原始数据未改变
@@ -110,5 +127,4 @@ class Zhilian():
 			f.write(str(fileName) + '\n')
 			for job_info in self.job_infos:
 				f.write(str(job_info[fileName]) + '\n')
-
 

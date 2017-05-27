@@ -5,22 +5,24 @@ from PyQt5.QtCore import *
 
 
 class Handle(QThread):
-	trigger = pyqtSignal()
-	def __init__(self):
+	trigger = pyqtSignal(list)
+	def __init__(self,postion,keyword):
 		super(Handle,self).__init__()
+		self.postion = postion
+		self.keyword = keyword
 
 	def run(self):
-		zhilian_info = Zhilian('北京','石油')
+		zhilian_info = Zhilian(self.postion,self.keyword)
 		zhilian_image = ZhilianGenImage()
+		print('en')
 
-		zhilian_info.get_job_info()
-		salary_fileName = zhilian_info.salary_handle()
-		postion_fileName = zhilian_info.position_handle()
+		job_list = zhilian_info.get_job_info()
+
 
 		zhilian_image.generate_image('postion_for_image.csv','1.png','bar')
 		zhilian_image.generate_image('salary_for_image.csv','2.png','pie')
 
-		self.trigger.emit()
+		self.trigger.emit(job_list)
 
 
 

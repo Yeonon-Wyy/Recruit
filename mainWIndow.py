@@ -3,6 +3,7 @@ from PyQt5.QtWidgets import QDesktopWidget
 import sys
 import os
 from handle import Handle
+from zhilian.zhilian import Zhilian
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
@@ -48,6 +49,8 @@ class Ui_MainWindow(object):
         self.PostionImage.setGeometry(QtCore.QRect(20, 80, 500, 600))
         self.PostionImage.setAlignment(QtCore.Qt.AlignCenter)
         self.PostionImage.setObjectName("PostionImage")
+
+        #self.show_image()
         
         self.PostionLabel = QtWidgets.QLabel(self.centralwidget)
         self.PostionLabel.setGeometry(QtCore.QRect(20, 5, 300, 30))
@@ -86,15 +89,23 @@ class Ui_MainWindow(object):
         self.KeywordLabel.setText(_translate("MainWindow", "Key word:"))
 
     def work(self):
-        self.workTheard = Handle()
+
+        postion = self.postionEdit.text()
+        keyword = self.keywordEdit.text()
+        self.workTheard = Handle(postion,keyword)
         self.workTheard.start()
         self.workTheard.trigger.connect(self.show_image)
+
+
         
-    def show_image(self):
+    def show_image(self,job_list):
         PixMapSalary = QtGui.QPixmap(os.getcwd() + '/resource/zhilian/images/1.png').scaled(400,600)
         self.SalaryImage.setPixmap(PixMapSalary)
         PixMapPostion = QtGui.QPixmap(os.getcwd() + '/resource/zhilian/images/2.png').scaled(500,500)
         self.PostionImage.setPixmap(PixMapPostion)
+
+        for i in range(20):
+            self.listWidget.addItem(job_list[i]['staff'])
         
 
 
@@ -104,7 +115,9 @@ if __name__ == '__main__':
     ui = Ui_MainWindow()
     ui.setupUi(MainWindow)
     MainWindow.show()
-    sys.exit(app.exec_())    
+
+    sys.exit(app.exec_()) 
+
 
 
 
