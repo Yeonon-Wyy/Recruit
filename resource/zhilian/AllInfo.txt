@@ -1,3 +1,65 @@
+{'staff': '软件工程师（C方向-应届生岗）', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/144900698251561.htm'}
+{'staff': '产品经理（C端）', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/475740323250085.htm'}
+{'staff': 'C/C++研发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/561889227250014.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 22500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/539528427250032.htm'}
+{'staff': '软件开发工程师（c、c++方向）', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/213549733250016.htm'}
+{'staff': 'C语言开发（熟悉单片机、Bootloader，linux内核裁剪）', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/193311110252292.htm'}
+{'staff': 'C语言应用开发工程师（数据通信、Socket开发）', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/193311110252296.htm'}
+{'staff': 'C开发（交换芯片开发、熟悉博通SDK、二层交换）', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/193311110252293.htm'}
+{'staff': 'C开发网管软件开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/193311110252192.htm'}
+{'staff': 'C语言开发工程师', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/193311110252249.htm'}
+{'staff': 'Linux C程序开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/193311110250879.htm'}
+{'staff': 'C语言方向基础平台软件工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/193311110251419.htm'}
+{'staff': 'Linux C程序员', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/193311110251421.htm'}
+{'staff': 'c/c++软件研发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/377971439250028.htm'}
+{'staff': '软件开发工程师-C/C++', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/310597188250021.htm'}
+{'staff': 'C语言工程师(浏览器)', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/131371590251949.htm'}
+{'staff': '人力资源中高端招聘research+高薪奖（沪京杭大区）c', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/431107134259954.htm'}
+{'staff': 'Linux C/C++软件开发工程师（高级）-信息安全', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120116927253263.htm'}
+{'staff': 'c/c++工程师', 'salary': 17500.5, 'position': '北京-东城区', 'details_url': 'http://jobs.zhaopin.com/569576922250241.htm'}
+{'staff': 'c/c++工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/569576922250242.htm'}
+{'staff': '急聘Linux C/C++驱动开发工程师', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/000101646250651.htm'}
+{'staff': 'C/C++', 'salary': 15000.0, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/400308110250440.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 20000.0, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/387799787250005.htm'}
+{'staff': '诚招Java 安卓 C PHP ios web前端开发企业包食宿双休', 'salary': 9000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/292999788252087.htm'}
+{'staff': '【实习生/可留用】猎头助理+储备经理人（京石大区）c', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/431107134259865.htm'}
+{'staff': '大唐电信集团—兴唐公司\xa0Linux\xa0C研发工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ726313750J00005228514.htm'}
+{'staff': 'C语言软件开发实习生', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/379851688250001.htm'}
+{'staff': '兼职/实习生（Matlab,C/C++开发）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/251507730250054.htm'}
+{'staff': 'C/C++ linux 高级开发工程师 高级引擎开发工程师', 'salary': 25000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/229683010250667.htm'}
+{'staff': '技术专家 资深架构师 C/C++ 架构', 'salary': 37500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/229683010250702.htm'}
+{'staff': '高级 linux C/C++ 研发工程师', 'salary': 27500.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/256036030250060.htm'}
+{'staff': 'C/C++', 'salary': 9000.5, 'position': '北京-顺义区', 'details_url': 'http://jobs.zhaopin.com/387240612250792.htm'}
+{'staff': '高级软件工程师（C/C++ ）', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/121058189000000.htm'}
+{'staff': 'Windows下C/C++软件工程师', 'salary': 25000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/268262636250056.htm'}
+{'staff': 'C/C++工程师', 'salary': 6500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ798477750J00001078709.htm'}
+{'staff': 'C/C++开发工程师（客户端）', 'salary': 16000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/561149628250112.htm'}
+{'staff': 'C语言软件开发实习生', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/267079737250004.htm'}
+{'staff': 'C轮融资 销售经理 五险一金 期权激励 15000+', 'salary': 17500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/273475780250993.htm'}
+{'staff': 'C开发工程师', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/508620126256593.htm'}
+{'staff': 'IPOS软件开发（linux C/C++）-爱立信', 'salary': 14000.0, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/597241124250560.htm'}
+{'staff': 'Linux C/C++开发', 'salary': 17500.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/597241124250505.htm'}
+{'staff': 'C/C++/Python后台开发工程师', 'salary': 22500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/430917636250000.htm'}
+{'staff': '高级爬虫工程师（java/python/c）', 'salary': 20000.0, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/267406113250369.htm'}
+{'staff': 'C/C++逆向分析（反汇编）工程师', 'salary': 9000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/605887021250017.htm'}
+{'staff': '高级C/C++逆向分析（反汇编）工程师', 'salary': 22500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/605887021250008.htm'}
+{'staff': '高薪急聘—C/C++开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/439093913250504.htm'}
+{'staff': 'C/C++研发工程师（高级）', 'salary': 7500.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120409684251482.htm'}
+{'staff': 'C开发软件工程师', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/508620126256589.htm'}
+{'staff': 'wpf开发工程师（.net c/s方向）', 'salary': 17500.5, 'position': '北京-大兴区', 'details_url': 'http://jobs.zhaopin.com/370456926250282.htm'}
+{'staff': '高级研发工程师 （ linux C 网络 安全 防火墙 ）', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/252994581250029.htm'}
+{'staff': 'C语言软件工程师', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000403711251969.htm'}
+{'staff': 'C语言中高级工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000403711251964.htm'}
+{'staff': 'c/c++软件工程师（高级）', 'salary': 22500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/489590725250097.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/521150720250727.htm'}
+{'staff': 'C/C++软件开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/569159528253991.htm'}
+{'staff': 'Java/C/C++软件工程师大数据开发实习生', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/569159528254003.htm'}
+{'staff': 'Linux C 安全研发工程师', 'salary': 9000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/163469321250626.htm'}
+{'staff': '软件开发工程师C、C++', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120490943251734.htm'}
+{'staff': 'C/C++高级开发工程师', 'salary': 13500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000212281260224.htm'}
+{'staff': 'C语言工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000409508250314.htm'}
+{'staff': '【实习生/可留用】猎头助理+储备经理人（京石大区）c', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/431107134260316.htm'}
+{'staff': 'C/C++软件开发工程师', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/279909734250098.htm'}
 {'staff': '募集嵌入式C，Android工程师赴日开发', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/255811685250627.htm'}
 {'staff': '嵌入式产品研发工程师（C语言）', 'salary': 6500.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/430315921250110.htm'}
 {'staff': '电力电子软件工程师（C语言）', 'salary': 8000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/430315921250112.htm'}
@@ -7,9 +69,9 @@
 {'staff': 'C/C++软件开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/569159528254032.htm'}
 {'staff': 'Java/C/C++软件工程师大数据开发实习生', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/569159528254044.htm'}
 {'staff': 'Java/C/C++软件工程师大数据开发实习生', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/411009211260490.htm'}
-{'staff': 'C/C++软件开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/569159528254072.htm'}
 {'staff': 'Java/C/C++软件工程师大数据开发实习生', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/411009211260386.htm'}
 {'staff': 'Java/C/C++软件工程师大数据开发实习生', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/569159528254084.htm'}
+{'staff': 'C/C++软件开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/569159528254072.htm'}
 {'staff': 'C/C++软件开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/411009211260374.htm'}
 {'staff': '软件开发/性能优化工程师(C/C++方向)—北京', 'salary': -1, 'position': '北京', 'details_url': 'http://xiaoyuan.zhaopin.com/job/CC000109019J90000011000'}
 {'staff': '研发实习生/软件工程师/C/C++研发工程师/嵌入式软件开发', 'salary': 11500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/248411819250373.htm'}
@@ -48,13 +110,1091 @@
 {'staff': 'C/C++开发工程师', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/261520237250023.htm'}
 {'staff': '高级VC/C++/C软件工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/190944716250412.htm'}
 {'staff': 'linux C/C++开发工程师', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/46771761190258789000.htm'}
-{'staff': 'C/C++研发工程师（办公软件）', 'salary': 12000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120343909251666.htm'}
 {'staff': 'C/C++高级工程师(办公软件）', 'salary': 12000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120343909251665.htm'}
+{'staff': 'C/C++研发工程师（办公软件）', 'salary': 12000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120343909251666.htm'}
 {'staff': 'Linux C 软件工程师', 'salary': 13500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/147284663250039.htm'}
 {'staff': '人工智能研发工程师（实习生C语言类较强）', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/422007435250009.htm'}
 {'staff': '高级C/C++开发工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/192750813250315.htm'}
 {'staff': 'C/C++开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/19275081390250304000.htm'}
+{'staff': 'C/C++ 产品经理（板式文件）', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/306857432250004.htm'}
+{'staff': 'C/C++ 开发工程师（板式文件）', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/306857432250003.htm'}
+{'staff': '▶◀猎头实习生+季度调薪+五险一金  京石大区c', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/431107134259730.htm'}
+{'staff': 'C语言 产品研发项目主管', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/169296611250759.htm'}
+{'staff': 'c语言开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/678545520254217.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/144603812250266.htm'}
+{'staff': 'C语言开发工程师', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/148208886250192.htm'}
+{'staff': 'C/C++高级研发工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/666964929250003.htm'}
+{'staff': '高级软件工程师 / 高级C/C++研发工程师', 'salary': 25000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/555016520250108.htm'}
+{'staff': '中级linux c开发工程师', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/000320988253797.htm'}
+{'staff': '中级C语言开发工程师', 'salary': 12000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/000320988253848.htm'}
+{'staff': '高级C语言开发工程师', 'salary': 20000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/000320988253847.htm'}
+{'staff': 'linux c高级软件工程师', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/155507010250149.htm'}
+{'staff': 'C/C++语言工程师', 'salary': 17500.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/382295925250197.htm'}
+{'staff': 'C/C++研发工程师', 'salary': 10500.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/13727636990250036000.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 10000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/205194016250490.htm'}
+{'staff': 'c 首都机场商务贵宾厅接待招聘', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250392.htm'}
+{'staff': 'c 首都机场空中乘务员招聘', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250407.htm'}
+{'staff': 'C 银行柜员', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250228.htm'}
+{'staff': 'c 某外资银行北京分行招聘柜员', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250443.htm'}
+{'staff': 'c 北京某商业银行招聘柜员', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250680.htm'}
+{'staff': 'c 外资银行招聘柜员 直签', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250671.htm'}
+{'staff': 'c 地铁公司招聘站务员', 'salary': 3000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250665.htm'}
+{'staff': 'c 某外资银行招聘柜员客户经理（直签）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250480.htm'}
+{'staff': 'c 银行招聘派遣柜员 （有转正机会）', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250462.htm'}
+{'staff': 'c 外资银行北京分行招聘(柜员 客户经理 直签）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250774.htm'}
+{'staff': 'c 外资银行北京分行招聘柜员', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250773.htm'}
+{'staff': 'c 某外资银行招聘柜员 直签 待遇好', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250682.htm'}
+{'staff': 'C/C++高级开发工程师（IT上市公司）', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/456647715251096.htm'}
+{'staff': 'C语言开发工程师', 'salary': 6000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/190963111250512.htm'}
+{'staff': 'C语言开发工程师+6000起', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/354307322250469.htm'}
+{'staff': 'C/C++工程师', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/339974830250035.htm'}
+{'staff': '.NET开发工程师(C/S)', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/283601617250328.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/137067027250078.htm'}
+{'staff': 'C语言开发工程师(交易产品开发方向)', 'salary': 27500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/678545520254174.htm'}
+{'staff': 'c  某国有银行招聘客户经理 直签', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250340.htm'}
+{'staff': 'C 银行大堂经理', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250225.htm'}
+{'staff': '高级Linux C/C++ 软件工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/144473755250052.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 10500.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/121044662250180.htm'}
+{'staff': '平台软件工程师(C)', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/000645187251836.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 7000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/369478132250001.htm'}
+{'staff': 'C/C++软件工程师(中级)', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/369478132250003.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 15000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/281785111250183.htm'}
+{'staff': 'VC/C/C++上位机软件工程师', 'salary': 11500.0, 'position': '北京-昌平区', 'details_url': 'http://jobs.zhaopin.com/219536114250008.htm'}
+{'staff': '高级软件开发工程师（C/C++）', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/305360830250002.htm'}
+{'staff': 'C语言开发', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/629631821250045.htm'}
+{'staff': 'C开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000133352250021.htm'}
+{'staff': 'c/c++研发工程师（linux）', 'salary': 10000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/138070004250255.htm'}
+{'staff': 'C开发工程师', 'salary': 15000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/300187886250090.htm'}
+{'staff': 'C/C++软件工程师（通信方向）', 'salary': 11500.0, 'position': '北京-昌平区', 'details_url': 'http://jobs.zhaopin.com/346414882250048.htm'}
+{'staff': 'S-嵌入式开发（c/c++）', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/507971323251531.htm'}
+{'staff': 'c/vc++开发工程师（MFC）', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/141279438250217.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/301030615250897.htm'}
+{'staff': 'C语言软件开发经理', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/275196115250693.htm'}
+{'staff': 'Linux c/c++高级工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/254563913250646.htm'}
+{'staff': '嵌入式软件开发工程师（C语言）', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/584439522250156.htm'}
+{'staff': 'C/C++语言开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120174087251054.htm'}
+{'staff': 'Linux C开发工程师', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/000327562252725.htm'}
+{'staff': 'linux c开发工程师--安全网关产品线', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000327562252396.htm'}
+{'staff': '银行业务软件工程师（java、unix c、数据仓库）', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/14490069890250927000.htm'}
+{'staff': '高级程序员(C语言)', 'salary': 25000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120900802250165.htm'}
+{'staff': 'Windows C/C++开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000327562252669.htm'}
+{'staff': '【实习生/可留用】猎头助理+储备经理人（京石大区）c', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/431107134260316.htm'}
+{'staff': 'C/C++软件开发工程师', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/279909734250098.htm'}
+{'staff': '募集嵌入式C，Android工程师赴日开发', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/255811685250627.htm'}
+{'staff': '嵌入式产品研发工程师（C语言）', 'salary': 6500.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/430315921250110.htm'}
+{'staff': '电力电子软件工程师（C语言）', 'salary': 8000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/430315921250112.htm'}
+{'staff': '人力资源中高端招聘research+高薪奖（华北大区）c', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/431107134260226.htm'}
+{'staff': 'Java/C/C++软件工程师大数据开发实习生', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/411009211260371.htm'}
+{'staff': 'Java/C/C++软件工程师大数据开发实习生', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/411009211260430.htm'}
+{'staff': 'C/C++软件开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/569159528254032.htm'}
+{'staff': 'Java/C/C++软件工程师大数据开发实习生', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/569159528254044.htm'}
+{'staff': 'Java/C/C++软件工程师大数据开发实习生', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/411009211260490.htm'}
+{'staff': 'Java/C/C++软件工程师大数据开发实习生', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/411009211260386.htm'}
+{'staff': 'Java/C/C++软件工程师大数据开发实习生', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/569159528254084.htm'}
+{'staff': 'C/C++软件开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/569159528254072.htm'}
+{'staff': 'C/C++软件开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/411009211260374.htm'}
+{'staff': '软件开发/性能优化工程师(C/C++方向)—北京', 'salary': -1, 'position': '北京', 'details_url': 'http://xiaoyuan.zhaopin.com/job/CC000109019J90000011000'}
+{'staff': '研发实习生/软件工程师/C/C++研发工程师/嵌入式软件开发', 'salary': 11500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/248411819250373.htm'}
+{'staff': '招C语言开发', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/486708481250093.htm'}
+{'staff': '.net高级开发工程师（C/S架构方向）-jygk04', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000432741250270.htm'}
+{'staff': '手机APP试用 随时可做（c语言/网站工程师/游戏设计/美工可做）', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/503952985251000.htm'}
+{'staff': 'Linux C开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/135210397250345.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 8000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/156227629252138.htm'}
+{'staff': '急：猎头实习顾问+季度调薪+五险一金（欢迎17届毕业生） c', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/431107134260148.htm'}
+{'staff': '高薪诚聘 C/C++高级工程师/开发/软件工程师', 'salary': 12500.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/133182359250284.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 12500.5, 'position': '北京-石景山区', 'details_url': 'http://jobs.zhaopin.com/120103686251199.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/278315310252364.htm'}
+{'staff': 'Linux C 软件开发工程师', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/301841213250602.htm'}
+{'staff': 'C 开发工程师', 'salary': 10000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/301841213250595.htm'}
+{'staff': 'Linux C/C++开发工程师', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/246362737250454.htm'}
+{'staff': 'BJ-05016 软件工程师（C语言）', 'salary': 8000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/278315310252301.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 7000.5, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/161509017250012.htm'}
+{'staff': 'C/C++软件开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/378689426250000.htm'}
+{'staff': 'C/C++工程师', 'salary': 8000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/606048725250083.htm'}
+{'staff': 'C/S开发实习生', 'salary': 3000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/130684817250249.htm'}
+{'staff': 'C++/C/Qt 地学软件研发工程师', 'salary': 9000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/279522036250057.htm'}
+{'staff': 'C/C++软件开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/612866222250022.htm'}
+{'staff': '电子工程师 -C', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120589099251807.htm'}
+{'staff': '算法工程师 -C', 'salary': 17500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120589099251806.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/398980032250006.htm'}
+{'staff': 'Linux C/C++开发工程师', 'salary': 6000.0, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/332127388250092.htm'}
+{'staff': 'C语言软件开发工程师（高级）', 'salary': 9000.0, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/233539722250016.htm'}
+{'staff': '嵌入式linux C/C++ 程序员（全职/兼职）', 'salary': 25000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/398579732250020.htm'}
+{'staff': 'C/C++软件开发工程师', 'salary': 8000.0, 'position': '北京-昌平区', 'details_url': 'http://jobs.zhaopin.com/688880320250011.htm'}
+{'staff': 'C/C++开发工程师（windows）', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/25718741190250724000.htm'}
+{'staff': 'C/C++开发工程师（linux）', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/25718741190250725000.htm'}
+{'staff': 'c语言开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/669561322250116.htm'}
+{'staff': 'C语言开发工程师', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/121080196250087.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 9000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/149332221251370.htm'}
+{'staff': '中级软件工程师（单片机，C语言）', 'salary': 17500.5, 'position': '北京-石景山区', 'details_url': 'http://jobs.zhaopin.com/120399720251472.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/261520237250023.htm'}
+{'staff': '高级VC/C++/C软件工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/190944716250412.htm'}
+{'staff': 'linux C/C++开发工程师', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/46771761190258789000.htm'}
+{'staff': 'C/C++高级工程师(办公软件）', 'salary': 12000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120343909251665.htm'}
+{'staff': 'C/C++研发工程师（办公软件）', 'salary': 12000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120343909251666.htm'}
+{'staff': 'Linux C 软件工程师', 'salary': 13500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/147284663250039.htm'}
+{'staff': '人工智能研发工程师（实习生C语言类较强）', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/422007435250009.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/19275081390250304000.htm'}
+{'staff': '高级C/C++开发工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/192750813250315.htm'}
 {'staff': 'C/C++ 开发工程师（板式文件）', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/306857432250003.htm'}
 {'staff': 'C/C++ 产品经理（板式文件）', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/306857432250004.htm'}
-{'staff': '软件工程师（C方向-应届生岗）', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/144900698251561.htm'}
-{'staff': '产品经理（C端）', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/475740323250085.htm'}
+{'staff': 'Linux C/C++研发工程师', 'salary': 7000.0, 'position': '北京-昌平区', 'details_url': 'http://jobs.zhaopin.com/258208713250773.htm'}
+{'staff': 'C/C++研发工程师', 'salary': 8000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/258208713250771.htm'}
+{'staff': '后台C/C++研发工程师(初中级)', 'salary': 7500.0, 'position': '北京-昌平区', 'details_url': 'http://jobs.zhaopin.com/258208713250763.htm'}
+{'staff': 'C开发工程师-北京-00686', 'salary': 12500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/315847111253959.htm'}
+{'staff': '银行运维工程师（Java或C语言)', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/200792829250008.htm'}
+{'staff': 'C初级开发工程师', 'salary': 3000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/200792829250300.htm'}
+{'staff': 'C中级开发工程师', 'salary': 7500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/200792829250276.htm'}
+{'staff': 'Linux软件研发工程师（c、c++）', 'salary': 5500.0, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/135439143250277.htm'}
+{'staff': '高级C/C++软件工程师', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/131818893250033.htm'}
+{'staff': 'Linux 下的C/C++ 高级开发工程师', 'salary': 25000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/26826263690250002000.htm'}
+{'staff': 'C语言软件开发工程师', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120478912250846.htm'}
+{'staff': '对日开发C语言、Proc软件工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/147646001250582.htm'}
+{'staff': 'LINUX C/C++ 高级开发工程师', 'salary': 17500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/158377717250249.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 9000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/133617855250662.htm'}
+{'staff': 'c/c++开发工程师', 'salary': 22500.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/229671583250346.htm'}
+{'staff': '软件工程师 (Linux C)', 'salary': 19500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/406516813250331.htm'}
+{'staff': 'Linux C开发工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/300138380250086.htm'}
+{'staff': 'C/C++工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/135351325250932.htm'}
+{'staff': '高薪急聘linux C高级开发工程师', 'salary': 20000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/177025829250124.htm'}
+{'staff': 'C语言开发工程师（精通C语言，有Linux开发经验）', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/209732211311556.htm'}
+{'staff': 'C/C++高级软件工程师', 'salary': 12500.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/000140955251460.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 15000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/000140955251473.htm'}
+{'staff': 'C端产品经理', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120155329250022.htm'}
+{'staff': '聘商務班車司機+包食宿+上保險+B/C本均可', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/386748482250576.htm'}
+{'staff': '淘宝C店电商运营', 'salary': 9000.0, 'position': '北京-通州区', 'details_url': 'http://jobs.zhaopin.com/459014737250040.htm'}
+{'staff': 'Linux\xa0C研发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ754537270J00004987715.htm'}
+{'staff': '淘宝外贸三皇C店招全职运营或推广合作四惠东', 'salary': 9000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/160644426250001.htm'}
+{'staff': 'C语言软件开发（赴日）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/147646001250568.htm'}
+{'staff': 'C/C++流媒体高级研发工程师', 'salary': 25000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000147543292996.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 10500.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/145274408250003.htm'}
+{'staff': 'C语言开发工程师', 'salary': 12500.5, 'position': '北京-大兴区', 'details_url': 'http://jobs.zhaopin.com/284666537250053.htm'}
+{'staff': 'Linux C研发工程师 （北京）', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120347691253130.htm'}
+{'staff': 'c  银行招聘大堂经理', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250248.htm'}
+{'staff': 'Linux c研发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/243075519250579.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/227879287250012.htm'}
+{'staff': 'c开发人员', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/37003972590250038000.htm'}
+{'staff': 'C/C++软件开发工程师', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/147888134251863.htm'}
+{'staff': 'C/C++开发工程师(出差)', 'salary': 11500.0, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/192325313251870.htm'}
+{'staff': '【实习生/可留用】猎头助理+储备经理人（京石大区）c', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/431107134258814.htm'}
+{'staff': 'C/C++研发工程师', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/371837083250025.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 7000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/147888134251886.htm'}
+{'staff': '高级c/c++开发工程师', 'salary': 22500.0, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/334547584250063.htm'}
+{'staff': 'C/C++/VC++软件工程师', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/000591346250299.htm'}
+{'staff': 'linux C/C++开发工程师-网优公司-北京研发中心-研发三部', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120116927253694.htm'}
+{'staff': '软件研发工程师【C、C++方向】', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120570227250214.htm'}
+{'staff': '软件研发工程师（C/C++/MFC）', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/133615298250109.htm'}
+{'staff': '高级软件工程师（C/C++）', 'salary': 22500.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/000140955251457.htm'}
+{'staff': 'C语言开发工程师', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120174184250039.htm'}
+{'staff': 'C语言开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120834976250631.htm'}
+{'staff': 'c/c++开发工程师', 'salary': 17500.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/313957539250014.htm'}
+{'staff': 'Executive Assistant to CEO  | CEO助理', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/490102829250149.htm'}
+{'staff': '后台程序（C/C++）开发工程师', 'salary': 10500.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/363755229250184.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 8000.0, 'position': '北京-昌平区', 'details_url': 'http://jobs.zhaopin.com/134503632250126.htm'}
+{'staff': '高级C/C++工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000420298252260.htm'}
+{'staff': 'Linux C 研发工程师（实习生）', 'salary': 3500.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/227429412250418.htm'}
+{'staff': '集群存储研发工程师（Linux C/C++）', 'salary': 15000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/227429412250420.htm'}
+{'staff': 'C/C++安全研发工程师', 'salary': 23500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/484648737250018.htm'}
+{'staff': 'C语言软件工程师', 'salary': 7500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/261893336250057.htm'}
+{'staff': 'C/C++软件工程师C/C++开发工程师', 'salary': 15000.0, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/429628581250021.htm'}
+{'staff': '对日C语言开发工程师（济南）', 'salary': 6500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/463463513250298.htm'}
+{'staff': '底薪6K急招！C语言开发工程师+双休', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/209732211316585.htm'}
+{'staff': '嵌入式C/C++开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/659688326250159.htm'}
+{'staff': '嵌入式c/c++软件开发工程师', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/139601787252138.htm'}
+{'staff': '(C/Python)后台开发工程师（地铁沿线技术大牛）', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/681867823250120.htm'}
+{'staff': 'C语言软件工程师', 'salary': 9750.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/148477424250012.htm'}
+{'staff': 'C C++ 开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120392645250122.htm'}
+{'staff': 'C语言开发助理/实习生 经验不限', 'salary': 5000.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/485304236250259.htm'}
+{'staff': 'C语言工程师', 'salary': 7500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120347154251022.htm'}
+{'staff': 'C/C++软件开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/340370885250060.htm'}
+{'staff': 'LINUX C中级研发工程师', 'salary': 13000.0, 'position': '北京-昌平区', 'details_url': 'http://jobs.zhaopin.com/258208713250733.htm'}
+{'staff': '后台C/C++研发工程师（高级）', 'salary': 15000.0, 'position': '北京-昌平区', 'details_url': 'http://jobs.zhaopin.com/258208713250744.htm'}
+{'staff': 'C／C++／汇编语言方向（实习）', 'salary': 7000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/000645187252027.htm'}
+{'staff': 'C语言软件开发实习生', 'salary': 3000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/309014689250083.htm'}
+{'staff': 'C语言linux驱动开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/30901468990250069000.htm'}
+{'staff': 'C语言高级软件开发工程师', 'salary': 8750.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/309014689250087.htm'}
+{'staff': 'C语言&驱动开发工程师', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/309014689250065.htm'}
+{'staff': '业务软件开发工程师(C/C++)', 'salary': 7000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/30901468990250068000.htm'}
+{'staff': 'C语言开发实习生', 'salary': 3000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/30901468990250035000.htm'}
+{'staff': '世纪明德子公司，招聘C端销售顾问、在线销售', 'salary': 6000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/281271735250019.htm'}
+{'staff': 'C/C++工程师', 'salary': 11500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/455947124250138.htm'}
+{'staff': 'C/C++软件工程师（实习生）', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/691908329250027.htm'}
+{'staff': 'C/C++软件工程师(2017届毕业生)', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/691908329250026.htm'}
+{'staff': 'C/C++ 高级开发工程师', 'salary': 40000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000000037253745.htm'}
+{'staff': '腾讯业务线—C语言开发实习生', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/354307322255535.htm'}
+{'staff': 'C语言开发工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ302386410J00005008915.htm'}
+{'staff': 'C开发工程师', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/508620126256556.htm'}
+{'staff': 'C/C++高级软件开发工程师', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/156244110250940.htm'}
+{'staff': 'C/C++开发（Linux底层）', 'salary': 24000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/229671583250359.htm'}
+{'staff': '高级工程师（C/C++）', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/134218708284774.htm'}
+{'staff': '高级C/C++软件工程师', 'salary': 25000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120222631250599.htm'}
+{'staff': '高薪急聘—C/C++开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/439093913250488.htm'}
+{'staff': '高级Windows C/C++软件工程师', 'salary': 25000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120222631250334.htm'}
+{'staff': 'C语言开发工程师', 'salary': 10500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/218750087250085.htm'}
+{'staff': 'C语言开发工程师', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/147806406250051.htm'}
+{'staff': '高级C/C++后端开发工程师', 'salary': 25000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/361537310250217.htm'}
+{'staff': 'C语言初级开发（应届生）', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/190963111250677.htm'}
+{'staff': 'C/C++中级研发工程师', 'salary': 17500.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/567411425250483.htm'}
+{'staff': 'C、C++软件工程师  支持工程师  五险一金', 'salary': 7000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/269165183250048.htm'}
+{'staff': 'linux c开发工程师', 'salary': 25000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/366436381250037.htm'}
+{'staff': 'C C++开发工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/271604514250254.htm'}
+{'staff': 'C语言开发工程师', 'salary': 7000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/306719737250005.htm'}
+{'staff': '集团风控总监/c', 'salary': 125000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/411221535250256.htm'}
+{'staff': 'C语言工程师(Windows)', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/131371590251948.htm'}
+{'staff': '软件工程师 -C', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120589099251805.htm'}
+{'staff': '赴日软件开发 日本向けJAVA、PHP、C等大募集！', 'salary': 25000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/460059439250068.htm'}
+{'staff': '产品经理（电商C端）', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/245657884250820.htm'}
+{'staff': 'C/C++服务器开发', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/643555725250040.htm'}
+{'staff': 'C/C++', 'salary': 10000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/692695929250180.htm'}
+{'staff': '上位机软件工程师(C语言，C++)', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120979356250211.htm'}
+{'staff': 'C#开发工程师（C/S方向）', 'salary': 10000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/133629212252848.htm'}
+{'staff': '中高级linux c开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/574465725250457.htm'}
+{'staff': '软件开发工程师（C/C++）', 'salary': 12500.5, 'position': '北京-顺义区', 'details_url': 'http://jobs.zhaopin.com/156684724250071.htm'}
+{'staff': '微服务 JAVA (C)', 'salary': 16500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/292145887250156.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 15000.0, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/387724614250612.htm'}
+{'staff': 'Linux C/C++ 软件研发工程师', 'salary': 10000.0, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/387724614250029.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/151053919250124.htm'}
+{'staff': '高级Linux C 开发工程师', 'salary': 22500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/656102422250103.htm'}
+{'staff': 'Linux C/C++（视频研发方向）', 'salary': 20000.0, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/387724614250618.htm'}
+{'staff': 'Windows C/C++开发工程师', 'salary': 17500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/12054422790250111000.htm'}
+{'staff': '嵌入式C语言工程师', 'salary': 9000.5, 'position': '北京-昌平区', 'details_url': 'http://jobs.zhaopin.com/544342327250010.htm'}
+{'staff': 'C语言 开发工程师', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/138538534250772.htm'}
+{'staff': 'linux内核开发/C语言开发', 'salary': 5000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/636190721250071.htm'}
+{'staff': 'C/C++媒体软件研发工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/148082261250243.htm'}
+{'staff': 'c 银行客服（信用卡升级）人员招聘', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250846.htm'}
+{'staff': 'LINUX C应届软件开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/265454937250018.htm'}
+{'staff': 'C语言软件开发人员', 'salary': 7000.5, 'position': '北京-房山区', 'details_url': 'http://jobs.zhaopin.com/363093038250002.htm'}
+{'staff': 'Linux C软件发开工程师', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/508620126256454.htm'}
+{'staff': 'C/C++研发员', 'salary': 11500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/145454293250754.htm'}
+{'staff': 'C/C++/Lazarus/Free Pascal开发工程师', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/261731019250089.htm'}
+{'staff': 'Linux C研发工程师', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/681549528250014.htm'}
+{'staff': '研发工程师-C语言方向（高级）', 'salary': 17500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/169971218250039.htm'}
+{'staff': '配置管理工程师—C', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/507971323251509.htm'}
+{'staff': '运维开发工程师—C', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/507971323251506.htm'}
+{'staff': '中级C语言开发工程师', 'salary': 11500.0, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/287215439250027.htm'}
+{'staff': 'C语言开发工程师', 'salary': 12500.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/154603114250990.htm'}
+{'staff': 'LINUX C开发工程师', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/180905024250931.htm'}
+{'staff': 'C/C++ 高级开发工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/149884011250752.htm'}
+{'staff': 'C语言工程师', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/150195619250110.htm'}
+{'staff': '赴日软件开发 日本向けJAVA、PHP、C等大募集！', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/460059439250028.htm'}
+{'staff': 'C语言开发工程师底薪+提成+补助', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/209732211315171.htm'}
+{'staff': 'Linux  C语言中级开发工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/280080134250157.htm'}
+{'staff': 'C/C++软件开发工程师', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/202807112250299.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/327618283250001.htm'}
+{'staff': 'LINUX C研发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/265090310250680.htm'}
+{'staff': 'C/C++/嵌入式开发工程师', 'salary': 13000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/248411819250292.htm'}
+{'staff': 'Python（懂C语言）开发工程师', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/547535726250012.htm'}
+{'staff': 'C/C++ 研发工程师', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/439593721250096.htm'}
+{'staff': 'C/++研发工程师（自动驾驶）', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/133534001251574.htm'}
+{'staff': '互联网广告推荐系统开发工程师 C语言', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/213929586250053.htm'}
+{'staff': '搜狗AI云-高级C/C++开发工程师-北京-02143', 'salary': 30000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/186958818256254.htm'}
+{'staff': 'C#/WPF/Winform  软件测试工程师(c/s程序)', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/294967811251067.htm'}
+{'staff': 'C程序设计讲师', 'salary': 11000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/187965628250182.htm'}
+{'staff': 'C/C++软件开发工程师', 'salary': 10000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/146094499250004.htm'}
+{'staff': 'C语言嵌入式开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120817715251957.htm'}
+{'staff': 'C语言开发工程师+高薪/补助', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/209732211315952.htm'}
+{'staff': 'JAVA/C/C++ 软件工程师高薪就业', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/209732211314974.htm'}
+{'staff': 'C/C++高级软件开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/205186017250054.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000432190252784.htm'}
+{'staff': 'C/C++系统设计经理', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000432190252791.htm'}
+{'staff': 'C/C++系统工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000432190252783.htm'}
+{'staff': 'VC++/C语言开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/144834853250076.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 13500.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/135562560250000.htm'}
+{'staff': 'Java（懂C语言）开发工程师', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/547535726250013.htm'}
+{'staff': '嵌入式c', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/597241124250568.htm'}
+{'staff': 'c 海南航空招聘地勤人员', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250843.htm'}
+{'staff': 'C/C++ Linux gcc/g++ gdb', 'salary': 37500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/229683010250703.htm'}
+{'staff': '软件开发工程师（c/c++）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/256499039250176.htm'}
+{'staff': '软件工程师/研发工程师/C/C++/嵌入式开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/248411819250268.htm'}
+{'staff': 'C/C++高级软件开发工程师', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/192921312297641.htm'}
+{'staff': '工具开发工程师（C/c++）', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/174786810267500.htm'}
+{'staff': 'C语言开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120162559250927.htm'}
+{'staff': 'C/C++高级开发工程师(Windows平台)', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/137539793250895.htm'}
+{'staff': 'C C++嵌入式开发工程师（外派杭州）', 'salary': 10000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/466184036250002.htm'}
+{'staff': 'C语言开发实习生', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/493192380250010.htm'}
+{'staff': 'C/C++/嵌入式/JAVA/研发/技术工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/248411819250361.htm'}
+{'staff': 'LINUX C研发工程师', 'salary': 12500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/693151027250178.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/147168097250494.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120678891250297.htm'}
+{'staff': 'C语言开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/377207419250671.htm'}
+{'staff': 'C/C++ 高级开发工程师-有道事业部094', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/147576908253902.htm'}
+{'staff': 'C/C++高级开发工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/681073723250522.htm'}
+{'staff': 'c/c++开发工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/334547584250085.htm'}
+{'staff': 'Linux C 软件开发', 'salary': 7000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/253298035250109.htm'}
+{'staff': 'C开发工程师(J10240)', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/328065582250539.htm'}
+{'staff': '金融产品经理C端', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/330611218263664.htm'}
+{'staff': 'C/C++程序员', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/369658035250043.htm'}
+{'staff': 'C/C++研发工程师', 'salary': 7500.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120409684251500.htm'}
+{'staff': 'C/C++ 高级开发工程师', 'salary': 25000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/402030539250061.htm'}
+{'staff': 'c财务助理（英文熟练）', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ763596770J00005031411.htm'}
+{'staff': '嵌入式C开发', 'salary': 17500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/597241124250562.htm'}
+{'staff': 'C/C++工程师', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/30294161690250320000.htm'}
+{'staff': 'C语言开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/469369019251037.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 14000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/184585224250358.htm'}
+{'staff': 'C中级开发工程师', 'salary': 7500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ773413570J00001267611.htm'}
+{'staff': 'C语言软件开发工程师 可实习', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/479196881250711.htm'}
+{'staff': '.NET开发工程师（C/S）', 'salary': 11500.0, 'position': '北京-昌平区', 'details_url': 'http://jobs.zhaopin.com/136892080250816.htm'}
+{'staff': 'Windows C/C++研发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/484648737250016.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 10000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/14660946590250260000.htm'}
+{'staff': '高级c/c++软件开发工程师', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/139601787252130.htm'}
+{'staff': 'Linux C内核协议研发工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/321432822251015.htm'}
+{'staff': '核心业务部门_C/C++工程师', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120747254258485.htm'}
+{'staff': 'C语言开发工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/441569437250067.htm'}
+{'staff': '高级Linux C/C++研发工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/134161698251313.htm'}
+{'staff': '高级研发工程师（C）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/134161698251276.htm'}
+{'staff': 'C语言初级开发（应届生）', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/190963111250676.htm'}
+{'staff': '软件工程师（熟悉C语言/C++）', 'salary': 12500.5, 'position': '北京-大兴区', 'details_url': 'http://jobs.zhaopin.com/341645913250409.htm'}
+{'staff': 'C语言开发工程师助理转正6K起+双休', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/209732211311297.htm'}
+{'staff': 'Linux C/C++软件工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/192745913250979.htm'}
+{'staff': 'C语言工程师', 'salary': 9000.5, 'position': '北京-东城区', 'details_url': 'http://jobs.zhaopin.com/645069625250004.htm'}
+{'staff': 'Linux C软件开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/140071262252194.htm'}
+{'staff': '综合前置 UNIX C 工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/32076241290250114000.htm'}
+{'staff': 'C语言/C++开发工程师', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/383635487251225.htm'}
+{'staff': 'C/C++ 软件工程师实习生', 'salary': 3000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/140071262252250.htm'}
+{'staff': '云方向业务部门_C/C++工程师', 'salary': 11500.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120747254258789.htm'}
+{'staff': '核心业务部门_C/C++高级工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120747254251863.htm'}
+{'staff': 'c开发语言工程师', 'salary': 11500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/184962621250117.htm'}
+{'staff': '理财端区域销售总监(P2C)c', 'salary': 9000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/587000929250226.htm'}
+{'staff': '理财端销售总监c', 'salary': 9000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/587000929250234.htm'}
+{'staff': 'C开发工程师（急招）', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/595151620250005.htm'}
+{'staff': 'C/C++/Lazarus/Free Pascal开发工程师', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/226828212250117.htm'}
+{'staff': 'C/C++（信息安全方向）', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/365281238250025.htm'}
+{'staff': 'linux c研发工程师', 'salary': 25000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/246362737250141.htm'}
+{'staff': '人力专员-C', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/138288427250742.htm'}
+{'staff': 'C语言开发工程师（分红+带薪年假）', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/209732211315492.htm'}
+{'staff': '产品经理（C端场景）', 'salary': 14000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/533168623250837.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 10500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/443697326251680.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 12500.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/505090424251520.htm'}
+{'staff': 'Linux C 中级工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120347691253060.htm'}
+{'staff': 'C/C++ 软件开发工程师', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/399612635251666.htm'}
+{'staff': 'C语言开发技术员', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/145362724252459.htm'}
+{'staff': 'C语言软件开发工程师', 'salary': 6500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/653778824250016.htm'}
+{'staff': 'C开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000191796254329.htm'}
+{'staff': 'C#软件开发工程师—C/S结构', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/330025316250121.htm'}
+{'staff': 'C、C++开发工程师/C++软件工程师/C++高级工程师 /python开发', 'salary': 10000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/655767220250831.htm'}
+{'staff': 'C/C++研发工程师', 'salary': 25000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/398892289250000.htm'}
+{'staff': '软件工程师 （C语言）', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/273725684250055.htm'}
+{'staff': 'Linux c/c++ 开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000405777250227.htm'}
+{'staff': '高级技术支持工程师 - C/C++', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/542232427250040.htm'}
+{'staff': 'C/C++软件开发工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120147488254465.htm'}
+{'staff': 'Linux C 软件开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120408371251831.htm'}
+{'staff': 'C语言高级工程师', 'salary': 25000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/134218708285105.htm'}
+{'staff': '零基础C语言工程师+六险一金+双休+带薪培训', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/354307322251170.htm'}
+{'staff': 'IT运维工程师（C、Linux）', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/445776785250592.htm'}
+{'staff': '服务端开发工程师（C/C++/linux C方向）', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/46771761190257648000.htm'}
+{'staff': 'Linux C/C++ 开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429817313250032.htm'}
+{'staff': 'C/C++开发工程师 -互联网', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/267093680250281.htm'}
+{'staff': 'C#开发工程师（C/S架构）', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/392518422250044.htm'}
+{'staff': '高级VC/C++/C软件工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/190944716250230.htm'}
+{'staff': '某知名日企信息技术公司-C语言开发工程师（日语必须）', 'salary': 11500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/438861519252248.htm'}
+{'staff': 'C/C++工程师', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000432190252837.htm'}
+{'staff': 'C语言、Proc开发', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000544466274995.htm'}
+{'staff': 'C开发工程师', 'salary': 12500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000544466275748.htm'}
+{'staff': '招聘linux C开发工程师', 'salary': 12500.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/704169722250597.htm'}
+{'staff': 'C开发工程师', 'salary': 12500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000544466275793.htm'}
+{'staff': 'C/C++高级工程师', 'salary': 16000.0, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/256876233250087.htm'}
+{'staff': 'C开发工程师', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/12022026090268721000.htm'}
+{'staff': 'linux c语言开发工程师', 'salary': 25000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/391956920250287.htm'}
+{'staff': 'C/C++ 软件工程师', 'salary': 9000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/291227519250077.htm'}
+{'staff': 'C/C++开发工程师', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120220260269616.htm'}
+{'staff': 'C/C++ 软件工程师', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/349112081250022.htm'}
+{'staff': 'Linux C/C++ 流媒体服务器开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/333330380250007.htm'}
+{'staff': 'C语言开发工程师（产品技术部）-B03004', 'salary': 11500.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/135607184252473.htm'}
+{'staff': 'linux c （应届生）', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120347691253135.htm'}
+{'staff': '北京-地产-猎头顾问（C/AC）', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/132760783252014.htm'}
+{'staff': '北京-猎头顾问（C/AC）', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/132760783251942.htm'}
+{'staff': '北京-制造-猎头顾问（C/AC）', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/132760783252041.htm'}
+{'staff': '银行综合前置高级C软件工程师', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/193399815256139.htm'}
+{'staff': '银行核心系统高级C软件工程师', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/193399815256079.htm'}
+{'staff': 'C开发工程师--外派华三通信（H3C）', 'salary': 7000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120593518250019.htm'}
+{'staff': 'C开发工程师---外派华三通信（H3C）', 'salary': 7000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120593518250096.htm'}
+{'staff': 'c/c++开发工程师（应用研发方向）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/310572715251246.htm'}
+{'staff': 'Linux C 开发工程师', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/445776785250580.htm'}
+{'staff': '银行综合前置初级C工程师', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/193399815256124.htm'}
+{'staff': '金融总账高级C软件工程师', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/193399815256069.htm'}
+{'staff': '产品主管-C', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/138288427250763.htm'}
+{'staff': '财务主管-C', 'salary': 8000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/138288427250817.htm'}
+{'staff': '软件工程师（C/C++）', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120146301250119.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/236548783250114.htm'}
+{'staff': 'c/c++开发工程师', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/273972632250081.htm'}
+{'staff': '高级C或C++开发工程师', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120887036261014.htm'}
+{'staff': 'C/C++（SDK）开发工程师', 'salary': 22500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/297906684250114.htm'}
+{'staff': '高级C/C++开发工程师', 'salary': 17500.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/366553888250064.htm'}
+{'staff': 'C/C++开发', 'salary': 12500.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/366553888250047.htm'}
+{'staff': 'C语言开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/419382226250448.htm'}
+{'staff': '青岛-人事财务-猎头顾问（C/AC）', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/132760783251905.htm'}
+{'staff': 'C/C++软件开发工程师', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/25475313090250026000.htm'}
+{'staff': 'C/python研发工程师', 'salary': 9000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/137615181251048.htm'}
+{'staff': '运维开发工程师/计算机/互联网/C/C++/Python/Java', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/426663426250445.htm'}
+{'staff': '急聘高级C语言开发工程师（终端安全）', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429193126250116.htm'}
+{'staff': '高薪招聘对日C开发工程师', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/614372623250067.htm'}
+{'staff': 'Linux C开发', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/265454937250072.htm'}
+{'staff': 'C端用户产品经理（Leader）', 'salary': 25000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/410758683250027.htm'}
+{'staff': 'Linux C/C++开发工程师 (分布式系统方向)', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/336147115250118.htm'}
+{'staff': 'C/C++研发资深工程师', 'salary': 25000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/336147115250010.htm'}
+{'staff': '高级C,C++工程师', 'salary': 17500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/345637739250007.htm'}
+{'staff': '高级C语言（C++工程师）', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/339361286250066.htm'}
+{'staff': 'c 国航两舱接待招聘', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250771.htm'}
+{'staff': 'c 首都机场通讯柜台招聘', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250446.htm'}
+{'staff': 'c 机场VIP贵宾接待岗位招聘', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250445.htm'}
+{'staff': 'c 招聘空中乘务', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250396.htm'}
+{'staff': 'LINUX C/C++研发工程师-杭州-wx', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120535348252836.htm'}
+{'staff': 'linux C语言开发', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/140649924251563.htm'}
+{'staff': 'Linux C/C++中高级开发-北京-00360', 'salary': 12500.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/131343479251029.htm'}
+{'staff': 'Linux C/C++ 开发主管-北京-00362', 'salary': 12500.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/131343479251031.htm'}
+{'staff': 'Linux C/C++ 开发工程师-北京-00333', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/131343479251024.htm'}
+{'staff': '档案主管C', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/15669332290250491000.htm'}
+{'staff': 'C零基础Java开发签约实习生 包住宿', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/334586882251450.htm'}
+{'staff': '董事长助理/c', 'salary': 50000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/411221535250281.htm'}
+{'staff': 'Accountant 会计/c', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/411221535250251.htm'}
+{'staff': '财务经理（AR/AP方向）（北京）/c', 'salary': 25000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/411221535250058.htm'}
+{'staff': 'Audit Manager审计经理（北京）/c', 'salary': 32500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/411221535250101.htm'}
+{'staff': 'C&B Manager 薪酬绩效经理/c', 'salary': 25000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/411221535250270.htm'}
+{'staff': '搜索后台C/C++工程师（数据智能部）', 'salary': 25000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/135201688252895.htm'}
+{'staff': 'C语言开发工程师', 'salary': 16000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/244372832250116.htm'}
+{'staff': 'Senior Accountant 高级会计/c', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/411221535250250.htm'}
+{'staff': '财务分析/预算控制专家（北京）/c', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/411221535250163.htm'}
+{'staff': 'Assistant Manager/助理经理（北京）/c', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/411221535250100.htm'}
+{'staff': 'Tax Manager税务经理(北京）/c', 'salary': 25000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/411221535250177.htm'}
+{'staff': 'unix   C开发工程师', 'salary': 12500.5, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/120702341253024.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 13500.0, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/120702341253131.htm'}
+{'staff': '诚聘高级嵌入式开发工程师（C/C++)', 'salary': 16500.0, 'position': '北京-昌平区', 'details_url': 'http://jobs.zhaopin.com/131227255250138.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/132260661251153.htm'}
+{'staff': 'C/C++开发工程师(税控产品部)', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/132260661251154.htm'}
+{'staff': 'C/C++开发工程师(001041)', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000422230253055.htm'}
+{'staff': 'C/C++开发工程师（信息安全）', 'salary': 8000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000422230253048.htm'}
+{'staff': 'C/C++开发工程师(001036)', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000422230253058.htm'}
+{'staff': 'C/C++开发工程师(信息安全)(001037)', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000422230253050.htm'}
+{'staff': 'ARM Linux环境下C/C++工程师', 'salary': 12500.0, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/141071850250276.htm'}
+{'staff': 'Linux C/C++软件开发工程师', 'salary': 12500.0, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/141071850250279.htm'}
+{'staff': 'Linux环境下C/C++工程师', 'salary': 12500.0, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/141071850250294.htm'}
+{'staff': 'Client Service Manager -International Information Services C', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/135078082341565.htm'}
+{'staff': 'C/C++软件开发工程师', 'salary': 11250.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/238566514250960.htm'}
+{'staff': 'c开发', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/147888134251862.htm'}
+{'staff': 'Linux C/C++开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/143688206250049.htm'}
+{'staff': 'C语言程序员', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120207762250361.htm'}
+{'staff': '中高级软件开发工程师（linux/C/C++）', 'salary': 11500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/461120427250363.htm'}
+{'staff': 'c语言程序员', 'salary': 7000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120207762250120.htm'}
+{'staff': 'Linux C语言程序员', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120207762250192.htm'}
+{'staff': 'LINUX C/C++软件工程师（双休，不加班，五险一金）', 'salary': 13500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/191602011251161.htm'}
+{'staff': 'linux c开发工程师-长椿街-wx', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120535348252832.htm'}
+{'staff': 'C/C++工程师', 'salary': 25500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/302941616250055.htm'}
+{'staff': 'C语言高级工程师', 'salary': 22500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/559526022250096.htm'}
+{'staff': 'C开发工程师', 'salary': 17500.5, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/120702341253027.htm'}
+{'staff': 'C中级开发工程师', 'salary': 12500.5, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/120702341253028.htm'}
+{'staff': 'C架构师开发工程师', 'salary': 17500.5, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/120702341253029.htm'}
+{'staff': 'C/C++工程师', 'salary': 7000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/302941616250046.htm'}
+{'staff': 'C/C++开发工程师(008480)', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/19292131290290576000.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/245482882250582.htm'}
+{'staff': 'LINUX C/C++研发工程师HZ0410', 'salary': 10000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/638724227250908.htm'}
+{'staff': 'C语言讲师（房山校区）', 'salary': 10000.0, 'position': '北京-房山区', 'details_url': 'http://jobs.zhaopin.com/187965628250148.htm'}
+{'staff': '售前售后技术支持工程师（北斗和芯导航/硬件工程师/数字电路/C）', 'salary': 8000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/260199815250333.htm'}
+{'staff': 'C/ C+ 开发', 'salary': 6000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/147888134251872.htm'}
+{'staff': '.net开发工程师（C/S、WPF）', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000616495251330.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 17500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000616495251450.htm'}
+{'staff': '软件开发工程师-丰台（C方向）（NO.SSC1604）', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/14490069890251457000.htm'}
+{'staff': 'C底薪6k招聘课程顾问+双休+朝九晚六+奖金', 'salary': 12500.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/607447622250050.htm'}
+{'staff': 'Linux C语言初级开发工程师', 'salary': 7000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/280080134250146.htm'}
+{'staff': 'C紧邻地铁急聘高薪电话销售（朝九晚六+意向资源+双休）', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/607447622250051.htm'}
+{'staff': '公司急聘-c语言开发工程师', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/540400923250889.htm'}
+{'staff': 'C 考研计算机统考专业课老师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/607447622250076.htm'}
+{'staff': '高级C/C++研发工程师', 'salary': 14999.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/372226533250002.htm'}
+{'staff': 'C考研法硕专业课老师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/607447622250075.htm'}
+{'staff': 'Linux C语言中级开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/280080134250121.htm'}
+{'staff': 'C急聘税务师助教，讲师方向待遇优厚', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/607447622250074.htm'}
+{'staff': '基础运维平台-C/C++高级开发工程师-北京-02097', 'salary': 32500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/186958818256220.htm'}
+{'staff': 'C', 'salary': 14000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/413598528250013.htm'}
+{'staff': 'C/C++软件开发高级工程师（北京）', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/400452416250052.htm'}
+{'staff': 'C/C++高级工程师', 'salary': 17500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/560322621250005.htm'}
+{'staff': 'C语言讲师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/392645925250122.htm'}
+{'staff': 'C/C++软件开发工程师', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120975588257831.htm'}
+{'staff': 'C/C++软件开发工程师', 'salary': 13500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120975588253723.htm'}
+{'staff': 'C语言开发工程师', 'salary': 7500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/143523492250016.htm'}
+{'staff': 'C/C++高级工程师(NO.SSC1706)', 'salary': 14000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/144900698251542.htm'}
+{'staff': 'C/C++语言开发', 'salary': 5000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/384950131250091.htm'}
+{'staff': 'java开发工程师（C））', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/605968029250202.htm'}
+{'staff': 'Linux C开发工程师', 'salary': 9000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/308002913250018.htm'}
+{'staff': 'C/C++高级研发工程师', 'salary': 22500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/373325139250034.htm'}
+{'staff': 'C/C++高级研发工程师', 'salary': 22500.0, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/373325139250010.htm'}
+{'staff': 'C本安全员', 'salary': 6500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/283612382250019.htm'}
+{'staff': 'C开发工程师', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120615883251149.htm'}
+{'staff': 'C/C++ 开发工程师', 'salary': 10000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/638724227250903.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 8000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000614796250510.htm'}
+{'staff': '神州飞思（外包）招聘C语言开发工程师', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/619323221250117.htm'}
+{'staff': 'SDK开发工程师（C/C++相关职位，非App开发）', 'salary': 17500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/182556923251883.htm'}
+{'staff': 'C/C++', 'salary': 7000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/13523980690250319000.htm'}
+{'staff': 'C课程顾问/教育咨询/电话销售（月薪8k+ 高底薪诚邀您的加入）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/388222417252740.htm'}
+{'staff': '运营专员-C', 'salary': 6000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/138288427250801.htm'}
+{'staff': '综管中心总监-C', 'salary': 25000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/138288427250764.htm'}
+{'staff': 'C/C++高级软件工程师', 'salary': 20000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/000396199252059.htm'}
+{'staff': '产品经理（to C端）', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/349954311250362.htm'}
+{'staff': 'C/C++研发工程师(熟悉OpenGL者优先)', 'salary': 7000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/369478132250002.htm'}
+{'staff': '研发工程师C', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/132272953250033.htm'}
+{'staff': '某大型上市互联网公司Linux C/C++高级开发工程师', 'salary': 30000.0, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/452540533250050.htm'}
+{'staff': 'Linux C/C++ 开发工程师（研究院）-北京-00341', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/131577094251082.htm'}
+{'staff': 'C/C++软件开发工程师', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/134132328251946.htm'}
+{'staff': '程序员(C/C++方向)---校园招聘', 'salary': 7500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120519406253111.htm'}
+{'staff': '程序员(Linux C方向)---校园招聘', 'salary': 7500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120519406253112.htm'}
+{'staff': 'C语言开发工程师--应届生', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000422230253250.htm'}
+{'staff': '高级软件工程师（Linux C/C++', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/335707539250035.htm'}
+{'staff': 'C/C++开发工程师（空天）', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/00035778390252491000.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/00035778390252443000.htm'}
+{'staff': 'C/C++开发工程师（协议）', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/00035778390252444000.htm'}
+{'staff': 'linux c/c++开发工程师（YFSB）', 'salary': 17500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/232405817255066.htm'}
+{'staff': '网络开发工程师(C/C++)', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/34868841790250959000.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/34868841790250995000.htm'}
+{'staff': '地图引擎工程师( C/C++)', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/34868841790250895000.htm'}
+{'staff': '存储系统工程师(C/C++)', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/34868841790250852000.htm'}
+{'staff': 'GIS底层开发工程师(C/C++)', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/34868841790250896000.htm'}
+{'staff': 'C/C++核心算法研发工程师', 'salary': 25000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/133534001251563.htm'}
+{'staff': '终端装备C/C++开发工程师（校园招聘）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/12107697890252002000.htm'}
+{'staff': 'C语言开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/501560728250716.htm'}
+{'staff': '服务器Linux C开发', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/493150925251064.htm'}
+{'staff': 'C#高级工程师—C', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/507971323251474.htm'}
+{'staff': '运维工程师—C', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/507971323251473.htm'}
+{'staff': 'C语言开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120174087251062.htm'}
+{'staff': 'C研发工程师', 'salary': 11500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/221618510250114.htm'}
+{'staff': 'C语言开发岗位', 'salary': 8000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/130438305251653.htm'}
+{'staff': 'C/C++开发实习生', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/608001923250732.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 17500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/608001923250724.htm'}
+{'staff': 'C开发工程师(J10171)', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/328065582250496.htm'}
+{'staff': 'C#/.net开发工程师（C/S）', 'salary': 15500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/529052025250222.htm'}
+{'staff': 'Java/C/C++软件工程师实习生-qsr10', 'salary': 2000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000432741250713.htm'}
+{'staff': '服务器开发工程师（go/linux c）', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/565192328250704.htm'}
+{'staff': 'C/C++程序员', 'salary': 5000.5, 'position': '北京-房山区', 'details_url': 'http://jobs.zhaopin.com/524262427250080.htm'}
+{'staff': 'Linux C 软件工程师', 'salary': 12500.5, 'position': '北京-昌平区', 'details_url': 'http://jobs.zhaopin.com/481493631250009.htm'}
+{'staff': 'c语言', 'salary': 25000.5, 'position': '北京-大兴区', 'details_url': 'http://jobs.zhaopin.com/595002126250921.htm'}
+{'staff': 'USB 3.1/type c 公头自动组装机-机械自动化设计工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/291745789250101.htm'}
+{'staff': '产品经理（C端）', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/377822883250007.htm'}
+{'staff': '银行核心系统研发（C方向）', 'salary': 11500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/376045832250033.htm'}
+{'staff': 'C语言软件开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/121089877250709.htm'}
+{'staff': 'c 三甲公立医院招聘带薪 实习护士', 'salary': 3000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250691.htm'}
+{'staff': 'C 银行大堂经理', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250726.htm'}
+{'staff': 'c 外资银行招聘柜员、客户经理（直签岗位）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250748.htm'}
+{'staff': 'C 银行柜员', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250731.htm'}
+{'staff': 'c 地铁公司招聘站务员', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250715.htm'}
+{'staff': 'c  通讯柜台（直签岗）首都机场', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250743.htm'}
+{'staff': 'c 银行招聘派遣柜员 （有转正机会）', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250729.htm'}
+{'staff': 'c 外资银行招聘柜员 直签', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250713.htm'}
+{'staff': 'c 机场VIP贵宾接待岗位招聘', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250732.htm'}
+{'staff': '流媒体开发工程师（Linux C/C++/IT上市公司）', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/482424122252582.htm'}
+{'staff': '3年以上C/C++软件开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/392702235250065.htm'}
+{'staff': 'C/C++开发人员', 'salary': 12500.5, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/169139916250331.htm'}
+{'staff': 'C、C++研发工程师', 'salary': 8000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/248962117252451.htm'}
+{'staff': 'C代码开发工程师', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/225818922250398.htm'}
+{'staff': 'C/C++开发工程师（ceph开发）', 'salary': 25000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120137343257053.htm'}
+{'staff': 'C/C++研发工程师', 'salary': 25000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/137548083250018.htm'}
+{'staff': '实习：Linux C开发', 'salary': 2250.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/424100712250134.htm'}
+{'staff': '产品经理（C端）(000915)', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/418801917256136.htm'}
+{'staff': '跨年古装大戏热招《跟组司机》、A/B/C证不限、包食宿+五险一金', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/452038231250027.htm'}
+{'staff': '跨年大戏急招《跟组司机》、A/B/C证不限、高薪包食宿+五险一金', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/452038231250025.htm'}
+{'staff': 'winform C/S .NET软件开发工程师', 'salary': 9000.0, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/145224001250384.htm'}
+{'staff': '系统分析师/IT工程师/Java/J2EE, C/C++开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ000022240J00033150301.htm'}
+{'staff': 'Linux C软件工程师', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/12036230090250243000.htm'}
+{'staff': 'C/C++工程师', 'salary': -1, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/508620126255454.htm'}
+{'staff': 'C语言开发工程师', 'salary': 9000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/309321430250019.htm'}
+{'staff': '基金产品经理(固定收益类）', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/289702581250671.htm'}
+{'staff': 'web前端', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/201492131250187.htm'}
+{'staff': '测试工具开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/201492131250103.htm'}
+{'staff': '网页制作', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/201492131250602.htm'}
+{'staff': '公司直招零基础IT技术岗+可培养（包住宿）', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/426471438250223.htm'}
+{'staff': '文字录稿/宅家/校对文员助理客服临时工大学生临时工小时工学生', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ754282370J00005038412.htm'}
+{'staff': '网络线上销售（无责底薪+高提成+优质客户）', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/445303336250402.htm'}
+{'staff': '大客户销售+无责底薪3千+高额提成+年终奖', 'salary': 6000.0, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/207880316250159.htm'}
+{'staff': '单片机软件工程师', 'salary': 9000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/CZ240875180J00003842809.htm'}
+{'staff': '见习经理', 'salary': 3850.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ137021000J00005009315.htm'}
+{'staff': '销售咨询', 'salary': 8000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ540400920J00005077010.htm'}
+{'staff': 'C++软件工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ384959280J00005129311.htm'}
+{'staff': 'ARM嵌入式软硬件研发工程师', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ281126210J00006920506.htm'}
+{'staff': 'C++高级软件工程师', 'salary': 17500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/CZ143203520J00005088713.htm'}
+{'staff': '客户经理', 'salary': 12500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ281426330J00004995010.htm'}
+{'staff': '嵌入式linux开发工程师', 'salary': 12500.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/CZ240875180J00004702409.htm'}
+{'staff': '急聘销售/课程顾问（底薪5K起+提成+五险一金）', 'salary': 7500.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/CZ302141820J00013502507.htm'}
+{'staff': '销售代表/网络营销（无责底薪+双休）人均收入过万', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/445303336250398.htm'}
+{'staff': '多媒体处理工程师', 'salary': 20000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/440950919250538.htm'}
+{'staff': '销售代表/网络营销（无责底薪+高提成+双休）人均收入过万', 'salary': 7000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/445303336250203.htm'}
+{'staff': '高级ios开发工程师', 'salary': 17500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/440950919250546.htm'}
+{'staff': '即将上市的公司诚聘财务助理一枚', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/445303336250377.htm'}
+{'staff': '网络在线销售（无责底薪3K+高提成+双休）', 'salary': 7000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/445303336250277.htm'}
+{'staff': '优秀销售代表 外派出差（包住包销）', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/299412316250148.htm'}
+{'staff': '销售代表+外派出差+高薪包住', 'salary': 6500.0, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/29941231690250172000.htm'}
+{'staff': '外派出差', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/29941231690250035000.htm'}
+{'staff': '应届毕业生专职', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/29941231690250036000.htm'}
+{'staff': 'CBD商业区/年薪百万/诚招外汇交易员/助理/零基础带薪培训', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252995.htm'}
+{'staff': '黄金外汇交易员/操盘手/免费培训+五险双休 月入过万+朝九晚五', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/202893088256791.htm'}
+{'staff': '2017古装魔幻电视剧招聘跟组演员 艺人助理', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/319841637252483.htm'}
+{'staff': '.NET开发工程师', 'salary': 17500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/422760080250014.htm'}
+{'staff': '高薪诚聘 金融交易员 双休五险一金 无基础免费培训', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/265690635259724.htm'}
+{'staff': '服务器端 软件工程师', 'salary': 16000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/166765914250655.htm'}
+{'staff': 'V1课程顾问（朝九晚六双休+平均月薪10K+晋升+环境舒适）', 'salary': 9000.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/146553580251838.htm'}
+{'staff': 'V1销售代表/课程咨询（提供意向资源+无业绩要求）', 'salary': 9000.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/146553580251837.htm'}
+{'staff': 'V9课程咨询（无陌拜+无责底薪+高额提成奖金）月薪人均8K以上', 'salary': 12500.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/146553580251927.htm'}
+{'staff': 'E6考研销售代表/教育行业（无责底薪高至7k+高提成+弹性工作）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/146553580251985.htm'}
+{'staff': 'E6电话销售/教育咨询顾问（提供意向资源+高提成+月均收入10K+）', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/146553580251987.htm'}
+{'staff': 'E6课程顾问/课程咨询师（年终奖金+带薪培训+弹性工作+月薪12K+)', 'salary': 9000.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/146553580251986.htm'}
+{'staff': 'B1销售代表/课程咨询（提供意向咨询+无业绩要求+早九晚六双休）', 'salary': 9000.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/146553580252374.htm'}
+{'staff': 'V1销售课程顾问（提供意向资源+无业绩要求+双休+早九晚六）', 'salary': 9000.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/146553580251961.htm'}
+{'staff': 'E6课程咨询师/电话销售（提供意向资源+无责底薪至7K+早九晚六）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/146553580252032.htm'}
+{'staff': '课程规划师/招生老师-外企环境/五险一金/高提点/免费英语', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/156527024262266.htm'}
+{'staff': 'B2销售顾问（提供意向资源+无责底薪3.6K-7K+双休+早九晚六）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/146553580251937.htm'}
+{'staff': 'B2课程销售 无责底薪3.6K起 早九晚六 月薪均8K以上', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/146553580251615.htm'}
+{'staff': 'IOS开发-急聘', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/396777789250039.htm'}
+{'staff': '年薪30w+/高薪急聘金融风控师/风控助理/交易员', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252991.htm'}
+{'staff': '国贸CBD 外汇分析师/交易专员/讲师+双休五险 没有走不通的路只有', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/278684936252700.htm'}
+{'staff': '酒店直聘-保安-收银员-前台接待-公关-调酒学徒-人事助理-服务员', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/447837838250254.htm'}
+{'staff': '商务酒楼聘-商务陪游-高端外WEI女-商务司机-商务保姆', 'salary': 60000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/447837838250253.htm'}
+{'staff': '统招985/211豪宅顾问无责底薪6500+500补助+高额提成', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/418846213274860.htm'}
+{'staff': '酒店直聘-保安-收银员-前台接待-调酒学徒-人事助理-服务员', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/447837838250252.htm'}
+{'staff': '小説录稿/宅家/校对文员助理学生小时工客服实习生临时工会计销售', 'salary': 12500.5, 'position': '北京-东城区', 'details_url': 'http://jobs.zhaopin.com/CZ725108380J00013647907.htm'}
+{'staff': 'B1课程顾问（朝九晚六+双休+月薪均10K以上+晋升空间）', 'salary': 12500.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/146553580252375.htm'}
+{'staff': 'B1电话销售/咨询顾问（提供意向客户+早九晚六+双休+无业绩要求）', 'salary': 9000.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/146553580252376.htm'}
+{'staff': 'B1销售课程顾问（无责底薪至6K+无业绩要求+双休+早九晚六）', 'salary': 12500.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/146553580252377.htm'}
+{'staff': 'C#开发工程师', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/657949127250021.htm'}
+{'staff': 'FPGA/IP/SOC工程师', 'salary': 17500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120834976250219.htm'}
+{'staff': '助理经理', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/137021001250275.htm'}
+{'staff': '酒店急聘一带车司机一包油', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/461155531250191.htm'}
+{'staff': '餐厅经理', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/137021001250277.htm'}
+{'staff': '餐厅副理', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/137021001250276.htm'}
+{'staff': '见习经理', 'salary': 3850.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/137021001250274.htm'}
+{'staff': '销售代表', 'salary': 9000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ754987070J00004797913.htm'}
+{'staff': '运维专员', 'salary': 3000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ754987070J00005079913.htm'}
+{'staff': '运维经理', 'salary': 5500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ754987070J00005080613.htm'}
+{'staff': '诚聘金融交易员6-15K底薪加提成（无经验提供岗前培训）', 'salary': 12500.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/314051539258120.htm'}
+{'staff': '急聘金融交易员|分析助理【白领岗+底薪6k+提成+五险一金】', 'salary': 9000.5, 'position': '北京-通州区', 'details_url': 'http://jobs.zhaopin.com/314051539258121.htm'}
+{'staff': '招交易员分析师+6000起+五险双休+学历经验不限+喜爱金融者优先', 'salary': 7000.5, 'position': '北京-通州区', 'details_url': 'http://jobs.zhaopin.com/314051539257806.htm'}
+{'staff': 'CBD商业中心底薪6K-15K诚聘操盘手交易员（五险一金+双休）', 'salary': 7000.5, 'position': '北京-东城区', 'details_url': 'http://jobs.zhaopin.com/314051539257791.htm'}
+{'staff': '股票外汇交易员 分析师 有经验优先零基础统一专业培训双休高薪', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/314051539258126.htm'}
+{'staff': '211.985❤底薪7000❤受够了吃土的日子吗、丽兹行让你吃香喝辣❤', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/418846213274377.htm'}
+{'staff': '❤待遇福利丰厚晋升多【底薪7000起】❤只为211.985而设', 'salary': 12500.5, 'position': '北京-顺义区', 'details_url': 'http://jobs.zhaopin.com/418846213274385.htm'}
+{'staff': '急聘--天猫/淘宝/京东客服', 'salary': 5000.5, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/196311819250031.htm'}
+{'staff': '招兵买马~新戏筹备聘普工场务/跟组演员/灯光助理/包吃住', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/489389780251064.htm'}
+{'staff': '底薪6000—15000+五险一金+提成聘金融交易员操盘手0基础培训', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252989.htm'}
+{'staff': '金融交易员助理6K起无经验可带薪培训', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252988.htm'}
+{'staff': '♥不限专业♥211/985销售（无责底薪6500+高额提成+带薪培训）', 'salary': 9000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/418846213274820.htm'}
+{'staff': '聘金融投资实习生/数据分析师助理/交易员/风控助理', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252987.htm'}
+{'staff': '曲轴材料分析工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/346352114253251.htm'}
+{'staff': '金融交易员白领薪资接受无基础（做过行政、退伍军人、游戏高手优', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/265690635259721.htm'}
+{'staff': '10000底薪诚聘金融交易员/酒店/游戏/房地产/销售/互联网/IT/采购', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/265690635259722.htm'}
+{'staff': '6000底薪聘招聘专员/人事助理/前台接待/面试经理/金融交易员', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/265690635259723.htm'}
+{'staff': '❤211.985学历❤市场营销（底薪7000-8000+高提成+六险+培训）', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/41884621390272845000.htm'}
+{'staff': '前端开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/261264387250047.htm'}
+{'staff': '国贸CBD 金融外汇交易员、操盘手 底薪6000 双休五险一金', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/265690635259720.htm'}
+{'staff': '❤只招985/211豪宅销售❤底薪7000元+超高绩效奖金❤', 'salary': 9000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/418846213274650.htm'}
+{'staff': '志不立天下无可成之事！聘金融外汇交易员/助理/讲师/资管 薪10k+', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252984.htm'}
+{'staff': 'N8销售代表+底薪高达6000+奖金+提点早九晚六周末双休', 'salary': 9000.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/146553580251423.htm'}
+{'staff': '软件测试工程师', 'salary': 11250.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/176291414250032.htm'}
+{'staff': '课程咨询师', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/273088486250069.htm'}
+{'staff': 'Z课程咨询（无陌拜+无责底薪高至6000+高额提成奖金）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/424673687250143.htm'}
+{'staff': 'N8课程销售顾问（无责底薪高至6K+高提点+朝九晚六）', 'salary': 9000.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/146553580251382.htm'}
+{'staff': 'Z课程销售顾问（无责底薪高至6K+高提点）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/424673687250047.htm'}
+{'staff': 'N8高薪诚聘课程顾问+无责底薪高至6k+高提点+优厚福利待遇', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/283612714251698.htm'}
+{'staff': '入职交五险一金+课程顾问', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/329970530250522.htm'}
+{'staff': 'N8课程销售顾问（无责底薪高至6K+高提点+双休）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/283612714251782.htm'}
+{'staff': 'Z03招生老师（无责底薪高至6K+高提点+双休）', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/424673687250036.htm'}
+{'staff': '品牌部前台（包食宿）', 'salary': 5000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/433534637250005.htm'}
+{'staff': '市场专员', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/27308848690250032000.htm'}
+{'staff': 'C2B二手车销售顾问', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/345704188252670.htm'}
+{'staff': '☀2017届市场营销管培生启动☀带薪培训/底薪7000起-211', 'salary': 9000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/418846213274034.htm'}
+{'staff': '姆米又品牌推广（公费出差）月薪8000', 'salary': 9000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/433534637250010.htm'}
+{'staff': '招贤纳士 急...聘金融外汇交易实习生/零基础带薪培训', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252983.htm'}
+{'staff': '黄金外汇交易员/操盘手/免费培训+五险双休 月入过万+朝九晚五', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/265690635259717.htm'}
+{'staff': '30万年薪聘金融数据分析师/分析助理/操盘手/交易员', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252982.htm'}
+{'staff': '华夏思拓15000底薪交易员（外汇+贵金属)', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252981.htm'}
+{'staff': 'java实训生高薪急聘+住宿', 'salary': 7000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/476549282250140.htm'}
+{'staff': 'JAVA实习生 企业内部培养 高薪包住', 'salary': 7000.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/317751030257721.htm'}
+{'staff': '机械转软件☆L开发定岗包就业', 'salary': 9000.5, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/334586882254422.htm'}
+{'staff': '针对零基础 无经验转行互联网行业实现高薪 Java 实训 包住', 'salary': 7000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/334586882254421.htm'}
+{'staff': '年薪20万高薪诚聘金融分析师/助理+零基础带薪培训+公平晋升', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252980.htm'}
+{'staff': '♥无责底薪6500+500补助♥梦想召唤☞销售行政通缉令☜豪宅顾问', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/418846213273635.htm'}
+{'staff': '♥ 职业生涯好开始/211-985学历/年薪45万', 'salary': 9000.5, 'position': '北京-东城区', 'details_url': 'http://jobs.zhaopin.com/41884621390273874000.htm'}
+{'staff': '只招♥985/211市场专员♥高薪高压☼只认可优秀的你', 'salary': 12500.5, 'position': '北京-东城区', 'details_url': 'http://jobs.zhaopin.com/418846213275102.htm'}
+{'staff': '985/211高级投资顾问☼7k底薪丰厚提成☼努力就有汇报', 'salary': 12500.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/418846213275104.htm'}
+{'staff': '新剧筹备：招募新人、签约艺人', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/291960983250324.htm'}
+{'staff': '外汇资金管理员/高薪交易专员/五险一金', 'salary': 6500.0, 'position': '北京-东城区', 'details_url': 'http://jobs.zhaopin.com/641271923262049.htm'}
+{'staff': '高级硬件工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/13023324190250061000.htm'}
+{'staff': '嵌入式系统工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/13023324190250085000.htm'}
+{'staff': '交易分析助理/高薪交易专员/分析师助理/资金管理', 'salary': 6500.0, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/641271923262048.htm'}
+{'staff': '外汇资金管理员/股票交易员/资金管理员/分析师助理', 'salary': 6500.0, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/641271923262047.htm'}
+{'staff': '针对零基础 无经验转行互联网行业实现高薪 Java 实训 包住', 'salary': 9000.5, 'position': '北京-昌平区', 'details_url': 'http://jobs.zhaopin.com/334586882254420.htm'}
+{'staff': '影视包装师', 'salary': 9000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ754362770J00004871809.htm'}
+{'staff': 'S1高薪课程顾问/电话销售/客服（销售方向）/销售代表', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/146553580251906.htm'}
+{'staff': 'S1 MBA院校评估老师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/146553580252281.htm'}
+{'staff': 'S1课程顾问 （意向资源+双休+无业绩要求）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/146553580251923.htm'}
+{'staff': 'S1课程顾问/销售代表【底薪+提成+奖金，月均8k以上】', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/146553580252232.htm'}
+{'staff': 'S1课程顾问（无责底薪+朝九晚六+有无经验均可）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/146553580251905.htm'}
+{'staff': 'S1课程顾问(底薪+提成+奖金)无业绩要求', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/146553580251932.htm'}
+{'staff': 'S1中业教育【高薪课程顾问】月均8k以上', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/146553580251919.htm'}
+{'staff': '急聘外汇讲师/培训师/分析师', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/381370287253368.htm'}
+{'staff': '高薪诚聘金融交易员 操盘手 金融分析师 助理', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/381370287253482.htm'}
+{'staff': '12000底薪聘金融外汇交易员、交易师', 'salary': 9000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/345434188263065.htm'}
+{'staff': '急急急！！月薪10K公司直招交易员/交易助理/可零基础培训', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252979.htm'}
+{'staff': '销售代表（月收入5000-20000+奖金+晋升+五险）', 'salary': 12500.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/684159627250023.htm'}
+{'staff': '剪辑师', 'salary': 5500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ754362770J00004871709.htm'}
+{'staff': '铸就不一样的梦想【无责底薪6500K起+晋升快】培训/豪宅销售代表', 'salary': 12500.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/418846213274680.htm'}
+{'staff': '课程顾问', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/581945027251929.htm'}
+{'staff': '主管会计（业务）HL17-129', 'salary': 9000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/377563785250034.htm'}
+{'staff': '只招985/211营销管培生【核心岗位/快速晋升】', 'salary': 12500.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/418846213275097.htm'}
+{'staff': '只招985/211高级客户经理【7k底薪+高额提成】', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/418846213275098.htm'}
+{'staff': '课程顾问', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/413162937250108.htm'}
+{'staff': '985/211底薪7000+高提成【销售经理对接大客户】', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/418846213275096.htm'}
+{'staff': '只招募211.985♥丽兹行诚聘豪宅销售无责底薪7000+带薪培训', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/418846213275114.htm'}
+{'staff': '❤【放宽视野，选择丽兹行】豪宅销售代表底薪6500+提成+211学历', 'salary': 12500.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/418846213275113.htm'}
+{'staff': 'Want211.985♥集团总部直聘♥豪宅销售代表底薪6500~7500+培训', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/418846213274991.htm'}
+{'staff': '只招211、985/豪宅销售/无责底薪6500+500补助+提成/培训', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/418846213273596.htm'}
+{'staff': '№1..【CBD急聘】金融交易员/资管/分析师/讲师 底薪10k 不找客户', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252977.htm'}
+{'staff': '优秀平台护航金融梦想 聘金融交易员/助理/资管/数据分析师 薪8k', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252976.htm'}
+{'staff': '生活要弄清为谁工作 聘金融交易员/助理/资管/交易师 底薪10k+', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252975.htm'}
+{'staff': 'F课程顾问（无责底薪+朝九晚六）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/146553580251890.htm'}
+{'staff': 'F课程顾问（无责底薪+高提成+高奖金）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/146553580251869.htm'}
+{'staff': '副总裁', 'salary': 30000.0, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/345434188262344.htm'}
+{'staff': 'F考研教育硕士专业课老师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/283612714252175.htm'}
+{'staff': 'F课程顾问（无责底薪高至+朝九晚六）', 'salary': 9000.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/283612714252163.htm'}
+{'staff': 'F课程顾问（高薪+朝九晚六双休+各项福利）', 'salary': 9000.5, 'position': '北京-昌平区', 'details_url': 'http://jobs.zhaopin.com/283612714252162.htm'}
+{'staff': 'F考研法硕专业课老师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/283612714252171.htm'}
+{'staff': 'F考研数学讲师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/283612714252170.htm'}
+{'staff': 'F课程顾问（高薪+朝九晚六双休+各项福利）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/146553580252181.htm'}
+{'staff': 'F考研金融讲师（高薪+朝九晚六双休+各项福利）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/283612714252174.htm'}
+{'staff': '美丽屋诚招置业顾问 房产中介 销售助理', 'salary': 6000.0, 'position': '北京-大兴区', 'details_url': 'http://jobs.zhaopin.com/335477933252902.htm'}
+{'staff': 'F考研计算机统考专业课老师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/283612714252172.htm'}
+{'staff': 'F考研英语老师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/283612714252173.htm'}
+{'staff': '京东天猫淘宝全职客服', 'salary': 4000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ759314470J00005062713.htm'}
+{'staff': '软件开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/165187721250326.htm'}
+{'staff': '金融数据统计员', 'salary': 9000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/278684936252699.htm'}
+{'staff': '金融风控师、专员、助理', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/278684936252698.htm'}
+{'staff': '一个月2万带薪培训直签金融操盘手', 'salary': 10000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/278684936252696.htm'}
+{'staff': '高级windows软件工程师', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/245429030251288.htm'}
+{'staff': '高级嵌入式软件工程师', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/245429030251294.htm'}
+{'staff': 'linux驱动工程师', 'salary': 16000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/245429030251287.htm'}
+{'staff': '游戏服务器端程序员', 'salary': 10000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ754532270J00005038912.htm'}
+{'staff': '聘 高级管理', 'salary': 17500.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/345434188263063.htm'}
+{'staff': '聘 金融股票外汇交易员', 'salary': 17500.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/345434188263061.htm'}
+{'staff': '211院校菁英通缉令【无责底薪7000】销售代表挑战百万年', 'salary': 12500.5, 'position': '北京-崇文区', 'details_url': 'http://jobs.zhaopin.com/418846213275112.htm'}
+{'staff': '你与成功之间只差一个平台/公司内部晋升/聘数据分析师/助理', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252973.htm'}
+{'staff': '❤营销【管培生】（无责任底薪6500起+高额提成+广阔晋升）', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/418846213273705.htm'}
+{'staff': 'E6课程顾问/课程咨询师（带薪培训+无责底薪高至7K+弹性工作制)', 'salary': 11500.0, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/283612714252160.htm'}
+{'staff': 'E6课程咨询师/电话销售（提供意向资源+早九晚六+月均收入10K+）', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/283612714252159.htm'}
+{'staff': '培训执行专员（教育集团-紧邻地铁）', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/486229825250929.htm'}
+{'staff': '测试工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ766605370J00004898911.htm'}
+{'staff': 'cocos2dx程序员', 'salary': 12000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ449897230J00004513111.htm'}
+{'staff': '技术总监（算法）/资深算法工程师', 'salary': 60000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ766605370J00005089811.htm'}
+{'staff': 'pomelo游戏服务器', 'salary': 21500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ449897230J00004513711.htm'}
+{'staff': '设计师', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ760252970J00005078114.htm'}
+{'staff': 'N8课程咨询(岗前带薪培训+早九晚六双休+有无经验均可）', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/146553580251613.htm'}
+{'staff': '销售主管（高薪诚聘销售精英）', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ755887670J00004470911.htm'}
+{'staff': 'java实训生+转正+住宿', 'salary': 5000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/317751030257706.htm'}
+{'staff': '毕业生初级软件开发工程师', 'salary': 5000.5, 'position': '北京-昌平区', 'details_url': 'http://jobs.zhaopin.com/476549282250155.htm'}
+{'staff': '司机', 'salary': 5000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/144982466250380.htm'}
+{'staff': '月薪2万/金融交易员/转行首选 零基础培训+双休+五险+弹性工作', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252969.htm'}
+{'staff': '年薪20-40万 零基础培训 实现财务自由 金融交易员 心动不如行动', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252970.htm'}
+{'staff': '音乐课程顾问', 'salary': 12000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/271277131250141.htm'}
+{'staff': 'N8销售课程顾问（提供意向资源+无业绩要求+无责底薪高至6K）', 'salary': 12500.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/146553580252373.htm'}
+{'staff': '微博运营专员', 'salary': 7500.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/384362817250586.htm'}
+{'staff': '声纹识别工程师-滴滴研究院(J170525450)', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/564378124258523.htm'}
+{'staff': '经典再现-新剧开机-剧组直招跟组演员及艺人助理-导演助理', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/488198431250870.htm'}
+{'staff': '高级算法工程师/算法专家-大数据策略(J170525465)', 'salary': 30000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/564378124258522.htm'}
+{'staff': '高薪诚聘英语教师（可接收应届毕业生）', 'salary': 8000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/499591225252210.htm'}
+{'staff': '高薪电话销售（无责任底薪加高提成）', 'salary': 9000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/499591225252212.htm'}
+{'staff': '高薪课程顾问（无责任底薪加高提成）', 'salary': 9000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/499591225252211.htm'}
+{'staff': '◈勇敢的心◈ 销售代表 无责底薪6500+提成+专业培训', 'salary': 9000.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/41884621390273863000.htm'}
+{'staff': '♥勇敢的心♥ 销售代表 无责底薪6500+提成+专业培训', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/418846213274182.htm'}
+{'staff': '高级架构工程师/专家-大数据策略(J170525461)', 'salary': 30000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/564378124258520.htm'}
+{'staff': '算法研究员／数据科学家-大数据策略(J170525459)', 'salary': 30000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/564378124258519.htm'}
+{'staff': 'iOS高级工程师/架构师-滴滴研究院(J170525403)', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/564378124258518.htm'}
+{'staff': '实力招募，艺人，特约，歌手带新人，免费包装，颜值党快来撩', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/291960983250322.htm'}
+{'staff': '.net软件工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/252483733251861.htm'}
+{'staff': '前端工程师', 'salary': 12000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/248962117252539.htm'}
+{'staff': 'C++/Lua游戏服务器工程师', 'salary': 22500.0, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/440315533250001.htm'}
+{'staff': '诚聘火山直播网络主播若干名', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/253283138250394.htm'}
+{'staff': '电话销售专员', 'salary': 7999.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ755887670J00004510111.htm'}
+{'staff': '5k+免费住宿+内部培训', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/213541185251542.htm'}
+{'staff': '语音交互研发工程师-滴滴研究院(J170525393)', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/564378124258516.htm'}
+{'staff': '金融梦想舍我其谁！聘金融交易员/助理/专员/资管/讲师 底薪10k+', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252966.htm'}
+{'staff': '培训策划/执行专员（教育集团-紧邻地铁）', 'salary': 7000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/486229825250754.htm'}
+{'staff': '资深后台算法工程师-大数据(J170525380)', 'salary': 30000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/564378124258515.htm'}
+{'staff': '【VIP营销管培生】底薪7K+带薪培训+不限经验+高端人脉/市场销售', 'salary': 12500.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/418846213274661.htm'}
+{'staff': '算法研究员-大数据(J170525378)', 'salary': 30000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/564378124258513.htm'}
+{'staff': '8-10k带薪培养证券交易员/研究员/金融助理 五险双休', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252965.htm'}
+{'staff': '6000底薪聘金融交易员/人事助理/讲师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252964.htm'}
+{'staff': '图像算法工程师-滴滴研究院(J170525456)', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/564378124258511.htm'}
+{'staff': '美丽屋直聘销售代表/置业顾问/房产经纪人带薪培训', 'salary': 6000.0, 'position': '北京-大兴区', 'details_url': 'http://jobs.zhaopin.com/335477933252932.htm'}
+{'staff': 'B4客服咨询（无经验要求+带薪培训+双休月薪8K以上）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/146553580251617.htm'}
+{'staff': 'B2销售顾问（老客户二次开发/无责至6K/早九晚六）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/146553580251748.htm'}
+{'staff': 'B3电话销售（提供意向客户资源+无责底薪3K起+双休早九晚六）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/146553580251575.htm'}
+{'staff': '10000底薪招聘交易员/房地产/销售/会计/互联网/贸易/采购/酒店', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/696427020266159.htm'}
+{'staff': '10000底薪招聘交易员/教育/娱乐/旅游/电子商务/游戏/培训/设计', 'salary': 12500.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/696427020265925.htm'}
+{'staff': '❤只招211.985❤底薪7000-8000+带薪培训+高额提成', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/418846213274528.htm'}
+{'staff': '❤营销【管培生】（无责任底薪6500起+高额提成+广阔晋升）', 'salary': 12500.5, 'position': '北京-通州区', 'details_url': 'http://jobs.zhaopin.com/418846213274395.htm'}
+{'staff': '6000底薪聘招聘专员/人事助理/前台接待/面试经理/金融交易员', 'salary': 7000.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/696427020266278.htm'}
+{'staff': '策略算法工程师-大数据(J170525372)', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/564378124258510.htm'}
+{'staff': '月薪8000诚聘、商务司机、带车司机、专职司机', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/279817739250258.htm'}
+{'staff': '包住宿5K无责底薪+20高提诚聘一手海南海景房销售', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/480229535251230.htm'}
+{'staff': '摔跤吧！211/985销售代表们！★底薪6500-7500★高额提成', 'salary': 12500.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/418846213275111.htm'}
+{'staff': '月薪6K-12K 金融业务培训讲师/交易员/分析师 双休', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252961.htm'}
+{'staff': '月薪15000公司直招 交易员 五险一金 上岗前零基础培训', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252960.htm'}
+{'staff': '2017年5️招贤纳士（二手房客户顾问10名）：', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/480229535251229.htm'}
+{'staff': '交易员/讲师助理/销售', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/278684936252692.htm'}
+{'staff': '国贸CBD建外SOHO东区高薪诚聘外汇投资分析师、交易员', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/278684936252693.htm'}
+{'staff': '外汇交易员/讲师助理\u2002底薪6k-15k+提成 只交易无需找客户', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/278684936252694.htm'}
+{'staff': '外汇交易员\u20026000+提成+零基础带薪培训 无需找客户', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/278684936252691.htm'}
+{'staff': '高薪+5险双休+福利CBD商业区诚聘外汇交易员 外盘/油操盘手', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/381371185252398.htm'}
+{'staff': '新剧筹备：招募新人、签约艺人、代理全约均可、舞蹈武术表演歌手', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/291960983250321.htm'}
+{'staff': '211、985优先/师徒制培养/无责底薪6500+500补助/豪宅销售', 'salary': 9000.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/41884621390273349000.htm'}
+{'staff': '❤211.985学子，您知道我在等你吗❤无责底薪6500+500补助', 'salary': 12500.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/41884621390272963000.htm'}
+{'staff': '❤年薪百万❤//市场专员/豪宅销售底薪7000+提成+带薪培训', 'salary': 12500.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/418846213275079.htm'}
+{'staff': '★211/985销售的秘密★+无责底薪6500起+高额提成+在等你点击！', 'salary': 12500.5, 'position': '北京-通州区', 'details_url': 'http://jobs.zhaopin.com/418846213274662.htm'}
+{'staff': 'IOS开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/139874418250067.htm'}
+{'staff': '❤底薪7000元❤985/211豪宅销售【为高薪冲冲冲】', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/418846213275091.htm'}
+{'staff': '211院校菁英通缉令【无责底薪6500】销售代表挑战百万年薪', 'salary': 12500.5, 'position': '北京-通州区', 'details_url': 'http://jobs.zhaopin.com/41884621390273638000.htm'}
+{'staff': '招商加盟运营经理', 'salary': 9000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/403573738250026.htm'}
+{'staff': '非本专业转行IT互联网开发包就业', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/334586882254419.htm'}
+{'staff': '软件实习生+包住宿+带薪', 'salary': 7000.5, 'position': '北京-昌平区', 'details_url': 'http://jobs.zhaopin.com/383660485252741.htm'}
+{'staff': 'JAVA初级工程师应届生亦可', 'salary': 7000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/383660485252742.htm'}
+{'staff': 'java开发工程师助理', 'salary': 7000.5, 'position': '北京-石景山区', 'details_url': 'http://jobs.zhaopin.com/383660485252735.htm'}
+{'staff': 'Java程序员实习+转正', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/383660485252736.htm'}
+{'staff': '【实习生Java软件开发】', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/271343189256986.htm'}
+{'staff': 'Java程序员定岗实习生+住宿', 'salary': 7000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/271343189257087.htm'}
+{'staff': 'java开发工程师包住', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/448391836250353.htm'}
+{'staff': '❤你有能力，我有空间❤只招211.985❤底薪7000起+高额提成', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/418846213274651.htm'}
+{'staff': '黄金外汇交易员/操盘手/免费培训+五险双休 月入过万+朝九晚五', 'salary': 11500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/265690635259711.htm'}
+{'staff': 'Java定岗实习', 'salary': 5000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/448391631250076.htm'}
+{'staff': '游戏开发工程师', 'salary': 9000.5, 'position': '北京-崇文区', 'details_url': 'http://jobs.zhaopin.com/448391631250016.htm'}
+{'staff': 'Java程序员实习+转正', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/448391631250266.htm'}
+{'staff': '黄金外汇交易员/操盘手/免费培训+五险双休 月入过万+朝九晚五', 'salary': 11500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/265690635259711.htm'}
+{'staff': '初级软件研发工程师', 'salary': 7000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/317751030257634.htm'}
+{'staff': '软件研发工程师', 'salary': 7000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/317751030257212.htm'}
+{'staff': 'Java初级开发实习工程师', 'salary': 7000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/317751030257353.htm'}
+{'staff': '嵌入式软件开发工程师', 'salary': 8000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/46126178990250003000.htm'}
+{'staff': '内部可晋升+岗位分红诚聘外汇交易员/操盘手（有交易经验者）', 'salary': 11500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/265690635259707.htm'}
+{'staff': 'Java初级开发实习工程师', 'salary': 7000.5, 'position': '北京-东城区', 'details_url': 'http://jobs.zhaopin.com/266868331265234.htm'}
+{'staff': '自动化工程师', 'salary': 8000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/46126178990250001000.htm'}
+{'staff': '底薪6K-15K急聘金融交易员/操盘手/交易助理（零基础培训)', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252957.htm'}
+{'staff': '5-10K诚聘java岗前实习生/转行java开发+六险一金+住宿', 'salary': 7500.0, 'position': '北京-昌平区', 'details_url': 'http://jobs.zhaopin.com/321432822251017.htm'}
+{'staff': '软件开发工程师', 'salary': 8000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ758888670J00004984414.htm'}
+{'staff': 'C1月均轻松过万！急聘课程顾问（无责底薪+朝九晚六+高提成）', 'salary': 12500.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/283612714252161.htm'}
+{'staff': 'E6课程顾问/课程咨询师（带薪培训+无责底薪高至7K+弹性工作制)', 'salary': 11500.0, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/424673687250468.htm'}
+{'staff': 'E6课程咨询师/电话销售（提供意向资源+无责底薪至7K+早九晚六）', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/424673687250470.htm'}
+{'staff': 'II课程顾问（无责底薪6K+朝九晚六双休+月薪10K+晋升+环境舒适）', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/424673687250398.htm'}
+{'staff': '高级视觉算法工程师', 'salary': 25000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ766605370J00005043711.htm'}
+{'staff': '10000底薪招聘交易员/教育/娱乐/旅游/电子商务/游戏/培训/设计', 'salary': 12500.5, 'position': '北京-崇文区', 'details_url': 'http://jobs.zhaopin.com/696427020265695.htm'}
+{'staff': 'c++研发工程师/C++工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ766605370J00004717011.htm'}
+{'staff': '.NET(C#)开发工程师', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/430517428250000.htm'}
+{'staff': '电气工程师', 'salary': 9000.0, 'position': '北京-通州区', 'details_url': 'http://jobs.zhaopin.com/180643321250094.htm'}
+{'staff': '渠道拓展经理（零售行业）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/399185132250046.htm'}
+{'staff': '课程顾问（能动英语苏州街校区 无责底薪+高提成）', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/378076533250001.htm'}
+{'staff': '6000底薪聘招聘专员/人事助理/前台接待/面试经理/金融交易员', 'salary': 7000.5, 'position': '北京-通州区', 'details_url': 'http://jobs.zhaopin.com/696427020266470.htm'}
+{'staff': '机械转软件☆L开发定岗包就业', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/334586882254418.htm'}
+{'staff': '211/985豪宅顾问无责任底薪6500+高额提成+带薪培训+晋升空间', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/418846213274411.htm'}
+{'staff': '年薪20W公司直招 金融外汇交易员和分析师 零基础带薪培训', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/265690635259706.htm'}
+{'staff': '猎头AC（中高端招聘方向）+不限专业+师徒培训/上手无忧g', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/431107134260236.htm'}
+{'staff': '销售员/销售助理（红木家具艺术馆）', 'salary': 5000.5, 'position': '北京-大兴区', 'details_url': 'http://jobs.zhaopin.com/197347110250405.htm'}
+{'staff': '行政文员', 'salary': 3000.0, 'position': '北京-大兴区', 'details_url': 'http://jobs.zhaopin.com/197347110250635.htm'}
+{'staff': '京东网店运营专员\xa0包吃住\xa0带社保', 'salary': 5000.5, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/CZ783733270J00004965313.htm'}
+{'staff': '房产销售（有住宿，不收任何费用）', 'salary': 12500.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/480229535250332.htm'}
+{'staff': 'C++服务器开发工程师', 'salary': 14000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/410617638250018.htm'}
+{'staff': '国贸CBD专业团队带你成长，给你未来/髙薪聘请数据分析师及助理', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252953.htm'}
+{'staff': '软硬件工程师/软件工程师/嵌入式软件开发工程师', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/274658338250583.htm'}
+{'staff': '硬件工程师,智能硬件工程师,软硬件工程师（偏硬件）', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/274658338250584.htm'}
+{'staff': '公司直聘金融交易分析师（实习生）', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/336197188279855.htm'}
+{'staff': '国贸CBD 想做外汇分析师不怕没经验，一对一指导带薪学习月薪6K+', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/278684936252687.htm'}
+{'staff': '市场专员', 'salary': 7500.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/378076533250002.htm'}
+{'staff': '英语老师 少儿英语教师（能动英语苏州街校区高薪诚聘6-10k+）', 'salary': 8000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/378076533250000.htm'}
+{'staff': '211.985♥2017届市场营销管培生启动★带薪培训/底薪7000+提成/', 'salary': 9000.5, 'position': '北京-昌平区', 'details_url': 'http://jobs.zhaopin.com/418846213274936.htm'}
+{'staff': '只招211.985♥把梦想变成现实诚 聘豪宅销售代表底薪7000+提成', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/41884621390273958000.htm'}
+{'staff': 'ios开发工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ764708570J00005100410.htm'}
+{'staff': '❤无责底薪7000❤豪宅销售/助理/顾问/咨询成就不一样的未来', 'salary': 12500.5, 'position': '北京-东城区', 'details_url': 'http://jobs.zhaopin.com/41884621390273636000.htm'}
+{'staff': '美丽屋诚招销售代表储备经理晋升快', 'salary': 6000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/335477933252910.htm'}
+{'staff': 'S12双休高薪五险咨询顾问/课程顾问/销售', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/424673687250354.htm'}
+{'staff': 'S12双休/高薪五险/咨询顾问/课程顾问/销售', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/424673687250355.htm'}
+{'staff': '营销人员', 'salary': 9000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ754987070J00005036813.htm'}
+{'staff': '软件开发工程师/实习生  双休', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/476447134250369.htm'}
+{'staff': 'Java软件开发工程师（可实习）双休  待遇好', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/476447134250378.htm'}
+{'staff': 'B5课程销售/咨询（岗前带薪培训+无责底薪+朝九晚六双休）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/146553580251747.htm'}
+{'staff': 'B3课程销售经理（提供意向客户资源+双休+早九晚六）', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/146553580251614.htm'}
+{'staff': 'B1课程咨询顾问（无责底薪3.6K-7K/早九晚六)月薪8K以上', 'salary': 10000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/146553580251936.htm'}
+{'staff': '招生课程顾问', 'salary': 5000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/449707016252457.htm'}
+{'staff': '♥不限专业/经验/一对一师徒制/77堂专业课 无责底薪6500+提成', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/41884621390273876000.htm'}
+{'staff': '（望京/东直门）招聘中小学各科教师', 'salary': 7000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/449707016252447.htm'}
+{'staff': '--诚聘交易员/操盘手 接收应届生 0基础培训+五险双休', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/381371185252397.htm'}
+{'staff': '（石景山万达）少儿英语', 'salary': 9000.5, 'position': '北京-石景山区', 'details_url': 'http://jobs.zhaopin.com/335511586250009.htm'}
+{'staff': 'l▲l[交易员的聚集地] 底薪10k聘高级交易员/交易奇才/0基础学徒', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252950.htm'}
+{'staff': '周末双休＋朝九晚五＋弹性工作 金融交易员', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252948.htm'}
+{'staff': '人力资源经理（工作地点：天津）', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/585837023250785.htm'}
+{'staff': '双手成就梦想，嘉诺诚聘股票、期货、外汇操盘手/交易员', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/265690635259703.htm'}
+{'staff': '嵌入式研发工程师（单片机&硬件工程师）', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/683132123250000.htm'}
+{'staff': '211/985毕业生【月薪8000~10000+高额提成+带薪培训】高端销售', 'salary': 12500.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/418846213274652.htm'}
+{'staff': '仅限211/985毕业生☀高端销售-无责底薪6500-7500起+带薪培训☀', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/418846213274659.htm'}
+{'staff': '集团总部直聘♥豪宅销售代表底薪6500~7500+带薪培训/Want211.985', 'salary': 9000.5, 'position': '北京-顺义区', 'details_url': 'http://jobs.zhaopin.com/418846213274913.htm'}
+{'staff': '金融应届生6000起薪+内部晋升/交易员/交易助理', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252946.htm'}
+{'staff': '高端早教英语指导师', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/686036024250182.htm'}
+{'staff': '长期招聘保安一工资2800-4200包吃住一无任何费用', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/362381387250281.htm'}
+{'staff': '不限经验内招底薪6k+外汇交易员+货币黄金', 'salary': 11500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/265690635259702.htm'}
+{'staff': '量化工程师（实习生）200元/天', 'salary': 2500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ765205670J00001376313.htm'}
+{'staff': '【中英合资】高薪诚聘外汇下单员 五险双休 带薪培训', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/696427020268018.htm'}
+{'staff': '交易让时间自由-诚聘外汇交易员 年薪20万 双休五险（零基础培训)', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252942.htm'}
+{'staff': '急聘操盘手/交易员，年薪30万（双休五险，公司分红，免费培训）', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252943.htm'}
+{'staff': 'IT软件开发无经验零基础新人实习包吃住', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/424143738250607.htm'}
+{'staff': '12000月薪/金融交易员/IT互联网软件开发/通信技术工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252941.htm'}
+{'staff': '交易员操盘手分析师金融讲师', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/487798332252940.htm'}
+{'staff': '3-12岁少儿英语老师（燕郊+北京五险）', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/581248524250151.htm'}
+{'staff': '机器人科技课程全职老师', 'salary': 6500.0, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/439433731250000.htm'}
+{'staff': '商务助理', 'salary': 5000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/547535726250016.htm'}
+{'staff': '新媒体专员（急招）', 'salary': 5000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/605881822250934.htm'}
+{'staff': '销售组长', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ755887670J00005114011.htm'}
+{'staff': '艺术商务专员', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/143621814250339.htm'}
+{'staff': '办公室文员（包食宿）', 'salary': 5000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/433534637250001.htm'}
+{'staff': '旅游销售顾问\xa0昌平区立水桥门市\xa0\xa06000-9000元', 'salary': 9000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ758954670J00005070113.htm'}
+{'staff': '出差专员学徒（公费出差，无责底薪3600起）', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/433534637250012.htm'}
+{'staff': '新媒体运营精英 下单员 外汇团队经理 双休 五险 可培训', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/696427020268017.htm'}
+{'staff': '跨专业行业转行IT的软件实习包吃住', 'salary': 7000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/348261588251117.htm'}
+{'staff': '行政助理（急）', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/145840538251679.htm'}
+{'staff': '年薪N万/交易员/股票证券金融顾问市场顾问销售总监', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/696427020268016.htm'}
+{'staff': '聘KTV酒吧男女服务员-保安 内保-公关公主-前台-接待-助理秘书', 'salary': 6000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/366633231250137.htm'}
+{'staff': '商家运营（招商方向）', 'salary': 11500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/258072733250133.htm'}
+{'staff': '跳槽首选 聘金融外汇数据分析师/交易员/操盘手（可实习）', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/202893088256790.htm'}
+{'staff': '一线美妆品牌招商专员（包食宿，公费出差，无责底薪3600起）', 'salary': 9000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/433534637250008.htm'}
+{'staff': '美妆驻外招商专员（省会级城市出差，无责底薪3600起）', 'salary': 9000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/433534637250004.htm'}
+{'staff': '姆米又品牌招商顾问（公费出差，月薪8000）', 'salary': 9000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/433534637250006.htm'}
+{'staff': '俱乐部聘服务员-库管-调酒师学徒-咖啡师学徒-西点学徒包吃住', 'salary': 6250.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/366633231250136.htm'}
+{'staff': '歌手', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/346520587250428.htm'}
+{'staff': '总经理助理', 'salary': 5000.5, 'position': '北京-大兴区', 'details_url': 'http://jobs.zhaopin.com/120387990250555.htm'}
+{'staff': '北京KTV酒吧直聘-司机-带车司机-小车司机-月报8千到2万-男女不限', 'salary': 11500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/366633231250135.htm'}
+{'staff': '销售经理', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/278684936252686.htm'}
+{'staff': '软件销售', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/278684936252685.htm'}
+{'staff': '生物信息工程师', 'salary': 17500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/697361622250004.htm'}
+{'staff': '助理生物信息分析工程师', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/697361622250005.htm'}
+{'staff': 'Java软件开发储备生★零基础无经验优先', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/413145384250279.htm'}
+{'staff': '国际商务会所高薪聘-商务司机-商务陪游-高端外围女模特-商务保姆', 'salary': 40000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/366633231250134.htm'}
+{'staff': '号外~号外~看这儿能找到靠谱工作 销售代表底薪7000+提成+211学历', 'salary': 12500.5, 'position': '北京-顺义区', 'details_url': 'http://jobs.zhaopin.com/418846213273957.htm'}
+{'staff': '☀211.985【奔跑吧青春】豪宅销售底薪6000~7500+提成+带薪培训', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/418846213274432.htm'}
+{'staff': '平台很重要、选择更重要月薪过万交易助理/无销售岗', 'salary': 7000.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/371676033257366.htm'}
+{'staff': '网络工程师', 'salary': 9500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/190401121250130.htm'}
+{'staff': '电话销售', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ755887670J00005113811.htm'}
+{'staff': '.net高级工程师', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/449883235250005.htm'}
+{'staff': 'C#高级工程师', 'salary': 15000.0, 'position': '北京-东城区', 'details_url': 'http://jobs.zhaopin.com/449883235250010.htm'}
+{'staff': '.NET工程师', 'salary': 12500.5, 'position': '北京-东城区', 'details_url': 'http://jobs.zhaopin.com/449883235250004.htm'}
+{'staff': '嵌入式软件工程师', 'salary': 17500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/136943065250044.htm'}
+{'staff': 'Web前端工程师', 'salary': 10500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/388737888250058.htm'}
+{'staff': 'IOS开发工程师', 'salary': 10500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/388737888250059.htm'}
+{'staff': '高级C++软件研发工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/388737888250005.htm'}
+{'staff': 'C++工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/388737888250024.htm'}
+{'staff': 'u3d开发工程师-手游MMO', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/CZ758403470J00003169211.htm'}
+{'staff': 'C开发工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/377207419250657.htm'}
+{'staff': 'c语言开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/377207419250614.htm'}
+{'staff': '诚聘 高级软件工程师 linux c/c++ 服务器 后台开发', 'salary': 25000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/219055533250132.htm'}
+{'staff': 'C软件开发工程师（系统研发二部）', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/365133729250593.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 18000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/681469821250096.htm'}
+{'staff': 'C/C++ Linux 系统开发工程师 引擎开发工程师', 'salary': 15000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/229683010250666.htm'}
+{'staff': 'linux C/C++高级开发工程师', 'salary': 25000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/264114789250044.htm'}
+{'staff': 'C C++ 开发工程师', 'salary': 20000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/624513828250133.htm'}
+{'staff': '应用工程师(LabVIEW/C/C++)', 'salary': 7000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/120559192250690.htm'}
+{'staff': 'C/C++ Engineer', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/000623964250001.htm'}
+{'staff': 'c语言 软件开发工程师', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/213549733250009.htm'}
+{'staff': '库房管理员(岗位C)', 'salary': 3000.5, 'position': '北京-大兴区', 'details_url': 'http://jobs.zhaopin.com/134526082250040.htm'}
+{'staff': 'C开发工程师', 'salary': 22500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/436093289250003.htm'}
+{'staff': 'Linux c/c++ 开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/318736013251632.htm'}
+{'staff': 'C语言系统架构师-20151229', 'salary': 12500.5, 'position': '北京-大兴区', 'details_url': 'http://jobs.zhaopin.com/000555233250728.htm'}
+{'staff': 'C语言网络通讯开发工程师-20151229', 'salary': 9000.5, 'position': '北京-大兴区', 'details_url': 'http://jobs.zhaopin.com/000555233250730.htm'}
+{'staff': 'C语言图形界面开发工程师-20151229', 'salary': 9000.5, 'position': '北京-大兴区', 'details_url': 'http://jobs.zhaopin.com/000555233250729.htm'}
+{'staff': 'C语言高级开发工程师 -201503', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000555233250595.htm'}
+{'staff': '软件工程师（Winform C/S C#）', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/133023657250180.htm'}
+{'staff': '高级软件工程师（Winform C/S C# 工控、自动化行业）', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/133023657250174.htm'}
+{'staff': 'c/c++ 高级工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/29893478090250009000.htm'}
+{'staff': 'C/C++交易开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/446509726250279.htm'}
+{'staff': 'c/c++开发工程师', 'salary': 15000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/703761823250223.htm'}
+{'staff': 'C#/Winform/WPF 高级软件工程师(c/s程序)', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/294967811251061.htm'}
+{'staff': 'C语言开发工程师', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/294008134250015.htm'}
+{'staff': '淘宝C店店长', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/430550321250727.htm'}
+{'staff': 'linux/c软件研发', 'salary': 9000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/137615181251059.htm'}
+{'staff': '急招 C开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/380661011250755.htm'}
+{'staff': 'C/C++ Linux 后台开发', 'salary': 25000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/229683010250682.htm'}
+{'staff': '高级产品经理（C端）', 'salary': 30500.0, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/445383618250725.htm'}
+{'staff': 'c开发', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/451176015254114.htm'}
+{'staff': 'C语言开发工程师（北研-软件研发部）', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/134174315251329.htm'}
+{'staff': '高薪招聘对日C/c++开发', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/614372623250081.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000595147250765.htm'}
+{'staff': 'C研发工程师', 'salary': 11500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/145454293250764.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 15000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/193710213250172.htm'}
+{'staff': 'C语言工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/681549528250020.htm'}
+{'staff': 'Android C/C++软件开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/296083083250034.htm'}
+{'staff': '仓配专员-C', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/138288427250741.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 27500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/436997186250052.htm'}
+{'staff': 'C/C++开发工程师', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/000388335251010.htm'}
+{'staff': '火热招募跟组司机A/B/C本均可、包住宿！', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/468163832250283.htm'}
+{'staff': '程序员(C/C++/C#/Java)', 'salary': 12000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/13727636990250125000.htm'}
+{'staff': 'C语言开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/375773517250211.htm'}
+{'staff': 'c/c++开发工程师(北京分公司)', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000603704250788.htm'}
+{'staff': 'Android native C/C++开发工程师', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/46771761190258618000.htm'}
+{'staff': 'C软件开发工程师-ZB-006', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/120163822251253.htm'}
+{'staff': 'c包住招聘java初级实习生+8k起薪', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/334586882251531.htm'}
+{'staff': 'C语言工程师', 'salary': 7000.5, 'position': '北京-丰台区', 'details_url': 'http://jobs.zhaopin.com/158129529250187.htm'}
+{'staff': 'C/C++开发工程师(BJ-ER-D014-3372)', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/230292410253504.htm'}
+{'staff': 'C/C++ 软件工程师', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/480466934250129.htm'}
+{'staff': 'Linux C/C++ Developer (BJ-AM-D001-3436)', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/230292410253467.htm'}
+{'staff': 'c语言开发', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/480466934250142.htm'}
+{'staff': 'C/C++高级开发工程师', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/284702016250284.htm'}
+{'staff': '产品经理（B端+C端含智能硬件设计）', 'salary': 17500.5, 'position': '北京-朝阳区', 'details_url': 'http://jobs.zhaopin.com/533168623250427.htm'}
+{'staff': '业务经理-C', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/458684081250004.htm'}
+{'staff': '【阿芙afu】阿里巴巴淘宝天猫电商运营经理(C店运营/B店运营)', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/223590586250367.htm'}
+{'staff': '【对啊网】网络销售/教育培训/融资C轮/地铁直达', 'salary': 9000.5, 'position': '北京-大兴区', 'details_url': 'http://jobs.zhaopin.com/684923820255021.htm'}
+{'staff': '诚聘：司机C本以上一年以上驾龄-场工场务-道具助理-助理学徒', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/411874130250016.htm'}
+{'staff': 'C C++研发工程师B3', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/134174315251272.htm'}
+{'staff': 'c 首都机场招聘通讯柜台人员', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250353.htm'}
+{'staff': 'c 招聘南苑机场安检员', 'salary': 3000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250770.htm'}
+{'staff': 'c  国有银行托管业务（记账专员）', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250461.htm'}
+{'staff': 'c 银行急聘大堂经理', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250463.htm'}
+{'staff': 'c 某国有银行柜员招聘（直签）', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250442.htm'}
+{'staff': 'c 首都机场招聘空姐空乘', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250246.htm'}
+{'staff': 'c 首都机场招聘地勤人员', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250244.htm'}
+{'staff': 'C  首都机场航机员招聘', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250242.htm'}
+{'staff': 'c 各大银行急招大堂经理', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250479.htm'}
+{'staff': 'c  首都机场招聘航机员', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250387.htm'}
+{'staff': '高级C语言（C++工程师）', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/339361286250066.htm'}
+{'staff': 'c 国航两舱接待招聘', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250771.htm'}
+{'staff': 'c 某国企单位招聘 接待员、保卫员', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250639.htm'}
+{'staff': 'C端用户产品经理（Leader）', 'salary': 25000.0, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/410758683250027.htm'}
+{'staff': 'C/C++研发资深工程师', 'salary': 25000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/336147115250010.htm'}
+{'staff': 'Linux C/C++开发工程师 (分布式系统方向)', 'salary': 12500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/336147115250118.htm'}
+{'staff': 'c 招聘空中乘务', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250396.htm'}
+{'staff': 'c （通用航空公务机）公司乘务人员', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250393.htm'}
+{'staff': 'c 招聘大堂经理人员', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250391.htm'}
+{'staff': 'c  北京银燕要客招聘 直签', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250341.htm'}
+{'staff': 'c  首都机场招聘地勤人员', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250344.htm'}
+{'staff': 'C/C++（SDK）开发工程师', 'salary': 22500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/297906684250114.htm'}
+{'staff': 'c 首都机场通讯柜台招聘', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250446.htm'}
+{'staff': 'c 急聘银行大堂经理 高提成', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250444.htm'}
+{'staff': 'c 某国企传媒公司招聘', 'salary': 7000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250448.htm'}
+{'staff': 'c 机场VIP贵宾接待岗位招聘', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250445.htm'}
+{'staff': 'c 海南航空北京分公司招聘地勤人员', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250388.htm'}
+{'staff': 'c  某航空公司招聘飞行员', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250386.htm'}
+{'staff': 'c 首都机场招聘货币兑换员', 'salary': 5000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250389.htm'}
+{'staff': 'c 某外资银行招聘柜员岗位', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/429596121250385.htm'}
+{'staff': 'C语言应用工程师', 'salary': 7500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/149337514250187.htm'}
+{'staff': 'c/c++ 工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/321432822251003.htm'}
+{'staff': 'Linux c研发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/137067027250459.htm'}
+{'staff': 'Software Engineer - C/C++', 'salary': 15000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/140667353252237.htm'}
+{'staff': 'C语言讲师（房山校区）', 'salary': 10000.0, 'position': '北京-房山区', 'details_url': 'http://jobs.zhaopin.com/121017111253096.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000421305250838.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000421305250839.htm'}
+{'staff': 'C/C++软件工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/000421305250836.htm'}
+{'staff': '财务总监 -  知名C轮融资垂直电商，市场领先地位', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/13507808290342366000.htm'}
+{'staff': 'C/C++开发（北京）', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/387240612250730.htm'}
+{'staff': 'Linux/Unix系统高级(应用|内核)研发C/C++', 'salary': 12500.5, 'position': '北京-西城区', 'details_url': 'http://jobs.zhaopin.com/000427542250447.htm'}
+{'staff': '高级C语言开发工程师', 'salary': 17500.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/258426519250455.htm'}
+{'staff': 'C/C++开发工程师-猎头岗位-知名企业急招（高薪）', 'salary': 26500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/312377785250062.htm'}
+{'staff': 'C月薪过万就近分配包住宿', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/358747028301253.htm'}
+{'staff': 'C月薪八千五险一金包住宿', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/358747028301249.htm'}
+{'staff': 'C直聘销售月薪八千包住宿', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/358747028301254.htm'}
+{'staff': 'C高薪直聘置业顾问有无经验均可', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/358747028301248.htm'}
+{'staff': 'C/C++开发工程师（实习生）', 'salary': 3000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/369014611250336.htm'}
+{'staff': '对日软件工程师（HOLON、C、PL/SQL）', 'salary': 6000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/463463513250223.htm'}
+{'staff': '高级C开发工程师', 'salary': 12500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/185156924251354.htm'}
+{'staff': '中级C开发工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/185156924251332.htm'}
+{'staff': 'C语言开发工程师', 'salary': 30000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/451634333250102.htm'}
+{'staff': '调度C', 'salary': 5000.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/298199914252888.htm'}
+{'staff': 'C语言讲师（房山校区）', 'salary': 10000.0, 'position': '北京-房山区', 'details_url': 'http://jobs.zhaopin.com/121017111253117.htm'}
+{'staff': 'C语言开发工程师', 'salary': 9000.5, 'position': '北京-海淀区', 'details_url': 'http://jobs.zhaopin.com/135607184252324.htm'}
+{'staff': '软件开发工程师（c/c++）', 'salary': 15000.0, 'position': '北京-昌平区', 'details_url': 'http://jobs.zhaopin.com/000608038251837.htm'}
+{'staff': 'c开发工程师（物联网大数据方向）', 'salary': 11500.0, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/398981235250002.htm'}
+{'staff': 'c/c++流媒体服务器高级工程师', 'salary': 17500.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/291274382250207.htm'}
+{'staff': 'C/C++高级软件工程师', 'salary': 9000.5, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/131956947250327.htm'}
+{'staff': 'Linux C/C++ 工程师-电子商务部004', 'salary': -1, 'position': '北京', 'details_url': 'http://jobs.zhaopin.com/14757690890251942000.htm'}

@@ -6,9 +6,16 @@ class Main(QMainWindow,Ui_MainWindow):
         QMainWindow.__init__(self)
         self.setupUi(self)
 
-    #start anothor thread in order to execu crawl job infomation and avoid UI is blocked
+        
+
+    #开启主线程外的另一个线程，防止UI阻塞，注意到在那个线程里爬数据的时候再次开启了多线程，这是可以的，也是python和Qt 灵活的地方
     def work(self):
         position = self.positionEdit.text()
+        position = position.strip()
+        if position == '':
+            position = '北京'                             #为避免数据错乱，如用户不输入地点，则默认为北京
+
+    
         keyword = self.keywordEdit.text()
         page_number = self.spinBox.value()
 
@@ -23,15 +30,16 @@ class Main(QMainWindow,Ui_MainWindow):
 
 
 
-    #slot function
+    #槽函数
     
     def show_staff(self):
         print('show')
         self.StaffTheard = HandleStaff(self.listWidget)
         self.StaffTheard.start()
       
-
-    def show_image(self,job_list):
+    
+    #将图像显示到界面上来，使用QLabel
+    def show_image(self):
         PixMapSalary = QtGui.QPixmap(os.getcwd() + '/resource/zhilian/images/1.png').scaled(400,600)
         self.SalaryImage.setPixmap(PixMapSalary)
         PixMapPosition = QtGui.QPixmap(os.getcwd() + '/resource/zhilian/images/2.png').scaled(500,500)
@@ -42,7 +50,7 @@ class Main(QMainWindow,Ui_MainWindow):
     
         
 
-
+    #用于给用户双击职位名称即可通过浏览器看到详细的信息，使用webbrowser来实现
     def show_item(self):
         print(self.listWidget.currentItem().text())
         print(self.listWidget.currentRow())
@@ -61,7 +69,7 @@ class Main(QMainWindow,Ui_MainWindow):
 
 
 
-
+    #网络异常的时候，弹出消息框，但不退出程序
     def networkError(self):
         self.NetworkErrorMessage = QtWidgets.QMessageBox.critical(  self,
                                                                     'network',

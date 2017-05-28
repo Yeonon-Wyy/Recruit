@@ -1,3 +1,9 @@
+"""
+这个类使用Matplotlib 和 pandas 读取CSV文件生成简单的图像用于简单的分析
+"""
+
+
+
 import pandas as pd
 import os
 import matplotlib.pyplot as plt
@@ -14,9 +20,9 @@ class ZhilianGenImage:
 
 	def generate_image(self,sourceName,fileName,image_kind):
 		print('生成')
-		matplotlib.rcParams['font.family'] = 'SimHei'
+		matplotlib.rcParams['font.family'] = 'SimHei'			#设置中文支持（linux下有问题）
 		matplotlib.rc('font', **self.FONT)               
-		mydata = pd.read_csv(self.FILE_PATH + sourceName)
+		mydata = pd.read_csv(self.FILE_PATH + sourceName)		
 		mydata.sort_index()
 
 		if image_kind == 'pie':

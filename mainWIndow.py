@@ -11,7 +11,7 @@ class Ui_MainWindow(object):
         MainWindow.setObjectName("MainWindow")
         MainWindow.setEnabled(True)
         MainWindow.resize(1280, 720)
-        MainWindow.setWindowTitle('Recruit')
+        MainWindow.setWindowTitle('招聘信息提取分析器')
         MainWindow.setWindowIcon(QtGui.QIcon(os.getcwd() + '/resource/myico.png'))      
 
         #set mainwindow to center of desktop
@@ -20,6 +20,7 @@ class Ui_MainWindow(object):
         qr.moveCenter(cp)
         MainWindow.move(qr.topLeft())
 
+        #set background
 
 
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Fixed)
@@ -29,12 +30,15 @@ class Ui_MainWindow(object):
         MainWindow.setSizePolicy(sizePolicy)
 
 
+
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
 
+        
         self.positionEdit = QtWidgets.QLineEdit(self.centralwidget)
         self.positionEdit.setGeometry(QtCore.QRect(20, 40, 300, 30))
         self.positionEdit.setObjectName("postionEdit")
+        
 
         self.keywordEdit = QtWidgets.QLineEdit(self.centralwidget)
         self.keywordEdit.setGeometry(QtCore.QRect(370, 40, 330, 30))
@@ -94,11 +98,11 @@ class Ui_MainWindow(object):
 
         
 
-        exitAction = QtWidgets.QAction(QtGui.QIcon(os.getcwd() + '/resource/myico.png'),'Exit',self)
+        exitAction = QtWidgets.QAction(QtGui.QIcon(os.getcwd() + '/resource/myico.png'),'退出',self)
         exitAction.setShortcut('Ctrl+Q')
         exitAction.triggered.connect(QtWidgets.qApp.quit)
 
-        aboutAction = QtWidgets.QAction(QtGui.QIcon(os.getcwd() + '/resource/myico.png'),'About Qt',self)
+        aboutAction = QtWidgets.QAction(QtGui.QIcon(os.getcwd() + '/resource/myico.png'),'关于 Qt',self)
         aboutAction.triggered.connect(QtWidgets.qApp.aboutQt)
 
 
@@ -107,10 +111,10 @@ class Ui_MainWindow(object):
         self.menubar.setGeometry(QtCore.QRect(0, 0, 1280, 28))
         self.menubar.setObjectName("menubar")
 
-        fileMenu = self.menubar.addMenu('&File')
+        fileMenu = self.menubar.addMenu('&文件')
         fileMenu.addAction(exitAction)
 
-        aboutMent = self.menubar.addMenu('&about')
+        aboutMent = self.menubar.addMenu('&关于')
         aboutMent.addAction(aboutAction)
 
 
@@ -126,20 +130,24 @@ class Ui_MainWindow(object):
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
 
 
+
+        qss_file = open(os.getcwd() + '/resource/QSS/Mainwindow.qss').read()
+        self.setStyleSheet(qss_file)
+
         self.StaffTheard = HandleStaff(self.listWidget)
         self.StaffTheard.start()
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
-        self.serchBtn.setText(_translate("MainWindow", "search"))
+        self.serchBtn.setText(_translate("MainWindow", "搜索"))
         #self.SalaryImage.setText(_translate("MainWindow", "Salary Image"))
         #self.PositionImage.setText(_translate("MainWindow", "Position Image"))
-        self.PositionLabel.setText(_translate("MainWindow", "position:"))
-        self.KeywordLabel.setText(_translate("MainWindow", "Key word:"))
-        self.Crawl_label.setText(_translate("MainWindow", "crawl pages: "))
+        self.PositionLabel.setText(_translate("MainWindow", "位置 （例如 北京）:"))
+        self.KeywordLabel.setText(_translate("MainWindow", "关键字（例如 C++）:"))
+        self.Crawl_label.setText(_translate("MainWindow", "爬取的网页数: "))
 
-    
+#开启线程，为listwidget添加项目
 class HandleStaff(QtCore.QThread):
     def __init__(self,listWidget):
         super().__init__()
@@ -147,7 +155,7 @@ class HandleStaff(QtCore.QThread):
 
     def run(self):
         with open(os.getcwd() + '/resource/zhilian/staff.txt') as f:
-            for i in range(20):
+            for i in range(50):
                 staff = f.readline()
                 staff = staff.split(',')[0]
                 self.listWidget.addItem(staff)
