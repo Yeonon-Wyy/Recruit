@@ -15,6 +15,9 @@ Recruit
 - python
 
 #### 类库:
+- requests (用于爬虫)
+- BeautifulSoup (用于提取数据)
+- threading (用于支持多线程爬虫)
 - matplotlib （用于绘制并生成图像）
 - pandas (用于数据处理，使matplotlib方便绘图)
 
@@ -30,11 +33,3 @@ Recruit
 
 > 同上
 
-
- 
-
-
-		qr = MainWindow.frameGeometry()
-        cp = QDesktopWidget().availableGeometry().center()
-        qr.moveCenter(cp)
-        MainWindow.move(qr.topLeft())

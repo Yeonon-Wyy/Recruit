@@ -17,7 +17,8 @@ from PyQt5.QtCore import *
 
 class Zhilian(QThread):
 	trigger = pyqtSignal(list)
-	def __init__(self,position,keyword,progressBar):
+	trigger2 = pyqtSignal()
+	def __init__(self,position,keyword,progressBar,page_number):
 		super().__init__()
 		self.main_url = "http://sou.zhaopin.com/jobs/searchresult.ashx?jl=%s&kw=%s&sm=0&p=%s"
 		self.user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/58.0.3029.110 Chrome/58.0.3029.110 Safari/537.36"
@@ -30,7 +31,8 @@ class Zhilian(QThread):
 		self.KEYWORD = keyword
 		self.progressBar = progressBar
 		self.progressBarStep = 0
-		self.progressBarPerStep = 100 / 10
+		self.progressBarPerStep = 100 / page_number
+		self.page_number = page_number
 
 		self.url_queue = self.generate_url()
 		self.MyLock = threading.Lock()
@@ -38,7 +40,7 @@ class Zhilian(QThread):
 	#生成url 队列
 	def generate_url(self):
 		q = Queue()
-		for i in range(10):
+		for i in range(self.page_number):
 			url = self.main_url % (self.POSITION,self.KEYWORD,i)
 			q.put(url)
 		return q
@@ -46,9 +48,14 @@ class Zhilian(QThread):
 	def process_url(self):
 		while not self.url_queue.empty():
 			url = self.url_queue.get()
-			self.crawl(url)
+			try:
+				self.crawl(url)
+			except TimeoutError as e:
+				print('继续')
+				continue
 		
 	def run(self):
+		self.progressBar.setValue(0)
 		#开启多线程
 		t1 = threading.Thread(target=self.process_url)
 		t2 = threading.Thread(target=self.process_url)
@@ -70,14 +77,21 @@ class Zhilian(QThread):
 		self.staff_handle()	
 
 		zhilian_image = ZhilianGenImage()
+		try:
+			zhilian_image.generate_image('position_for_image.csv','1.png','bar')
+			zhilian_image.generate_image('salary_for_image.csv','2.png','pie')
+		except:
+			self.trigger2.emit()
 
-		zhilian_image.generate_image('position_for_image.csv','1.png','bar')
-		zhilian_image.generate_image('salary_for_image.csv','2.png','pie')	
+				
 
 		self.trigger.emit(self.job_infos)
 
 	def crawl(self,url):
-		r = requests.get(url,headers=self.headers)
+		try:
+			r = requests.get(url,headers=self.headers,timeout=10)
+		except:
+			raise TimeoutError('超时')
 		soup = BeautifulSoup(r.text,'lxml')
 		job_list = soup.find_all('table', class_='newlist')
 		print(threading.current_thread())
@@ -158,7 +172,7 @@ class Zhilian(QThread):
 		fileName = 'staff.txt'
 		with open(self.file_path + fileName,'w',encoding='utf-8') as f:
 			for job_info in self.job_infos:
-				f.write(str(job_info['staff']) + '\n')
+				f.write(str(job_info['staff']) + ',' + str(job_info['details_url'] + '\n'))
 
 
 	#保存文件

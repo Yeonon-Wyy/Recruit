@@ -2,7 +2,6 @@ import pandas as pd
 import os
 import matplotlib.pyplot as plt
 import numpy as np
-import seaborn as sns
 import matplotlib
 
 
@@ -11,7 +10,7 @@ class ZhilianGenImage:
 		self.FILE_PATH = os.path.abspath('.') + '/resource/zhilian/'
 		self.FONT = {
 			'size' : 20
-		 }
+		}
 
 	def generate_image(self,sourceName,fileName,image_kind):
 		print('生成')
