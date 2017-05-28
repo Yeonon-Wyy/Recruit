@@ -1,19 +1,23 @@
 import requests
-import re
 from bs4 import BeautifulSoup
 import os
 import csv
 import sys 
 from collections import defaultdict
+from . zhilian_image import ZhilianGenImage
 from queue import Queue
 import threading
+import time
 
 
 
+from PyQt5.QtCore import *
 
 
-class Zhilian():
-	def __init__(self,postion,keyword):
+
+class Zhilian(QThread):
+	trigger = pyqtSignal(list)
+	def __init__(self,position,keyword,progressBar):
 		super().__init__()
 		self.main_url = "http://sou.zhaopin.com/jobs/searchresult.ashx?jl=%s&kw=%s&sm=0&p=%s"
 		self.user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/58.0.3029.110 Chrome/58.0.3029.110 Safari/537.36"
@@ -22,58 +26,87 @@ class Zhilian():
 		}
 		self.job_infos = []
 		self.file_path = os.path.abspath('.') + '/resource/zhilian/'
-		self.POSTION = postion
+		self.POSITION = position
 		self.KEYWORD = keyword
-		self.url_queue = self.generate_url()
+		self.progressBar = progressBar
+		self.progressBarStep = 0
+		self.progressBarPerStep = 100 / 10
 
+		self.url_queue = self.generate_url()
+		self.MyLock = threading.Lock()
 
 	#生成url 队列
 	def generate_url(self):
 		q = Queue()
-		for i in range(20):
-			url = self.main_url % (self.POSTION,self.KEYWORD,i)
+		for i in range(10):
+			url = self.main_url % (self.POSITION,self.KEYWORD,i)
 			q.put(url)
 		return q
 
-	#根据参数获得响应
-	def request_url(self):
-		for i in range(20):
-			r = requests.get(self.main_url % (self.POSTION,self.KEYWORD,i),headers=self.headers) 
-			soup = BeautifulSoup(r.text,'lxml')
-			yield soup
-
-	#获得对应的职位列表
-	def get_job_list(self):
-		for soup in self.request_url():
-			job_list = soup.find_all('table', class_='newlist')
-			yield job_list
+	def process_url(self):
+		while not self.url_queue.empty():
+			url = self.url_queue.get()
+			self.crawl(url)
 		
-
-	#开始保存提取到的信息
-	def get_job_info(self):
-		for job_list in self.get_job_list():
-			for job in job_list[1:]:
-				info = {}
-				info['staff'] = job.find_all('a')[0].text
-
-				#处理工资
-				salary = job.find('td',class_='zwyx').text.split('-')
-				if len(salary) == 2:
-					info['salary'] = (int(salary[0]) + int(salary[1])) / 2
-				else:
-					info['salary'] = -1
-				#处理位置
-				info['position'] = job.find('td',class_='gzdd').text
+	def run(self):
+		#开启多线程
+		t1 = threading.Thread(target=self.process_url)
+		t2 = threading.Thread(target=self.process_url)
+		t3 = threading.Thread(target=self.process_url)
+		t4 = threading.Thread(target=self.process_url)
+		t1.start()
+		t2.start()
+		t3.start()
+		t4.start()
+		t1.join()
+		t2.join()
+		t3.join()
+		t4.join()
 
 
-				info['details_url'] = job.find_all('a')[0].get('href')
-				self.job_infos.append(info)
-		return self.job_infos
-		
+		self.salary_handle()
+		self.position_handle()
+		self.saveAll()
+		self.staff_handle()	
 
-	def get_infos(self):
-		return self.job_infos
+		zhilian_image = ZhilianGenImage()
 
+		zhilian_image.generate_image('position_for_image.csv','1.png','bar')
+		zhilian_image.generate_image('salary_for_image.csv','2.png','pie')	
+
+		self.trigger.emit(self.job_infos)
+
+	def crawl(self,url):
+		r = requests.get(url,headers=self.headers)
+		soup = BeautifulSoup(r.text,'lxml')
+		job_list = soup.find_all('table', class_='newlist')
+		print(threading.current_thread())
+		self.MyLock.acquire()
+
+		self.progressBarStep += self.progressBarPerStep
+		self.progressBar.setValue(self.progressBarStep)
+
+		for job in job_list[1:]:
+			info = {}
+			info['staff'] = job.find_all('a')[0].text
+
+			#处理工资
+			salary = job.find('td',class_='zwyx').text.split('-')
+			if len(salary) == 2:
+				info['salary'] = (int(salary[0]) + int(salary[1])) / 2
+			else:
+				info['salary'] = -1
+			#处理位置
+			info['position'] = job.find('td',class_='gzdd').text
+
+
+			info['details_url'] = job.find_all('a')[0].get('href')
+
+			self.job_infos.append(info)		#修改共享数据
+		print('start_process')
+		self.MyLock.release()
+
+	
 	#对工资划分区间，用于绘图，原始数据未改变
 	def salary_handle(self):
 		fileName = 'salary_for_image.csv'
@@ -102,24 +135,31 @@ class Zhilian():
 
 	#对位置分类并统计
 	def position_handle(self):
-		fileName = 'postion_for_image.csv'
-		postions = defaultdict(int)
+		fileName = 'position_for_image.csv'
+		positions = defaultdict(int)
 
 		for job_info in self.job_infos:
-				postion = job_info['position'].split('-')
-				if len(postion) == 2:
-					postion = postion[1]
+				position = job_info['position'].split('-')
+				if len(position) == 2:
+					position = position[1]
 				else:
-					postion = postion[0]
-				postions[postion] += 1
+					position = position[0]
+				positions[position] += 1
 
 		with open(self.file_path + fileName,'w',encoding='utf-8') as f:
-			f.write(str('postion') + '\n')
-			for postion,num in postions.items():
-				f.write(str(postion) + ',')
+			f.write(str('position') + '\n')
+			for position,num in positions.items():
+				f.write(str(position) + ',')
 				f.write(str(num) + '\n')
 
 		return fileName
+
+	def staff_handle(self):
+		fileName = 'staff.txt'
+		with open(self.file_path + fileName,'w',encoding='utf-8') as f:
+			for job_info in self.job_infos:
+				f.write(str(job_info['staff']) + '\n')
+
 
 	#保存文件
 	def saveFile_csv(self,fileName):
@@ -127,4 +167,9 @@ class Zhilian():
 			f.write(str(fileName) + '\n')
 			for job_info in self.job_infos:
 				f.write(str(job_info[fileName]) + '\n')
+
+	def saveAll(self):
+		with open(self.file_path + 'AllInfo.txt','w',encoding='utf-8') as f:
+			for job_info in self.job_infos:
+				f.write(str(job_info) + '\n')
 

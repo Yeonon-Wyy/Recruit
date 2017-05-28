@@ -14,6 +14,7 @@ class ZhilianGenImage:
 		 }
 
 	def generate_image(self,sourceName,fileName,image_kind):
+		print('生成')
 		matplotlib.rcParams['font.family'] = 'SimHei'
 		matplotlib.rc('font', **self.FONT)               
 		mydata = pd.read_csv(self.FILE_PATH + sourceName)

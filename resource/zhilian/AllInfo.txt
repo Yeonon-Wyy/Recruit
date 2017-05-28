@@ -1,0 +1,600 @@
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '贺州', 'details_url': 'http://jobs.zhaopin.com/502241687250497.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '河池', 'details_url': 'http://jobs.zhaopin.com/502241687250498.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/502241687250488.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '梧州', 'details_url': 'http://jobs.zhaopin.com/502241687250490.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '钦州', 'details_url': 'http://jobs.zhaopin.com/502241687250493.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '玉林', 'details_url': 'http://jobs.zhaopin.com/502241687250495.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '来宾', 'details_url': 'http://jobs.zhaopin.com/502241687250499.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '崇左', 'details_url': 'http://jobs.zhaopin.com/502241687250500.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '北海', 'details_url': 'http://jobs.zhaopin.com/502241687250491.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '百色', 'details_url': 'http://jobs.zhaopin.com/502241687250496.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/502241687250489.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '防城港', 'details_url': 'http://jobs.zhaopin.com/502241687250492.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '梧州', 'details_url': 'http://jobs.zhaopin.com/503952985250052.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '防城港', 'details_url': 'http://jobs.zhaopin.com/503952985250054.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '玉林', 'details_url': 'http://jobs.zhaopin.com/503952985250057.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '贵港', 'details_url': 'http://jobs.zhaopin.com/503952985250056.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '百色', 'details_url': 'http://jobs.zhaopin.com/503952985250058.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '贺州', 'details_url': 'http://jobs.zhaopin.com/503952985250059.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '河池', 'details_url': 'http://jobs.zhaopin.com/503952985250060.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/503952985250050.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/503952985250051.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '钦州', 'details_url': 'http://jobs.zhaopin.com/503952985250055.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '来宾', 'details_url': 'http://jobs.zhaopin.com/503952985250061.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '崇左', 'details_url': 'http://jobs.zhaopin.com/503952985250062.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '北海', 'details_url': 'http://jobs.zhaopin.com/503952985250053.htm'}
+{'staff': 'JAVA实训讲师(001516)', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/541455620250041.htm'}
+{'staff': 'Java软件开发工程师', 'salary': 5000.5, 'position': '百色', 'details_url': 'http://jobs.zhaopin.com/273072482250059.htm'}
+{'staff': 'JAVA软件开发、程序员', 'salary': 7000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/532562623250017.htm'}
+{'staff': 'Java软件开发工程师', 'salary': 5500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/40969203790250003000.htm'}
+{'staff': 'Java高级工程师', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/409692037250011.htm'}
+{'staff': 'java软件工程师、程序员实习+转正', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/447375014270113.htm'}
+{'staff': 'java开发工程师', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/697619221250005.htm'}
+{'staff': 'JAVA/ASP程序员', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/412050436250005.htm'}
+{'staff': '高级Java开发工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/646558027250044.htm'}
+{'staff': 'JAVA软件工程师', 'salary': 9000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/139682758251084.htm'}
+{'staff': '高级JAVA开发工程师', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/452687539250011.htm'}
+{'staff': 'Java开发工程师', 'salary': 6250.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/29941311790250139000.htm'}
+{'staff': 'Java开发工程师（应届毕业生）', 'salary': 3500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/29941311790250003000.htm'}
+{'staff': 'Java开发工程师（柳州）', 'salary': 5500.0, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/29941311790250200000.htm'}
+{'staff': '高级Java开发工程师', 'salary': 8000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/29941311790250138000.htm'}
+{'staff': 'java软件工程师', 'salary': 12500.5, 'position': '钦州', 'details_url': 'http://jobs.zhaopin.com/141719933250367.htm'}
+{'staff': '手机APP下载 随时可做(外贸/会计/司机/JAVA/前台/秘书,可做)', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/325965714250167.htm'}
+{'staff': 'Java开发', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/332499834250030.htm'}
+{'staff': 'JAVA程序开发(运维管理部）', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/407505119250054.htm'}
+{'staff': '应用体验(外贸/会计/司机/JAVA/前台/秘书可做)', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/325965714250342.htm'}
+{'staff': '初级java开发助理', 'salary': 4000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/537978524253408.htm'}
+{'staff': '中级Java开发工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/646558027250009.htm'}
+{'staff': '中级JAVA开发工程师', 'salary': 5750.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/687368422250190.htm'}
+{'staff': 'Java开发工程师', 'salary': 3500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/687368422250192.htm'}
+{'staff': 'JAVA工程师', 'salary': 8000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/663101622250166.htm'}
+{'staff': '实习生/2017应届毕业生/技术支持/JAVA/.NET WEB/测试', 'salary': 3000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/000426157250163.htm'}
+{'staff': 'J2EE、JAVA开发工程师/软件工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/000426157250083.htm'}
+{'staff': 'java程序员、软件工程师实习 +转正', 'salary': 5000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/447375014262707.htm'}
+{'staff': 'java程序员、软件工程师实习 +转正', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/447375014262706.htm'}
+{'staff': 'JAVA开发工程师（南宁）', 'salary': 10750.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/357648419250204.htm'}
+{'staff': '初级Java实习生', 'salary': 4000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/513433027253472.htm'}
+{'staff': 'Java开发工程师', 'salary': 3750.0, 'position': '柳州-鱼峰区', 'details_url': 'http://jobs.zhaopin.com/219823787250051.htm'}
+{'staff': 'Java程序员', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/697540821250165.htm'}
+{'staff': '高级Java开发工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/000338944252840.htm'}
+{'staff': 'java软件工程师', 'salary': -1, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/000338944252839.htm'}
+{'staff': 'Java开发工程师', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/401641637250006.htm'}
+{'staff': 'JAVA开发工程师', 'salary': 3000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/401641637250000.htm'}
+{'staff': 'Java开发工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/401641637250005.htm'}
+{'staff': 'java开发工程师', 'salary': 9000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/432744528250457.htm'}
+{'staff': 'java程序员', 'salary': 7000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/407505119250056.htm'}
+{'staff': 'java/C++/.net /android/PHP/嵌入式软件开发工程师实习+转正', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/447375014265981.htm'}
+{'staff': 'Java开发工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/46322681790250024000.htm'}
+{'staff': '求JAVA开发大神', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/418723032250004.htm'}
+{'staff': 'Java开发工程师', 'salary': 3000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/420095410250006.htm'}
+{'staff': '诚招零基础Java开发工程师', 'salary': 4000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/537978524250424.htm'}
+{'staff': '急招Java见习程序员双休', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/540174027250552.htm'}
+{'staff': 'JAVA软件工程师（驻：广西南宁）', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/000388335250529.htm'}
+{'staff': 'java程序员、软件工程师实习+转正', 'salary': 5000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/447375014262563.htm'}
+{'staff': '双休JAVA/WEB程序员可实习', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/513433027251758.htm'}
+{'staff': 'java程序员、软件工程师实习+转正', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/447375014262562.htm'}
+{'staff': '高级Java开发工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/687368422250205.htm'}
+{'staff': '诚招Java见习开发工程师', 'salary': 5000.5, 'position': '南宁-青秀区', 'details_url': 'http://jobs.zhaopin.com/139212878251157.htm'}
+{'staff': 'JAVA工程师', 'salary': 5000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/183424026250021.htm'}
+{'staff': 'Java开发工程师/实习(双休不加班)', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/209732211311239.htm'}
+{'staff': '软件开发工程师（JAVA方向）', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/301533114250302.htm'}
+{'staff': 'Java开发工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/562522729250045.htm'}
+{'staff': 'java开发工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/276573088250047.htm'}
+{'staff': 'Java开发工程师福利好+双休', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/537978524251157.htm'}
+{'staff': '招初级Java实习助理高薪', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/384299130250094.htm'}
+{'staff': 'java开发工程师', 'salary': 4500.0, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/CZ730909090J00006823506.htm'}
+{'staff': 'JAVA开发工程师', 'salary': 6000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/392648786250009.htm'}
+{'staff': 'Java开发/GO语言开发/软件开发/高级软件工程师', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/664692420250159.htm'}
+{'staff': '零基础转行Java程序员/专业不限/福利齐全', 'salary': 4000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/513433027250051.htm'}
+{'staff': 'Java工程师', 'salary': 7000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/514677680250001.htm'}
+{'staff': '高级JAVA工程师', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/675353725250150.htm'}
+{'staff': '招Java实习开发工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/139212878250155.htm'}
+{'staff': '限名额公司急聘JAVA软件开发实习生 早九晚点 五险一金', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/448956930251110.htm'}
+{'staff': '限名额公司急聘JAVA软件开发实习生 早九晚点 五险一金', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/393060037251412.htm'}
+{'staff': 'Java开发工程师-南宁', 'salary': 4500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/159501419250283.htm'}
+{'staff': 'Java研发工程师（实习生）', 'salary': 3000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/231043217251994.htm'}
+{'staff': 'Java研发工程师', 'salary': 12000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/231043217251980.htm'}
+{'staff': '中高级java开发工程师', 'salary': 9000.0, 'position': '贵港', 'details_url': 'http://jobs.zhaopin.com/130494465253704.htm'}
+{'staff': 'JAVA开发工程师', 'salary': -1, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/145470510258028.htm'}
+{'staff': 'Java程序开发员(双休)/带薪实习生', 'salary': 4500.0, 'position': '南宁-青秀区', 'details_url': 'http://jobs.zhaopin.com/300084784251731.htm'}
+{'staff': 'Java开发工程师', 'salary': 4500.0, 'position': '南宁-青秀区', 'details_url': 'http://jobs.zhaopin.com/216573725251074.htm'}
+{'staff': 'java工程师', 'salary': 7000.5, 'position': '南宁-青秀区', 'details_url': 'http://jobs.zhaopin.com/507971323251521.htm'}
+{'staff': '系统架构师-JAVA', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/382550917250120.htm'}
+{'staff': '大数据分析工程师（JAVA）', 'salary': 25000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/382550917250124.htm'}
+{'staff': 'JAVA开发工程师（环境事业部）', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/120015957253091.htm'}
+{'staff': '广西地区java工程师（2）', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/120533378250140.htm'}
+{'staff': '零基础Java软件工程师助理包吃住(应届生优先)', 'salary': 3500.0, 'position': '南宁-西乡塘区', 'details_url': 'http://jobs.zhaopin.com/513433027251623.htm'}
+{'staff': '广西地区java工程师（2）', 'salary': 5000.5, 'position': '北海', 'details_url': 'http://jobs.zhaopin.com/120533378250143.htm'}
+{'staff': '广西地区java工程师（2）', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/120533378250141.htm'}
+{'staff': '广西地区java工程师（2）', 'salary': 5000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/120533378250142.htm'}
+{'staff': 'Java开发工程师', 'salary': 9000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/599165528250429.htm'}
+{'staff': 'JAVA软件工程师', 'salary': 6500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/120173433253046.htm'}
+{'staff': 'java开发工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/422187383250002.htm'}
+{'staff': 'Java开发工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/633142422250151.htm'}
+{'staff': 'Java初级软件开发工程师双休', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/300084784250873.htm'}
+{'staff': 'java开发工程师可零基础（岗前培训）', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/209732211315354.htm'}
+{'staff': 'Java項目經理1', 'salary': 12500.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/120533378250182.htm'}
+{'staff': 'Java項目經理1', 'salary': 12500.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/120533378250181.htm'}
+{'staff': '急招Java软件开发学徒(包吃住)', 'salary': 4000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/537297129251365.htm'}
+{'staff': 'S-java运维开发（南宁）', 'salary': 6000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/507971323251515.htm'}
+{'staff': 'java程序员实习生', 'salary': 3000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/570647524250063.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '北海', 'details_url': 'http://jobs.zhaopin.com/502241687250491.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '百色', 'details_url': 'http://jobs.zhaopin.com/502241687250496.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/502241687250489.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '防城港', 'details_url': 'http://jobs.zhaopin.com/502241687250492.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '贺州', 'details_url': 'http://jobs.zhaopin.com/502241687250497.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '河池', 'details_url': 'http://jobs.zhaopin.com/502241687250498.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/502241687250488.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '梧州', 'details_url': 'http://jobs.zhaopin.com/502241687250490.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '钦州', 'details_url': 'http://jobs.zhaopin.com/502241687250493.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '玉林', 'details_url': 'http://jobs.zhaopin.com/502241687250495.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '来宾', 'details_url': 'http://jobs.zhaopin.com/502241687250499.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '崇左', 'details_url': 'http://jobs.zhaopin.com/502241687250500.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '钦州', 'details_url': 'http://jobs.zhaopin.com/503952985250055.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '崇左', 'details_url': 'http://jobs.zhaopin.com/503952985250062.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '梧州', 'details_url': 'http://jobs.zhaopin.com/503952985250052.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '来宾', 'details_url': 'http://jobs.zhaopin.com/503952985250061.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '百色', 'details_url': 'http://jobs.zhaopin.com/503952985250058.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/503952985250050.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '防城港', 'details_url': 'http://jobs.zhaopin.com/503952985250054.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '玉林', 'details_url': 'http://jobs.zhaopin.com/503952985250057.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '贵港', 'details_url': 'http://jobs.zhaopin.com/503952985250056.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/503952985250051.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '北海', 'details_url': 'http://jobs.zhaopin.com/503952985250053.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '贺州', 'details_url': 'http://jobs.zhaopin.com/503952985250059.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '河池', 'details_url': 'http://jobs.zhaopin.com/503952985250060.htm'}
+{'staff': 'JAVA实训讲师(001516)', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/541455620250041.htm'}
+{'staff': 'Java软件开发工程师', 'salary': 5000.5, 'position': '百色', 'details_url': 'http://jobs.zhaopin.com/273072482250059.htm'}
+{'staff': 'JAVA软件开发、程序员', 'salary': 7000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/532562623250017.htm'}
+{'staff': 'Java高级工程师', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/409692037250011.htm'}
+{'staff': 'Java软件开发工程师', 'salary': 5500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/40969203790250003000.htm'}
+{'staff': 'java软件工程师、程序员实习+转正', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/447375014270113.htm'}
+{'staff': 'java开发工程师', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/697619221250005.htm'}
+{'staff': 'JAVA/ASP程序员', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/412050436250005.htm'}
+{'staff': '高级Java开发工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/646558027250044.htm'}
+{'staff': 'JAVA软件工程师', 'salary': 9000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/139682758251084.htm'}
+{'staff': '高级JAVA开发工程师', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/452687539250011.htm'}
+{'staff': 'Java开发工程师', 'salary': 6250.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/29941311790250139000.htm'}
+{'staff': 'Java开发工程师（应届毕业生）', 'salary': 3500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/29941311790250003000.htm'}
+{'staff': 'Java开发工程师（柳州）', 'salary': 5500.0, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/29941311790250200000.htm'}
+{'staff': '高级Java开发工程师', 'salary': 8000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/29941311790250138000.htm'}
+{'staff': 'java软件工程师', 'salary': 12500.5, 'position': '钦州', 'details_url': 'http://jobs.zhaopin.com/141719933250367.htm'}
+{'staff': '手机APP下载 随时可做(外贸/会计/司机/JAVA/前台/秘书,可做)', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/325965714250167.htm'}
+{'staff': 'Java开发', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/332499834250030.htm'}
+{'staff': 'JAVA程序开发(运维管理部）', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/407505119250054.htm'}
+{'staff': '应用体验(外贸/会计/司机/JAVA/前台/秘书可做)', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/325965714250342.htm'}
+{'staff': '初级java开发助理', 'salary': 4000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/537978524253408.htm'}
+{'staff': '中级Java开发工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/646558027250009.htm'}
+{'staff': '中级JAVA开发工程师', 'salary': 5750.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/687368422250190.htm'}
+{'staff': 'Java开发工程师', 'salary': 3500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/687368422250192.htm'}
+{'staff': 'JAVA工程师', 'salary': 8000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/663101622250166.htm'}
+{'staff': 'J2EE、JAVA开发工程师/软件工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/000426157250083.htm'}
+{'staff': '实习生/2017应届毕业生/技术支持/JAVA/.NET WEB/测试', 'salary': 3000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/000426157250163.htm'}
+{'staff': 'java程序员、软件工程师实习 +转正', 'salary': 5000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/447375014262707.htm'}
+{'staff': 'java程序员、软件工程师实习 +转正', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/447375014262706.htm'}
+{'staff': 'JAVA开发工程师（南宁）', 'salary': 10750.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/357648419250204.htm'}
+{'staff': '初级Java实习生', 'salary': 4000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/513433027253472.htm'}
+{'staff': 'Java开发工程师', 'salary': 3750.0, 'position': '柳州-鱼峰区', 'details_url': 'http://jobs.zhaopin.com/219823787250051.htm'}
+{'staff': 'Java程序员', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/697540821250165.htm'}
+{'staff': '高级Java开发工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/000338944252840.htm'}
+{'staff': 'java软件工程师', 'salary': -1, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/000338944252839.htm'}
+{'staff': '高薪急聘java开发工程师', 'salary': 10500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/570647524250003.htm'}
+{'staff': 'JAVA开发项目经理', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/570647524250165.htm'}
+{'staff': 'java软件开发实习生', 'salary': 3000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/570647524250050.htm'}
+{'staff': 'Java软件开发实习生', 'salary': 3000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/570647524250113.htm'}
+{'staff': '高薪招Java初级软件工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/537297129250003.htm'}
+{'staff': '4k起 诚招Java开发工程见习生', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/537297129250623.htm'}
+{'staff': '高薪Java嵌入式工程师助理', 'salary': 5000.5, 'position': '南宁-邕宁区', 'details_url': 'http://jobs.zhaopin.com/540174027251493.htm'}
+{'staff': '急聘Java软件开发工程师大专以上学历计算机专业', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/431917488251131.htm'}
+{'staff': 'Java运维开发工程师—C', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/507971323251510.htm'}
+{'staff': 'Java項目經理3', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/120533378250188.htm'}
+{'staff': 'Java开发工程师福利好+高薪', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/537297129251038.htm'}
+{'staff': '诚招Java开发见习工程师接受转行', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/537297129250731.htm'}
+{'staff': 'java高级开发工程师', 'salary': 15000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/603685221250598.htm'}
+{'staff': 'Java软件开发工程师高提成', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/300084784251019.htm'}
+{'staff': '招Java见习开发工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/139212878250688.htm'}
+{'staff': '企业直招Java实习生公司提供住宿', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/431917488251122.htm'}
+{'staff': '广西地区java工程师（3）', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/120533378250158.htm'}
+{'staff': '广西地区java工程师（3）', 'salary': 5000.5, 'position': '北海', 'details_url': 'http://jobs.zhaopin.com/120533378250160.htm'}
+{'staff': '广西地区java工程师（3）', 'salary': 5000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/120533378250159.htm'}
+{'staff': '广西地区java工程师（3）', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/120533378250157.htm'}
+{'staff': 'java开发', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/000191796254316.htm'}
+{'staff': 'java程序员', 'salary': 3500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/233518937250016.htm'}
+{'staff': '招Java初级软件开发工程师双休', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/513433027251179.htm'}
+{'staff': '云方向业务部门_Java工程师', 'salary': 5000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/120747254258366.htm'}
+{'staff': 'Java安卓软件工程师助理', 'salary': 4000.0, 'position': '南宁-青秀区', 'details_url': 'http://jobs.zhaopin.com/139212878251222.htm'}
+{'staff': 'Java开发工程师', 'salary': 7500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/121071997251883.htm'}
+{'staff': 'java开发工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/245194487250006.htm'}
+{'staff': 'java实施工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/245194487250007.htm'}
+{'staff': '高薪急招Java游戏开发助理双休+五险一金', 'salary': 4000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/540174027250297.htm'}
+{'staff': 'Java开发工程师（南宁办事处）', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/131936258251586.htm'}
+{'staff': 'java开发工程师/13薪+高薪', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/209732211315845.htm'}
+{'staff': 'Java开发工程师', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/657702823250035.htm'}
+{'staff': '高级Java软件工程师', 'salary': 3000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/139875073250490.htm'}
+{'staff': 'JAVA开发/JAVA项目经理-广州/南宁（银行业务线）', 'salary': 11000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/000212281260194.htm'}
+{'staff': '4k起招Java开发见习工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/139212878250422.htm'}
+{'staff': 'Java/J2ee教学经理', 'salary': 9000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/200308734250101.htm'}
+{'staff': 'Java/J2ee教学经理', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/200308734250099.htm'}
+{'staff': 'Java/J2ee教学经理', 'salary': 9000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/200308734250100.htm'}
+{'staff': 'Java/J2ee教学经理', 'salary': 9000.5, 'position': '北海', 'details_url': 'http://jobs.zhaopin.com/200308734250102.htm'}
+{'staff': 'Java开发工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/599165528250362.htm'}
+{'staff': '大数据业务部门_Java高级工程师', 'salary': 12000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/120747254258838.htm'}
+{'staff': '高级Java工程师', 'salary': 9000.5, 'position': '柳州-城中区', 'details_url': 'http://jobs.zhaopin.com/403988135250040.htm'}
+{'staff': '南宁-java研发经理', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/180693121252083.htm'}
+{'staff': '直招零基础Java程序员学徒', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/537297129251610.htm'}
+{'staff': 'JAVA软件开发程序员实习工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/445776785250704.htm'}
+{'staff': '中高级java开发工程师', 'salary': 7500.0, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/146032657252777.htm'}
+{'staff': 'java软件工程师', 'salary': 5000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/000432190252880.htm'}
+{'staff': 'java web软件工程师', 'salary': 7500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/659221523250204.htm'}
+{'staff': '早九晚六双休招Java开发工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/209732211311163.htm'}
+{'staff': 'JAVA程序讲师', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/399666580250011.htm'}
+{'staff': '北大青鸟JAVA课程讲师', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/399666580250009.htm'}
+{'staff': 'Java 讲师', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/399666580250004.htm'}
+{'staff': 'Java工程师', 'salary': 7000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/144907286250184.htm'}
+{'staff': '高级java开发', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/372210387250021.htm'}
+{'staff': 'java开发工程师', 'salary': 3000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/372210387250020.htm'}
+{'staff': 'java软件工程师', 'salary': 9000.0, 'position': '桂林-七星区', 'details_url': 'http://jobs.zhaopin.com/378142223250518.htm'}
+{'staff': '8k聘Java开发应届生', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/445776785250669.htm'}
+{'staff': 'Java软件后台开发工程师双休', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/300084784251206.htm'}
+{'staff': 'java工程师（南宁）', 'salary': 6000.0, 'position': '南宁-青秀区', 'details_url': 'http://jobs.zhaopin.com/120053737253415.htm'}
+{'staff': '企业定岗招聘Java软件实习生', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/445776785250662.htm'}
+{'staff': 'Java软件开发助理双休+五险一金', 'salary': 4000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/537978524251862.htm'}
+{'staff': '诚招Java实习开发工程师', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/139212878250872.htm'}
+{'staff': '急招Java程序开发员', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/540174027250921.htm'}
+{'staff': '招Java初级软件开发工程师双休', 'salary': 5000.5, 'position': '北海', 'details_url': 'http://jobs.zhaopin.com/300084784251158.htm'}
+{'staff': 'Java开发工程师', 'salary': 3000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/255112630250070.htm'}
+{'staff': 'JAVA开发实习生', 'salary': 1500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/255112630250075.htm'}
+{'staff': '招Java开发工程师助理福利好+高薪', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/537297129251158.htm'}
+{'staff': 'JS工程师/Javascript工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/346840786250032.htm'}
+{'staff': '广西地区java工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/120533378250266.htm'}
+{'staff': '广西地区java工程师', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/120533378250267.htm'}
+{'staff': '广西地区java工程师', 'salary': 5000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/120533378250268.htm'}
+{'staff': 'Java、PHP、Python程序员', 'salary': 7000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/120533378250262.htm'}
+{'staff': '驻广西项目java工程师', 'salary': 7000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/120533378250133.htm'}
+{'staff': '驻广西项目java工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/120533378250132.htm'}
+{'staff': 'Java、PHP、Python程序员', 'salary': 7000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/120533378250263.htm'}
+{'staff': 'JAVA软件开发工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/346840786250033.htm'}
+{'staff': 'Java初级开发实习生双休', 'salary': 4000.0, 'position': '南宁-青秀区', 'details_url': 'http://jobs.zhaopin.com/300084784252789.htm'}
+{'staff': 'Java软件开发工程师双休高薪', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/300084784250864.htm'}
+{'staff': '急招Java软件开发工程师高薪双休', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/300084784250948.htm'}
+{'staff': 'java开发工程师（南宁）', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/206957412252034.htm'}
+{'staff': 'Java/net/php/c+/android/IOS/其他', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/273972632250164.htm'}
+{'staff': 'java开发软件工程师', 'salary': 7000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/273972632250146.htm'}
+{'staff': 'JAVA高级工程师', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/539604325250227.htm'}
+{'staff': 'java工程师实习生（2017届毕业生）', 'salary': 3000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/120160395270100.htm'}
+{'staff': 'JAVA程序员', 'salary': 3000.5, 'position': '南宁-江南区', 'details_url': 'http://jobs.zhaopin.com/397701337250033.htm'}
+{'staff': '中级JAVA开发工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/382550917250147.htm'}
+{'staff': 'java开发工程师【五险一金+双休+朝九晚六】', 'salary': 5000.5, 'position': '梧州', 'details_url': 'http://jobs.zhaopin.com/476472628275346.htm'}
+{'staff': 'java开发工程师『五险一金✚13薪✚各种补助』', 'salary': 5000.5, 'position': '北海', 'details_url': 'http://jobs.zhaopin.com/476472628275315.htm'}
+{'staff': 'java开发工程师『五险一金✚13薪✚各种补助』', 'salary': 5000.5, 'position': '贵港', 'details_url': 'http://jobs.zhaopin.com/476472628275318.htm'}
+{'staff': 'java开发工程师『五险一金✚13薪✚各种补助』', 'salary': 5000.5, 'position': '崇左', 'details_url': 'http://jobs.zhaopin.com/476472628275324.htm'}
+{'staff': 'java开发工程师+五险一金双休', 'salary': 5000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/476472628275392.htm'}
+{'staff': 'java开发工程师+五险一金双休', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/476472628275391.htm'}
+{'staff': 'java开发工程师【五险一金+双休+朝九晚六】', 'salary': 5000.5, 'position': '玉林', 'details_url': 'http://jobs.zhaopin.com/476472628275347.htm'}
+{'staff': 'java开发工程师『五险一金✚13薪✚各种补助』', 'salary': 5000.5, 'position': '百色', 'details_url': 'http://jobs.zhaopin.com/476472628275319.htm'}
+{'staff': 'java开发工程师『五险一金✚13薪✚各种补助』', 'salary': 5000.5, 'position': '钦州', 'details_url': 'http://jobs.zhaopin.com/476472628275317.htm'}
+{'staff': 'java开发工程师『五险一金✚13薪✚各种补助』', 'salary': 5000.5, 'position': '防城港', 'details_url': 'http://jobs.zhaopin.com/476472628275316.htm'}
+{'staff': 'java开发工程师『五险一金✚13薪✚各种补助』', 'salary': 5000.5, 'position': '贺州', 'details_url': 'http://jobs.zhaopin.com/476472628275320.htm'}
+{'staff': 'java开发工程师『五险一金✚13薪✚各种补助』', 'salary': 5000.5, 'position': '来宾', 'details_url': 'http://jobs.zhaopin.com/476472628275323.htm'}
+{'staff': 'JAVA高级软件工程师', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/133257180251093.htm'}
+{'staff': 'Java高级工程师', 'salary': 12500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/133257180251094.htm'}
+{'staff': 'Java初级开发学徒双休', 'salary': 4000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/139212878252733.htm'}
+{'staff': 'Java初级开发学徒双休', 'salary': 4000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/540174027252432.htm'}
+{'staff': '高薪急招Java游戏开发助理双休+五险一金', 'salary': 4000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/537297129251876.htm'}
+{'staff': 'java程序员（开发部）', 'salary': 5000.5, 'position': '柳州-城中区', 'details_url': 'http://jobs.zhaopin.com/407505119250044.htm'}
+{'staff': 'JAVA程序开发(运维管理部）', 'salary': 5000.5, 'position': '柳州-城中区', 'details_url': 'http://jobs.zhaopin.com/407505119250041.htm'}
+{'staff': 'Java程序员（双休）', 'salary': 3000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/252953533250001.htm'}
+{'staff': '高级java工程师', 'salary': 8000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/000623211250899.htm'}
+{'staff': 'java工程师', 'salary': 4000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/307539686250002.htm'}
+{'staff': '中级java工程师', 'salary': 6000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/000623211250898.htm'}
+{'staff': 'Java 开发工程师', 'salary': 4500.0, 'position': '南宁-青秀区', 'details_url': 'http://jobs.zhaopin.com/153748615250094.htm'}
+{'staff': '广西java开发工程师', 'salary': 11500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/402338117250812.htm'}
+{'staff': '广西java中级开发工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/402338117250819.htm'}
+{'staff': '广西java高级开发工程师', 'salary': 10000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/402338117250820.htm'}
+{'staff': 'java高级工程师', 'salary': 7000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/307539686250000.htm'}
+{'staff': 'Java工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/120160395270673.htm'}
+{'staff': 'java开发工程师', 'salary': 8000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/475098985250003.htm'}
+{'staff': 'JAVA开发工程师（产品/南宁）', 'salary': 8000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/475098985250024.htm'}
+{'staff': 'java开发（南宁）', 'salary': 6000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/120068531250862.htm'}
+{'staff': 'java软件开发工程师', 'salary': 7500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/674332222250011.htm'}
+{'staff': 'Java开发工程师', 'salary': 3000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/135407575250005.htm'}
+{'staff': '高级Java工程师', 'salary': 6500.0, 'position': '桂林-叠彩区', 'details_url': 'http://jobs.zhaopin.com/365137334250023.htm'}
+{'staff': '中级Java软件工程师', 'salary': 6000.0, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/403988135250024.htm'}
+{'staff': 'java程序员', 'salary': 5000.5, 'position': '百色', 'details_url': 'http://jobs.zhaopin.com/531446428250024.htm'}
+{'staff': 'java程序员', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/531446428250016.htm'}
+{'staff': 'java程序员', 'salary': 5000.5, 'position': '玉林', 'details_url': 'http://jobs.zhaopin.com/531446428250023.htm'}
+{'staff': 'java程序员', 'salary': 5000.5, 'position': '贵港', 'details_url': 'http://jobs.zhaopin.com/531446428250022.htm'}
+{'staff': 'java程序员', 'salary': 5000.5, 'position': '防城港', 'details_url': 'http://jobs.zhaopin.com/531446428250020.htm'}
+{'staff': 'java程序员', 'salary': 5000.5, 'position': '贺州', 'details_url': 'http://jobs.zhaopin.com/531446428250025.htm'}
+{'staff': 'java程序员', 'salary': 5000.5, 'position': '梧州', 'details_url': 'http://jobs.zhaopin.com/531446428250018.htm'}
+{'staff': 'java程序员', 'salary': 5000.5, 'position': '河池', 'details_url': 'http://jobs.zhaopin.com/531446428250026.htm'}
+{'staff': 'java程序员', 'salary': 5000.5, 'position': '钦州', 'details_url': 'http://jobs.zhaopin.com/531446428250021.htm'}
+{'staff': 'java程序员', 'salary': 5000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/531446428250017.htm'}
+{'staff': 'java程序员', 'salary': 5000.5, 'position': '崇左', 'details_url': 'http://jobs.zhaopin.com/531446428250028.htm'}
+{'staff': 'java程序员', 'salary': 5000.5, 'position': '来宾', 'details_url': 'http://jobs.zhaopin.com/531446428250027.htm'}
+{'staff': 'java程序员', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/531446428250015.htm'}
+{'staff': 'java程序员', 'salary': 5000.5, 'position': '北海', 'details_url': 'http://jobs.zhaopin.com/531446428250019.htm'}
+{'staff': '软件开发工程师', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/CZ219823780J00014251303.htm'}
+{'staff': '小説录稿/宅家/校对文员助理小时工学生实习生客服临时工会计销售', 'salary': 12500.5, 'position': '南宁-兴宁区', 'details_url': 'http://jobs.zhaopin.com/CZ725108380J00013641207.htm'}
+{'staff': '体验手游/手机APP【行政/助理/客服/销售/文员 人人可做】', 'salary': 7000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/130284426250276.htm'}
+{'staff': '体验手游/手机APP【行政/助理/客服/销售/文员 人人可做】', 'salary': 7000.5, 'position': '防城港', 'details_url': 'http://jobs.zhaopin.com/130284426250279.htm'}
+{'staff': '体验手游/手机APP【行政/助理/客服/销售/文员 人人可做】', 'salary': 7000.5, 'position': '北海', 'details_url': 'http://jobs.zhaopin.com/130284426250278.htm'}
+{'staff': '体验手游/手机APP【行政/助理/客服/销售/文员 人人可做】', 'salary': 7000.5, 'position': '贵港', 'details_url': 'http://jobs.zhaopin.com/130284426250281.htm'}
+{'staff': '体验手游/手机APP【行政/助理/客服/销售/文员 人人可做】', 'salary': 7000.5, 'position': '河池', 'details_url': 'http://jobs.zhaopin.com/130284426250285.htm'}
+{'staff': '体验手游/手机APP【行政/助理/客服/销售/文员 人人可做】', 'salary': 7000.5, 'position': '梧州', 'details_url': 'http://jobs.zhaopin.com/130284426250277.htm'}
+{'staff': '体验手游/手机APP【行政/助理/客服/销售/文员 人人可做】', 'salary': 7000.5, 'position': '百色', 'details_url': 'http://jobs.zhaopin.com/130284426250283.htm'}
+{'staff': '体验手游/手机APP【行政/助理/客服/销售/文员 人人可做】', 'salary': 7000.5, 'position': '崇左', 'details_url': 'http://jobs.zhaopin.com/130284426250287.htm'}
+{'staff': '体验手游/手机APP【行政/助理/客服/销售/文员 人人可做】', 'salary': 7000.5, 'position': '玉林', 'details_url': 'http://jobs.zhaopin.com/130284426250282.htm'}
+{'staff': '体验手游/手机APP【行政/助理/客服/销售/文员 人人可做】', 'salary': 7000.5, 'position': '来宾', 'details_url': 'http://jobs.zhaopin.com/130284426250286.htm'}
+{'staff': '体验手游/手机APP【行政/助理/客服/销售/文员 人人可做】', 'salary': 7000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/130284426250275.htm'}
+{'staff': '体验手游/手机APP【行政/助理/客服/销售/文员 人人可做】', 'salary': 7000.5, 'position': '钦州', 'details_url': 'http://jobs.zhaopin.com/130284426250280.htm'}
+{'staff': '技术总监', 'salary': 8500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/286889586250014.htm'}
+{'staff': '（最新）手机应用试用/计件＋提成【操作简单，在家可做】', 'salary': 5000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/188245918250293.htm'}
+{'staff': '（最新）手机应用试用/计件＋提成【操作简单，在家可做】', 'salary': 5000.5, 'position': '防城港', 'details_url': 'http://jobs.zhaopin.com/188245918250296.htm'}
+{'staff': '（最新）手机应用试用/计件＋提成【操作简单，在家可做】', 'salary': 5000.5, 'position': '钦州', 'details_url': 'http://jobs.zhaopin.com/188245918250297.htm'}
+{'staff': '（最新）手机应用试用/计件＋提成【操作简单，在家可做】', 'salary': 5000.5, 'position': '贺州', 'details_url': 'http://jobs.zhaopin.com/188245918250301.htm'}
+{'staff': '（最新）手机应用试用/计件＋提成【操作简单，在家可做】', 'salary': 5000.5, 'position': '贵港', 'details_url': 'http://jobs.zhaopin.com/188245918250298.htm'}
+{'staff': '（最新）手机应用试用/计件＋提成【操作简单，在家可做】', 'salary': 5000.5, 'position': '北海', 'details_url': 'http://jobs.zhaopin.com/188245918250295.htm'}
+{'staff': '（最新）手机应用试用/计件＋提成【操作简单，在家可做】', 'salary': 5000.5, 'position': '梧州', 'details_url': 'http://jobs.zhaopin.com/188245918250294.htm'}
+{'staff': '（最新）手机应用试用/计件＋提成【操作简单，在家可做】', 'salary': 5000.5, 'position': '玉林', 'details_url': 'http://jobs.zhaopin.com/188245918250299.htm'}
+{'staff': '（最新）手机应用试用/计件＋提成【操作简单，在家可做】', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/188245918250292.htm'}
+{'staff': '（最新）手机应用试用/计件＋提成【操作简单，在家可做】', 'salary': 5000.5, 'position': '河池', 'details_url': 'http://jobs.zhaopin.com/188245918250302.htm'}
+{'staff': '（最新）手机应用试用/计件＋提成【操作简单，在家可做】', 'salary': 5000.5, 'position': '百色', 'details_url': 'http://jobs.zhaopin.com/188245918250300.htm'}
+{'staff': '初级PHP工程师助理+双休+五险一金', 'salary': 4000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/537297129253409.htm'}
+{'staff': '微信开发程序员', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/412050436250018.htm'}
+{'staff': 'J2EE高级工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/532562623250019.htm'}
+{'staff': 'J2EE软件工程师(贺州)', 'salary': 3750.0, 'position': '贺州', 'details_url': 'http://jobs.zhaopin.com/532562623250000.htm'}
+{'staff': '产品经理', 'salary': 9000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/40969203790250005000.htm'}
+{'staff': '项目助理/项目专员，助理/文秘', 'salary': 4000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/532562623250016.htm'}
+{'staff': 'Android实习生', 'salary': 1500.0, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/697619221250028.htm'}
+{'staff': 'Android高级工程师', 'salary': 7000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/697619221250003.htm'}
+{'staff': 'WEB端开发工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/332499834250029.htm'}
+{'staff': '软件开发工程师', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/578643529250035.htm'}
+{'staff': '软件开发工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/578643529250036.htm'}
+{'staff': 'APP维护员', 'salary': 4000.0, 'position': '柳州-鱼峰区', 'details_url': 'http://jobs.zhaopin.com/481708588250000.htm'}
+{'staff': '高级软件开发工程师', 'salary': 9000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/407505119250052.htm'}
+{'staff': 'Android开发工程师', 'salary': 5500.5, 'position': '南宁-青秀区', 'details_url': 'http://jobs.zhaopin.com/370503582250003.htm'}
+{'staff': 'Android开发工程师', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/697619221250000.htm'}
+{'staff': 'IOS APP工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/675353725250051.htm'}
+{'staff': '软件工程师', 'salary': 6000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/646558027250059.htm'}
+{'staff': '前端开发工程师（WEB）', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/301533114250307.htm'}
+{'staff': '技术储备生', 'salary': 3000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/301533114250310.htm'}
+{'staff': '测试工程师/软件测试', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/000426157250449.htm'}
+{'staff': '大数据开发/Hadoop', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/000426157250465.htm'}
+{'staff': '中级软件工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/286683030250002.htm'}
+{'staff': '软件开发经理', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/286683030250004.htm'}
+{'staff': '高级软件开发工程师', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/286683030250003.htm'}
+{'staff': 'Android开发工程师', 'salary': 9000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/442745433250083.htm'}
+{'staff': '软件开发岗', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/390397938250035.htm'}
+{'staff': '中高级软件测试经理（南宁）', 'salary': 6500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/000598172251347.htm'}
+{'staff': '软件工程师', 'salary': 9000.0, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/266709089250000.htm'}
+{'staff': '软件工程师', 'salary': 9000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/266709089250001.htm'}
+{'staff': 'PHP程序员/开发工程师', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/412050436250006.htm'}
+{'staff': 'BI开发工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/638846321250101.htm'}
+{'staff': 'BI项目经理', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/638846321250260.htm'}
+{'staff': '测试项目经理', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/638846321250268.htm'}
+{'staff': '软件开发工程师', 'salary': 3000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/219823787250040.htm'}
+{'staff': '软件开发工程师', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/219823787250043.htm'}
+{'staff': '软件开发工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/219823787250042.htm'}
+{'staff': '软件开发项目经理', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/219823787250048.htm'}
+{'staff': '软件开发项目经理', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/219823787250003.htm'}
+{'staff': '系统架构工程师', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/687368422250209.htm'}
+{'staff': '计算机应用系统维护岗', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/401641637250003.htm'}
+{'staff': '计算机软件维护岗', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/401641637250001.htm'}
+{'staff': '软件技术工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/269909332250000.htm'}
+{'staff': 'Android 工程师', 'salary': 7000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/514677680250003.htm'}
+{'staff': '急聘APP软件开发软件开发大神', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/418723032250003.htm'}
+{'staff': 'Android 开发工程师', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/407505119250058.htm'}
+{'staff': '程序员', 'salary': 9000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/244820280250001.htm'}
+{'staff': '程序员', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/244820280250000.htm'}
+{'staff': '软件开发工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/418723032250002.htm'}
+{'staff': '移动应用资深开发工程师', 'salary': 7500.0, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/263142237250053.htm'}
+{'staff': 'Android开发工程师', 'salary': 7000.5, 'position': '桂林-七星区', 'details_url': 'http://jobs.zhaopin.com/474694486250002.htm'}
+{'staff': 'VC++开发工程师', 'salary': 7000.5, 'position': '桂林-七星区', 'details_url': 'http://jobs.zhaopin.com/474694486250003.htm'}
+{'staff': '4K程序开发员助理/实习（周末双休）', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/540174027250060.htm'}
+{'staff': 'C#程序员', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/236955382250021.htm'}
+{'staff': '软件开发工程师', 'salary': 6500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/463945527250028.htm'}
+{'staff': '实习生', 'salary': 3000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/276573088250045.htm'}
+{'staff': '软件开发-广西分公司-南宁(001179)', 'salary': -1, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/705918026250545.htm'}
+{'staff': '前端工程师', 'salary': 4000.0, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/CZ730909090J00006822106.htm'}
+{'staff': '安卓开发程序员', 'salary': 6000.0, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/706203526250127.htm'}
+{'staff': 'WEB前端工程师', 'salary': 6000.0, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/706203526250081.htm'}
+{'staff': '研发部经理', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/452687539250012.htm'}
+{'staff': '系统架构师', 'salary': 11000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/452687539250015.htm'}
+{'staff': 'Android开发工程师（南宁）', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/000598172250977.htm'}
+{'staff': '4k起招零基础软件开发工程师双休', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/300084784250632.htm'}
+{'staff': '研发项目经理', 'salary': 13000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/231043217252000.htm'}
+{'staff': '开发经理', 'salary': 12500.5, 'position': '南宁-青秀区', 'details_url': 'http://jobs.zhaopin.com/506364481250000.htm'}
+{'staff': '数据库管理员（DBA）', 'salary': 7000.5, 'position': '南宁-青秀区', 'details_url': 'http://jobs.zhaopin.com/130494465253709.htm'}
+{'staff': '项目经理', 'salary': 15000.0, 'position': '贵港', 'details_url': 'http://jobs.zhaopin.com/130494465253703.htm'}
+{'staff': 'DBA工程师', 'salary': -1, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/145470510258025.htm'}
+{'staff': '网站技术部经理', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/264137888250050.htm'}
+{'staff': '软件开发工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/201832636250016.htm'}
+{'staff': 'Android工程师JD', 'salary': 85000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/428239680250019.htm'}
+{'staff': '技术总监', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/428239680250026.htm'}
+{'staff': '软件研发工程师', 'salary': 12500.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/564722129251140.htm'}
+{'staff': '大数据开发工程师【广西项目】', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/327037487250143.htm'}
+{'staff': '软件工程师（无责任底薪+高项目提成）', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/209732211315330.htm'}
+{'staff': 'ArcGIS软件开发程序员', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/335192332250012.htm'}
+{'staff': '赴日软件工程师', 'salary': 20000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/255811685250607.htm'}
+{'staff': '软件开发工程师', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/256959236250084.htm'}
+{'staff': '微信开发', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/418723032250001.htm'}
+{'staff': '程序员 有赴日就业机会 月薪11K起', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/299215631250120.htm'}
+{'staff': '高级软件开发总监(15000元/月）', 'salary': 12500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/256959236250082.htm'}
+{'staff': '前端开发工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/287895188250107.htm'}
+{'staff': '后台开发工程师', 'salary': 5000.0, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/428803039250020.htm'}
+{'staff': 'Android开发工程师', 'salary': 6250.0, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/428803039250017.htm'}
+{'staff': '程序员实习生', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/570647524250105.htm'}
+{'staff': '软件开发实习生（暑假实）', 'salary': 3000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/570647524250017.htm'}
+{'staff': 'WEB UI工程师', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/570647524250184.htm'}
+{'staff': '软件开发工程师', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/399666580250018.htm'}
+{'staff': '电子工程系电子信息工程教师', 'salary': 5000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/333337523250072.htm'}
+{'staff': '信息工程系计算机科学与技术教师', 'salary': 5000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/333337523250108.htm'}
+{'staff': 'php工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/320024535250009.htm'}
+{'staff': '桂林-高级软件工程师', 'salary': 8000.0, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/000587837250723.htm'}
+{'staff': '软件技术员', 'salary': 6000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/597008620250001.htm'}
+{'staff': '系统架构师', 'salary': 11500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/361196318251478.htm'}
+{'staff': '研发经理', 'salary': 11500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/361196318251486.htm'}
+{'staff': '研发工程师（高级）', 'salary': 17500.5, 'position': '南宁-青秀区', 'details_url': 'http://jobs.zhaopin.com/361196318251494.htm'}
+{'staff': '研发工程师（中级）', 'salary': 7500.0, 'position': '南宁-青秀区', 'details_url': 'http://jobs.zhaopin.com/361196318251491.htm'}
+{'staff': '运维工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/504452282250021.htm'}
+{'staff': '软件开发工程师/程序员', 'salary': 4500.0, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/CZ726912390J00006846008.htm'}
+{'staff': '测试专员', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/570854823250031.htm'}
+{'staff': '软件开发工程师（10000元/月）', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/256959236250073.htm'}
+{'staff': '测试助理/实习五险一金', 'salary': 3000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/541455620250028.htm'}
+{'staff': '程序员/软件开发工程师', 'salary': 3000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/541455620250035.htm'}
+{'staff': 'web前端项目经理', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/200308734250107.htm'}
+{'staff': 'web前端项目经理', 'salary': 9000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/200308734250108.htm'}
+{'staff': 'web前端项目经理', 'salary': 9000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/200308734250109.htm'}
+{'staff': 'web前端项目经理', 'salary': 9000.5, 'position': '北海', 'details_url': 'http://jobs.zhaopin.com/200308734250110.htm'}
+{'staff': '信息工程系网络工程教师', 'salary': 5000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/333337523250074.htm'}
+{'staff': '后台开发程序员', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/268684587250099.htm'}
+{'staff': '高薪聘UI设计讲师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/402034834250030.htm'}
+{'staff': '软件工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/409400128250203.htm'}
+{'staff': '技术总监', 'salary': 7000.0, 'position': '桂林-叠彩区', 'details_url': 'http://jobs.zhaopin.com/365137334250024.htm'}
+{'staff': '软件工程师教员', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/399666580250005.htm'}
+{'staff': '研发测试工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/405811814250461.htm'}
+{'staff': '微信开发工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/243228436250022.htm'}
+{'staff': '实施工程师', 'salary': 5750.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/219838732250473.htm'}
+{'staff': '高级软件工程师（NN01001）', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/000103761252136.htm'}
+{'staff': '高薪软件工程师零基础+13薪', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/445776785250671.htm'}
+{'staff': 'PHP工程师（广西2）', 'salary': 7000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/120533378250152.htm'}
+{'staff': '无经验UI设计学徒包食宿', 'salary': 4000.0, 'position': '南宁-青秀区', 'details_url': 'http://jobs.zhaopin.com/300084784252788.htm'}
+{'staff': '技术总监', 'salary': 12500.5, 'position': '南宁-青秀区', 'details_url': 'http://jobs.zhaopin.com/493238136250003.htm'}
+{'staff': '南宁大数据讲师', 'salary': 11500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/375882789250161.htm'}
+{'staff': 'Android开发工程师', 'salary': 3000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/255112630250069.htm'}
+{'staff': '国企9k大数据工程师（零基础转行可投）', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/388672588254596.htm'}
+{'staff': '国企8k大数据开发工程师（免费”零基础”岗前培训）', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/388672588253373.htm'}
+{'staff': '项目经理', 'salary': 7000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/183424026250036.htm'}
+{'staff': 'PHP工程师（广西2）', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/120533378250150.htm'}
+{'staff': '软件测试实习生+五险一金+包住', 'salary': 3750.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/480466934250053.htm'}
+{'staff': 'PHP工程师（广西2）', 'salary': 7000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/120533378250151.htm'}
+{'staff': '技术总监', 'salary': 11500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/346840786250039.htm'}
+{'staff': '软件系统运维', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/405479236250008.htm'}
+{'staff': '软件开发工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/405479236250007.htm'}
+{'staff': '技术支持、服务器运维工程师', 'salary': 4500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/338509816250081.htm'}
+{'staff': '技术支持、服务器运维工程师（急招）', 'salary': 4500.0, 'position': '南宁-西乡塘区', 'details_url': 'http://jobs.zhaopin.com/338509816250096.htm'}
+{'staff': '技术支持工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/365750219250624.htm'}
+{'staff': '华南项目经理', 'salary': 14000.0, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/326593831250119.htm'}
+{'staff': '前台工程师（移动端）', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/329720835250028.htm'}
+{'staff': '软件开发（核心网工程师）', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/56400182190250338000.htm'}
+{'staff': '医疗实施项目经理', 'salary': -1, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/193399815255966.htm'}
+{'staff': '技术支持工程师', 'salary': 5000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/365750219250625.htm'}
+{'staff': '项目经理（医疗行业实施方向）', 'salary': 6500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/442788432250029.htm'}
+{'staff': '网站技术总监', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/264137888250043.htm'}
+{'staff': '软件开发工程师', 'salary': 7500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/000350521250268.htm'}
+{'staff': 'PHP讲师', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/570647524250334.htm'}
+{'staff': '软件工程师', 'salary': -1, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/000456713305533.htm'}
+{'staff': '软件工程师', 'salary': -1, 'position': '梧州', 'details_url': 'http://jobs.zhaopin.com/000456713305534.htm'}
+{'staff': '大数据实施高级工程师-驻南宁', 'salary': 7000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/340780835250076.htm'}
+{'staff': 'Android工程师', 'salary': 3000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/539604325250224.htm'}
+{'staff': '软件研发工程师（无责任底薪+高项目提成）', 'salary': 5000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/476472628275085.htm'}
+{'staff': '测试工具开发工程师(软件测试质量管理部）', 'salary': 7000.5, 'position': '柳州-城中区', 'details_url': 'http://jobs.zhaopin.com/407505119250046.htm'}
+{'staff': '应用运维工程师', 'salary': 7000.5, 'position': '柳州-城中区', 'details_url': 'http://jobs.zhaopin.com/407505119250048.htm'}
+{'staff': '软件开发实习生', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/479196881250003.htm'}
+{'staff': '脚本程序开发工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/252953533250012.htm'}
+{'staff': '见习软件开发工程师', 'salary': 5000.5, 'position': '柳州-城中区', 'details_url': 'http://jobs.zhaopin.com/407505119250050.htm'}
+{'staff': '大数据平台和云计算平台研发工程师', 'salary': 10000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/000623211250900.htm'}
+{'staff': '现场项目经理兼开发工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/220454826250559.htm'}
+{'staff': '信息工程系计算机科学与技术教师（工作地点：桂林）', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/333337523250104.htm'}
+{'staff': '信息工程系网络工程教师（工作地点：桂林）', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/333337523250103.htm'}
+{'staff': '软件实施/技术支持工程师', 'salary': 4500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/570701729250270.htm'}
+{'staff': 'GIS软件开发工程师', 'salary': 8000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/000623211250901.htm'}
+{'staff': '电子工程系电子信息工程教师（工作地点：桂林）', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/333337523250101.htm'}
+{'staff': '软件测试工程师', 'salary': 7000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/144907286250204.htm'}
+{'staff': '数据库开发工程师助理+双休', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/209732211313292.htm'}
+{'staff': '月6K起/软件研发工程师（双休）', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/209732211313099.htm'}
+{'staff': '互联网软件开发工程师（双休五险接受应届实习生）', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/209732211313536.htm'}
+{'staff': '零基础+互联网软件工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/209732211313542.htm'}
+{'staff': '软件研发工程师', 'salary': 7000.5, 'position': '南宁-青秀区', 'details_url': 'http://jobs.zhaopin.com/317202138250036.htm'}
+{'staff': 'Android/ios开发工程师(工作地址：广西南宁)', 'salary': 9000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/442745433250077.htm'}
+{'staff': '售前/项目管理/技术支持', 'salary': 6500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/532562623250005.htm'}
+{'staff': '软件工程师', 'salary': 4250.0, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/503815129250369.htm'}
+{'staff': '实施工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/543994825251346.htm'}
+{'staff': 'Delphi开发工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/153748615250095.htm'}
+{'staff': '高级工程师', 'salary': -1, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/00032273690251243000.htm'}
+{'staff': '软件项目经理（急）', 'salary': 10000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/307539686250003.htm'}
+{'staff': '软件服务工程师（工作地点：南宁）', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/177354924250021.htm'}
+{'staff': '软件服务工程师(工作地点：柳州)', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/177354924250016.htm'}
+{'staff': '软件实施工程师', 'salary': 8000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/475098985250004.htm'}
+{'staff': '高级软件工程师', 'salary': 6500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/130494465253603.htm'}
+{'staff': '软件开发工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/120934835251372.htm'}
+{'staff': '实施工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/252325115250611.htm'}
+{'staff': '网站运维工程师（可实习）+包住', 'salary': 4750.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/480483435250108.htm'}
+{'staff': '软件测试实习生+五险一金+包住', 'salary': 4250.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/480483435250094.htm'}
+{'staff': '项目经理助理+五险一金+包住', 'salary': 4250.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/480483435250098.htm'}
+{'staff': 'Cocos2d-x开发工程师', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/344901320250003.htm'}
+{'staff': 'Cocos2d-x开发工程师', 'salary': 12500.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/344901320250002.htm'}
+{'staff': '网站开发', 'salary': 7500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/674332222250013.htm'}
+{'staff': '助理工程师（健康监测）', 'salary': 3500.0, 'position': '柳州-鱼峰区', 'details_url': 'http://jobs.zhaopin.com/228637432250002.htm'}
+{'staff': '微信二次开发主管', 'salary': 8500.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/674332222250006.htm'}
+{'staff': '市场类岗位-广西分公司-广西南宁(000503)', 'salary': -1, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/705918026250486.htm'}
+{'staff': 'Web开发网页设计工程师', 'salary': 7500.0, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/496652286250002.htm'}
+{'staff': '软件开发工程师', 'salary': 6000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/120934835251374.htm'}
+{'staff': '软件测试工程师', 'salary': 6000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/120934835251375.htm'}
+{'staff': '移动开发工程师', 'salary': 3000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/135407575250007.htm'}
+{'staff': '软件工程师', 'salary': 3000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/135407575250006.htm'}
+{'staff': '软件工程师', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/673895926250036.htm'}
+{'staff': '软件测试工程师', 'salary': 6000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/120934835251368.htm'}
+{'staff': '软件工程师', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/570854823250025.htm'}
+{'staff': 'NC客开工程师', 'salary': 10000.0, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/303317519252550.htm'}
+{'staff': '安卓程序员', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/531446428250029.htm'}
+{'staff': '软件测试工程师', 'salary': 4500.0, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/403988135250007.htm'}
+{'staff': '销售代表2500+提成', 'salary': 9000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/419441031250009.htm'}
+{'staff': '电商网络运营', 'salary': 5000.5, 'position': '玉林', 'details_url': 'http://jobs.zhaopin.com/459852138250002.htm'}
+{'staff': '手机APP系统运维工程师', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/CZ734712290J00000384806.htm'}
+{'staff': '手机APP开发工程师', 'salary': 7000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/CZ734712290J00000384006.htm'}
+{'staff': '开发工程师', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/372210387250008.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '贵港', 'details_url': 'http://jobs.zhaopin.com/502241687250494.htm'}
+{'staff': '应用体验人员(外贸/会计/司机/JAVA/前台/秘书 可做)', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/502241687250487.htm'}
+{'staff': '手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/503952985250049.htm'}
+{'staff': '✅手机APP试用，随时可做-前台/会计/司机/JAVA/文员/秘书均可做', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/326251982250165.htm'}
+{'staff': '✅手机APP试用，随时可做-前台/会计/司机/JAVA/文员/秘书均可做', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/326251982250166.htm'}
+{'staff': 'APP试用 随时可做(外贸/会计/司机/JAVA/前台/秘书,可做)', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/636329420251455.htm'}
+{'staff': 'APP试用 随时可做(外贸/会计/司机/JAVA/前台/秘书,可做)', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/636329420251594.htm'}
+{'staff': 'APP试用 随时可做(外贸/会计/司机/JAVA/前台/秘书,可做)', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/636329420251873.htm'}
+{'staff': 'APP试用 随时可做(外贸/会计/司机/JAVA/前台/秘书,可做)', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/636329420251908.htm'}
+{'staff': 'APP试用 随时可做(外贸/会计/司机/JAVA/前台/秘书,可做)', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/636329420251769.htm'}
+{'staff': 'APP试用 随时可做(外贸/会计/司机/JAVA/前台/秘书,可做)', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/636329420251699.htm'}
+{'staff': 'APP试用 随时可做(外贸/会计/司机/JAVA/前台/秘书,可做)', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/636329420251975.htm'}
+{'staff': '✅应用体验人员（质检/平面设计/客服/老师/web前端.net Java）', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/636329420251523.htm'}
+{'staff': '✅手机APP试用 随时可做(外贸/会计/司机/JAVA/前台/秘书,可做)', 'salary': 40000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/391149537250359.htm'}
+{'staff': '✅手机APP试用 随时可做(外贸/会计/司机/JAVA/前台/秘书,可做)', 'salary': 40000.5, 'position': '北海', 'details_url': 'http://jobs.zhaopin.com/391149537250362.htm'}
+{'staff': '✅手机APP试用,随时可做（UI/UX/php/java/ios/android管理可做）', 'salary': 40000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/391149537250260.htm'}
+{'staff': '✅手机APP试用 随时可做(外贸/会计/司机/JAVA/前台/秘书,可做)', 'salary': 40000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/391149537250361.htm'}
+{'staff': '✅手机APP试用 随时可做(外贸/会计/司机/JAVA/前台/秘书,可做)', 'salary': 40000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/391149537250360.htm'}
+{'staff': '✅应用体验人员（质检/平面设计/客服/老师/web前端.net Java）', 'salary': 40000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/391149537251301.htm'}
+{'staff': '✅应用体验人员（质检/平面设计/客服/老师/web前端.net Java）', 'salary': 40000.5, 'position': '玉林', 'details_url': 'http://jobs.zhaopin.com/391149537251304.htm'}
+{'staff': '✅应用体验人员（质检/平面设计/客服/老师/web前端.net Java）', 'salary': 40000.5, 'position': '贵港', 'details_url': 'http://jobs.zhaopin.com/391149537251303.htm'}
+{'staff': '✅应用体验人员（质检/平面设计/客服/老师/web前端.net Java）', 'salary': 40000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/391149537251302.htm'}
+{'staff': '✅手机APP下载 随时可做(外贸/会计/司机/JAVA/前台/秘书,可做)', 'salary': 40000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/391149537251618.htm'}
+{'staff': '有手机 WiFi就可做（平面设计/客服/老师/web前端.net java可做）', 'salary': 40000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/391149537252126.htm'}
+{'staff': '✅手机APP体验(外贸/会计/司机/JAVA/前台/秘书,人人可做)', 'salary': 40000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/391149537251521.htm'}
+{'staff': '✅手机APP体验(外贸/会计/司机/JAVA/前台/秘书,人人可做)', 'salary': 40000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/391149537251520.htm'}
+{'staff': '✅手机APP下载 随时可做(外贸/会计/司机/JAVA/前台/秘书,可做)', 'salary': 40000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/391149537251619.htm'}
+{'staff': '✅手机APP体验 操作简单(外贸/会计/司机/JAVA/前台/秘书,可做)', 'salary': 40000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/391149537251897.htm'}
+{'staff': 'JAVA程序员', 'salary': 6000.0, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/671655225250027.htm'}
+{'staff': 'java/C++/android软件开发工程师实习+转正', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/447375014263650.htm'}
+{'staff': 'JAVA工程师/五险一金+双休', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/209732211316319.htm'}
+{'staff': 'Java項目經理2', 'salary': 12500.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/120533378250185.htm'}
+{'staff': 'Java項目經理2', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/120533378250184.htm'}
+{'staff': 'Java項目經理2', 'salary': 12500.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/120533378250186.htm'}
+{'staff': '4k起 诚招Java开发工程师福利好高薪', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/537297129250700.htm'}
+{'staff': 'Java程序开发员实习生', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/540174027250185.htm'}
+{'staff': 'java软件工程师国企定岗生', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/447375014263856.htm'}
+{'staff': '手机APP试用 随时可做(外贸/会计/司机/JAVA/前台/秘书,可做)', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/636329420252010.htm'}
+{'staff': 'java/C++/.net /android/PHP/嵌入式软件开发工程师实习+转正', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/447375014265279.htm'}
+{'staff': 'JAVA开发实习生', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/710777126252675.htm'}
+{'staff': 'java开发实习生', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/408254231253320.htm'}
+{'staff': 'java/C++/.net /android/PHP/嵌入式软件开发工程师实习+转正', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/447375014265185.htm'}
+{'staff': 'java/C++/.net /android/PHP/嵌入式软件开发工程师实习+转正', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/447375014265052.htm'}
+{'staff': 'IT技术人员-java/php/python', 'salary': 5000.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/120533378250297.htm'}
+{'staff': 'Java項目經理1', 'salary': 12500.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/120533378250180.htm'}
+{'staff': 'IT技术人员-java/php/python', 'salary': 5000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/120533378250296.htm'}
+{'staff': 'IT技术人员-java/php/python', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/120533378250295.htm'}
+{'staff': '招Java程序开发员', 'salary': 5000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/540174027250511.htm'}
+{'staff': 'Java項目經理3', 'salary': 12500.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/120533378250190.htm'}
+{'staff': 'Java項目經理3', 'salary': 12500.5, 'position': '柳州', 'details_url': 'http://jobs.zhaopin.com/120533378250189.htm'}
+{'staff': '广西地区java工程师（2）', 'salary': 7000.5, 'position': '北海', 'details_url': 'http://jobs.zhaopin.com/120533378250138.htm'}
+{'staff': '广西地区java工程师（2）', 'salary': 7000.5, 'position': '南宁', 'details_url': 'http://jobs.zhaopin.com/120533378250135.htm'}
+{'staff': '广西地区java工程师（2）', 'salary': 7000.5, 'position': '桂林', 'details_url': 'http://jobs.zhaopin.com/120533378250137.htm'}

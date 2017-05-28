@@ -2,8 +2,9 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QDesktopWidget
 import sys
 import os
-from handle import Handle
 from zhilian.zhilian import Zhilian
+import threading
+
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
@@ -26,9 +27,9 @@ class Ui_MainWindow(object):
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
 
-        self.postionEdit = QtWidgets.QLineEdit(self.centralwidget)
-        self.postionEdit.setGeometry(QtCore.QRect(20, 40, 300, 30))
-        self.postionEdit.setObjectName("postionEdit")
+        self.positionEdit = QtWidgets.QLineEdit(self.centralwidget)
+        self.positionEdit.setGeometry(QtCore.QRect(20, 40, 300, 30))
+        self.positionEdit.setObjectName("positionEdit")
 
         self.keywordEdit = QtWidgets.QLineEdit(self.centralwidget)
         self.keywordEdit.setGeometry(QtCore.QRect(390, 40, 500, 30))
@@ -45,24 +46,34 @@ class Ui_MainWindow(object):
         self.SalaryImage.setObjectName("SalaryImage")
         
 
-        self.PostionImage = QtWidgets.QLabel(self.centralwidget)
-        self.PostionImage.setGeometry(QtCore.QRect(20, 80, 500, 600))
-        self.PostionImage.setAlignment(QtCore.Qt.AlignCenter)
-        self.PostionImage.setObjectName("PostionImage")
+        self.PositionImage = QtWidgets.QLabel(self.centralwidget)
+        self.PositionImage.setGeometry(QtCore.QRect(20, 80, 500, 600))
+        self.PositionImage.setAlignment(QtCore.Qt.AlignCenter)
+        self.PositionImage.setObjectName("PositionImage")
 
-        #self.show_image()
+        PixMapSalary = QtGui.QPixmap(os.getcwd() + '/resource/zhilian/images/1.png').scaled(400,600)
+        self.SalaryImage.setPixmap(PixMapSalary)
+        PixMapPosition = QtGui.QPixmap(os.getcwd() + '/resource/zhilian/images/2.png').scaled(500,500)
+        self.PositionImage.setPixmap(PixMapPosition)
+
         
-        self.PostionLabel = QtWidgets.QLabel(self.centralwidget)
-        self.PostionLabel.setGeometry(QtCore.QRect(20, 5, 300, 30))
-        self.PostionLabel.setObjectName("PostionLabel")
+        
+        self.PositionLabel = QtWidgets.QLabel(self.centralwidget)
+        self.PositionLabel.setGeometry(QtCore.QRect(20, 5, 300, 30))
+        self.PositionLabel.setObjectName("PositionLabel")
 
         self.KeywordLabel = QtWidgets.QLabel(self.centralwidget)
         self.KeywordLabel.setGeometry(QtCore.QRect(390, 0, 500, 30))
         self.KeywordLabel.setObjectName("KeywordLabel")
 
         self.listWidget = QtWidgets.QListWidget(self.centralwidget)
-        self.listWidget.setGeometry(QtCore.QRect(969, 80, 300, 600))
+        self.listWidget.setGeometry(QtCore.QRect(970, 80, 300, 600))
         self.listWidget.setObjectName("listWidget")
+
+        self.progressBar = QtWidgets.QProgressBar(self.centralwidget)
+        self.progressBar.setGeometry(QtCore.QRect(970, 10, 300, 20))
+        self.progressBar.setProperty("value", 0)
+        self.progressBar.setObjectName("progressBar")
 
         MainWindow.setCentralWidget(self.centralwidget)
         self.menubar = QtWidgets.QMenuBar(MainWindow)
@@ -79,33 +90,55 @@ class Ui_MainWindow(object):
         self.retranslateUi(MainWindow)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
 
+        self.StaffTheard = HandleStaff(self.listWidget)
+        self.StaffTheard.start()
+
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
         self.serchBtn.setText(_translate("MainWindow", "search"))
         #self.SalaryImage.setText(_translate("MainWindow", "Salary Image"))
-        #self.PostionImage.setText(_translate("MainWindow", "Postion Image"))
-        self.PostionLabel.setText(_translate("MainWindow", "postion:"))
+        #self.PositionImage.setText(_translate("MainWindow", "Position Image"))
+        self.PositionLabel.setText(_translate("MainWindow", "position:"))
         self.KeywordLabel.setText(_translate("MainWindow", "Key word:"))
 
     def work(self):
-
-        postion = self.postionEdit.text()
+        position = self.positionEdit.text()
         keyword = self.keywordEdit.text()
-        self.workTheard = Handle(postion,keyword)
+
+        self.workTheard = Zhilian(position,keyword,self.progressBar)
         self.workTheard.start()
+     
         self.workTheard.trigger.connect(self.show_image)
 
 
+    def show_staff(self):
+        with open(os.getcwd() + '/resource/zhilian/staff.txt') as f:
+            for i in range(20):
+                staff = f.readline()
+                self.listWidget.addItem(staff)
         
     def show_image(self,job_list):
         PixMapSalary = QtGui.QPixmap(os.getcwd() + '/resource/zhilian/images/1.png').scaled(400,600)
         self.SalaryImage.setPixmap(PixMapSalary)
-        PixMapPostion = QtGui.QPixmap(os.getcwd() + '/resource/zhilian/images/2.png').scaled(500,500)
-        self.PostionImage.setPixmap(PixMapPostion)
+        PixMapPosition = QtGui.QPixmap(os.getcwd() + '/resource/zhilian/images/2.png').scaled(500,500)
+        self.PositionImage.setPixmap(PixMapPosition)
 
-        for i in range(20):
-            self.listWidget.addItem(job_list[i]['staff'])
+        self.listWidget.clear()
+
+        self.show_staff()
+
+class HandleStaff(QtCore.QThread):
+    def __init__(self,listWidget):
+        super().__init__()
+        self.listWidget = listWidget
+
+    def run(self):
+        with open(os.getcwd() + '/resource/zhilian/staff.txt') as f:
+            for i in range(20):
+                staff = f.readline()
+                self.listWidget.addItem(staff)
+
         
 
 
