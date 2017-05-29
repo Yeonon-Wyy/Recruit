@@ -5,8 +5,9 @@ class Main(QMainWindow,Ui_MainWindow):
     def __init__(self):
         QMainWindow.__init__(self)
         self.setupUi(self)
+        self.staff_list = []
 
-        
+    
 
     #开启主线程外的另一个线程，防止UI阻塞，注意到在那个线程里爬数据的时候再次开启了多线程，这是可以的，也是python和Qt 灵活的地方
     def work(self):
@@ -21,23 +22,16 @@ class Main(QMainWindow,Ui_MainWindow):
 
         self.workTheard = Zhilian(position,keyword,self.progressBar,page_number)
         self.workTheard.start()
-
-        
+     
         self.workTheard.trigger2.connect(self.networkError)
         self.workTheard.trigger.connect(self.show_image)
 
 
 
+    #槽函数    
+    def save_staff(self,staff_list):
+        self.staff_list = staff_list
 
-
-    #槽函数
-    
-    def show_staff(self):
-        print('show')
-        self.StaffTheard = HandleStaff(self.listWidget)
-        self.StaffTheard.start()
-      
-    
     #将图像显示到界面上来，使用QLabel
     def show_image(self):
         PixMapSalary = QtGui.QPixmap(os.getcwd() + '/resource/zhilian/images/1.png').scaled(400,600)
@@ -46,7 +40,11 @@ class Main(QMainWindow,Ui_MainWindow):
         self.PositionImage.setPixmap(PixMapPosition)
 
         self.listWidget.clear()
-        self.show_staff()
+        
+        #读取新的数据
+        self.StaffTheard = HandleStaff(self.listWidget)
+        self.StaffTheard.start()
+        self.StaffTheard.trigger.connect(self.save_staff)
     
         
 
@@ -55,6 +53,13 @@ class Main(QMainWindow,Ui_MainWindow):
         print(self.listWidget.currentItem().text())
         print(self.listWidget.currentRow())
         current_row = self.listWidget.currentRow()
+
+        for i in range(current_row + 1):
+            if i == current_row:
+                url = self.staff_list[i].split(',')[1]
+                print(url)
+                webbrowser.open_new(url)
+        """
         with open(os.getcwd() + '/resource/zhilian/staff.txt','r') as f:
             for i in range(current_row + 1):
                 line = f.readline()
@@ -63,10 +68,7 @@ class Main(QMainWindow,Ui_MainWindow):
                     print(url)
                     webbrowser.open(url)
                     break
-
-
-        #webbrowser.open('http://www.baidu.com')
-
+        """
 
 
     #网络异常的时候，弹出消息框，但不退出程序

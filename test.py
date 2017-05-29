@@ -15,7 +15,7 @@ from PyQt5.QtCore import *
 
 
 
-class Zhilian(QThread):
+class CrawlBase:
 	trigger = pyqtSignal()
 	trigger2 = pyqtSignal()
 	def __init__(self,position,keyword,progressBar,page_number):
