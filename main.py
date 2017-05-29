@@ -5,6 +5,7 @@ import webbrowser
 #导入自写类
 from mainWIndow import *
 from zhilian.zhilian import ZhilianCrawl
+from GenImage import GenImage
 
 
 class Main(QMainWindow,Ui_MainWindow):
@@ -22,16 +23,15 @@ class Main(QMainWindow,Ui_MainWindow):
         if position == '':
             position = '北京'                             #为避免数据错乱，如用户不输入地点，则默认为北京
 
-    
         keyword = self.keywordEdit.text()
         page_number = self.spinBox.value()
-
         self.workTheard = ZhilianCrawl(position,keyword,self.progressBar,page_number)
         self.workTheard.start()
-     
+
         self.workTheard.trigger2.connect(self.networkError)
         self.workTheard.trigger.connect(self.show_image)
-
+        
+        
 
 
     #槽函数    
@@ -40,6 +40,14 @@ class Main(QMainWindow,Ui_MainWindow):
 
     #将图像显示到界面上来，使用QLabel
     def show_image(self):
+        #这里本来想在后台执行的，但是会造成 main thread is not in main loop 的错误，既然不在main loop中，我就直接把他放到主线程中来，虽然这样可能会短暂阻塞UI，但是用户基本感觉不到
+        zhilian_image = GenImage(os.getcwd() + '/resource/zhilian/')
+        zhilian_image.generate_image('position_for_image.csv','1.png','bar')				#生成图像，同样，要Exception Checkout
+        zhilian_image.generate_image('salary_for_image.csv','2.png','pie')
+
+        print("线程是否结束")
+        print(self.workTheard.isFinished())
+        print('show_image')
         PixMapSalary = QtGui.QPixmap(os.getcwd() + '/resource/zhilian/images/1.png').scaled(400,600)
         self.SalaryImage.setPixmap(PixMapSalary)
         PixMapPosition = QtGui.QPixmap(os.getcwd() + '/resource/zhilian/images/2.png').scaled(500,500)
@@ -65,16 +73,6 @@ class Main(QMainWindow,Ui_MainWindow):
                 url = self.staff_list[i].split(',')[1]
                 print(url)
                 webbrowser.open_new(url)
-        """
-        with open(os.getcwd() + '/resource/zhilian/staff.txt','r') as f:
-            for i in range(current_row + 1):
-                line = f.readline()
-                if i == current_row:
-                    url = line.split(',')[1]
-                    print(url)
-                    webbrowser.open(url)
-                    break
-        """
 
 
     #网络异常的时候，弹出消息框，但不退出程序
@@ -88,10 +86,7 @@ class Main(QMainWindow,Ui_MainWindow):
         except:
             pass
 
-
-
-
-        
+  
 
 
 if __name__ == '__main__':

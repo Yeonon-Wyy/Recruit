@@ -16,13 +16,7 @@ class CrawlBase(QThread):
 		pass
 
 	def process_url(self):													#作为多线程的目标函数
-		while not self.url_queue.empty():
-			url = self.url_queue.get()
-			try:															#用户有可能在断网的环境先执行，为避免因网络原因导致强退，要执行Exception Checkout
-				self.crawl(url)
-			except TimeoutError as e:
-				print('继续')
-				continue
+		pass
 
 	def crawl(self,url):
 		pass

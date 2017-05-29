@@ -47,42 +47,48 @@ class ZhilianCrawl(CrawlBase):
 			url = self.main_url % (self.POSITION,self.KEYWORD,i)								#直接通过参数生成队列
 			q.put(url)
 		return q
+
+	def process_url(self):
+		while not self.url_queue.empty():
+			url = self.url_queue.get()
+			try:															#用户有可能在断网的环境先执行，为避免因网络原因导致强退，要执行Exception Checkout
+				self.crawl(url)
+			except TimeoutError as e:
+				continue
 	
 	def run(self):
 		self.progressBar.setValue(0)
 		
 		#这里的线程感觉存在问题，但是并不知道问题出现在哪（暂时这样吧，回去看看书）
-		#开启多线程	这里暂定为4个线程（其实8个更好，为避免爬取速度过快，导致用户IP被封，故暂定8个）
-		t1 = threading.Thread(target=self.process_url,daemon=True)
-		t2 = threading.Thread(target=self.process_url,daemon=True)
-		t3 = threading.Thread(target=self.process_url,daemon=True)
-		t4 = threading.Thread(target=self.process_url,daemon=True)
+		#开启多线程	这里暂定为4个线程（其实8个更好，为避免爬取速度过快，导致用户IP被封，故暂定4个
+		t1 = threading.Thread(target=self.process_url)
+		t2 = threading.Thread(target=self.process_url)
+		t3 = threading.Thread(target=self.process_url)
+		t4 = threading.Thread(target=self.process_url)
 		t1.start()
 		t2.start()
 		t3.start()
 		t4.start()
+		print('t1是否存活')
+		print(t1.is_alive())
 		t1.join()
 		t2.join()
 		t3.join()
 		t4.join()
+		print('t1是否存活')
+		print(t1.is_alive())
 		
-		print('run')
-
+		
 		self.salary_handle()																	#保存文件，单独存放薪水，用于方便生成图像，下同
 		self.position_handle()
 		self.saveAll()
 		self.staff_handle()																		#保存文件，单独存放职位名称和对应的URL
-
-		zhilian_image = GenImage(self.file_path)
-		try:
-			zhilian_image.generate_image('position_for_image.csv','1.png','bar')				#生成图像，同样，要Exception Checkout
-			zhilian_image.generate_image('salary_for_image.csv','2.png','pie')
-		except:
-			self.trigger2.emit()				
+		
+		#self.trigger2.emit()				
 
 		self.trigger.emit()																		#爬取完毕，要发送信号给UI主线程，并执行相应的槽函数
 
-
+	
 	def crawl(self,url):
 		try:
 			r = requests.get(url,headers=self.headers,timeout=10)
@@ -114,7 +120,8 @@ class ZhilianCrawl(CrawlBase):
 
 			self.job_infos.append(info)															#修改共享数据
 		print('start_process')
-		self.MyLock.release()																	#务必要解锁，否则其他线程永远无法进入这个部分，但是其他线程又已经从URL队列里得到url并请求了，最终会导致爬取数据不全
+		self.MyLock.release()	
+		self.url_queue.task_done()																#务必要解锁，否则其他线程永远无法进入这个部分，但是其他线程又已经从URL队列里得到url并请求了，最终会导致爬取数据不全
 
 	
 

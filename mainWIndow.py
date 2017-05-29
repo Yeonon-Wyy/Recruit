@@ -3,7 +3,6 @@ from PyQt5.QtWidgets import QDesktopWidget,QMainWindow
 import sys
 import os
 
-
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
@@ -157,13 +156,20 @@ class HandleStaff(QtCore.QThread):
 
     def run(self):
         staff_list = []
-        with open(os.getcwd() + '/resource/zhilian/staff.txt') as f:
+        with open(os.getcwd() + '/resource/zhilian/staff.txt','r',encoding='utf-8') as f:
             for i in range(50):
                 staff = f.readline()
                 staff_list.append(staff)
                 staff = staff.split(',')[0]
                 self.listWidget.addItem(staff)
         self.trigger.emit(staff_list)
+
+
+
+        
+
+
+
 
 
 
