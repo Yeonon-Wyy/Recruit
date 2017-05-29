@@ -2,9 +2,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QDesktopWidget,QMainWindow
 import sys
 import os
-from zhilian.zhilian import Zhilian
-import threading
-import webbrowser
+
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
@@ -93,6 +91,7 @@ class Ui_MainWindow(object):
         self.spinBox = QtWidgets.QSpinBox(self.centralwidget)
         self.spinBox.setGeometry(QtCore.QRect(750, 40, 170, 30))
         self.spinBox.setObjectName("spinBox")
+        self.spinBox.setValue(20)
         self.spinBox.setMinimum(1)
         self.spinBox.setMaximum(100)
 
@@ -141,7 +140,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "招聘信息抓取分析器"))
         self.serchBtn.setText(_translate("MainWindow", "搜索"))
         #self.SalaryImage.setText(_translate("MainWindow", "Salary Image"))
         #self.PositionImage.setText(_translate("MainWindow", "Position Image"))

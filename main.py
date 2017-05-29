@@ -1,4 +1,10 @@
+#导入python 语言自带库
+import threading
+import webbrowser
+
+#导入自写类
 from mainWIndow import *
+from zhilian.zhilian import ZhilianCrawl
 
 
 class Main(QMainWindow,Ui_MainWindow):
@@ -20,7 +26,7 @@ class Main(QMainWindow,Ui_MainWindow):
         keyword = self.keywordEdit.text()
         page_number = self.spinBox.value()
 
-        self.workTheard = Zhilian(position,keyword,self.progressBar,page_number)
+        self.workTheard = ZhilianCrawl(position,keyword,self.progressBar,page_number)
         self.workTheard.start()
      
         self.workTheard.trigger2.connect(self.networkError)

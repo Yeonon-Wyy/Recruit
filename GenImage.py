@@ -1,8 +1,6 @@
 """
-这个类使用Matplotlib 和 pandas 读取CSV文件生成简单的图像用于简单的分析
+这个类使用Matplotlib 和 pandas 读取CSV文件生成简单的图像用于简单的分析,是个通用类
 """
-
-
 
 import pandas as pd
 import os
@@ -11,9 +9,9 @@ import numpy as np
 import matplotlib
 
 
-class ZhilianGenImage:
-	def __init__(self):
-		self.FILE_PATH = os.path.abspath('.') + '/resource/zhilian/'
+class GenImage:
+	def __init__(self,filePath):
+		self.FILE_PATH = filePath
 		self.FONT = {
 			'size' : 20
 		}
