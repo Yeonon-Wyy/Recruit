@@ -1,12 +1,14 @@
 """
 这个类使用Matplotlib 和 pandas 读取CSV文件生成简单的图像用于简单的分析,是个通用类
 """
-
+import gc
 import pandas as pd
 import os
 import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib
+
+
 
 
 class GenImage:
@@ -31,3 +33,5 @@ class GenImage:
 			raise TypeError('参数错误')
 
 		plt.savefig(self.FILE_PATH + 'images/' + fileName,dpi=100)
+		plt.close()
+	

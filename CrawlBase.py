@@ -46,7 +46,6 @@ class CrawlBase(QThread):
 				f.write(str(salary) + ',')
 				f.write(str(num) + '\n')
 
-		return fileName
 
 	#对位置分类并统计
 	def position_handle(self):
@@ -67,7 +66,6 @@ class CrawlBase(QThread):
 				f.write(str(position) + ',')
 				f.write(str(num) + '\n')
 
-		return fileName
 
 	def staff_handle(self):
 		fileName = 'staff.txt'

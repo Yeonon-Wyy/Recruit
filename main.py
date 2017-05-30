@@ -1,6 +1,7 @@
 #导入python 语言自带库
 import threading
 import webbrowser
+import gc
 
 #导入自写类
 from mainWIndow import *
@@ -8,12 +9,14 @@ from zhilian.zhilian import ZhilianCrawl
 from GenImage import GenImage
 
 
+
+
+
 class Main(QMainWindow,Ui_MainWindow):
     def __init__(self):
         QMainWindow.__init__(self)
         self.setupUi(self)
         self.staff_list = []
-
     
 
     #开启主线程外的另一个线程，防止UI阻塞，注意到在那个线程里爬数据的时候再次开启了多线程，这是可以的，也是python和Qt 灵活的地方
@@ -30,35 +33,42 @@ class Main(QMainWindow,Ui_MainWindow):
 
         self.workTheard.trigger2.connect(self.networkError)
         self.workTheard.trigger.connect(self.show_image)
+    
+    def show_staff(self):
+            with open(os.getcwd() + '/resource/zhilian/staff.txt','r',encoding='utf-8') as f:
+                for i in range(50):
+                    staff = f.readline()
+                    self.staff_list.append(staff)
+                    staff = staff.split(',')[0]
+                    self.listWidget.addItem(staff)
         
-        
-
-
-    #槽函数    
-    def save_staff(self,staff_list):
-        self.staff_list = staff_list
-
     #将图像显示到界面上来，使用QLabel
     def show_image(self):
         #这里本来想在后台执行的，但是会造成 main thread is not in main loop 的错误，既然不在main loop中，我就直接把他放到主线程中来，虽然这样可能会短暂阻塞UI，但是用户基本感觉不到
-        zhilian_image = GenImage(os.getcwd() + '/resource/zhilian/')
-        zhilian_image.generate_image('position_for_image.csv','1.png','bar')				#生成图像，同样，要Exception Checkout
-        zhilian_image.generate_image('salary_for_image.csv','2.png','pie')
-
-        print("线程是否结束")
-        print(self.workTheard.isFinished())
-        print('show_image')
+        try:
+            self.zhilian_image = GenImage(os.getcwd() + '/resource/zhilian/')
+            self.zhilian_image.generate_image('position_for_image.csv','1.png','bar')				
+            self.zhilian_image.generate_image('salary_for_image.csv','2.png','pie')
+        except:
+            self.networkError()
+        
+        del self.zhilian_image
+        gc.collect()
+        
         PixMapSalary = QtGui.QPixmap(os.getcwd() + '/resource/zhilian/images/1.png').scaled(400,600)
         self.SalaryImage.setPixmap(PixMapSalary)
         PixMapPosition = QtGui.QPixmap(os.getcwd() + '/resource/zhilian/images/2.png').scaled(500,500)
         self.PositionImage.setPixmap(PixMapPosition)
 
-        self.listWidget.clear()
         
+        self.listWidget.clear()
         #读取新的数据
-        self.StaffTheard = HandleStaff(self.listWidget)
-        self.StaffTheard.start()
-        self.StaffTheard.trigger.connect(self.save_staff)
+        self.show_staff()
+
+
+        
+
+       
     
         
 
