@@ -18,7 +18,7 @@ class GenImage:
 			'size' : 20
 		}
 
-	def generate_image(self,sourceName,fileName,image_kind):
+	def generateImage(self, sourceName, fileName, image_kind):
 		print('生成')
 		matplotlib.rcParams['font.family'] = 'SimHei'			#设置中文支持（linux下有问题）
 		matplotlib.rc('font', **self.FONT)               
@@ -26,9 +26,9 @@ class GenImage:
 		mydata.sort_index()
 
 		if image_kind == 'pie':
-			mydata.plot(kind='pie',subplots=True, figsize=(10,10),autopct='%1.1f%%',fontsize=20)
+			mydata.plot(kind='pie', subplots=True, figsize=(10,10), autopct='%1.1f%%', fontsize=20)
 		elif image_kind == 'bar':
-			mydata.plot(kind='bar',subplots=True,fontsize=10,figsize=(4,6))
+			mydata.plot(kind='bar', subplots=True, fontsize=10, figsize=(4,6))
 		else:
 			raise TypeError('参数错误')
 

@@ -9,9 +9,6 @@ from zhilian.zhilian import ZhilianCrawl
 from GenImage import GenImage
 
 
-
-
-
 class Main(QMainWindow,Ui_MainWindow):
     def __init__(self):
         QMainWindow.__init__(self)
@@ -20,7 +17,7 @@ class Main(QMainWindow,Ui_MainWindow):
 
     #开启主线程外的另一个线程，防止UI阻塞，注意到在那个线程里爬数据的时候再次开启了多线程，这是可以的，也是python和Qt 灵活的地方
     def work(self):
-        self.serchBtn.setEnabled(False)
+        #self.serchBtn.setEnabled(False)
         position = self.positionEdit.text()
         position = position.strip()
         if position == '':
@@ -28,29 +25,26 @@ class Main(QMainWindow,Ui_MainWindow):
 
         keyword = self.keywordEdit.text()
         page_number = self.spinBox.value()
-        self.workTheard = ZhilianCrawl(position,keyword,self.progressBar,page_number)
+        self.workTheard = ZhilianCrawl(position, keyword, self.progressBar, page_number)
         self.workTheard.start()
 
-
-        self.workTheard.trigger.connect(self.show_image)
+        self.workTheard.trigger.connect(self.showImage)
     
-    def show_staff(self,job_infos):
+    def showStaff(self,job_infos):
+        self.staff_list = []                                        #staff_list 常驻内存，切记每次都要初始化为空，否则列表将无限增长，最终程序崩溃
         for i in range(50):
             self.staff_list.append(job_infos[i]['staff'] + ',' + job_infos[i]['details_url'])
             staff = self.staff_list[i].split(',')[0]
             self.listWidget.addItem(staff)
-
-        del job_infos
-        gc.collect()
      
     #将图像显示到界面上来，使用QLabel
-    def show_image(self,job_infos):
-        self.serchBtn.setEnabled(True)
+    def showImage(self,job_infos):
+        #self.serchBtn.setEnabled(True)
         #这里本来想在后台执行的，但是会造成 main thread is not in main loop 的错误，既然不在main loop中，我就直接把他放到主线程中来，虽然这样可能会短暂阻塞UI，但是用户基本感觉不到
         try:
             self.zhilian_image = GenImage(os.getcwd() + '/resource/zhilian/')
-            self.zhilian_image.generate_image('position_for_image.csv','1.png','bar')				
-            self.zhilian_image.generate_image('salary_for_image.csv','2.png','pie')
+            self.zhilian_image.generateImage('position_for_image.csv','1.png','bar')				
+            self.zhilian_image.generateImage('salary_for_image.csv','2.png','pie')
         except:
             self.networkError()
         
@@ -64,16 +58,11 @@ class Main(QMainWindow,Ui_MainWindow):
 
         self.listWidget.clear()
         #读取新的数据
-        self.show_staff(job_infos)
-
-        
+        self.showStaff(job_infos)
 
     #用于给用户双击职位名称即可通过浏览器看到详细的信息，使用webbrowser来实现
-    def show_item(self):
-        print(self.listWidget.currentItem().text())
-        print(self.listWidget.currentRow())
+    def showItem(self):
         current_row = self.listWidget.currentRow()
-
         for i in range(current_row + 1):
             if i == current_row:
                 url = self.staff_list[i].split(',')[1]
@@ -84,15 +73,14 @@ class Main(QMainWindow,Ui_MainWindow):
     #网络异常的时候，弹出消息框，但不退出程序
     def networkError(self):
         self.NetworkErrorMessage = QtWidgets.QMessageBox.critical(  self,
-                                                                    'network',
-                                                                    'please checkout the network connection',
+                                                                    '网络错误',
+                                                                    '请检查网络连接',
                                                                     QtWidgets.QMessageBox.Yes | QtWidgets.QMessageBox.No)
+  
         try:
             self.NetworkErrorMessage.show()
         except:
             pass
-
-  
 
 
 if __name__ == '__main__':

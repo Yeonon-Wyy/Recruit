@@ -17,26 +17,22 @@ class Ui_MainWindow(object):
         qr.moveCenter(cp)
         MainWindow.move(qr.topLeft())
 
-        #set background
-
-
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Fixed)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(MainWindow.sizePolicy().hasHeightForWidth())
         MainWindow.setSizePolicy(sizePolicy)
 
-
+        qss_file = open(os.getcwd() + '/resource/QSS/Mainwindow.qss').read()
+        self.setStyleSheet(qss_file)
 
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
-
-        
+  
         self.positionEdit = QtWidgets.QLineEdit(self.centralwidget)
         self.positionEdit.setGeometry(QtCore.QRect(20, 40, 300, 30))
         self.positionEdit.setObjectName("postionEdit")
-        
-
+    
         self.keywordEdit = QtWidgets.QLineEdit(self.centralwidget)
         self.keywordEdit.setGeometry(QtCore.QRect(370, 40, 330, 30))
         self.keywordEdit.setObjectName("keywordEdit")
@@ -51,7 +47,6 @@ class Ui_MainWindow(object):
         self.SalaryImage.setAlignment(QtCore.Qt.AlignCenter)
         self.SalaryImage.setObjectName("SalaryImage")
         
-
         self.PositionImage = QtWidgets.QLabel(self.centralwidget)
         self.PositionImage.setGeometry(QtCore.QRect(20, 80, 500, 600))
         self.PositionImage.setAlignment(QtCore.Qt.AlignCenter)
@@ -61,9 +56,7 @@ class Ui_MainWindow(object):
         self.SalaryImage.setPixmap(PixMapSalary)
         PixMapPosition = QtGui.QPixmap(os.getcwd() + '/resource/zhilian/images/2.png').scaled(500,500)
         self.PositionImage.setPixmap(PixMapPosition)
-
-        
-        
+      
         self.PositionLabel = QtWidgets.QLabel(self.centralwidget)
         self.PositionLabel.setGeometry(QtCore.QRect(20, 5, 300, 30))
         self.PositionLabel.setObjectName("PostionLabel")
@@ -79,7 +72,7 @@ class Ui_MainWindow(object):
         self.listWidget = QtWidgets.QListWidget(self.centralwidget)
         self.listWidget.setGeometry(QtCore.QRect(970, 80, 300, 600))
         self.listWidget.setObjectName("listWidget")
-        self.listWidget.doubleClicked.connect(self.show_item)
+        self.listWidget.doubleClicked.connect(self.showItem)
 
 
         self.progressBar = QtWidgets.QProgressBar(self.centralwidget)
@@ -94,8 +87,7 @@ class Ui_MainWindow(object):
         self.spinBox.setMinimum(1)
         self.spinBox.setMaximum(100)
 
-        
-
+        #设置菜单栏
         exitAction = QtWidgets.QAction(QtGui.QIcon(os.getcwd() + '/resource/myico.png'),'退出',self)
         exitAction.setShortcut('Ctrl+Q')
         exitAction.triggered.connect(QtWidgets.qApp.quit)
@@ -123,10 +115,6 @@ class Ui_MainWindow(object):
 
         self.retranslateUi(MainWindow)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
-
-
-        qss_file = open(os.getcwd() + '/resource/QSS/Mainwindow.qss').read()
-        self.setStyleSheet(qss_file)
 
         #界面初始化时，读取一次文件并存入内存中，方便提取
         self.StaffTheard = HandleStaff(self.listWidget)

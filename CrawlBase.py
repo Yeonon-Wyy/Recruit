@@ -12,10 +12,10 @@ class CrawlBase(QThread):
 		self.job_infos = []													#保存信息到内存中（暂时）
 
 	#生成url 队列
-	def generate_url(self):
+	def generateUrl(self):
 		pass
 
-	def process_url(self):													#作为多线程的目标函数
+	def processUrl(self):													#作为多线程的目标函数
 		pass
 
 	def crawl(self,url):
@@ -23,7 +23,7 @@ class CrawlBase(QThread):
 
 	
 	#对工资划分区间，用于绘图，原始数据未改变
-	def salary_handle(self):
+	def salaryHandle(self):
 		fileName = 'salary_for_image.csv'
 		salarys = defaultdict(int)
 		#便于绘图，划分区间
@@ -40,15 +40,15 @@ class CrawlBase(QThread):
 			else:
 				salarys['15K-~'] += 1
 
-		with open(self.file_path + fileName,'w',encoding='utf-8') as f:
+		with open(self.file_path + fileName, 'w', encoding='utf-8') as f:
 			f.write(str('薪水') + '\n')
-			for salary,num in salarys.items():
+			for salary, num in salarys.items():
 				f.write(str(salary) + ',')
 				f.write(str(num) + '\n')
 
 
 	#对位置分类并统计
-	def position_handle(self):
+	def positionHandle(self):
 		fileName = 'position_for_image.csv'
 		positions = defaultdict(int)
 
@@ -60,30 +60,30 @@ class CrawlBase(QThread):
 					position = position[0]
 				positions[position] += 1
 
-		with open(self.file_path + fileName,'w',encoding='utf-8') as f:
+		with open(self.file_path + fileName, 'w', encoding='utf-8') as f:
 			f.write(str('位置') + '\n')
-			for position,num in positions.items():
+			for position, num in positions.items():
 				f.write(str(position) + ',')
 				f.write(str(num) + '\n')
 
 
-	def staff_handle(self):
+	def staffHandle(self):
 		fileName = 'staff.txt'
-		with open(self.file_path + fileName,'w',encoding='utf-8') as f:
+		with open(self.file_path + fileName, 'w', encoding='utf-8') as f:
 			for job_info in self.job_infos:
 				f.write(str(job_info['staff']) + ',' + str(job_info['details_url'] + '\n'))
 
 
 	#保存文件，用户可提取
-	def saveFile_csv(self,fileName):
-		with open(self.file_path + fileName + '.csv','w',encoding='utf-8') as f:
+	def saveFileCSV(self, fileName):
+		with open(self.file_path + fileName + '.csv', 'w', encoding='utf-8') as f:
 			f.write(str(fileName) + '\n')
 			for job_info in self.job_infos:
 				f.write(str(job_info[fileName]) + '\n')
 
 	#保存所有信息，用户可提取
 	def saveAll(self):
-		with open(self.file_path + 'AllInfo.txt','w',encoding='utf-8') as f:
+		with open(self.file_path + 'AllInfo.txt', 'w', encoding='utf-8') as f:
 			for job_info in self.job_infos:
 				f.write(str(job_info) + '\n')
 

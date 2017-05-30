@@ -32,22 +32,22 @@ class ZhilianCrawl(CrawlBase):
 		self.progressBarStep = 0
 		self.page_number = page_number
 		self.progressBarPerStep = 100 / self.page_number
-
-		self.url_queue = self.generate_url()													#url队列，用于多线程
+		print('初始化')
+		self.url_queue = self.generateUrl()													#url队列，用于多线程
 		self.MyLock = threading.Lock()															#线程锁，保证线程同步
 
 
 	#以下是继承自基类的方法，根据不同的情况（网站） 重写，实现多态
 
 	#生成url 队列
-	def generate_url(self):
+	def generateUrl(self):
 		q = Queue()
 		for i in range(self.page_number):
 			url = self.main_url % (self.POSITION,self.KEYWORD,i)								#直接通过参数生成队列
 			q.put(url)
 		return q
 
-	def process_url(self):
+	def processUrl(self):
 		while not self.url_queue.empty():
 			url = self.url_queue.get()
 			try:															#用户有可能在断网的环境先执行，为避免因网络原因导致强退，要执行Exception Checkout
@@ -60,10 +60,10 @@ class ZhilianCrawl(CrawlBase):
 		
 		#这里的线程感觉存在问题，但是并不知道问题出现在哪（暂时这样吧，回去看看书）
 		#开启多线程	这里暂定为4个线程（其实8个更好，为避免爬取速度过快，导致用户IP被封，故暂定4个
-		t1 = threading.Thread(target=self.process_url)
-		t2 = threading.Thread(target=self.process_url)
-		t3 = threading.Thread(target=self.process_url)
-		t4 = threading.Thread(target=self.process_url)
+		t1 = threading.Thread(target=self.processUrl)
+		t2 = threading.Thread(target=self.processUrl)
+		t3 = threading.Thread(target=self.processUrl)
+		t4 = threading.Thread(target=self.processUrl)
 		t1.start()
 		t2.start()
 		t3.start()
@@ -78,10 +78,10 @@ class ZhilianCrawl(CrawlBase):
 		print(t1.is_alive())
 		
 		
-		self.salary_handle()																	#保存文件，单独存放薪水，用于方便生成图像，下同
-		self.position_handle()
+		self.salaryHandle()																	#保存文件，单独存放薪水，用于方便生成图像，下同
+		self.positionHandle()
 		self.saveAll()
-		self.staff_handle()																		#保存文件，单独存放职位名称和对应的URL
+		self.staffHandle()																		#保存文件，单独存放职位名称和对应的URL
 					
 
 		self.trigger.emit(self.job_infos)																		#爬取完毕，要发送信号给UI主线程，并执行相应的槽函数
@@ -96,7 +96,6 @@ class ZhilianCrawl(CrawlBase):
 		job_list = soup.find_all('table', class_='newlist')
 		print(threading.current_thread())
 		self.MyLock.acquire()																	#给进程上锁，保证同步，因为这里要修改共享的数据，self.job_infos
-
 		self.progressBarStep += self.progressBarPerStep
 		self.progressBar.setValue(self.progressBarStep)
 
