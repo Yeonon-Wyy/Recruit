@@ -1,0 +1,1200 @@
+{'details_url': 'http://jobs.zhaopin.com/317212785253653.htm', 'staff': '诚聘电话销售无责4k+高提成20+双休+包住', 'salary': 12500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253180.htm', 'staff': '国贸CBD年薪20万诚聘数据分析师/交易助理/交易员 双休五险', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020265809.htm', 'staff': '年薪20-30万招交易员 平台代理 五险、双休 年终分红', 'salary': 25000.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253173.htm', 'staff': '年薪20-40万 零基础培训 实现财务自由 金融交易员 心动不如行动', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259821.htm', 'staff': '年薪20W公司直招 金融外汇交易员和分析师 零基础带薪培训', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258395.htm', 'staff': '年薪20-50万/金融交易员/高级管理/销售总监/项目经理/采购', 'salary': 17500.5, 'position': '北京-宣武区'}
+{'details_url': 'http://jobs.zhaopin.com/603710221257572.htm', 'staff': 'CBD商业中心底薪8K-15K+百分20提成，诚聘金融交易员，操盘手', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253160.htm', 'staff': '国贸CBD商圈年薪20万高薪诚聘金融分析师/风控助理/交易员', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/503266631250026.htm', 'staff': '销售部门经理+年薪20万起+完善福利待遇', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/156249427250746.htm', 'staff': '销售储备管理人员（月均薪资10-20K）', 'salary': 15000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253143.htm', 'staff': '国贸CBD年薪20万诚聘', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/317212785253650.htm', 'staff': '销售代表/无责4k起+20提成+零培养管理能力+双休', 'salary': 12500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253136.htm', 'staff': '交易让时间自由-诚聘外汇交易员 年薪20万 双休五险（零基础培训)', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/317212785253651.htm', 'staff': '无责4k起+高提成10-20+带薪培训+包住宿+旅游+晋升空间大（可接', 'salary': 12500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253129.htm', 'staff': '20w年薪双休五险聘交易员', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258374.htm', 'staff': '年薪20-50万/金融交易员/零基础培训/实现财务自由', 'salary': 17500.5, 'position': '北京-崇文区'}
+{'details_url': 'http://jobs.zhaopin.com/418785489250997.htm', 'staff': '影院现场检票和礼仪人员200元/天+招20人', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258381.htm', 'staff': '年薪20-50万/金融交易员/零基础培训/实现财务自由', 'salary': 17500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258386.htm', 'staff': '年薪20-50万/金融交易员/零基础培训/实现财务自由', 'salary': 17500.5, 'position': '北京-大兴区'}
+{'details_url': 'http://jobs.zhaopin.com/381371185252355.htm', 'staff': '交易让时间自由-诚聘外汇交易员 年薪20万 双休五险（零基础培训)', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/509274681250048.htm', 'staff': '销售总监 年薪20万+五险一金+旅游', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/445670538250057.htm', 'staff': '门店经理无责底薪7000+3000绩效 高薪 9-20提成', 'salary': 25000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/445670538250060.htm', 'staff': '销售经理 底薪7000+3000绩效 高薪 高提9-20', 'salary': 25000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253110.htm', 'staff': '年薪20W/国贸CBD商业圈6K起高薪聘请外汇讲师/培训讲师/讲师助理', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/489409483250103.htm', 'staff': '销售行政经理 年薪20万起+旅游', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/618486921262905.htm', 'staff': '电话销售（底薪3k-5k，提成5%-20%，均薪1w）', 'salary': 9000.0, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/445670538250061.htm', 'staff': '年薪20W 高薪高提成 无责底薪3000+2000 新房销售', 'salary': 17500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/CZ756273270J00005054315.htm', 'staff': '高薪聘请工商注册主管\xa0\xa0年薪20万-40万\xa0\xa0双休+五险', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/335477933253010.htm', 'staff': '销售/无责底薪4000转正6500+有责底薪15000+20提成+双', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/530461822250277.htm', 'staff': '渠道销售(商超渠道/礼品销售/批发及流通）年薪10-20万', 'salary': 9000.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253032.htm', 'staff': '诚聘交易员/操盘手，年薪20-30万，零基础免费岗前培训，双休五险', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/306002383250007.htm', 'staff': '电话销售-互联网广告（底薪3-5k，高提成，均薪10K-20k）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/335477933252923.htm', 'staff': '销售/电话销售/无责底薪4000转正6500+有责底薪15000+20提成+双', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258338.htm', 'staff': '年薪20-50万/金融交易员/零基础培训/实现财务自由', 'salary': 17500.5, 'position': '北京-通州区'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258360.htm', 'staff': '年薪20-50万/金融交易员/零基础培训/实现财务自由', 'salary': 17500.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259737.htm', 'staff': '年薪20W公司直招 金融外汇交易员和分析师 零基础带薪培训', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/615221324343273.htm', 'staff': '诚聘交易员/操盘手，年薪20-30万，零基础免费岗前培训，双休五险', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/618486921262857.htm', 'staff': '急招课程顾问（3000以上无责底薪+5%~20%提点+带薪培训）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332252980.htm', 'staff': '年薪20万高薪诚聘金融分析师/助理+零基础带薪培训+公平晋升', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/418846213272874.htm', 'staff': '网站产品经理（20k-28k+五星级总部办公+简单工作氛围）', 'salary': 25000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/418846213274939.htm', 'staff': '❤年薪20K等你拿/大客户销售', 'salary': 9000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/480229535251230.htm', 'staff': '包住宿5K无责底薪+20高提诚聘一手海南海景房销售', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/418785489250995.htm', 'staff': '影院现场检票和礼仪人员200元/天+招20人', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/657990420253291.htm', 'staff': '课程顾问（薪资10K-20K+免费学习英语）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/418846213275081.htm', 'staff': '产品经理/统招二本/月薪20k起', 'salary': 25000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/163170524250461.htm', 'staff': '南澳绿亨庄园澳亨奶粉市场部，年薪20万起', 'salary': 5000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/291035486254125.htm', 'staff': '年薪20万高薪诚聘金融分析师/助理+零基础带薪培训+公平晋升', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/480229535251221.htm', 'staff': '包住宿5K无责底薪+20高提诚聘一手海南海景房销售', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020268006.htm', 'staff': '诚聘交易员/操盘手，年薪20-30万，零基础免费岗前培训，双休五险', 'salary': 25000.5, 'position': '北京-房山区'}
+{'details_url': 'http://jobs.zhaopin.com/140543728250227.htm', 'staff': '互联网大客户销售经理（年薪20万以上）', 'salary': 12000.0, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020265617.htm', 'staff': '【CBD核心】年薪过20万/富尔国际直招下单员 五险  双休 补助齐全', 'salary': 17500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/293045230258847.htm', 'staff': '诚聘交易员/操盘手，年薪20-30万，零基础免费岗前培训，双休五险', 'salary': 12500.5, 'position': '北京-崇文区'}
+{'details_url': 'http://jobs.zhaopin.com/609562420251879.htm', 'staff': '2银行贷款专员/销售代表+社保+百分之20-40提成+双休', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020268001.htm', 'staff': '交易让时间自由-诚聘外汇交易员 年薪20万 双休五险/零基础培训', 'salary': 17500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/515103988250000.htm', 'staff': '优胜教育直招   学习顾问20人', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/445670538250072.htm', 'staff': '轻松年薪20万，销冠团队等你的加入！', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/480229535251218.htm', 'staff': '5K无责底薪包住宿+20高提诚聘一手海景房销售', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/432576319250135.htm', 'staff': '销售无责3000提成20无需经验包住', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/551014829254494.htm', 'staff': '国贸CBD年薪20万诚聘数据分析师/交易助理/交易员 双休五险', 'salary': 9000.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/475856429250016.htm', 'staff': '调查员10K-20K', 'salary': 15000.0, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/317212785253653.htm', 'staff': '诚聘电话销售无责4k+高提成20+双休+包住', 'salary': 12500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253180.htm', 'staff': '国贸CBD年薪20万诚聘数据分析师/交易助理/交易员 双休五险', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020265809.htm', 'staff': '年薪20-30万招交易员 平台代理 五险、双休 年终分红', 'salary': 25000.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253173.htm', 'staff': '年薪20-40万 零基础培训 实现财务自由 金融交易员 心动不如行动', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259821.htm', 'staff': '年薪20W公司直招 金融外汇交易员和分析师 零基础带薪培训', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258395.htm', 'staff': '年薪20-50万/金融交易员/高级管理/销售总监/项目经理/采购', 'salary': 17500.5, 'position': '北京-宣武区'}
+{'details_url': 'http://jobs.zhaopin.com/603710221257572.htm', 'staff': 'CBD商业中心底薪8K-15K+百分20提成，诚聘金融交易员，操盘手', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253160.htm', 'staff': '国贸CBD商圈年薪20万高薪诚聘金融分析师/风控助理/交易员', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/503266631250026.htm', 'staff': '销售部门经理+年薪20万起+完善福利待遇', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/156249427250746.htm', 'staff': '销售储备管理人员（月均薪资10-20K）', 'salary': 15000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253143.htm', 'staff': '国贸CBD年薪20万诚聘', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/317212785253650.htm', 'staff': '销售代表/无责4k起+20提成+零培养管理能力+双休', 'salary': 12500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253136.htm', 'staff': '交易让时间自由-诚聘外汇交易员 年薪20万 双休五险（零基础培训)', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/317212785253651.htm', 'staff': '无责4k起+高提成10-20+带薪培训+包住宿+旅游+晋升空间大（可接', 'salary': 12500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253129.htm', 'staff': '20w年薪双休五险聘交易员', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258374.htm', 'staff': '年薪20-50万/金融交易员/零基础培训/实现财务自由', 'salary': 17500.5, 'position': '北京-崇文区'}
+{'details_url': 'http://jobs.zhaopin.com/418785489250997.htm', 'staff': '影院现场检票和礼仪人员200元/天+招20人', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258386.htm', 'staff': '年薪20-50万/金融交易员/零基础培训/实现财务自由', 'salary': 17500.5, 'position': '北京-大兴区'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258381.htm', 'staff': '年薪20-50万/金融交易员/零基础培训/实现财务自由', 'salary': 17500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/381371185252355.htm', 'staff': '交易让时间自由-诚聘外汇交易员 年薪20万 双休五险（零基础培训)', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/509274681250048.htm', 'staff': '销售总监 年薪20万+五险一金+旅游', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/445670538250057.htm', 'staff': '门店经理无责底薪7000+3000绩效 高薪 9-20提成', 'salary': 25000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/445670538250060.htm', 'staff': '销售经理 底薪7000+3000绩效 高薪 高提9-20', 'salary': 25000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253110.htm', 'staff': '年薪20W/国贸CBD商业圈6K起高薪聘请外汇讲师/培训讲师/讲师助理', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/489409483250103.htm', 'staff': '销售行政经理 年薪20万起+旅游', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/618486921262905.htm', 'staff': '电话销售（底薪3k-5k，提成5%-20%，均薪1w）', 'salary': 9000.0, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/445670538250061.htm', 'staff': '年薪20W 高薪高提成 无责底薪3000+2000 新房销售', 'salary': 17500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/CZ756273270J00005054315.htm', 'staff': '高薪聘请工商注册主管\xa0\xa0年薪20万-40万\xa0\xa0双休+五险', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/335477933253010.htm', 'staff': '销售/无责底薪4000转正6500+有责底薪15000+20提成+双', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/530461822250277.htm', 'staff': '渠道销售(商超渠道/礼品销售/批发及流通）年薪10-20万', 'salary': 9000.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253032.htm', 'staff': '诚聘交易员/操盘手，年薪20-30万，零基础免费岗前培训，双休五险', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/306002383250007.htm', 'staff': '电话销售-互联网广告（底薪3-5k，高提成，均薪10K-20k）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/335477933252923.htm', 'staff': '销售/电话销售/无责底薪4000转正6500+有责底薪15000+20提成+双', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258338.htm', 'staff': '年薪20-50万/金融交易员/零基础培训/实现财务自由', 'salary': 17500.5, 'position': '北京-通州区'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258360.htm', 'staff': '年薪20-50万/金融交易员/零基础培训/实现财务自由', 'salary': 17500.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259737.htm', 'staff': '年薪20W公司直招 金融外汇交易员和分析师 零基础带薪培训', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/615221324343273.htm', 'staff': '诚聘交易员/操盘手，年薪20-30万，零基础免费岗前培训，双休五险', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/618486921262857.htm', 'staff': '急招课程顾问（3000以上无责底薪+5%~20%提点+带薪培训）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332252980.htm', 'staff': '年薪20万高薪诚聘金融分析师/助理+零基础带薪培训+公平晋升', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/418846213272874.htm', 'staff': '网站产品经理（20k-28k+五星级总部办公+简单工作氛围）', 'salary': 25000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/418846213274939.htm', 'staff': '❤年薪20K等你拿/大客户销售', 'salary': 9000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/480229535251230.htm', 'staff': '包住宿5K无责底薪+20高提诚聘一手海南海景房销售', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/418785489250995.htm', 'staff': '影院现场检票和礼仪人员200元/天+招20人', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/657990420253291.htm', 'staff': '课程顾问（薪资10K-20K+免费学习英语）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/418846213275081.htm', 'staff': '产品经理/统招二本/月薪20k起', 'salary': 25000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/163170524250461.htm', 'staff': '南澳绿亨庄园澳亨奶粉市场部，年薪20万起', 'salary': 5000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/291035486254125.htm', 'staff': '年薪20万高薪诚聘金融分析师/助理+零基础带薪培训+公平晋升', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/480229535251221.htm', 'staff': '包住宿5K无责底薪+20高提诚聘一手海南海景房销售', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020268006.htm', 'staff': '诚聘交易员/操盘手，年薪20-30万，零基础免费岗前培训，双休五险', 'salary': 25000.5, 'position': '北京-房山区'}
+{'details_url': 'http://jobs.zhaopin.com/140543728250227.htm', 'staff': '互联网大客户销售经理（年薪20万以上）', 'salary': 12000.0, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020265617.htm', 'staff': '【CBD核心】年薪过20万/富尔国际直招下单员 五险  双休 补助齐全', 'salary': 17500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/293045230258847.htm', 'staff': '诚聘交易员/操盘手，年薪20-30万，零基础免费岗前培训，双休五险', 'salary': 12500.5, 'position': '北京-崇文区'}
+{'details_url': 'http://jobs.zhaopin.com/609562420251879.htm', 'staff': '2银行贷款专员/销售代表+社保+百分之20-40提成+双休', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020268001.htm', 'staff': '交易让时间自由-诚聘外汇交易员 年薪20万 双休五险/零基础培训', 'salary': 17500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/515103988250000.htm', 'staff': '优胜教育直招   学习顾问20人', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/445670538250072.htm', 'staff': '轻松年薪20万，销冠团队等你的加入！', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/480229535251218.htm', 'staff': '5K无责底薪包住宿+20高提诚聘一手海景房销售', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/432576319250135.htm', 'staff': '销售无责3000提成20无需经验包住', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/551014829254494.htm', 'staff': '国贸CBD年薪20万诚聘数据分析师/交易助理/交易员 双休五险', 'salary': 9000.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/475856429250016.htm', 'staff': '调查员10K-20K', 'salary': 15000.0, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/432576319250040.htm', 'staff': '销售无责3000提成20无需经验包住', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/134926965250404.htm', 'staff': '咨询师（北京分校课程顾问）年收入20万', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/446344722250407.htm', 'staff': '年薪20万诚聘资深包装设计师', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/134926965250443.htm', 'staff': '市场专员（年收入20万）', 'salary': 6000.0, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/295704187250045.htm', 'staff': '全国流通G20+联席合议平台副秘书长', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/477326388254419.htm', 'staff': 'Aimsen 猎头助理顾问（底薪4k起）20', 'salary': 7000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/480229535251209.htm', 'staff': '一手海景房销售5K无责底薪+免费住宿+20提成', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/449651738250079.htm', 'staff': '新媒体网络营销 双休+年薪20万', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/560291221250095.htm', 'staff': '课程顾问，诚聘电话销售人员20人', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/601379321250130.htm', 'staff': '电视节目招商4千无责底薪20点提成双休', 'salary': 17500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/232405817250911.htm', 'staff': '年薪20万诚聘Linux c++高级软件开发工程师 （YFZX）', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/503266631250024.htm', 'staff': '销售部门经理+年薪20万起+完善福利待遇', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/424628486252266.htm', 'staff': '电销主管（带20人团队）', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020264871.htm', 'staff': '年薪20万/金融交易员/会展策划 客服售后/招聘主管/市场销售管理', 'salary': 12500.5, 'position': '北京-宣武区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020265030.htm', 'staff': '年薪20万/金融交易员/签证业务办理 玩具软装设计/房产建筑艺术', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020264467.htm', 'staff': '直聘交易员 分析师 年薪20万-30万、五险、双休', 'salary': 22500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/503284782250028.htm', 'staff': '销售部门经理+年薪20万起+完善福利待遇', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/503284782250045.htm', 'staff': '销售部门经理+年薪20万起+完善福利待遇', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/223356227251833.htm', 'staff': '（1对20以下）小组课业务 教学发展总监', 'salary': 30000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/146880501250003.htm', 'staff': '销售,包住，年薪10-80万,双休，带薪年假20天', 'salary': 17500.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/146880501250001.htm', 'staff': '销售年薪10-80万，包住，双休，带薪年假20天', 'salary': 17500.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/146386447250130.htm', 'staff': '海外市场销售经理15K-20K', 'salary': 40000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/658960924250163.htm', 'staff': '销售代表(软件销售高底薪加百分之20提成）', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/658960924250165.htm', 'staff': '销售代表（软件销售 高底薪加百分之20提成xy）', 'salary': 7500.0, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/489409483250074.htm', 'staff': '销售总监 双休+年薪20万起+完善福利待遇', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/339740616250579.htm', 'staff': '销售总监（带领过20人以上的销售团队）', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/421912533250042.htm', 'staff': '【银行贷款专员】无责任底薪3.5K-4.8K+20-40提成+社保', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/246364016250413.htm', 'staff': '（医疗器械）销售经理 年薪15-20万 周末双休 五险', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020265522.htm', 'staff': '年薪20万 急聘交易员、分析师 五险、双休 年终奖', 'salary': 17500.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/411371335250072.htm', 'staff': '高级JAVA研发工程师（20~30万/年）', 'salary': 20000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/146880501250002.htm', 'staff': '销售，包住，年薪10-80万,双休,带薪年假20天', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/146880501250000.htm', 'staff': '销售,包住，双休，年薪10-80万，带薪年假20天', 'salary': 17500.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/591194523250198.htm', 'staff': '职业规划师  20－40万', 'salary': 12500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/591194523250197.htm', 'staff': '资深猎头顾问   20－40万年薪', 'salary': 12500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/489409483250111.htm', 'staff': '销售部门经理+年薪20万起+完善福利待遇', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/310603039250084.htm', 'staff': '资深医学编辑（移动互联）20K', 'salary': 20000.0, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332252668.htm', 'staff': '年薪20-40万 零基础培训 实现财务自由 金融交易员 心动不如行动', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020265231.htm', 'staff': '诚聘交易员/操盘手，年薪20-30万，零基础免费岗前培训，双休五险', 'salary': 25000.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/150287814259684.htm', 'staff': '年薪20万高薪诚聘金融分析师助理+零基础带薪培训+公平晋升', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020265758.htm', 'staff': '年薪20W公司直招 金融外汇交易员和分析师 零基础带薪培训', 'salary': 17500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/293045230257607.htm', 'staff': '诚聘交易员/操盘手，年薪20-30万，零基础免费岗前培训，双休五险', 'salary': 12500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/442757938250006.htm', 'staff': '大客户销售（年薪20万+五险一金+弹性工作制）', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/335015688250230.htm', 'staff': '课程销售主管/咨询主管/销售经理6-20K', 'salary': 17500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/468887213250000.htm', 'staff': '销售经理（50万业绩20万年薪起）', 'salary': 8000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259524.htm', 'staff': '国贸CBD商圈年薪20万高薪诚聘风控助理', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/134646588251281.htm', 'staff': '生产工艺主管O20', 'salary': 5000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/335015688250233.htm', 'staff': '课程销售主管/咨询主管/销售经理6-20K', 'salary': 17500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267075.htm', 'staff': '年薪20至30万诚聘金融数据分析师助理 操盘手/交易员', 'salary': 25000.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267910.htm', 'staff': '年薪20万 聘外汇交易员/操盘手/分析师/五险一金+双休', 'salary': 25000.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020265112.htm', 'staff': '交易员技术分析（年薪20-30万）+五险一金+双休', 'salary': 25000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/480229535251158.htm', 'staff': '海南海景房销售5000无责底薪+免费住宿+20提成', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/431162589250191.htm', 'staff': '销售代表年薪20万轻松', 'salary': 12500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/490928838250121.htm', 'staff': 'IT项目经理 年薪20万起+旅游', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/490952439250152.htm', 'staff': '销售部门经理+年薪20万起+完善福利待遇', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/421912533250017.htm', 'staff': '【贷款专员】无责任底薪3.5K-4.8K+20-40提成+社保', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/373667189250315.htm', 'staff': '年薪20万招分析师培训师资金管理员（五险双休高提成）', 'salary': 9000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/289117883250214.htm', 'staff': '（广）电话销售（双休底薪高提成+月薪8k至20k）', 'salary': 9000.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/454901020250194.htm', 'staff': '大客户销售（底薪3K-6K+补助+20%提成+其他福利）', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/280125232271356.htm', 'staff': '年薪20万诚聘金融交易员双休五险一金', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/480229535250403.htm', 'staff': '诚招一手房销售，无责5000+20提点+住宿+晋升', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/365629817250534.htm', 'staff': '年薪20万招聘销售精英', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/285746338250183.htm', 'staff': 'BD商务专员（8K-20K）无需到公司打卡，工作就近安排', 'salary': 12000.0, 'position': '北京-通州区'}
+{'details_url': 'http://jobs.zhaopin.com/285746338250185.htm', 'staff': 'BD商务专员（月薪8K—20K）无需到公司打卡', 'salary': 12000.0, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/285746338250184.htm', 'staff': 'BD商务专员（8K-20K）高提成，工作区域就近安排', 'salary': 12000.0, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/252483733251835.htm', 'staff': '课程顾问/咨询师（提供住宿6K-20K）', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/293045230257978.htm', 'staff': '20万年薪招交易员（房地产信托证券项目行政管理）', 'salary': 12500.5, 'position': '北京-通州区'}
+{'details_url': 'http://jobs.zhaopin.com/335015688250206.htm', 'staff': 'CC/课程顾问/销售顾问/6-20K 海淀万柳中心', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/335015688250240.htm', 'staff': '课程销售主管/咨询主管/销售经理6-20K', 'salary': 17500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/335015688250242.htm', 'staff': '课程销售主管/咨询主管/销售经理6-20K', 'salary': 17500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/373667189250307.htm', 'staff': '年薪20万招分析师培训师资金管理员（五险双休高提成）', 'salary': 17500.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/251763730250097.htm', 'staff': '资深考研政治老师（年薪20万起）', 'salary': 20000.0, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/251763730250002.htm', 'staff': '资深学前教育理论讲师（年薪20万起）', 'salary': 20000.0, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/251763730250098.htm', 'staff': '司法考试法律老师（年薪20万起）', 'salary': 20000.0, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/413020089250190.htm', 'staff': '销售精英（年薪20万）', 'salary': 12500.5, 'position': '北京-石景山区'}
+{'details_url': 'http://jobs.zhaopin.com/13770015990250340000.htm', 'staff': '人力资源资深/高级顾问（年薪20-40万）', 'salary': 25000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/515103988250001.htm', 'staff': '优胜教育直招   学习顾问20人', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/373667189250298.htm', 'staff': '年薪20万招分析师培训师资金管理员（五险双休高提成）', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/418785489250980.htm', 'staff': '影院现场检票和礼仪人员200元/天+招20人', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/491739686250116.htm', 'staff': '金融资产管理经理 年薪20万+国内外旅游', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/509274681250049.htm', 'staff': '金融资产管理经理 年薪20万+国内外旅游', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/507738032250011.htm', 'staff': '电销管理(15-20K，六险一金，双休，福利优厚)', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/422207911251037.htm', 'staff': '集装箱船直招普工/船员/电工/电焊工/叉车司机（年薪20万）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/156866314250392.htm', 'staff': '销售代表 提供客户 无需外出 年薪20万', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/486645387250249.htm', 'staff': '销售部门经理+年薪20万起+完善福利待遇', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/677379223250809.htm', 'staff': '销售年薪20万双休福利好+带薪旅游（无经验要求 应届生均可）', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/139566491251623.htm', 'staff': '年薪20万销售women优先', 'salary': 4250.0, 'position': '北京-大兴区'}
+{'details_url': 'http://jobs.zhaopin.com/458692317253568.htm', 'staff': '年薪20万 大客户销售经理', 'salary': -1, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/508328331250009.htm', 'staff': '总部基地20k起急招互联网经验招商总监', 'salary': 25000.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/138479858251067.htm', 'staff': '销售/客户经理（年薪10~20W+五险一金）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/431162589250187.htm', 'staff': '销售代表年薪20万上市公司', 'salary': 17500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/508328331250008.htm', 'staff': '总部基地20k起招聘高级php工程师', 'salary': 25000.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/289117883250228.htm', 'staff': '（广）电话销售（双休底薪高提成+月薪8k至20k）', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/490342389250006.htm', 'staff': '拓展经理20人', 'salary': 9000.0, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/438713338250033.htm', 'staff': '销售部门经理+年薪20万起+完善福利待遇', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/19221081290250106000.htm', 'staff': '外贸经理 月薪10-20k（急聘)', 'salary': 15000.0, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/502761833250031.htm', 'staff': '销售部门经理+年薪20万起+完善福利待遇', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/344663336250166.htm', 'staff': '新媒体网络营销 双休+年薪20万', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/431162589250185.htm', 'staff': '销售代表年薪20万', 'salary': 17500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/566321623250225.htm', 'staff': '【电话销售】包吃+包住+提成+奖金+保险+旅游+带薪年假20天', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/360875719250084.htm', 'staff': '某大型央企全资-国新融资租赁公司(20亿注册资本)业务经理(各级)', 'salary': -1, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/317766434250006.htm', 'staff': '出境定制单团旅游销售主管（年15-20万）', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/144011978250432.htm', 'staff': '豪宅销售顾问（无责底薪4200-6000+提成=年薪20万不是梦）', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/254082787250312.htm', 'staff': '销售代表年薪20万', 'salary': 9000.5, 'position': '北京-通州区'}
+{'details_url': 'http://jobs.zhaopin.com/603918220250965.htm', 'staff': '大客户经理（教育行业底薪8K-10K年薪20W-40W）', 'salary': 12500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/480229535251088.htm', 'staff': '一手房产顾问5000无责底薪+20提成+专业培训无经验要求', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/347042518266561.htm', 'staff': '应届生高薪销售（挑战年薪20万，高提成，公司资源）', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267714.htm', 'staff': '年薪20万 招交易员 分析师（零基础培训）五险 双休', 'salary': 17500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/480229535251077.htm', 'staff': '海南海景房销售5000无责底薪 包住宿 20提成 专业培训无经验要求', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332252051.htm', 'staff': '国贸CBD商圈年薪20万高薪诚聘金融分析师/风控助理/交易员', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267518.htm', 'staff': '年薪20万招聘交易员 五险 双休 效益奖金', 'salary': 17500.5, 'position': '北京-房山区'}
+{'details_url': 'http://jobs.zhaopin.com/347042518266476.htm', 'staff': '应届生高薪销售（挑战年薪20万，高提成，公司资源）', 'salary': 7000.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/560291221250086.htm', 'staff': '互联网教育培训行业销售主管，年薪20万+保险+分红', 'salary': 17500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/564432728250384.htm', 'staff': '支付宝线下推广 20名', 'salary': -1, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/251763730250099.htm', 'staff': '公务员考试培训老师（年薪20万起）', 'salary': 20000.0, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/293045230256656.htm', 'staff': '20万年薪零基础带薪培训招交易员及分析师（五险带双休）', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/551382720250078.htm', 'staff': '15-20k急招客户经理', 'salary': 10500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/551382720250020.htm', 'staff': '15-20万年薪急招大客户代表', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/349595187250284.htm', 'staff': '双休广告销售月入10-20K', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/711268624251205.htm', 'staff': '电话销售【月薪8K-20K 双休 五险一金】', 'salary': 17500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/293045230258011.htm', 'staff': '年薪20万/交易员/五险一金 跨行首选 带薪岗前培训', 'salary': 12500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259192.htm', 'staff': '国贸CBD商圈年薪20万高薪诚聘风控助理/交易员', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/513533434250001.htm', 'staff': '年薪 20w+团队经理', 'salary': 25000.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267830.htm', 'staff': '年薪20万/金融交易员/签证业务办理玩具软装设计/房产建筑艺术', 'salary': 12500.5, 'position': '北京-石景山区'}
+{'details_url': 'http://jobs.zhaopin.com/161339318250712.htm', 'staff': 'E20联合市场事业合伙人', 'salary': 25000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258086.htm', 'staff': '年薪20-50万 零基础培训 实现财务自由 金融交易员', 'salary': 17500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/143900599251800.htm', 'staff': '法务专员（年薪14-20w）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/711268624251202.htm', 'staff': '双休/证券/期货交易员 月薪10K-20K', 'salary': 12500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/285746338250186.htm', 'staff': 'BD商务专员（8K-20K）无需到公司打卡，工作区域就近安排', 'salary': 12000.0, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/447658018250268.htm', 'staff': '产品经理（T20模式）', 'salary': 12500.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/333201582250023.htm', 'staff': '高级管理岗 销售总监 双休+年薪20万起+完善福利待遇', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/120002369302728.htm', 'staff': '新高一托福教师（入职第一年年薪20万起&总裁直聘&战略重点）', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/582380920254513.htm', 'staff': '国贸CBD商圈年薪20万高薪诚聘金融分析师/风控助理', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/294577987250244.htm', 'staff': '急招！税务咨询师（15k-20k 五险一金 周末双休 带薪年假）', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267799.htm', 'staff': '底薪6000+20提成五险双休诚聘交易员', 'salary': 17500.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/381370287253415.htm', 'staff': '20W招聘金融交易员', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/413020089250167.htm', 'staff': '销售专员（年薪20万）', 'salary': 12500.5, 'position': '北京-石景山区'}
+{'details_url': 'http://jobs.zhaopin.com/181956423255457.htm', 'staff': '新楼盘销售（年薪20W 公司提供客源 垫付佣金', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/677379223250819.htm', 'staff': '金融白领网络销售无责4200+提成百分之20-40社保双休团队氛围轻松', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/699226629251476.htm', 'staff': '【20-30周岁 经验不限 即时到岗】销售代表/栏目顾问', 'salary': 9000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332251834.htm', 'staff': '年薪20万/金融交易员/零基础培训/实现财务自由', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/347042518266383.htm', 'staff': '高薪销售服务类岗位（挑战年薪20万，高提成，公司资源）', 'salary': 7000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/347042518266481.htm', 'staff': '高薪销售服务类岗位（挑战年薪20万，高提成，公司资源）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/381370287253410.htm', 'staff': '20W年薪招聘网络资金管理员', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/480229535251030.htm', 'staff': '急招海南一线海景房销售5000无责底薪+免费住宿+20高提', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/299648983250020.htm', 'staff': '大客户经理年薪20万起', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/480229535251023.htm', 'staff': '急招一手房置业顾问5000无责底薪+20提成+免费住宿', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/451992831250052.htm', 'staff': '销售总监（团队管理方向）年薪20W-50W', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/451992831250058.htm', 'staff': '【急聘】管理能力强的销售经理（年薪20W-40W）', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/622871828250045.htm', 'staff': '销售总监/年薪20W起', 'salary': 25000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/373667189250249.htm', 'staff': '年薪20万招分析师培训师资金管理员（五险双休高提成）', 'salary': 17500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/654802722251173.htm', 'staff': '地产20强-研发总监', 'salary': 85000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/203762286250057.htm', 'staff': '无经验优先考虑，高端置业销售，年薪20万绝对实现', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/289117883250194.htm', 'staff': '（昌）电话销售（双休底薪高提成+月薪8k至20k）', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/373667189250281.htm', 'staff': '年薪20万招分析师培训师资金管理员（五险双休高提成）', 'salary': 12500.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/373667189250280.htm', 'staff': '年薪20万招分析师培训师资金管理员（五险双休高提成）', 'salary': 12500.5, 'position': '北京-石景山区'}
+{'details_url': 'http://jobs.zhaopin.com/513602128250051.htm', 'staff': '（销售年薪20万以上）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/321684017252082.htm', 'staff': '高级应用工程师 Senior Application Engineer 20k/M', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/508328331250005.htm', 'staff': '总部基地20k起急招招商总监（熟悉社区和商超渠道）', 'salary': 25000.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267745.htm', 'staff': '年薪20-50万 零基础培训 实现财务自由 金融交易员', 'salary': 40000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/373667189250274.htm', 'staff': '年薪20万招分析师培训师资金管理员（五险双休高提成）', 'salary': 12500.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/373667189250269.htm', 'staff': '年薪20万招分析师培训师资金管理员（五险双休高提成）', 'salary': 17500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/373667189250272.htm', 'staff': '年薪20万招分析师培训师资金管理员（五险双休高提成）', 'salary': -1, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/194244113250659.htm', 'staff': '珠宝设计师（年薪20万+）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/326494411250286.htm', 'staff': '高薪聘请全职 高中数学老师（年薪15-20万）（教育/培训）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258203.htm', 'staff': '年薪20-50万 零基础培训 实现财务自由 金融交易员', 'salary': 17500.5, 'position': '北京-顺义区'}
+{'details_url': 'http://jobs.zhaopin.com/373667189250263.htm', 'staff': '年薪20万招分析师培训师资金管理员（五险双休高提成）', 'salary': 17500.5, 'position': '北京-大兴区'}
+{'details_url': 'http://jobs.zhaopin.com/508328331250004.htm', 'staff': '总部基地20k起急招销售总监（熟悉社区和商超渠道）', 'salary': 25000.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/452127535250027.htm', 'staff': '销售部门经理+年薪20万起+完善福利待遇', 'salary': 25000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/435850788251489.htm', 'staff': '电话销售（月薪均6K以上+20高提成+双休+内部晋升）', 'salary': 12500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/373667189250257.htm', 'staff': '年薪20万招分析师培训师资金管理员（五险双休高提成）', 'salary': 12500.5, 'position': '北京-石景山区'}
+{'details_url': 'http://jobs.zhaopin.com/677379223250801.htm', 'staff': '主管协助开单轻松无责底薪4000-6000+（20-40）percent双休', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/235722319280527.htm', 'staff': 'Lianjia总部/大客户销售代表/无责底薪4000+高提成/年薪20w+', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/429596121250646.htm', 'staff': 'N 北京站（客运员）招骋20人', 'salary': 3000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/380007810250557.htm', 'staff': '续约客服/咨询顾问/销售客服（底薪8000、年薪20万、7险1金）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/293045230259977.htm', 'staff': '交易员年薪20万零基础免费培训 五险 双休', 'salary': 17500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/677379223250800.htm', 'staff': '双休新拓职场急聘网络销售高底薪4000-6000+高提成百分之20-40', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/491739686250001.htm', 'staff': '新媒体网络营销 双休+年薪20万', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/289504280250000.htm', 'staff': '婚恋电话销售（挑战年薪20w）', 'salary': 15000.0, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/663606924257629.htm', 'staff': '年薪20万/金融交易员/零基础培训/实现财务自由', 'salary': 17500.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/663606924257627.htm', 'staff': '年薪20万/金融交易员/零基础培训/实现财务自由', 'salary': 17500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/362381387250144.htm', 'staff': '顶级俱乐部诚聘：经理助理，有无经验均可，20-25之间！包吃住', 'salary': 12500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/549348925250148.htm', 'staff': 'IZ20华北区市场推广管培生（储备经理方向）', 'salary': 4500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/362381387250192.htm', 'staff': '星级俱乐部直聘：模特，可兼职，20-25岁之间', 'salary': 17500.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/406867236250362.htm', 'staff': '诚聘20名销售精英/电话销售/底薪+提成+奖金+双休+五险一金', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020265807.htm', 'staff': '年薪20万诚聘外汇交易员 分析师 五险+双休+可培训', 'salary': 25000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/293045230255705.htm', 'staff': '20万年薪项目负责人 合伙人 市场经理 人事经理', 'salary': 12500.5, 'position': '北京-顺义区'}
+{'details_url': 'http://jobs.zhaopin.com/131215440251961.htm', 'staff': '游戏制作策划实习生（20名）', 'salary': 7000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/362381387250198.htm', 'staff': '豪华俱乐部直聘：经理助理，20-28之间包吃住！', 'salary': 12500.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/406867236250431.htm', 'staff': '诚招20名电话+网络销售/底薪+提成+奖金/月薪轻松过万', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/406867236250460.htm', 'staff': '诚招20名金融产品销售/投资理财顾问/有无经验均可', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/293045230255659.htm', 'staff': '20万年薪交易员 猎头经理 项目负责人 市场 人事管理总监', 'salary': 12500.5, 'position': '北京-大兴区'}
+{'details_url': 'http://jobs.zhaopin.com/181956423254738.htm', 'staff': '销售代表（无天花板发展空间；年薪20万）', 'salary': 20000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332250407.htm', 'staff': '年薪20万聘金融投资实习生/交易员/风控助理', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/293045230255704.htm', 'staff': '20万年薪交易员 项目负责人 证券经理 合伙人 市场总监', 'salary': 17500.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/181956423254614.htm', 'staff': '新楼盘销售（年薪20万，洋房别墅）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/461209235250027.htm', 'staff': '招商经理（年薪：20W-80W）', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/327835819250177.htm', 'staff': '年薪20-80W 诚聘招商经理', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/531932627254921.htm', 'staff': '客服 培训上岗 月薪5千左右 年假20天以上 年终奖2千', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/293045230255634.htm', 'staff': '20万年薪交易员 房产经理 项目负责人 市场经理 采购经理', 'salary': 12500.5, 'position': '北京-宣武区'}
+{'details_url': 'http://jobs.zhaopin.com/181956423254605.htm', 'staff': '房地产销售（一手房 案场销售 年薪20W无压力）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/677379223250715.htm', 'staff': '网络销售无责4000+提成（20-40）percent提供客户容易开单', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/418458633250191.htm', 'staff': '诚聘销售精英/主管/招生8k-20k+晋升+五险一金', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/677379223250755.htm', 'staff': '不加班双休网络销售/销售代表5000+提成百分之20-40+奖金', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/218707388250482.htm', 'staff': '东京建筑设计公司现场监督管理（新单，月薪20-40万日元）', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/131215440251640.htm', 'staff': '3D游戏运营专员实习生（20名）', 'salary': 7000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/131215440251639.htm', 'staff': '3D游戏美术设计专员实习生（20名）', 'salary': 7000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020266160.htm', 'staff': '年薪20万聘金融交易员分析师（提供免费培训+弹性工作）', 'salary': 17500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/131215440251973.htm', 'staff': '游戏角色策划实习生（20名-急聘）', 'salary': 7000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/289367518250835.htm', 'staff': '年薪20万以上外科医生植发手术医生整形美容外科医生', 'salary': 25000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/550713224250028.htm', 'staff': '初级理财投资顾问（年薪20万，银行、信托、证券）', 'salary': 12500.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020265733.htm', 'staff': '年薪20万/金融交易员/外汇分析师/金融顾问', 'salary': 17500.5, 'position': '北京-石景山区'}
+{'details_url': 'http://jobs.zhaopin.com/131259549253331.htm', 'staff': '家居建材分店总经理/副总经理（20人）', 'salary': 22500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/131215440251969.htm', 'staff': '游戏执行策划实习生（20名 -急聘）', 'salary': 7000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020266536.htm', 'staff': '年薪20万/金融交易员/互联网产品/房产销售管理/市场行政销售经理', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020266202.htm', 'staff': '年薪20万/金融交易员/互联网产品/房产销售管理/市场行政销售经理', 'salary': 17500.5, 'position': '北京-通州区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020266250.htm', 'staff': '年薪20万/金融交易员/互联网产品/房产销售管理/市场行政销售经理', 'salary': 17500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/134646588251265.htm', 'staff': '市场经理 B20', 'salary': 16000.0, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/143502986252307.htm', 'staff': '上市互联网集团聘销售年薪20万', 'salary': 17500.5, 'position': '北京-大兴区'}
+{'details_url': 'http://jobs.zhaopin.com/143502986252306.htm', 'staff': '上市公司聘销售8K-20K五险（王经理）', 'salary': 17500.5, 'position': '北京-大兴区'}
+{'details_url': 'http://jobs.zhaopin.com/143502986252308.htm', 'staff': '教育培训上市公司五险聘销售8K-20K', 'salary': 17500.5, 'position': '北京-大兴区'}
+{'details_url': 'http://jobs.zhaopin.com/291035486255036.htm', 'staff': '年薪20—50万 金融 外汇 分析师 讲师', 'salary': 9000.5, 'position': '北京-宣武区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020266979.htm', 'staff': '年薪20万金融交易员中外合资', 'salary': 17500.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/131215440251968.htm', 'staff': '游戏项目制作培训生（20名-急聘）', 'salary': 7000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/609562420251752.htm', 'staff': '001急聘银行贷款专员底薪3K到5K高提成百分20到百分40跳点通提', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/170279519250463.htm', 'staff': 'HB20-中级java工程师', 'salary': 25000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/609562420251788.htm', 'staff': '002急聘银行贷款专员底薪3K到5K高提成百分20到百分40跳点通提', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/452127535250084.htm', 'staff': '高级管理岗 渠道总监 年薪20万起+完善福利待遇', 'salary': 25000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/447876333250247.htm', 'staff': '销售部门经理+年薪20万起+完善福利待遇', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/452127389250090.htm', 'staff': '销售部门经理+年薪20万起+完善福利待遇', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/356116210253014.htm', 'staff': '一手房客户顾问+免费提供住宿+3000无责底薪+提点20', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/391840531250082.htm', 'staff': '诚聘电销精英（月薪轻松过万年薪20万）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020266913.htm', 'staff': '年薪20万聘金融交易员分析师', 'salary': 17500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/134646588251262.htm', 'staff': '市场经理 B20', 'salary': 16000.0, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/549348925250224.htm', 'staff': 'OZ40市场营销助理（提供住宿，无责底薪，提成百分之10-20）', 'salary': 4500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/395418627254253.htm', 'staff': '∴既可以朝九晚五◆年薪20W/提供免费出国培训机会※数据分析助理', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/618486921261596.htm', 'staff': '急招课程顾问（3000以上无责底薪+5%~20%提点+带薪培训）', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/618486921260969.htm', 'staff': '急聘销售（无责底薪高至5K+最高20%提点+内部晋升+双休）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/208944889253645.htm', 'staff': '中英合资公司诚聘 金融操盘手 年薪20万 可兼职', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/208944889253526.htm', 'staff': '中英合资公司诚聘 金融操盘手 年薪20万 可兼职', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/395418627253647.htm', 'staff': '活久见/什么公司下午1点半上班/年薪10-20W一年有3次晋升机会', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/323230512251739.htm', 'staff': '寻找各省市处方营销合伙人（每省20人）', 'salary': 25000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/269273732250502.htm', 'staff': '寻找各省市处方营销合伙人（每省20人）', 'salary': 25000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/677379223250798.htm', 'staff': '主管协助开单轻松无责底薪4000+奖金提成百分之20-40双休', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/418785489250921.htm', 'staff': '影院现场协助人员200元/天+招20人', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/677379223250797.htm', 'staff': '月薪6k-8k聘网络销售/销售代表高底薪+高提成20-40双休', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/452127535250186.htm', 'staff': '销售经理+年薪20万起+团队管理方向', 'salary': 25000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/687807227252316.htm', 'staff': '销售部 部门经理+年薪20万起+团队管理岗位', 'salary': 20000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/663606924257710.htm', 'staff': '年薪20-50万 金融交易员 零基础培训 实现财务自由', 'salary': 17500.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/490928838250042.htm', 'staff': '销售部门经理+年薪20万起+完善福利待遇', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/677379223250794.htm', 'staff': '（应届生+全职）保底4000+提成百分之20-40奖金双休晋升空间大', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/662630425250142.htm', 'staff': '年薪20万 诚聘 理财规划师/基金经理/销售顾问', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/550713224250024.htm', 'staff': '年薪20万 私人投资财富规划师（银行、保险、信托、基金)', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/381370287253392.htm', 'staff': '年薪20万高薪诚聘金融交易员/助理+零基础带薪培训+公平晋升', 'salary': 25000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267254.htm', 'staff': '直招交易员 交易顾问 年薪20万+五险+双休', 'salary': 17500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/236645432250195.htm', 'staff': '金融项目总监  年薪20W-30W', 'salary': 25000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267610.htm', 'staff': '年薪20-40万/金融交易员/零基础培训/实现财务自由', 'salary': 17500.5, 'position': '北京-石景山区'}
+{'details_url': 'http://jobs.zhaopin.com/609562420251802.htm', 'staff': '02贷款专员/销售代表/百分之20-40高提成/社保', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/293045230257992.htm', 'staff': '年薪20万/交易员/信托证券市场销售项目行政管理', 'salary': 12500.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/293045230258014.htm', 'staff': '年薪20万/交易员/信托证券酒店艺术市场销售项目行政管理', 'salary': 12500.5, 'position': '北京-石景山区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267515.htm', 'staff': '年薪20万直聘交易员可免费培训五险 双休', 'salary': 17500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/677379223250785.htm', 'staff': '20k急聘！金融外汇团队经理+销售主管高底薪+好平台+高提成', 'salary': 17500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/202701236250059.htm', 'staff': '项目总监（15-20k）', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/132100742250420.htm', 'staff': '独立制片人(年薪20万)', 'salary': 11500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/480229535250936.htm', 'staff': '无责底薪5000加20高提成免费提供住宿有五险有旅游有团建', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/265690635258339.htm', 'staff': '年薪20万高薪诚聘金融交易员/助理+零基础带薪培训+公平晋升', 'salary': 17500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/293045230256744.htm', 'staff': '20万年薪交易员 大堂经理 客户经理 行政主任', 'salary': 17500.5, 'position': '北京-大兴区'}
+{'details_url': 'http://jobs.zhaopin.com/480229535250922.htm', 'staff': '招募海南客户顾问无责底薪5000+20高提包住有聚餐旅游', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/156263724255694.htm', 'staff': '年薪20万招聘全职销售。压力大，挣钱多', 'salary': 17500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/381370287253332.htm', 'staff': '金融资金管理员（年薪20W起）', 'salary': 40000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/406867236250311.htm', 'staff': '公司直招20名电话+网络销售/月薪10000+/双休', 'salary': 12500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/406867236250345.htm', 'staff': '诚聘20名投资理财顾问/销售精英/朝九晚六/双休', 'salary': 9000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/406867236250340.htm', 'staff': '诚招20名投资理财顾问/电话+网络销售代表/待遇从优', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/406867236250353.htm', 'staff': '急招20名投资理财顾问/销售精英/朝九晚六/双休', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/406867236250444.htm', 'staff': '诚招20名投资理财顾问/不外出/高提成/月薪轻松过万', 'salary': 12500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/306632835250090.htm', 'staff': '急招电话销售20名，无责任底薪4.5K', 'salary': 5000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332250872.htm', 'staff': '年薪20万高薪诚聘金融交易员/助理+零基础带薪培训+公平晋升', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/13770015990250348000.htm', 'staff': '市场经理（年薪20万以上）', 'salary': 12500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/480229535250884.htm', 'staff': '急招一手海南一线海景房5000无责底薪+免费住宿+20高提', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/398523486250010.htm', 'staff': '北京链家/房产销售经理/销售代表/月薪8K-20K', 'salary': 17500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/418785489250919.htm', 'staff': '影院现场协助人员180元/天+招20人', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/677379223250775.htm', 'staff': '底薪6k-20k金融大宗商品团队经理高提成+高奖金', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/677379223250774.htm', 'staff': '双休不加班（零基础）聘网络销售保底4k+提成百分之20-40', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/480229535250853.htm', 'staff': '诚聘一手客户顾问5000无责底薪+20高提+免费住宿', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/381370287253155.htm', 'staff': '20K聘股票/期货交易员分析师/资金管理人', 'salary': 25000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/480229535250850.htm', 'staff': '一手客户顾问5000无责底薪+20高提+免费住宿', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/525178924272595.htm', 'staff': '金融交易员\u20026000+20%提成+零基础带薪培训 高提成补助五险一金', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/525178924272643.htm', 'staff': '外汇交易员\u2002底薪6000加百分之20提成 零基础带薪培训 完美晋升', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/613664123251179.htm', 'staff': '独具三大绝对优势的会计公司年薪20万招运营会计师', 'salary': 12500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/480229535250830.htm', 'staff': '急招一手置业顾问5000无责底薪+20高提+免费住宿', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/451992831250051.htm', 'staff': '销售经理（团队管理方向）（年薪20W-50W）', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/451992831250053.htm', 'staff': '货真价实销售经理（管理团队）年薪20W-50W', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/525178924272558.htm', 'staff': '外汇交易员\u20026000+20%提成+零基础带薪培训 接收应届生', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/525178924272417.htm', 'staff': '外汇交易员\u20026000+20%提成+零基础带薪培训 无其他任何费用', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/381370287251262.htm', 'staff': '底薪6K-20K加提成聘交易员/操盘手（无经验免费培训）可兼职', 'salary': 11500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/381370287251225.htm', 'staff': '底薪6K-20K+提成聘交易员/操盘手（无经验可培训） 免费培训', 'salary': 11500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/381370287251305.htm', 'staff': '底薪6K-20K+提成聘交易员/操盘手（无经验可培训）可兼职', 'salary': 11500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/308028988253517.htm', 'staff': '年薪20万诚聘专业金融团队外汇操盘手/分析师+弹性工作时间', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/663606924257521.htm', 'staff': '年薪20万/金融交易员/零基础培训/实现财务自由', 'salary': 17500.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/663606924257525.htm', 'staff': '年薪20万/金融交易员/零基础培训/实现财务自由', 'salary': 17500.5, 'position': '北京-崇文区'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258212.htm', 'staff': '年薪20-50万/金融交易员/零基础培训/实现财务自由', 'salary': 17500.5, 'position': '北京-宣武区'}
+{'details_url': 'http://jobs.zhaopin.com/380007810250048.htm', 'staff': '项目经理/咨询顾问/高级销售代表（底薪6-8K、年薪20万、7险1金）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/663606924257572.htm', 'staff': '20K 五险 双休 弹性工作', 'salary': 25000.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/663606924257547.htm', 'staff': '年薪20万/金融交易员/零基础培训/实现财务自由', 'salary': 17500.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/663606924257550.htm', 'staff': '年薪20-50万零基础培训 实现财务自由', 'salary': 17500.5, 'position': '北京-宣武区'}
+{'details_url': 'http://jobs.zhaopin.com/381370287251388.htm', 'staff': '底薪6K-20K加提成聘交易员/操盘手（无经验可培训）可兼职', 'salary': 12000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/679716129250013.htm', 'staff': '周日8时至20时150元厨房勤杂', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/120540065260898.htm', 'staff': '年薪15-20万诚聘课程顾问咨询师', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332250560.htm', 'staff': '急聘金融外汇交易员/无责底薪6000+百分之20提成/零基础带薪培训', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332250547.htm', 'staff': '有追求就有理想！！年薪20万高薪诚聘金融分析师/风控助理/交易员', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/291148031250063.htm', 'staff': '招商经理（年薪：20-80W）', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/406867236250329.htm', 'staff': '诚招20名投资理财顾问/朝九晚六/双休/月薪轻松过万', 'salary': 9000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/208944889253504.htm', 'staff': '中英合资公司诚聘 金融操盘手 年薪20万 可兼职', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/406867236250312.htm', 'staff': '急招20名金融销售/无责底薪3700-5200+高提成+奖金+双休', 'salary': 9000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/291035486250144.htm', 'staff': 'CBD商业附近底薪7K--15K+百分之20提成，金融分析师', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/531932627255240.htm', 'staff': '大客户销售代表 年薪10到20万 聚餐旅游提成高', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/381370287252812.htm', 'staff': '20万年薪聘 交易员/操盘手（做过股票、退伍军人、游戏高手优先）', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/356116210253015.htm', 'staff': '一手房客户顾问+提供住宿+3000无责底薪+20提成', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/208266989250139.htm', 'staff': '——普工+送货员+装卸工，包食宿，上保险【工作满20天可预支】', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/406867236250373.htm', 'staff': '急招20名金融销售/投资理财顾问/有无经验均可/待遇从优', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/391840531250036.htm', 'staff': '高薪诚聘销售精英年薪20万', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267323.htm', 'staff': '中英合资直聘交易员 年薪15万—20万 五险 双休', 'salary': 17500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267486.htm', 'staff': '年薪20—50万 金融 外汇 期货 现货 分析师 讲师', 'salary': 17500.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/551014829253862.htm', 'staff': '在北京买房不梦 年薪20万起分析师', 'salary': 7000.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/371676033256673.htm', 'staff': '挑战百万年薪 有无经验均可、无责任底薪6千、高提成百分之20一50', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/663606924257879.htm', 'staff': '年薪20-50万 零基础培训 实现财务自由 金融交易员', 'salary': 17500.5, 'position': '北京-石景山区'}
+{'details_url': 'http://jobs.zhaopin.com/711268624251059.htm', 'staff': '月薪10K-20K/金融销售', 'salary': 12500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/181956423255308.htm', 'staff': '新楼盘销售（北京一小时经济圈，年薪20万）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/289117883250149.htm', 'staff': '电话销售（双休底薪高提成+月薪8k至20k）', 'salary': 9000.5, 'position': '北京-崇文区'}
+{'details_url': 'http://jobs.zhaopin.com/289117883250147.htm', 'staff': '销售代表年薪15-20万', 'salary': 9000.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/289117883250150.htm', 'staff': '销售代表（双休底薪高提成+月薪8k至20k）', 'salary': 9000.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/314051539258835.htm', 'staff': 'CBD核心年薪20万+提成、五险、双休直招资管员', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/181956423255297.htm', 'staff': '新楼盘销售（北京一小时经济圈，年薪20万）)', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/181956423255209.htm', 'staff': '房地产销售（一手房 海量客源 年薪20W无压力）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267026.htm', 'staff': '年薪20-50万金融交易员', 'salary': 17500.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/482027182250129.htm', 'staff': '诚聘销售精英/主管/招生10k-20k+晋升+五险一金', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/422207911251025.htm', 'staff': '直招普工船员，电工，电焊工，叉车工，厨师，保安（年薪20万）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/567747325251077.htm', 'staff': '风控建模工程师/专家（20-40K）aaad7455', 'salary': 40000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267126.htm', 'staff': '直聘交易员年薪20万＋五险一金＋双休', 'salary': 17500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267192.htm', 'staff': '年薪20万 外企直招金融外汇交易员 五险一金 双休 旅游', 'salary': 17500.5, 'position': '北京-通州区'}
+{'details_url': 'http://jobs.zhaopin.com/406867236250445.htm', 'staff': '诚招20名电话销售精英/投资理财顾问/朝九晚六/双休', 'salary': 12500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/406867236250372.htm', 'staff': '诚招20名销售代表/电话销售/朝九晚六/双休', 'salary': 9000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258202.htm', 'staff': '年薪20-50万 零基础培训 实现财务自由 金融交易员', 'salary': 17500.5, 'position': '北京-通州区'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258197.htm', 'staff': '年薪20-50万 零基础培训 实现财务自由 金融交易员', 'salary': 17500.5, 'position': '北京-崇文区'}
+{'details_url': 'http://jobs.zhaopin.com/345434188260578.htm', 'staff': '20万年薪+提成聘交易师', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258134.htm', 'staff': '年薪20-50万 零基础培训 实现财务自由 金融交易员', 'salary': 17500.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258163.htm', 'staff': '年薪20-50万 零基础培训 实现财务自由 金融交易员', 'salary': 17500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258049.htm', 'staff': '年薪20-50万 零基础培训 实现财务自由 金融交易员', 'salary': 17500.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258015.htm', 'staff': '年薪20-50万 零基础培训 实现财务自由 金融交易员', 'salary': 17500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/331559233250323.htm', 'staff': '包食宿，上保险《工作20日以后可预支》高薪直招普工，送货员', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267058.htm', 'staff': '年薪20-50万 金融外汇讲师 分析师', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258152.htm', 'staff': '年薪20-50万 零基础培训 实现财务自由 金融交易员', 'salary': 17500.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/289117883250148.htm', 'staff': '电话销售（双休底薪高提成+月薪8k至20k）', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020264411.htm', 'staff': '年薪20万/交易员/市场财务建筑土木物业采购电子生产旅游高级管理', 'salary': 12500.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020265051.htm', 'staff': 'CBD核心【年薪20万-30万、五险、双休】富尔国际直招交易员', 'salary': 25000.5, 'position': '北京-通州区'}
+{'details_url': 'http://jobs.zhaopin.com/380007810250117.htm', 'staff': '项目经理/大客户销售（底薪8K、年薪20万、7险1金、入职送手机）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/380007810250081.htm', 'staff': '项目经理/咨询顾问/大客户销售（底薪6-8K、年薪20万、7险1金）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/289117883250128.htm', 'staff': '年薪15-20万聘客户经理', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/381371185251385.htm', 'staff': 'CBD核心年薪20万/金融交易员（房地产证券金融销售市场顾问管理）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020266798.htm', 'staff': '年薪20-50万/金融交易员/零基础培训/实现财务自由', 'salary': 25000.5, 'position': '北京-石景山区'}
+{'details_url': 'http://jobs.zhaopin.com/434254183251478.htm', 'staff': '高薪诚聘销售 年薪20万 待遇好工资高升职快', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/136917402250984.htm', 'staff': '培训项目主管（年薪15-20w起）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/291035486250134.htm', 'staff': 'ღღღ年薪20万专业金融团队ღ金融投手ღ数据分析师ღ金融分析师', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267390.htm', 'staff': '年薪15—20万招聘交易员 五险 双休', 'salary': 12500.5, 'position': '北京-大兴区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267492.htm', 'staff': '交易员直聘 年薪20万五险 双休', 'salary': 17500.5, 'position': '北京-宣武区'}
+{'details_url': 'http://jobs.zhaopin.com/687807227252250.htm', 'staff': '销售部门经理+年薪20万起+完善福利待遇', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/000614626263081.htm', 'staff': 'VS20 Integrated Marketing (Assistant Manager)', 'salary': -1, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/208944889253988.htm', 'staff': '中英合资公司诚聘 金融操盘手 年薪20万 可兼职', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/208944889254004.htm', 'staff': '中英合资公司诚聘 金融操盘手 年薪20万 可兼职', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/531932627254751.htm', 'staff': '年薪20万起  高新销售招聘  专业团队带领 客户量充足', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/694807420251581.htm', 'staff': '诚聘销售提供客户高提成 年薪20万-50万 带薪培训五险', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/694807420251576.htm', 'staff': '销售 提供客户 高提点 年薪20万-50万 带薪培训', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/694807420251634.htm', 'staff': '急聘人事 月薪5500 年薪20天以上 福利好 无加班', 'salary': 5000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/694807420251560.htm', 'staff': '销售代表 年薪20万-50万 提供客户 高提点 带薪培训', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/694807420251586.htm', 'staff': '销售 高提成提供客户年薪20万-50万带薪培训（储备经理）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/694807420251573.htm', 'staff': '销售 提供客户 年薪20万-50万 奖金丰厚 带薪培训', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/371676033255445.htm', 'staff': '挑战百万年薪 有无经验均可、交易员底薪6千、高提成百分之20一50', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267461.htm', 'staff': '年薪20W公司直招 外汇交易员 五险一金 双休', 'salary': 17500.5, 'position': '北京-石景山区'}
+{'details_url': 'http://jobs.zhaopin.com/531932627254754.htm', 'staff': '大客户销售  提点行业内最高  年薪20万到50万等你来挑战', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/371676033256569.htm', 'staff': '挑战百万年薪 金融交易员无责任底薪6千、高提成百分之20一50', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/694807420251489.htm', 'staff': '销售代表 薪资20-50万 提供客户 奖金丰厚 带薪培训', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/672709321251699.htm', 'staff': '房地产销售（年薪20W 公司提供客源 垫付佣金）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/677379223250711.htm', 'staff': '保底4000-6000聘金融行业销售高提成(20-40)percent双休', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/677379223250716.htm', 'staff': '网络销售朝阳四惠（无责4000+高提成百分之20-40+双休+开单轻松）', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/677379223250747.htm', 'staff': '金融销售经理/主管高薪高福利五险双休月薪15k-20k', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/677379223250609.htm', 'staff': '急聘销售精英（高无责任底薪+20—40高提成月薪平均8K以上)', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/677379223250703.htm', 'staff': '有无经验均可聘金融销售无责底薪4000-6000+百分之20-40提成双休', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/677379223250678.htm', 'staff': '平台好工资高无责底薪4k-6k聘金融销售+高提成百分之20-40双休', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/677379223250765.htm', 'staff': '金融团队经理+销售主管 底薪6k-20k（高提成！）', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/677379223250759.htm', 'staff': '【聘】金融团队经理底薪6k-20k+团队提成（高薪高福利）', 'salary': 17500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/677379223250690.htm', 'staff': '高提成百分之20-40保底4000聘金融网络销售/销售代表双休不加班', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/181956423254527.htm', 'staff': '销售精英（储备经理发展，年薪20万）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/286059136250022.htm', 'staff': '急聘电销精英年薪15-20万', 'salary': 12500.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/286059136250000.htm', 'staff': '电话销售年薪20万', 'salary': 12500.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/413020089250133.htm', 'staff': '年薪20万（销售代表)', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/413020089250142.htm', 'staff': '年薪20万（销售精英）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/413020089250122.htm', 'staff': '年薪20万销售精英', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/296541936250004.htm', 'staff': 'iOS（高级）10K-20K', 'salary': 15000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/181956423254613.htm', 'staff': '置业顾问（京郊项目，豪宅，年薪20万）', 'salary': 20000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/314051539258935.htm', 'staff': 'CBD核心年薪20万+提成、五险、双休富邦汇融直招资管员', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/314051539258812.htm', 'staff': 'CBD核心年薪20万、五险、双休富邦汇融直招资管员', 'salary': 9000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/316989480262219.htm', 'staff': '6K-20K聘金融证券交易员 分析师 周末双休 五险一金', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/181956423255258.htm', 'staff': '新楼盘销售（年薪20W 公司提供客源 垫付佣金）', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/181956423255231.htm', 'staff': '新楼盘销售（年薪20W 公司提供客源 垫付佣金）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/672709321251650.htm', 'staff': '置业顾问（年薪20W 公司提供客源 垫付佣金）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/672709321251658.htm', 'staff': '新楼盘销售（年薪20W 公司提供客源 垫付佣金）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/677379223250749.htm', 'staff': '金融销售无责底薪4000+高提成（20-40）percent社保双休', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/181956423255134.htm', 'staff': '新楼盘销售（年薪20W 公司提供客源 垫付佣金', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/280125232270590.htm', 'staff': '年薪20万诚聘外汇交易员+五险一金+带薪年假', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/252162082250842.htm', 'staff': '15K-20K高薪诚聘产品经理+五险一金+双休+豪华团建', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258198.htm', 'staff': '年薪20-50万 零基础培训 实现财务自由 金融交易员', 'salary': 17500.5, 'position': '北京-宣武区'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258061.htm', 'staff': '年薪20-50万 零基础培训 实现财务自由 金融交易员', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/711268624251012.htm', 'staff': '诚招20名电话销售/金融产品销售/底薪+提成+绩效+奖金', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/385895114250007.htm', 'staff': '销售年薪20万', 'salary': 17500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332250446.htm', 'staff': '国贸CBD商圈年薪20万高薪诚聘金融分析师/风控助理/交易员', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/235722319279945.htm', 'staff': '链家集团/销售管培生/17、18届应届生/年薪20w+', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/203287236250029.htm', 'staff': '北京大区销售总监（年薪20-40万+包吃住）', 'salary': 17500.5, 'position': '北京-大兴区'}
+{'details_url': 'http://jobs.zhaopin.com/480229535250644.htm', 'staff': '一手房客户顾问5000无责底薪+20高提+免费住宿', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020264300.htm', 'staff': 'CBD核心【年薪20万+提成、五险、双休】富尔国际直招交易员', 'salary': 20000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/663606924257702.htm', 'staff': '年薪20-50万 金融交易员 零基础培训 实现财务自由', 'salary': 17500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/326494411250275.htm', 'staff': '高薪聘请全职 初中数学老师（年薪15-20万）（教育/培训）', 'salary': 13500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020264335.htm', 'staff': 'CBD核心【年薪20万+分成、五险、双休】富尔国际直招交易员', 'salary': 20000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/381371185251495.htm', 'staff': 'CBD核心年薪20万/金融交易员（房地产证券金融销售市场顾问管理）', 'salary': 12500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/406867236250368.htm', 'staff': '诚聘20名电话+网络销售/底薪+提成+奖金+绩效/月薪过万', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/406867236250395.htm', 'staff': '招20名电话销售/金融产品销售/待遇从优', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/406867236250377.htm', 'staff': '诚聘20名金融产品销售/电话销售精英/待遇从优', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/293045230256829.htm', 'staff': '年薪20万/交易员/房地产信托证券酒店艺术市场销售项目行政管理', 'salary': 7000.5, 'position': '北京-通州区'}
+{'details_url': 'http://jobs.zhaopin.com/345434188259682.htm', 'staff': '高级交易顾问月薪15-20K', 'salary': 17500.5, 'position': '北京-通州区'}
+{'details_url': 'http://jobs.zhaopin.com/314051539257561.htm', 'staff': 'CBD商业中心底薪8K-15K+百分20提成，诚聘金融交易员，操盘手', 'salary': 12500.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/293045230256924.htm', 'staff': '年薪20万/交易员/房地产信托证券酒店艺术市场销售项目行政管理', 'salary': 12500.5, 'position': '北京-房山区'}
+{'details_url': 'http://jobs.zhaopin.com/293045230256926.htm', 'staff': '年薪20万/交易员/房地产信托证券酒店艺术市场销售项目行政管理', 'salary': 12500.5, 'position': '北京-怀柔区'}
+{'details_url': 'http://jobs.zhaopin.com/334586882250226.htm', 'staff': '高薪招聘销售主管、销售经理（年薪20-50万）', 'salary': 11500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/381370287250377.htm', 'staff': '底薪6K-20K加提成聘交易员/操盘手/分析师/讲师（无经验可培训）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/293045230257179.htm', 'staff': '年薪20万/交易员/房地产信托证券酒店艺术市场销售项目行政管理', 'salary': 12500.5, 'position': '北京-顺义区'}
+{'details_url': 'http://jobs.zhaopin.com/480229535250748.htm', 'staff': '一手房产经纪人5000无责底薪+免费住宿+20高提', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/480229535250751.htm', 'staff': '一手客户顾问5000无责底薪+20高提+免费住宿', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/491739686250075.htm', 'staff': '网络销售工程师 年薪20万起+五险一金', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/281782139250037.htm', 'staff': '销售团队经理/投资理财（无责任底薪10K-20K+提成+奖金+年度分红', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/192210812250247.htm', 'staff': '外贸经理（10k-20k）', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/418785489250874.htm', 'staff': '影院现场协助礼仪180元/天+招20人', 'salary': 5000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/418785489250864.htm', 'staff': '影院现场协助礼仪180元/天+招20人', 'salary': 5000.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/418785489250821.htm', 'staff': '书籍整理协助登记180元/天+招20人', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/418785489250820.htm', 'staff': '影院现场协助礼仪180元/天+招20人', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/418785489250891.htm', 'staff': '影院现场协助礼仪180元/天+招20人', 'salary': 5000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/418785489250887.htm', 'staff': '影院现场协助礼仪180元/天+招20人', 'salary': 5000.5, 'position': '北京-通州区'}
+{'details_url': 'http://jobs.zhaopin.com/418785489250893.htm', 'staff': '影院现场协助礼仪180元/天+招20人', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/418785489250896.htm', 'staff': '影院现场协助礼仪180元/天+招20人', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/480166481250065.htm', 'staff': '咨询顾问/课程顾问 挑战年薪20万', 'salary': 15000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/480229535250444.htm', 'staff': '20-25岁，中专以上学历', 'salary': 4000.0, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/478450837250023.htm', 'staff': '欢乐谷我爱我家房产销售 北漂奋斗 一半人年薪20万', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/493800433250026.htm', 'staff': '策划总监(15K-20K)', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/287101739250123.htm', 'staff': '漫画色彩师（年薪15-20万）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/454491036250030.htm', 'staff': '【银行贷款专员】3K+百分之20-40提成/系统培训', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020265515.htm', 'staff': '年薪20万/金融交易员/电子机械生产制造市场销售/客户咨询管理', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/361363213255103.htm', 'staff': '招募高端产品销售专员5000底薪有住宿无经验要求百分之20提', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020265491.htm', 'staff': 'CBD核心【年薪20万-30万、五险、双休】富尔国际直招交易员', 'salary': 25000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/464925187250912.htm', 'staff': '高薪资管员10K-20K(不受时间地点限制)可兼职', 'salary': 12500.5, 'position': '北京-房山区'}
+{'details_url': 'http://jobs.zhaopin.com/321432822250957.htm', 'staff': '年薪20万诚聘课程顾问', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267216.htm', 'staff': '直聘交易员年薪20万+五险+双休', 'salary': 17500.5, 'position': '北京-大兴区'}
+{'details_url': 'http://jobs.zhaopin.com/531932627254873.htm', 'staff': '分公司成立急招客服专员 月薪5000元左右 无加班带薪年假20天', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/436050830250573.htm', 'staff': '游戏开发培训 挑战年薪20万', 'salary': 9000.5, 'position': '北京-房山区'}
+{'details_url': 'http://jobs.zhaopin.com/436050830250549.htm', 'staff': '游戏开发培训 挑战年薪20万', 'salary': 9000.5, 'position': '北京-平谷区'}
+{'details_url': 'http://jobs.zhaopin.com/418785489250906.htm', 'staff': '影院现场协助人员180元/天+招20人', 'salary': 5000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/418785489250916.htm', 'staff': '影院现场协助人员180元/天+招20人', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/418785489250915.htm', 'staff': '影院现场协助人员180元/天+招20人', 'salary': 5000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/300376435256026.htm', 'staff': '年薪20万诚聘外汇交易员+五险一金+带薪年假', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/371676033252904.htm', 'staff': '赚钱就这么简单—6k—15k高底薪+20%—40&高提成@你敢吗', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/371676033252903.htm', 'staff': '★高薪诚聘外汇交易员（底薪6K—15k+20%提成+五险一金+双休）', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/329052630250166.htm', 'staff': '招聘（客户顾问）（销售代表）电话销售上五险一金包住年薪8k20k', 'salary': 5000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/312858082254261.htm', 'staff': '金融交易分析年薪20以上有股票经验优先', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/643455423250318.htm', 'staff': '华美地产 新盘启动年薪20万招聘 销售主管/置业顾问', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/368468286250064.htm', 'staff': '招商拓展经理【顺义K20科技产业园区】', 'salary': 12500.5, 'position': '北京-顺义区'}
+{'details_url': 'http://jobs.zhaopin.com/381370287251313.htm', 'staff': 'CBD商业圈聘白领交易员零基础可培训，薪资7K-20K不坐班', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/544255824250293.htm', 'staff': '招聘黄冈地区兼职网络销售20人', 'salary': 3750.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/402766212250978.htm', 'staff': '金融顾问(月薪20k-30k,出国旅游）', 'salary': 17500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/618486921262876.htm', 'staff': '嗨学网诚聘电话销售（底薪3-5k,提成5-20%，月均9k）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/36692423090250069000.htm', 'staff': '昌平回龙观高薪急聘电销精英【无责底薪4000-10000+5%-20%提成】', 'salary': 7000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/329052630250158.htm', 'staff': '招聘（客户顾问）（销售代表）电话销售五险一金包住年薪8k20k', 'salary': 5000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/371676033251697.htm', 'staff': '【御金悬赏令】实力金融交易员你在哪？赏金：6K~20K、五险双休！', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/650469726250015.htm', 'staff': '无责底薪5000元+项目提成 年薪20万起的项目经理助理', 'salary': 12000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/381370287251314.htm', 'staff': 'CBD商业圈聘金融操盘手零基础可培训，待遇7K-20K不坐班', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/364494731250245.htm', 'staff': '电话销售精英年薪20万', 'salary': 17500.5, 'position': '北京-大兴区'}
+{'details_url': 'http://jobs.zhaopin.com/364494731250230.htm', 'staff': '年薪20万的网络销售', 'salary': 17500.5, 'position': '北京-大兴区'}
+{'details_url': 'http://jobs.zhaopin.com/136434618250662.htm', 'staff': '应届毕业生   理财规划师.国企直聘.10K-20K.做五休二.  行政优先', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/360875719250085.htm', 'staff': '某大型央企-全资融资租赁公司（20亿注册资本） 业务部负责人', 'salary': -1, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/360875719250079.htm', 'staff': '某大型央企-下属融资租赁公司（20亿注册资本） 业务部负责人', 'salary': -1, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/360875719250082.htm', 'staff': '某大型央企-下属融资租赁公司（20亿注册资本）财务岗', 'salary': -1, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/360875719250081.htm', 'staff': '某大型央企-下属融资租赁公司（20亿注册资本）项目审查经理', 'salary': -1, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/360875719250083.htm', 'staff': '某大型央企-下属融资租赁公司（20亿注册资本）人力资源岗', 'salary': -1, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/121092796250416.htm', 'staff': '销售总监  年收入（20-30万）', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/540859722250670.htm', 'staff': '商管公司拓展经理（20-30万元）', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/540859722250682.htm', 'staff': '招商经理（年20万左右）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/337837488251797.htm', 'staff': '中英合资公司诚聘 金融操盘手 年薪20万 可兼职', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/337837488251762.htm', 'staff': '年薪20万诚聘金融交易员', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/337837488251779.htm', 'staff': '公司带薪培养交易员 底薪6000~15000+20%~40%绩效提成+', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/368763733250002.htm', 'staff': '高收入年薪20万起，诚聘精英', 'salary': 25000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/337837488252229.htm', 'staff': '中英合资公司诚聘 金融操盘手 年薪20万 可兼职', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/364494731250210.htm', 'staff': '年薪20万招电话销售和网络销售', 'salary': 25000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/435888327250157.htm', 'staff': '初级理财投资顾问（年薪20万，银行、信托、证券）', 'salary': 11500.0, 'position': '北京-通州区'}
+{'details_url': 'http://jobs.zhaopin.com/389920789250600.htm', 'staff': '销售部门经理+年薪20万起+完善福利待遇', 'salary': 20000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/429596121250750.htm', 'staff': 'M 北京站（客运员）招骋20人', 'salary': 3000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/429596121250702.htm', 'staff': 'N 北京站（客运员）招骋20人', 'salary': 3000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/337837488253164.htm', 'staff': '年薪20万诚聘金融交易员', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/467643887250104.htm', 'staff': '北京大区销售经理（10-20K）', 'salary': 17500.5, 'position': '北京-大兴区'}
+{'details_url': 'http://jobs.zhaopin.com/184766323250012.htm', 'staff': '课程销售in音乐培训机构4k到20k', 'salary': 6000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/000614626263053.htm', 'staff': 'smart & VS20 Creative Management (Assistant Manager)', 'salary': -1, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/337837488252458.htm', 'staff': '中英合资公司诚聘 金融操盘手 年薪20万 可兼职', 'salary': 9000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/264238113269503.htm', 'staff': '巡店区域经理（昌平区，管理20人团队）', 'salary': -1, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/264238113269501.htm', 'staff': '巡店区域经理（房山区，管理20人团队）', 'salary': -1, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/410374026254813.htm', 'staff': '旅游电商接线客服（七险一金+免费早午餐+班车）', 'salary': 6250.0, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/311142083250140.htm', 'staff': '销售（月均过10000+早9晚6双休+住宿）', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/559161224251395.htm', 'staff': '银行外呼座席（双休+月均过万）', 'salary': 9000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/311757113250722.htm', 'staff': '微信客户顾问（五险一金双休）底薪4k起', 'salary': 9000.5, 'position': '北京-石景山区'}
+{'details_url': 'http://jobs.zhaopin.com/557103028254886.htm', 'staff': '销售/电销/可实习/可无经验（无责4000+高提+双休+各种补助）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/315847111254307.htm', 'staff': '包住+无夜班纯接听呼入岗客服+五险一金+双休', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/317212785253592.htm', 'staff': '电话销售、销售、无责底薪4000转正6500+各项补助+双休+提供住宿', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/364117339250005.htm', 'staff': '课程顾问', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/662164021250102.htm', 'staff': '销售管理储备干部无责底薪5.5K起六险可住宿本科以上昌平顺义朝阳', 'salary': 12000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/146553580252365.htm', 'staff': 'B1VIP课程顾问（无责底薪/高提成）', 'salary': 11500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/146553580252374.htm', 'staff': 'B1销售代表/课程咨询（提供意向咨询+无业绩要求+早九晚六双休）', 'salary': 9000.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/146553580251838.htm', 'staff': 'V1课程顾问（朝九晚六双休+平均月薪10K+晋升+环境舒适）', 'salary': 9000.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/146553580251874.htm', 'staff': 'V9课程销售/电话咨询(岗前带薪培训+早九晚六双休）', 'salary': 9000.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/283612714252153.htm', 'staff': 'S1高薪课程顾问（月均8000以上）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/146553580251961.htm', 'staff': 'V1销售课程顾问（提供意向资源+无业绩要求+双休+早九晚六）', 'salary': 9000.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/146553580251927.htm', 'staff': 'V9课程咨询（无陌拜+无责底薪+高额提成奖金）月薪人均8K以上', 'salary': 12500.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/146553580251837.htm', 'staff': 'V1销售代表/课程咨询（提供意向资源+无业绩要求）', 'salary': 9000.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/254739738250268.htm', 'staff': '星级酒店聘经理助理/行政助理/人事助理/五险一金+奖金+包食宿', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/475900235250002.htm', 'staff': '电话销售', 'salary': 7500.0, 'position': '北京-通州区'}
+{'details_url': 'http://jobs.zhaopin.com/439402130250945.htm', 'staff': '现场普工-场务-道具/灯光（统一提供食宿）', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/490062633250001.htm', 'staff': '三个月底薪6000k培养 （股票、期货、 外汇）操盘手交易员', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/475900235250027.htm', 'staff': '公司直招电话销售人员', 'salary': 5000.5, 'position': '北京-通州区'}
+{'details_url': 'http://jobs.zhaopin.com/283612714252154.htm', 'staff': 'V1课程顾问/招生老师/销售顾问', 'salary': 9000.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/328521338254634.htm', 'staff': '自如管家高薪销售代表（020模式，均薪10000+，餐补房补）ZO', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259833.htm', 'staff': '高薪资高福利月薪6K起金融外汇交易员操盘手+五险一金+双休', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/328521338254632.htm', 'staff': '销售代表ZO（均薪10000+，不限经验，六险一金，有餐补房补）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259831.htm', 'staff': '高底薪+高提成诚聘外汇交易员', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/156328115274616.htm', 'staff': '续费客服 五险+双休+高额提成', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/477326388260489.htm', 'staff': '（无责底薪+绩效奖金+五险一金+接受实习）招聘专员/猎头顾问', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/149175410250549.htm', 'staff': '应届毕业生、销售专员、代表，经理助理，理财助理', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/477326388260485.htm', 'staff': '季度加薪+项目提成+接受实习/猎头助理顾问（可转正）', 'salary': 7000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/146553580252377.htm', 'staff': 'B1销售课程顾问（无责底薪至6K+无业绩要求+双休+早九晚六）', 'salary': 12500.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/146553580252375.htm', 'staff': 'B1课程顾问（朝九晚六+双休+月薪均10K以上+晋升空间）', 'salary': 12500.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/146553580252376.htm', 'staff': 'B1电话销售/咨询顾问（提供意向客户+早九晚六+双休+无业绩要求）', 'salary': 9000.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376983.htm', 'staff': '房产顾问【底薪4200+带薪培训+公平晋升+社保+北京就近分配】', 'salary': 12500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376981.htm', 'staff': '销售顾问【底薪4200+带薪培训+提成+商保社保+就近分配】', 'salary': 9000.5, 'position': '北京-宣武区'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376982.htm', 'staff': '销售顾问【底薪4200+带薪培训+提成+商保社保】期待你的加入', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376980.htm', 'staff': '销售顾问【底薪4200+带薪培训+提成+商保社保+就近分配】', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376979.htm', 'staff': '销售储备干部【底薪4200+带薪培训+公平晋升+社保商保】', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376978.htm', 'staff': '销售顾问【底薪4200+带薪培训+提成+商保社保+就近分配】', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/41884621390273807000.htm', 'staff': '管理培训生/销售无责底薪6500+高提成+培训/211毕业生', 'salary': 12500.5, 'position': '北京-通州区'}
+{'details_url': 'http://jobs.zhaopin.com/418846213273811.htm', 'staff': '【世界那么大.来丽兹看看】985/211豪宅销售+底薪6500元', 'salary': 12500.5, 'position': '北京-顺义区'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259830.htm', 'staff': '操盘手/交易员+免费培训+五险一金+弹性工作', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376976.htm', 'staff': '房产顾问【底薪4200+带薪培训+公平晋升+社保+北京就近分配】', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/283612714251739.htm', 'staff': 'S1 十大教育机构-中业高薪诚聘课程顾问', 'salary': 9000.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/336197188279931.htm', 'staff': '高薪诚聘资深外汇原油操盘手 交易员 分析师', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/557103028254960.htm', 'staff': '销售代表/可实习/无责4K起/月入过万/高提/双休/五险/带薪培训', 'salary': 12500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/439402130250993.htm', 'staff': '一线明星】剧组招聘跟组演员，艺人，导演，摄影，化妆助理学徒', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ137021000J00004993715.htm', 'staff': '餐厅副理', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ120019970J00005111411.htm', 'staff': '高级java工程师', 'salary': -1, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ755418270J00005086813.htm', 'staff': '销售代表', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ182396420J00004871210.htm', 'staff': 'BD经理', 'salary': 22500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ280170680J00000150611.htm', 'staff': '实验室技术负责人', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ233474810J00004615812.htm', 'staff': '销售经理', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/CZ337837480J00004640914.htm', 'staff': '金融交易员', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ337837480J00004837714.htm', 'staff': '诚聘金融交易员\xa0\xa0接受零基础\xa0\xa0五险一金\xa0双休', 'salary': 9000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ182396420J00005099610.htm', 'staff': '编辑', 'salary': 6500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ000167530J00004979011.htm', 'staff': 'Paralegal-Compliance/法务助理', 'salary': 9000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ137021000J00005009315.htm', 'staff': '见习经理', 'salary': 3850.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ130290170J00005091510.htm', 'staff': '计算机测试工程师', 'salary': 14000.0, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/CZ329679330J00005214014.htm', 'staff': '健康顾问', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ382743810J00006846006.htm', 'staff': '影视特效\xa0销售助理（北京）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ354603710J00005018311.htm', 'staff': 'KA大客户销售/政府关系/团购渠道销售', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ120019970J00000042711.htm', 'staff': '产品经理', 'salary': -1, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ120019970J00000005511.htm', 'staff': '产品经理', 'salary': -1, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ120019970J00000001111.htm', 'staff': 'JAVA开发工程师', 'salary': -1, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ130290170J00005091610.htm', 'staff': '园区电气技术岗', 'salary': 9000.0, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/385769128250188.htm', 'staff': '月薪过万招生/课程顾问', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/431959137251011.htm', 'staff': 'Java初级开发工程师', 'salary': 7000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/385769128250182.htm', 'staff': '高薪诚聘产品销售', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020265094.htm', 'staff': '招交易助理 分析师助理 投资经理助理 底薪6000+提成 五险 双休', 'salary': 7000.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/385769128250181.htm', 'staff': '产品客服', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020265053.htm', 'staff': '高薪聘交易员、操盘手分析师平台代理（零基础可培训）+五险+双休', 'salary': 17500.5, 'position': '北京-崇文区'}
+{'details_url': 'http://jobs.zhaopin.com/134279026250703.htm', 'staff': '销售代表（朝九晚六+双休+带薪培训+客户资源）', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/134279026250171.htm', 'staff': '互联网销售', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/385769128250078.htm', 'staff': '特许加盟招商经理（年薪几十万）', 'salary': 17500.5, 'position': '北京-石景山区'}
+{'details_url': 'http://jobs.zhaopin.com/490062633250048.htm', 'staff': '分析师助理  / 文员', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/490062633250052.htm', 'staff': '三个月底薪6000k培养 （股票、 外汇）操盘手交易员', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020266346.htm', 'staff': '交易员 分析师 年薪25-35万五险、双休 外汇黄金 平台代理', 'salary': 25000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/CZ754987070J00005036813.htm', 'staff': '营销人员', 'salary': 9000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ754987070J00004797913.htm', 'staff': '销售代表', 'salary': 9000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ763971370J00003434314.htm', 'staff': '嵌入式硬件工程师', 'salary': 11500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/618486921264488.htm', 'staff': '税后8k-10k，双休+五险一金+带薪年假+出国游+准上市公司', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ754987070J00005080613.htm', 'staff': '运维经理', 'salary': 5500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ754987070J00005079913.htm', 'staff': '运维专员', 'salary': 3000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/337837488254286.htm', 'staff': '公司诚招金融交易员  无经验可提供免费带薪培训', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/684760025250649.htm', 'staff': '美术教师（大兴荟聚购物中心）', 'salary': 6000.0, 'position': '北京-大兴区'}
+{'details_url': 'http://jobs.zhaopin.com/CZ794286630J00004512515.htm', 'staff': '\xa0高薪诚聘淘宝天猫美工\xa0平面设计', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/264712913251241.htm', 'staff': '阿里巴巴网络营销顾问', 'salary': 6000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/264712913251240.htm', 'staff': '续签客服/客服专员', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/199141123251104.htm', 'staff': '大客户销售(底薪4750元+五险一金+双休+双薪+奖金+补贴)', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/199141123251074.htm', 'staff': '客户经理（底薪4750+五险一金+双休+补贴+年底双薪+年终奖+补贴）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/199141123251113.htm', 'staff': '渠道销售（底薪4750+行业最高提成+双休+年终奖+双薪+各项补贴）', 'salary': 9000.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253183.htm', 'staff': '高薪诚聘金融交易员/操盘手/分析师 双休（零基础培训））', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/477326388257308.htm', 'staff': '初级猎头顾问/招聘专员（快速晋升+广阔发展前景）', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/443317139250822.htm', 'staff': '急招java软件开发工程师助理 双休', 'salary': 7000.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/454086030250204.htm', 'staff': '外企总经理助理限本科6000（双休+五险一金+13薪）', 'salary': 7000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/443317139250867.htm', 'staff': '软件开发工程师助理实习生', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/336197188279930.htm', 'staff': '中外合资企业诚聘金融交易员 操盘手', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/506794085250004.htm', 'staff': '项目直招JAVA开发实习生（不限经验）', 'salary': 5000.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253181.htm', 'staff': '月薪上万 聘✿外汇交易员✿操盘手 有经验者优先考虑 内部晋升', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253182.htm', 'staff': '15000底薪诚聘金融交易员/酒店/游戏/房地产/销售/互联网/IT/采购', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/476549282250152.htm', 'staff': 'Java实习生/零基础/不限经验/免费住宿', 'salary': 7000.5, 'position': '北京-密云县'}
+{'details_url': 'http://jobs.zhaopin.com/317751030257691.htm', 'staff': '高薪java零基础+转正', 'salary': 5000.5, 'position': '北京-石景山区'}
+{'details_url': 'http://jobs.zhaopin.com/154939417250085.htm', 'staff': '销售（保底年薪10-25万）', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/154939417250070.htm', 'staff': '销售业务员（保底10-25万）', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253178.htm', 'staff': '8-10k带薪培养证券交易员/研究员/金融助理 五险双休', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/477326388257213.htm', 'staff': '猎头助理顾问（最有前景的行业+最有前景的企业）7', 'salary': 5000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/542514829258237.htm', 'staff': '高尔夫渠道经理', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/541696523250712.htm', 'staff': '销售业务员/拓展/综合金融客户经理/理财/保险/银行/投资', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376975.htm', 'staff': '销售顾问【底薪4200+带薪培训+提成+商保社保】期待你的加入', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/CZ764963170J00005088211.htm', 'staff': '摄影师', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/384241332250509.htm', 'staff': '仓库管理员  节日福利 午餐补贴 氛围好', 'salary': 5000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259829.htm', 'staff': '6000底薪 公司提供账户 零基础培训弹性工作 金融交易员', 'salary': 11500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/541696523250714.htm', 'staff': '销售代表/电话销售/贷款/信用卡/保险/综合金融理财规划师/银行', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267320.htm', 'staff': '底薪6000+提成招聘交易员/聘专员/人事助理/前台接待/面试经理', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/335477933252948.htm', 'staff': '美丽屋—北京区域销售+高额提成+五险一金', 'salary': 12500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/308028988254641.htm', 'staff': '金融储备干部+金融助理+数据分析师 应届生/无经验一对一培训', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/146553580251764.htm', 'staff': 'H1高级课程顾问（意向客户资源+高奖金+双休）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/146553580251771.htm', 'staff': 'H1课程顾问（无责底薪3K起+早九晚六+双休）月薪均8K以上', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/337837488253310.htm', 'staff': '高薪诚聘交易员，月薪上万，五险一金，优秀者可派遣国外', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936251960.htm', 'staff': '金融数据分析师', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252097.htm', 'staff': '金融风控师', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/371676033256875.htm', 'staff': '告别“高不成低不就”月薪过万交易分析助理', 'salary': 9000.5, 'position': '北京-通州区'}
+{'details_url': 'http://jobs.zhaopin.com/308028988254616.htm', 'staff': '【梦想成就财富，ONEWAY掌控未来】高薪诚聘证券分析师+补助', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252355.htm', 'staff': '嘉诺控股集团诚聘程序化交易员/交易助理', 'salary': -1, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252399.htm', 'staff': '外汇分析师/分析师助理', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/414118234251716.htm', 'staff': '白领交易员/操盘手（做过行政、退伍军人、游戏高手优先录取）', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267629.htm', 'staff': '跨行首选金融行业+6K起聘金融交易员+周末双休+五险一金', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020265195.htm', 'staff': '10000底薪招交易员 分析师 行政 人资总监 五险 双休', 'salary': 12500.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/266916317250003.htm', 'staff': '精英销售代表（CBD办公，晋升空间大）', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/266916317250000.htm', 'staff': '电话销售（急聘！五险一金+双休+高提成）', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/146553580251614.htm', 'staff': 'B3课程销售经理（提供意向客户资源+双休+早九晚六）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/146553580251747.htm', 'staff': 'B5课程销售/咨询（岗前带薪培训+无责底薪+朝九晚六双休）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/414118234251701.htm', 'staff': '操盘手/交易员（五险一金，公司分红，免费培训）', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020267617.htm', 'staff': '金融梦想舍我其谁！年薪30万聘金融交易员/助理/专员/资管/讲师', 'salary': 25000.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/134876569250022.htm', 'staff': '销售经理', 'salary': 6250.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/337837488254249.htm', 'staff': '公司直招金融交易员 公司提供账户和专业培训', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/337837488253311.htm', 'staff': '6K起高薪聘金融证券分析员（周末双休+五险一金+免费带薪培训）', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/337837488253317.htm', 'staff': '努力定能成功坚持迎来胜利金融交易员', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/450992083250023.htm', 'staff': '课程顾问/招生顾问/咨询主管', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/308028988254683.htm', 'staff': '比iphone7更值得拥有！外汇项目专员金融数据分析师五险双休', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/641271923262075.htm', 'staff': '诚聘股票，外汇交易员，操盘手；', 'salary': 7000.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/641271923262074.htm', 'staff': '月薪万元急聘外汇期货股票操盘手交易员精英（可派送香港总部深造', 'salary': 12500.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252716.htm', 'staff': '国贸CBD 外汇分析师/交易专员/讲师+双休五险 没有走不通的路只有', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376974.htm', 'staff': '销售实习生【底薪4200+带薪培训+社保+快乐氛围+就近分配】', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/235722319281928.htm', 'staff': '名企链家总部招聘销售实习生-免费培训-大平台-师徒制', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253177.htm', 'staff': '金融梦想舍我其谁！聘金融交易员/助理/专员/资管/讲师 底薪10k+', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376973.htm', 'staff': '涉外顾问【底薪4200+提成+带薪培训+社保商保+就近分配】', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/333201582250112.htm', 'staff': '人事专员 双休+五险一金+旅游', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/691244727250292.htm', 'staff': '私人会所聘-私人司机-私人陪游-私人保姆-高端外WEI女', 'salary': 60000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376970.htm', 'staff': '营销顾问【底薪4200+带薪培训+提成+公平晋升】和谐团队', 'salary': 9000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376970.htm', 'staff': '营销顾问【底薪4200+带薪培训+提成+公平晋升】和谐团队', 'salary': 9000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376971.htm', 'staff': '房产顾问【底薪4200+带薪培训+公平晋升+社保+北京就近分配】', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376969.htm', 'staff': '房产顾问【底薪4200+带薪培训+公平晋升+社保+北京就近分配】', 'salary': 12500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253176.htm', 'staff': '底薪6000—15000+五险一金+提成聘金融交易员操盘手0基础培训', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/381371185252415.htm', 'staff': '诚聘交易员 操盘手 分析师  金融讲师', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376968.htm', 'staff': '营销储备干部【底薪4200+带薪培训+公平晋升+社保商保】', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376967.htm', 'staff': '★销售顾问【集团总部直聘+底薪4200+带薪培训+商保社保】★', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259828.htm', 'staff': '量化数据分析师', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/477326388258119.htm', 'staff': '【埃摩森】猎头顾问助理/精英人士的职业规划师（实习生可留用）', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259826.htm', 'staff': '诚聘金融交易员（带薪培训，六日双休）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253175.htm', 'staff': '金融交易员/操盘手（时间、工作自由）', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/265413013259825.htm', 'staff': '军人优先宿舍五险无业绩考核月薪过万不是梦，销售无责4千2+提成+', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/153543329250009.htm', 'staff': '机电工程师', 'salary': 6750.0, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/153543329250008.htm', 'staff': '钳工装配维修工', 'salary': 7500.0, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/153543329250007.htm', 'staff': '机电维修工', 'salary': 6000.0, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/641271923262073.htm', 'staff': '外汇资金管理员', 'salary': 6500.0, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/300376435256786.htm', 'staff': '金融交易员操盘手6K-15K底薪,五险+可免费培训一对一指导', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259825.htm', 'staff': '1W底薪诚聘金融交易员（股票、期货、外汇） 年底双薪', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/318672883250087.htm', 'staff': '电信/通信设备销售', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/641271923262072.htm', 'staff': '诚聘交易员/分析师助理（月薪7000+五险）', 'salary': 9000.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259824.htm', 'staff': '直聘：外汇交易员【零基础可培训】五险一金+双休+朝九晚五+8K', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/418846213272992.htm', 'staff': '[应届生专场]高端销售管培生 底薪7000+提成+专业培训', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/337837488253322.htm', 'staff': '跨行首选金融行业+6K起聘金融交易员+周末双休+五险一金', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/337837488254435.htm', 'staff': '“跨行首选”月薪8k直招金融交易员/分析助理+可实习', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936251144.htm', 'staff': '金融讲师', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252122.htm', 'staff': '金融资金管理员', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/235722319281926.htm', 'staff': '销售精英/2017实习生优先/就近分配/系统培训', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/347042518266858.htm', 'staff': '实习生 应届生的首选，无责底薪4000加高提成', 'salary': -1, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/336197188279928.htm', 'staff': '合资公司直招交易员操盘手（6K-15K），专业内部培训', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/431107134260637.htm', 'staff': '人力资源中高端招聘research+高薪奖（华北大区）c', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/134739658250588.htm', 'staff': '行政前台', 'salary': 5000.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/316989480263167.htm', 'staff': '交易员底薪6千周末双休（无经验者免费带薪培训）', 'salary': 7000.5, 'position': '北京-通州区'}
+{'details_url': 'http://jobs.zhaopin.com/345434188263096.htm', 'staff': '财务经理', 'salary': 12500.5, 'position': '北京-通州区'}
+{'details_url': 'http://jobs.zhaopin.com/345434188263081.htm', 'staff': '外汇交易师', 'salary': 9000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/469032815262948.htm', 'staff': '月薪过万、北漂买房不是梦【欢迎精英们加入链家新房】', 'salary': -1, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253171.htm', 'staff': '15000底薪诚聘金融交易员/酒店/游戏/房地产/销售/互联网/IT/采购', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936251861.htm', 'staff': '金融讲师', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252400.htm', 'staff': '嘉诺控股集团诚聘程序化交易员', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936251341.htm', 'staff': '三个月底薪6000k培养 (股票、期货、 外汇)操盘手交易员', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252544.htm', 'staff': '月薪上万 聘✿外汇交易员✿操盘手 有经验者优先考虑 内部晋升', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/308028988254585.htm', 'staff': '诚聘金融数据分析师！！你必须扛起自己的梦想', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/484189636250297.htm', 'staff': '仓库管理员', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252679.htm', 'staff': '国贸CBD 急聘金融外汇交易员/助理/房地产/it/销售', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252498.htm', 'staff': '金融风控师/助理', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/484189636250351.htm', 'staff': '普工', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936251181.htm', 'staff': '金融讲师', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/484189636250403.htm', 'staff': '跟单员', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/484189636250482.htm', 'staff': '直聘船员普工 电焊工 物流专员 仓库管理员 跟单员 搬运工 厨师', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252565.htm', 'staff': '诚聘外汇分析师+交易专员（拥有股票类投资经验者优先）非销售', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/414118234251698.htm', 'staff': '操盘手/交易员+免费培训+五险一金+弹性工作', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/291035486254271.htm', 'staff': '让求职更有效@@@HR立即回应你@@分析大盘数据走势', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/696427020264843.htm', 'staff': '10000底薪招聘交易员/房地产/销售/会计/互联网/贸易/采购/酒店', 'salary': 12500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/484189636250282.htm', 'staff': '（直招）万吨货轮出海普工船员、押运跟单员、保安、电工、电焊工', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/490062633250014.htm', 'staff': '诚聘金融销售 双休+高提成', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/484189636250485.htm', 'staff': '随船普工 电工 电焊工 叉车工 保安厨师 跟单员 物流专员 仓管', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252287.htm', 'staff': '金融风控师', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020264796.htm', 'staff': '6000底薪聘招聘专员/人事助理/前台接待/面试经理/金融交易员', 'salary': 7000.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/278684936251630.htm', 'staff': '金融风控师、专员、助理', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252568.htm', 'staff': '国贸CBD 急聘金融外汇交易员/助理/房地产/it/销售', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/316989480261641.htm', 'staff': '外汇交易员\u20026000+提成+零基础带薪培训 无需找客户', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/380007810250572.htm', 'staff': '班主任客服专员/教务/微信运营客服（月薪8K、入职配手机）', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253163.htm', 'staff': '月薪2万/金融交易员/转行首选 零基础培训+双休+五险+弹性工作', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936251609.htm', 'staff': '嘉诺集团专业免费培训金融交易员', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376966.htm', 'staff': '营销顾问【底薪4200+带薪培训+提成+公平晋升】和谐团队', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/308028988254350.htm', 'staff': '给你一个平台-任你展翅高飞聘金融数据分析师五险+双休', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376964.htm', 'staff': '销售顾问【底薪4200+提成+带薪培训+商保社保+公平晋升】', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253162.htm', 'staff': '6000底薪聘金融交易员/人事助理/运营经理/面试经理/前台接待', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252706.htm', 'staff': '量化数据分析师', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253161.htm', 'staff': '6000底薪聘金融交易员/人事助理/讲师', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/314051539259342.htm', 'staff': '底薪6000—15000+五险一金+提成聘金融交易员操盘手0基础培训', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/337095326250000.htm', 'staff': '流动人口管理员（国企）', 'salary': 3000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/337095326250001.htm', 'staff': '流动人口管理员', 'salary': 3000.5, 'position': '北京-石景山区'}
+{'details_url': 'http://jobs.zhaopin.com/314051539259341.htm', 'staff': '国贸CBD月薪10000起 0基础可培训+五险一金/软件/建筑', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/431107134260628.htm', 'staff': '【沃锐88城，期待有你】猎头助理顾问/高薪奖（华北大区）a', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ769642170J00001470410.htm', 'staff': '初/高级西餐厅服务人员', 'salary': 4500.0, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253159.htm', 'staff': '国贸CBD商圈6至15k', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252406.htm', 'staff': '金融风控师、助理', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ754805470J00005045111.htm', 'staff': '高薪诚聘区域销售经理\xa0\xa0无需经验\xa0\xa0只需能力', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ754805470J00005005111.htm', 'staff': '年薪资十万起诚聘区域经理', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/466617419267481.htm', 'staff': '诚邀金融交易员/分析师', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/466617419267479.htm', 'staff': '金融储备干部 底薪6000-15000 周末双休（应届生）', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/525178924273707.htm', 'staff': '▲▲▲毕业生首选☚交易分析师助理（6000+高提成+年终绩效奖）', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/490062633250008.htm', 'staff': '底薪12K聘公司内部中级交易员/操盘手', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/335477933252724.htm', 'staff': '房屋租赁销售', 'salary': 6000.0, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/146553580251932.htm', 'staff': 'S1课程顾问(底薪+提成+奖金)无业绩要求', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/146553580251905.htm', 'staff': 'S1课程顾问（无责底薪+朝九晚六+有无经验均可）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/146553580251906.htm', 'staff': 'S1高薪课程顾问/电话销售/客服（销售方向）/销售代表', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/388118238250021.htm', 'staff': '行政商务主管', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/146553580251926.htm', 'staff': 'S1课程顾问/销售代表/电话销售/客服（销售）底薪+提成+奖金', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/146553580251923.htm', 'staff': 'S1课程顾问 （意向资源+双休+无业绩要求）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/551014829254139.htm', 'staff': '金融造梦-零基础交易分析师/助理+无销售', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/146553580252232.htm', 'staff': 'S1课程顾问/销售代表【底薪+提成+奖金，月均8k以上】', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/156249427250745.htm', 'staff': '销售顾问/销售代表/电话销售/储备销售管理（月均薪资10-15K）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/414118234251719.htm', 'staff': '免费培训，高薪聘 初，中，高级股票、期货操盘手分析师', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/490062633250056.htm', 'staff': '分析师助理', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/335477933250520.htm', 'staff': '急聘销售代表', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/316989480261659.htm', 'staff': '金融CBD交易员+零基础统一培训双休6000+提成', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/466617419267480.htm', 'staff': '金融投资分析岗可带薪学习薪资6k+双休+五险一金（应届生）', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/241735516250006.htm', 'staff': '茶艺师/销售', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/335477933250289.htm', 'staff': '晋升空间+高提成+年轻化团队销售精英', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/191358918252953.htm', 'staff': '医药销售（上手容易，无责底薪+高提成，6K-8K以上，可提供住宿', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/291035486254971.htm', 'staff': '8k-12k双休，五险一金，早九晚五，聘数据分析师（金融助理）', 'salary': 12500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/412422637250011.htm', 'staff': '【北京链家】实习生应届生优先/全套培训体系/无责底薪4000', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/15624942790250671000.htm', 'staff': '急聘销售顾问（提供住宿）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/266391787250272.htm', 'staff': '诚聘：西点-咖啡学徒--厨师学徒-切配打荷-传菜员-双休包食宿', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/536178023250040.htm', 'staff': '成长顾问、销售', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/412422637250008.htm', 'staff': '房地产销售/置业顾问/销售经理', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/295283582250003.htm', 'staff': '销售经理', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/53617802390250039000.htm', 'staff': '游泳教练', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/416981287250017.htm', 'staff': '物业内保员', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/202893088256825.htm', 'staff': 'A股 操盘手  培训入职 底薪6000', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/337837488254434.htm', 'staff': '高薪急聘金融交易员/外汇分析助理（零基础带薪培训）', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259817.htm', 'staff': '高薪诚聘 交易员/操盘手 免费培训技术培训 双休五险一金', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259814.htm', 'staff': '高薪诚聘 金融交易员 双休五险一金 无基础免费培训', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/251680936250106.htm', 'staff': '过万月薪急聘电话咨询医生', 'salary': 12500.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252371.htm', 'staff': '金融分析师、助理', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ754805470J00005063711.htm', 'staff': '高薪诚聘业务精英\xa0年薪资十万以上', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/347042518266857.htm', 'staff': '链家特面向应届毕业生，保底4K+各种福利+转正高提成+晋升机会', 'salary': 7550.0, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/466617419267478.htm', 'staff': '华中投资直招-金融分析师交易助理', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253158.htm', 'staff': 'CBD著名商业区高薪聘请数据分析师，助理/底薪6000-15000', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252577.htm', 'staff': '国贸CBD 外汇分析师+双休五险 没有走不通的路只有不敢走的人', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/415946714250964.htm', 'staff': '销售助理-销售行政/区域销售助理4000起薪', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252584.htm', 'staff': '贸CBD 月入过万/黄金外汇交易专员/免费培训+五险双休+朝九晚五', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252279.htm', 'staff': '金融数据分析师', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252635.htm', 'staff': '国贸CBD 核心6k起薪诚招外汇交易专员/储备经理 五险双休', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/415946714250965.htm', 'staff': '高薪诚聘：行政助理、人事助理（五险一金+补贴）', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/696427020265660.htm', 'staff': '10000底薪招聘交易员/教育/娱乐/旅游/电子商务/游戏/培训/设计', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252085.htm', 'staff': '软件销售代表', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252283.htm', 'staff': '销售代表', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252729.htm', 'staff': '嘉诺控股集团高薪诚聘外汇分析师 程序化管理员五险一金 带薪培训', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252728.htm', 'staff': '嘉诺控股集团五险一金高薪诚聘资金管理员', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252746.htm', 'staff': '只看能力不看学历 金融数据分析师', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/659608225250374.htm', 'staff': '导购员', 'salary': 5000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252745.htm', 'staff': '金融投资/理财助理', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/300376435256395.htm', 'staff': '华中投资诚聘金融交易分析师/无销售岗', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252696.htm', 'staff': '一个月2万带薪培训直签金融操盘手', 'salary': 10000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252410.htm', 'staff': '外汇分析师', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259823.htm', 'staff': '诚聘金融操盘手', 'salary': 11500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253169.htm', 'staff': '你只差个机会而已/底薪6K起高新聘请风控助理/风控师', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/184549427251177.htm', 'staff': 'Oracle数据库工程师', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253168.htm', 'staff': '交易助理/讲师/风控师/交易主任/经纪人', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/316989480263149.htm', 'staff': '高薪招金融人才0基础带薪培训', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ794761300J00005056215.htm', 'staff': '律师助理（发展空间大）', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/293045230260234.htm', 'staff': '高薪招聘金融人才', 'salary': 40000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ794761300J00005056115.htm', 'staff': '跟案律师（外地、北京执业证均可）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/293045230260231.htm', 'staff': '高薪招聘金融人才', 'salary': 40000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259820.htm', 'staff': '国贸CBD商圈年薪30万高薪诚聘金融分析师/风控助理/交易员', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/291035486254099.htm', 'staff': '分析师助理【如果你想更高水平的生活，万向给你提供平台】', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/203287236250163.htm', 'staff': '聘甜品汉堡中餐学徒包食宿', 'salary': 4000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/285365189250039.htm', 'staff': '店长/店员急招', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/316989480263165.htm', 'staff': '外企直聘外汇操盘手交易员（时间、工作自由）五险一金 双休', 'salary': 7000.5, 'position': '北京-通州区'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258396.htm', 'staff': '20000底薪诚聘金融交易员/大客户经理/渠道推广/销售/金融', 'salary': 25000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/316989480263163.htm', 'staff': '有点不一样 亿盛嘉德一金融造梦者 现诚招交易员', 'salary': 7000.5, 'position': '北京-通州区'}
+{'details_url': 'http://jobs.zhaopin.com/316989480263164.htm', 'staff': '有点不一样 亿盛嘉德一金融造梦者 现诚招交易员', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253167.htm', 'staff': '【挑战高薪职位】外汇交易员/数据分析师/金融讲师/助理', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/203287236250162.htm', 'staff': '面点师+包食宿', 'salary': 4000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258394.htm', 'staff': '15000底薪/金融交易员/高级管理/技术总监/运营经理/渠道销售', 'salary': 17500.5, 'position': '北京-崇文区'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252713.htm', 'staff': '嘉诺控股集团诚聘程序化交易员/交易助理', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/202893088256731.htm', 'staff': '期货外汇经理1.8W', 'salary': 11500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/202893088256728.htm', 'staff': '职业股票/期货/外汇交易员+挑战高薪资', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258393.htm', 'staff': '10000底薪/金融交易员/海外置业/房产销售/国际贸易', 'salary': 12500.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253166.htm', 'staff': '10000底薪 公司提供账户 零基础培训弹性工作 金融交易员分析师', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/663606924258392.htm', 'staff': '12000底薪/金融交易员/金融产品/销售/助理顾问', 'salary': 12500.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/151631712260803.htm', 'staff': '客服专员/技术支持（不涉及售前+包住）', 'salary': 4000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252734.htm', 'staff': '高新诚聘黄金外汇操盘手分析师助理', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252742.htm', 'staff': '讲师助理/交易顾问', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252741.htm', 'staff': '交易员/操盘手', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253165.htm', 'staff': '急急急...高薪聘请外汇交易员/助理/期货/经纪人/销售', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259819.htm', 'staff': '★外企金融★招聘交易员 时间灵活 无基础可培训', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253164.htm', 'staff': '交易的大门随时向你开放 诚聘外汇交易员/专员/助理/分析师/讲师', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/615221324343228.htm', 'staff': '50W年薪诚聘：数据分析师、操盘手、金融交易员（0基础带薪培训，', 'salary': 25000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252574.htm', 'staff': '国贸CBD 名额有限 急招 外汇交易专员 底薪6K起', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/278684936251946.htm', 'staff': '金融数据分析师', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/301885086251153.htm', 'staff': '诚聘业务拓展员/实习生 包食宿+五险一金+内部晋升+培训', 'salary': 6000.0, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/280125232271402.htm', 'staff': '金融汇率分析师', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/641271923262031.htm', 'staff': '诚招股票外汇交易员/下单员（公司内部免费零基础培训）', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/280125232271400.htm', 'staff': '外汇数据分析师', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253163.htm', 'staff': '月薪2万/金融交易员/转行首选 零基础培训+双休+五险+弹性工作', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252735.htm', 'staff': '交易员/讲师助理/销售', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252737.htm', 'staff': '外汇交易员/讲师助理\u2002底薪6k-15k+提成 只交易无需找客户', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/335477933252962.htm', 'staff': '北京美丽屋销售代表/销售实习生/师徒制/就近分配带薪培训', 'salary': 6000.0, 'position': '北京-大兴区'}
+{'details_url': 'http://jobs.zhaopin.com/335477933252894.htm', 'staff': '【美丽屋总部】聘实习生/应届生/师徒制/就近分配/底薪4000', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/335477933252912.htm', 'staff': '美丽屋总部直聘/销售代表/置业顾问/房产经纪人/销售管培生', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/484189636250118.htm', 'staff': '厨师', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/484189636250124.htm', 'staff': '跟单员', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/484189636250463.htm', 'staff': '新船招聘船员普工跟单员 厨师 物流专员 仓库管理员 搬运工分拣员', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/288865232254084.htm', 'staff': '万向联合诚招数据分析师（助理）经验不限+岗位分红', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/288865232254080.htm', 'staff': '分公司成立急聘：金融数据分析师、金融助理+岗位分红', 'salary': 9000.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/288865232254082.htm', 'staff': '无需经验交易分析师/分析专员+零基础带薪培训', 'salary': 9000.5, 'position': '北京-宣武区'}
+{'details_url': 'http://jobs.zhaopin.com/288865232254081.htm', 'staff': '万向联合-CBD核心/高薪诚聘金融证券分析师-实习生', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/288865232254078.htm', 'staff': '万向联合/无需经验交易分析师/助理零基础培训', 'salary': 9000.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/288865232253711.htm', 'staff': '交易分析师/助理+零基础带薪培训', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/288865232254090.htm', 'staff': '万向联合-专业培训金融证券分析师/分析师助理+岗分红位', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/288865232254088.htm', 'staff': '零基础培训证券分析师+五险双休+补助', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/288865232254099.htm', 'staff': '无需经验交易分析师助理+零基础带薪培训', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/288865232254108.htm', 'staff': '带薪培训金融量化分析师/助理+五险双休+岗位分红', 'salary': 9000.5, 'position': '北京-宣武区'}
+{'details_url': 'http://jobs.zhaopin.com/288865232254111.htm', 'staff': '金融分析师助理、带薪培训+岗位分红', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/288865232254104.htm', 'staff': '金融量化数据分析师、助理+五险双休+可实习', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/288865232253973.htm', 'staff': '金融造梦-零基础交易分析师/助理+无销售', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/551014829254064.htm', 'staff': '年前第一战,2017别再做职场的迷途羔羊✿交易分析师助理', 'salary': 7000.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/551014829254079.htm', 'staff': '北京户口优先考虑资金管理员', 'salary': 12500.5, 'position': '北京-宣武区'}
+{'details_url': 'http://jobs.zhaopin.com/414118234251718.htm', 'staff': '股票、期货、外汇交易员/操盘手', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/288865232253681.htm', 'staff': 'oneway数据分析师/金融助理+零基础带薪培训+补助', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/484189636250078.htm', 'staff': '海运新船聘船员普工 电工 电焊工 叉车工 保安 厨师跟单员 搬运工', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/478039915256009.htm', 'staff': '综合金融客户经理', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/171345112250635.htm', 'staff': '前台接待', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/288865232253786.htm', 'staff': '华丽转行【金融数据分析师】金融助理+晋升机制', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/505118224250171.htm', 'staff': '急聘在线咨询师', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/288865232254110.htm', 'staff': '◆证券债券分析师 ◆私募见习交易员 可派遣证券公司', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/479982089250038.htm', 'staff': '国内商品期货操盘手交易员，五险一金，提成高，待遇好', 'salary': 25000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/505118224250168.htm', 'staff': '在线咨询师', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/452882188250195.htm', 'staff': '外呼专员', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936251666.htm', 'staff': '量化数据分析师、专员、助理', 'salary': -1, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/391851524250076.htm', 'staff': '课程顾问', 'salary': 7500.0, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/CZ765213270J00003014710.htm', 'staff': '高薪聘请少儿舞蹈教师', 'salary': 12000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/335477933252695.htm', 'staff': '大兴黄村总部诚聘销售大神 纯无责3000-12000', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ765213270J00003152310.htm', 'staff': '少儿舞蹈教务销售老师', 'salary': 9000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/322343035250052.htm', 'staff': '课程顾问（五险一金、双休、无责底薪、意向资源、朝九晚六）', 'salary': 9000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/684159627250157.htm', 'staff': '销售代表（10000+奖金+晋升+分红+五险一金）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/345434188263093.htm', 'staff': '财务主管', 'salary': 12000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/347042518266856.htm', 'staff': '无责底薪4k/最高提成30-70/社保/商保', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253142.htm', 'staff': '急聘操盘手/交易员，年薪30万（双休五险，公司分红，免费培训）', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376959.htm', 'staff': '房产顾问【底薪4200+带薪培训+公平晋升+社保+北京就近分配】', 'salary': 12500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376958.htm', 'staff': '营销顾问【底薪4200+带薪培训+提成+公平晋升】和谐团队', 'salary': 9000.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376957.htm', 'staff': '销售代表【底薪4200+带薪培训+提成+商保社保+就近分配】', 'salary': 9000.5, 'position': '北京-石景山区'}
+{'details_url': 'http://jobs.zhaopin.com/603710221258601.htm', 'staff': '实习生首选免费培训 金融外汇交易员/操盘手（提成+双休）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376956.htm', 'staff': '销售储备经理【底薪4200+带薪培训+社保+快乐氛围+就近分配】', 'salary': 7000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/240509239294196.htm', 'staff': '高薪诚聘优秀分析师分析师助理中心地段写字楼', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/476549282250151.htm', 'staff': '限额公司急聘JAVA开发实习生 早九晚五', 'salary': 7000.5, 'position': '北京-顺义区'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376955.htm', 'staff': '营销顾问【底薪4200+带薪培训+提成+公平晋升】和谐团队', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/347042518266851.htm', 'staff': '北京链家万亿级平台开始招聘了！工作店面就近安排', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/316989480263162.htm', 'staff': '金融行业实习生（带薪培训、福利待遇好）', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376954.htm', 'staff': '★销售顾问【集团总部直聘+底薪4200+带薪培训+商保社保】★', 'salary': 9000.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259808.htm', 'staff': '内部可晋升+岗位分红诚聘外汇交易员/操盘手（有交易经验者）', 'salary': 11500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/336197188279924.htm', 'staff': '诚聘金融交易员 分析师五险一金双休', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253139.htm', 'staff': '诚聘金融交易员/专员/助理/分析师/讲师', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253140.htm', 'staff': '你有能力我有空间，诚聘交易员/助理，公司提供账户和专业培训', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/508338132250039.htm', 'staff': '渠道专员', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/341051189250084.htm', 'staff': '体验店店员——艺术家独创品牌', 'salary': 6000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/341051189250081.htm', 'staff': '线上销售——（艺术家独创品牌）', 'salary': 6000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/525178924273763.htm', 'staff': '华中集团直招交易员操盘手 提供0基础培训+五险一金+双休', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/566321623250234.htm', 'staff': '名企电销月入3万包吃包住【销售精英，我们期待你的加入】', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/314051539259340.htm', 'staff': '国内专业团队诚聘 中外合资 月薪15k 工作时间地点自由', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/300376435256784.htm', 'staff': '㊭㊭㊭平台很重要，选择更重要㊭月薪过万交易分析师/无销售岗', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259812.htm', 'staff': '内部可晋升+岗位分红诚聘外汇交易员/操盘手（有交易经验者）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/314051539259339.htm', 'staff': '地铁沿线，富邦汇融直招，金融分析师，分析师助理（可实习）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/202893088256822.htm', 'staff': '诚招证券/期货/外汇交易员', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/371676033257379.htm', 'staff': '应届生首选岗--底薪6K金融数据分析助理（高薪+五险+补助）', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/551014829254646.htm', 'staff': '高薪培养资金管理员 可接受应届生', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/551014829254645.htm', 'staff': '金融储备干部+金融助理+数据分析师 应届生/无经验一对一培训', 'salary': 17500.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/314051539259338.htm', 'staff': '17年最火爆行业/高薪诚聘外汇资金管理员', 'salary': -1, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/235068513250058.htm', 'staff': '产品研发工程师助理', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/235068513250057.htm', 'staff': '大数据业务部门JAVA实习生', 'salary': 9000.5, 'position': '北京-石景山区'}
+{'details_url': 'http://jobs.zhaopin.com/547301729250013.htm', 'staff': '销售经理', 'salary': 4500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/443791337250508.htm', 'staff': 'java（零基础）实习生', 'salary': 9000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/53617802390250050000.htm', 'staff': '前台客服', 'salary': 5000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/412422637250017.htm', 'staff': '【链家总部底薪4000】大客户代表/储备店经理/储备店长/房产销售', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/412422637250021.htm', 'staff': '【北京链家】实习生应届生优先/全套培训体系/无责底薪4000', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/412422637250027.htm', 'staff': '【链家总部底薪4000】大客户代表/储备店经理/储备店长/房产销售', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/412422637250007.htm', 'staff': '房地产销售/置业顾问/销售经理', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/412422637250010.htm', 'staff': '【链家总部底薪4000】大客户代表/储备店经理/储备店长/房产销售', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253156.htm', 'staff': '华夏思拓诚聘程序化交易员/交易助理', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253154.htm', 'staff': '交易员操盘手（股票、期货、外汇）零基础培养', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253155.htm', 'staff': '黄金外汇交易员/操盘手/免费培训+五险双休 月入过万+朝九晚五', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259810.htm', 'staff': '操盘手/交易员+免费培训+五险一金+弹性工作', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/443324686250858.htm', 'staff': '聘五险双休Java开发', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/443324686250860.htm', 'staff': '高薪急聘软件开发工程师', 'salary': 7000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/443324686250856.htm', 'staff': '大数据业务部门JAVA实习生', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/443324686250857.htm', 'staff': 'Java软件开发实习生', 'salary': 7000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/443324686250852.htm', 'staff': 'web前端开发工程师', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/443324686250861.htm', 'staff': 'web前端开发工程师', 'salary': 7000.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/443324686250847.htm', 'staff': 'IT运维实习生', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/317212785253652.htm', 'staff': '电话销售/待遇优厚 诚邀有工作激情、怀揣成功梦想的精英加入', 'salary': 12500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253153.htm', 'staff': '金融应届生8000起薪+内部晋升操盘手/交易员/分析师/讲师', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/603710221258602.htm', 'staff': '0招聘应届生金融/外汇实习生（零基础+薪资6k起）转正晋升周期快', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/145776546250391.htm', 'staff': '市场专员/主管/提供住宿', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/381370287253496.htm', 'staff': '团结湖地铁高薪诚聘黄金、原油、外汇数据分析师 五险一金', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/133216775376962.htm', 'staff': '★销售顾问【集团总部直聘+底薪4200+带薪培训+商保社保】★', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/365134428250293.htm', 'staff': '行政助理', 'salary': 3000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/381370287253495.htm', 'staff': '年薪30W五险双休诚招资金下单员', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/336197188279927.htm', 'staff': '中英合资高薪 聘请外汇 股票 期货交易员分析师', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/551552626250078.htm', 'staff': '海外房产销售经理', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/551552626250076.htm', 'staff': '高级海外房产销售顾问', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/551552626250081.htm', 'staff': '海外房产（置业）销售顾问', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/551552626250082.htm', 'staff': '海外房产移民置业顾问', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/220596024250353.htm', 'staff': '仓库管理员  员工宿舍 免费两餐 标准工作时间', 'salary': 5000.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/457052729250361.htm', 'staff': '后勤司机   晋升空间大 五险一金 绩效双休', 'salary': 5000.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/314051539259335.htm', 'staff': '月薪过万国贸CBD 急聘金融外汇资管员五险双休', 'salary': -1, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253149.htm', 'staff': '国贸底薪8000诚聘数据分析师 五险一金', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/314051539259334.htm', 'staff': '国贸CBD 6k起 金融行业十大诚信品牌 聘国际外汇交易资管员/数据', 'salary': -1, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/337837488254433.htm', 'staff': '诚聘金融交易专员', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/202893088256821.htm', 'staff': '职业股票 期货 外汇交易员/合伙人', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253147.htm', 'staff': '金融储备干部+金融助理+数据分析师 应届生/无经验一对一培训', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/295283582250000.htm', 'staff': '销售代表', 'salary': 12500.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/326735710252509.htm', 'staff': '赴新加坡就业岗位（实时更新）', 'salary': 17500.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/431107134260614.htm', 'staff': '【实习/管培生】助理猎头顾问，保障底薪4-5k（华北大区）f', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/345434188263094.htm', 'staff': '30000底薪聘副总经理', 'salary': 40000.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253146.htm', 'staff': '月薪15000公司直招 交易员 五险一金 上岗前零基础培训', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/314051539259333.htm', 'staff': '高新双休诚聘金融资管师', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/278684936251637.htm', 'staff': '嘉诺集团专业培训金融交易员', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/341051189250087.htm', 'staff': '库房管理——艺术家独创品牌', 'salary': 6000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259807.htm', 'staff': '交易员操盘手分析师', 'salary': 11500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259806.htm', 'staff': '黄金外汇交易员/操盘手/免费培训+五险双休 月入过万+朝九晚五', 'salary': 11500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/341051189250080.htm', 'staff': '家具设计师——艺术家独创品牌', 'salary': 7500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/341051189250092.htm', 'staff': '文案策划——艺术家独创品牌', 'salary': 7500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/341051189250082.htm', 'staff': '市场营销策划——艺术家独创品牌', 'salary': 6000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259805.htm', 'staff': '金融交易员白领薪资接受无基础（做过行政、退伍军人、游戏高手优', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/347149887250364.htm', 'staff': '高薪诚聘船员海员、普工跟单员、焊工电工、叉车工和保安', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259804.htm', 'staff': '不限经验内招底薪6k+外汇交易员+货币黄金', 'salary': 11500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/347042518266850.htm', 'staff': '链家大平台/无责底薪4k/最高提成30-70', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/425154135250491.htm', 'staff': '销售代表/销售业务跟单员/压力小/均薪5000以上', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/216380732267377.htm', 'staff': '银行系统运维实习生', 'salary': 10000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/484189636250037.htm', 'staff': '新船招聘船员普工 电工 电焊工 叉车工 厨师 跟单员 保安 搬运工', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/357813014254509.htm', 'staff': '储备销售主管（完备的培训体系、周末双休、节日福利）', 'salary': 9000.0, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/357813014254508.htm', 'staff': '销售顾问（周末双休、完善的培训体系、对公合作）', 'salary': 7500.0, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/484189636250121.htm', 'staff': '保安', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/484189636250127.htm', 'staff': '搬运工', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/399953516253609.htm', 'staff': '好平台 急聘 私募基金销售经理/总监 分总级别', 'salary': 25000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/399953516253610.htm', 'staff': '好平台 急聘 私募基金销售/理财师/理财经理/理财规划师', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/615221324343166.htm', 'staff': '18000底薪+高提成+奖金+国外游 诚聘操盘手、交易员（带薪培训择', 'salary': 25000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/41884621390272820000.htm', 'staff': '【行业领军】211，985首选豪宅运营专员（高底薪6500-7500）+培训', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253137.htm', 'staff': '有梦才有追求！！！年薪15万诚聘交易助理/讲师/专员/交易员', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/288865232254075.htm', 'staff': '【转行首选】万向联合诚聘金融数据分析师+五险双休+补助', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/484937231250002.htm', 'staff': '电话销售 包吃住 销售代表 销售专员', 'salary': 7500.0, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/288865232254112.htm', 'staff': '金融证券分析师+外汇专员+专业培训+晋升机制', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/347149887250354.htm', 'staff': '企业船员普工、电焊工、厨师、叉车工、跟单员、保安等', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/288865232254118.htm', 'staff': '金融数据分析师+专业培训+五险双休', 'salary': 9000.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/288865232254114.htm', 'staff': '金融数据分析师、金融助理【挑战高薪、首选万向】', 'salary': 9000.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/288865232254106.htm', 'staff': '金融交易分析师+零基础带薪培训+岗位分红', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/288865232254107.htm', 'staff': '万向联合☺专业培训金融分析师/分析师助理+岗分红位', 'salary': 7000.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/347149887250357.htm', 'staff': '央企招聘船员普工、电焊工、叉车工、跟单员、厨师等', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/485488632250000.htm', 'staff': '招商代表', 'salary': 7500.0, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/336197188279920.htm', 'staff': '公司直招交易员', 'salary': 5000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/460953630250042.htm', 'staff': '传菜员 餐厅服务员 厨师助理/学徒 切配/打荷 调酒学徒 西点学徒', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/460953630250043.htm', 'staff': '西点学徒 厨师/助理学徒 切配打荷 餐厅服务员 调酒学徒 咖啡学徒', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/460953630250041.htm', 'staff': '厨师助理/学徒 餐厅服务员 切配打荷 调酒学徒 西点学徒 咖啡学徒', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/460953630250040.htm', 'staff': '餐厅服务员 传菜员 厨师助理/学徒 切配/打荷 调酒学徒 西点学徒', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/460953630250039.htm', 'staff': '厨师/面点师 厨师助理/学徒 西点学徒 服务员 切配打荷 调酒学徒', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/641271923262071.htm', 'staff': '交易分析助理（底薪6000+高提成+五险）', 'salary': 6500.0, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253135.htm', 'staff': '金融交易员/操盘手（时间、工作自由）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/647621724250099.htm', 'staff': '手机采购主管', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/460953630250030.htm', 'staff': '公关模特 KTV服务员 前台接待 收银 礼仪迎宾 调酒学徒 巡场保安', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/460953630250031.htm', 'staff': '巡场保安 KTV服务员 前台接待 礼仪迎宾 公关模特 调酒学徒 库管', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ760252970J00005078114.htm', 'staff': '设计师', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/460953630250028.htm', 'staff': '前台接待 礼仪迎宾 收银员 KTV服务员 公关模特 调酒学徒 保安', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/460953630250029.htm', 'staff': '防损/保安 KTV服务员 前台接待 收银 礼仪迎宾 公关模特 调酒学徒', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ762290170J00004960413.htm', 'staff': '电话销售', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/335477933252946.htm', 'staff': '美丽屋诚聘 实习生/储备干部/底薪4000+绩效/晋升快', 'salary': 6000.0, 'position': '北京-大兴区'}
+{'details_url': 'http://jobs.zhaopin.com/290966189254849.htm', 'staff': '&&6K起-双休-五险-无销售岗&&数据分析师助理', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/290966189254517.htm', 'staff': '【有梦想看这里】直招数据分析师/助理 五险双休', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/414118234251700.htm', 'staff': '高薪诚聘，初、中、高级股票、期货操盘手', 'salary': 17500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/572443628250604.htm', 'staff': '采购专员（提供食宿）', 'salary': 5500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/293045230258335.htm', 'staff': '15000底薪诚聘交易员 年底双薪 股票经验者优先', 'salary': 17500.5, 'position': '北京-通州区'}
+{'details_url': 'http://jobs.zhaopin.com/490062633250002.htm', 'staff': '分析师助理', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/293045230258326.htm', 'staff': '15万年薪诚聘交易员 年底双薪 股票经验者优先', 'salary': 17500.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/309098682250550.htm', 'staff': '国金投控招交易助理', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/293045230258569.htm', 'staff': '1万底薪诚聘交易员 项目经理 市场负责人 合伙人 经销商', 'salary': 17500.5, 'position': '北京-宣武区'}
+{'details_url': 'http://jobs.zhaopin.com/293045230255158.htm', 'staff': '10000底薪交易员 内勤 人事行政专员 人力资源总监', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/314051539257675.htm', 'staff': '股票外汇期货金融经纪人 零基础免费培训 可兼职 可带团队', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/293045230256267.htm', 'staff': '20000底薪交易员 行政人事专员 总经理助理 秘书 行政文员', 'salary': 17500.5, 'position': '北京-门头沟区'}
+{'details_url': 'http://jobs.zhaopin.com/293045230258568.htm', 'staff': '15000底薪诚聘交易员 时间自由 股票经验者优先', 'salary': 17500.5, 'position': '北京-崇文区'}
+{'details_url': 'http://jobs.zhaopin.com/293045230258167.htm', 'staff': '15000底薪诚聘交易员 时间自由 股票经验者优先', 'salary': 12500.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/236916137250032.htm', 'staff': '综合金融理财规划师', 'salary': 12500.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/293045230256264.htm', 'staff': '15000底薪交易员 行政人事经理 项目主任 人力资源经理', 'salary': 12500.5, 'position': '北京-顺义区'}
+{'details_url': 'http://jobs.zhaopin.com/309098682250262.htm', 'staff': '金融交易员/操盘手（时间、工作自由）', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/314051539257649.htm', 'staff': '五险一金 国贸CBD商圈 6K至10K加提成 零基础培养交易员操盘手', 'salary': 9000.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/236916137250013.htm', 'staff': '保险代理人（底薪3600—5400加高提成弹性工作时间）', 'salary': 12500.5, 'position': '北京-东城区'}
+{'details_url': 'http://jobs.zhaopin.com/314051539257696.htm', 'staff': '诚聘外汇交易员月薪过万/五险双休非销售（可兼职）金融股票期货', 'salary': 7000.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/538116824250239.htm', 'staff': '生命科学园+龙泽都有班车接送+双休+正常班', 'salary': 9000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/314051539257643.htm', 'staff': '招交易员分析师+6000起+五险双休+学历经验不限+喜爱金融者优先', 'salary': 12500.5, 'position': '北京-石景山区'}
+{'details_url': 'http://jobs.zhaopin.com/293045230256235.htm', 'staff': '15000底薪交易员 成本经理 财务经理 项目负责人 人事行政经理', 'salary': 12500.5, 'position': '北京-房山区'}
+{'details_url': 'http://jobs.zhaopin.com/481776384250056.htm', 'staff': '家装监理', 'salary': 7000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/293045230258129.htm', 'staff': '15000底薪诚聘交易员 项目管理 广告艺术设计 工程师', 'salary': 17500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/335477933252902.htm', 'staff': '美丽屋诚招置业顾问 房产中介 销售助理', 'salary': 6000.0, 'position': '北京-大兴区'}
+{'details_url': 'http://jobs.zhaopin.com/309098682250259.htm', 'staff': '三个月底薪6000k培养 (股票、期货、 外汇)操盘手交易员', 'salary': -1, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/309098682250415.htm', 'staff': '三个月底薪6000k培养 (股票、期货、 外汇)操盘手交易员', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/572443628250659.htm', 'staff': '营销策划（提供食宿）', 'salary': 5000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/481776384250062.htm', 'staff': '呼叫中心', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/379688732250025.htm', 'staff': '课程顾问-市场专员(睿丁英语-西城校区）', 'salary': 7000.5, 'position': '北京-西城区'}
+{'details_url': 'http://jobs.zhaopin.com/684760025250302.htm', 'staff': '美术老师-艾涂图万柳中心', 'salary': 4500.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/579296426250069.htm', 'staff': '高薪急招市场主管', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/240509239294023.htm', 'staff': '诚聘分析师分析师助理', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/318256333250225.htm', 'staff': '病案管理兼医务干事', 'salary': 4750.0, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/579296426250070.htm', 'staff': '高薪急聘英语教学主管', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ765213270J00003191510.htm', 'staff': '少儿培训钢琴伴奏老师\xa0', 'salary': 9000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/CZ759516570J00005216014.htm', 'staff': '服务员', 'salary': 3500.0, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/641271923258889.htm', 'staff': '组建团队 聘股指期货交易员/数据分析师/风险管理师', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/265690635259803.htm', 'staff': '集团高薪直招，期货、外汇操盘手、交易员，五险一金+双休', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/431107134260595.htm', 'staff': 'Assistant consultant 猎头/招聘【专业咨询】（华北大区）e', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/460953630250027.htm', 'staff': '收银员 前台接待 礼仪迎宾 KTV服务员 公关模特 调酒学徒 保安', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/460953630250026.htm', 'staff': '男女KTV服务员 前台接待 收银 礼仪迎宾 公关模特 调酒学徒 保安', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/347149887250308.htm', 'staff': '央企直招船员、跟单员、保安、厨师、叉车工、电焊工等', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/347149887250295.htm', 'staff': '央企直招船员/跟单员/电焊工/厨师/叉车工/保安等', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/347149887250312.htm', 'staff': '央企直招船员、电焊工、厨师、跟单员、保安、叉车工等', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/347149887250324.htm', 'staff': '央企直招船员、电焊工、跟单员、厨师、保安、叉车工等', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/603710221258600.htm', 'staff': '0☆★☆交易员高级助理 薪资6K起（行政 退伍军人 游戏高手优先）', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/155560410252257.htm', 'staff': '高薪急聘少儿部课程顾问--石景山校区（高底薪，高提成，保底8k）', 'salary': 12500.5, 'position': '北京-石景山区'}
+{'details_url': 'http://jobs.zhaopin.com/155560410252258.htm', 'staff': '高薪急聘少儿课程顾问--回龙观校区（高底薪，高提成，保底8k）', 'salary': 12500.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/316989480263159.htm', 'staff': '{非销售}高薪招聘交易员0基础岗前培训', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/155560410252259.htm', 'staff': '高薪急聘少儿课程顾问--军博校区（高底薪，高提成，保底8k）', 'salary': 12500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/316989480263160.htm', 'staff': '交易员0基础带薪培训【6000底薪，就近分配】', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/155560410252260.htm', 'staff': '高薪急聘少儿课程顾问--大钟寺校区（高底薪，高提成，保底8k）', 'salary': 12500.5, 'position': '北京-海淀区'}
+{'details_url': 'http://jobs.zhaopin.com/336197188279918.htm', 'staff': '外汇专员', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/366633231250140.htm', 'staff': '私人会所聘-私人保姆-私人陪游-外围女-按摩师-SPA技师-内保-保安', 'salary': 75000.0, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/582380920254571.htm', 'staff': '★拥有高品质的生活方式★高薪分析师助理→免费培训可实习', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/240509239294026.htm', 'staff': '直招交易员+6k起（五险一金 周末双休 带薪年假 晋升机制）', 'salary': 7000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/566321623250224.htm', 'staff': '【招商专员】（加盟连锁招商、电话销售、销售专员、销售业务）', 'salary': 12500.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/566321623250221.htm', 'staff': '销售精英--招商助理--投资顾问（包食宿）', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/641271923262070.htm', 'staff': '高薪招聘金融操盘手，交易员，分析师，金融精英', 'salary': 9000.5, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/366633231250139.htm', 'staff': '商务酒楼诚聘-商务司机-商务保姆-商务陪游-高端外围女模特', 'salary': 40000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/399846289250080.htm', 'staff': '物业接待中心门童', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/399846289250096.htm', 'staff': '物业客服助理', 'salary': 5000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253132.htm', 'staff': '交易员/数据分析/讲师助理/经纪人', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/635881328250074.htm', 'staff': '行政助理/前台', 'salary': 3000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/641271923261431.htm', 'staff': '聘外汇交易员/分析师/下单员/助理/讲师，月入万（朝九晚五）', 'salary': 9000.5, 'position': '北京-丰台区'}
+{'details_url': 'http://jobs.zhaopin.com/477326388256353.htm', 'staff': '无责4-5k助理顾问/Assistant Consultant（无责底薪+广阔平台）', 'salary': 7000.5, 'position': '北京-昌平区'}
+{'details_url': 'http://jobs.zhaopin.com/278684936252152.htm', 'staff': '钱进道路上嘉诺为你保驾护航，金融数据分析师及助理+双休+五险', 'salary': 9000.5, 'position': '北京'}
+{'details_url': 'http://jobs.zhaopin.com/371676033257378.htm', 'staff': '【小职位、大晋升】御金资本直招金融交易员&助理零基础可培训', 'salary': -1, 'position': '北京-朝阳区'}
+{'details_url': 'http://jobs.zhaopin.com/566321623250208.htm', 'staff': '无责底薪高提点+包食宿（上市公司晋升机制）', 'salary': 6500.0, 'position': '北京-大兴区'}
+{'details_url': 'http://jobs.zhaopin.com/487798332253130.htm', 'staff': '金融衍生品交易员 10000+提成', 'salary': 12500.5, 'position': '北京'}

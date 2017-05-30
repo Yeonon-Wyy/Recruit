@@ -115,9 +115,6 @@ class Ui_MainWindow(object):
         aboutMent = self.menubar.addMenu('&关于')
         aboutMent.addAction(aboutAction)
 
-
-
-
         MainWindow.setMenuBar(self.menubar)
         self.statusbar = QtWidgets.QStatusBar(MainWindow)
         self.statusbar.setObjectName("statusbar")
@@ -140,11 +137,11 @@ class Ui_MainWindow(object):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "招聘信息抓取分析器"))
         self.serchBtn.setText(_translate("MainWindow", "搜索"))
-        #self.SalaryImage.setText(_translate("MainWindow", "Salary Image"))
-        #self.PositionImage.setText(_translate("MainWindow", "Position Image"))
         self.PositionLabel.setText(_translate("MainWindow", "位置 （例如 北京）:"))
         self.KeywordLabel.setText(_translate("MainWindow", "关键字（例如 C++）:"))
         self.Crawl_label.setText(_translate("MainWindow", "爬取的网页数: "))
+
+        
 
 #开启线程，为listwidget添加项目
 class HandleStaff(QtCore.QThread):

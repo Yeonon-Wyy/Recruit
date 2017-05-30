@@ -17,7 +17,6 @@ class Main(QMainWindow,Ui_MainWindow):
         QMainWindow.__init__(self)
         self.setupUi(self)
         self.staff_list = []
-    
 
     #开启主线程外的另一个线程，防止UI阻塞，注意到在那个线程里爬数据的时候再次开启了多线程，这是可以的，也是python和Qt 灵活的地方
     def work(self):
@@ -31,19 +30,20 @@ class Main(QMainWindow,Ui_MainWindow):
         self.workTheard = ZhilianCrawl(position,keyword,self.progressBar,page_number)
         self.workTheard.start()
 
-        self.workTheard.trigger2.connect(self.networkError)
+
         self.workTheard.trigger.connect(self.show_image)
     
-    def show_staff(self):
-            with open(os.getcwd() + '/resource/zhilian/staff.txt','r',encoding='utf-8') as f:
-                for i in range(50):
-                    staff = f.readline()
-                    self.staff_list.append(staff)
-                    staff = staff.split(',')[0]
-                    self.listWidget.addItem(staff)
-        
+    def show_staff(self,job_infos):
+        for i in range(50):
+            self.staff_list.append(job_infos[i]['staff'] + ',' + job_infos[i]['details_url'])
+            staff = self.staff_list[i].split(',')[0]
+            self.listWidget.addItem(staff)
+
+        del job_infos
+        gc.collect()
+     
     #将图像显示到界面上来，使用QLabel
-    def show_image(self):
+    def show_image(self,job_infos):
         #这里本来想在后台执行的，但是会造成 main thread is not in main loop 的错误，既然不在main loop中，我就直接把他放到主线程中来，虽然这样可能会短暂阻塞UI，但是用户基本感觉不到
         try:
             self.zhilian_image = GenImage(os.getcwd() + '/resource/zhilian/')
@@ -60,16 +60,10 @@ class Main(QMainWindow,Ui_MainWindow):
         PixMapPosition = QtGui.QPixmap(os.getcwd() + '/resource/zhilian/images/2.png').scaled(500,500)
         self.PositionImage.setPixmap(PixMapPosition)
 
-        
         self.listWidget.clear()
         #读取新的数据
-        self.show_staff()
+        self.show_staff(job_infos)
 
-
-        
-
-       
-    
         
 
     #用于给用户双击职位名称即可通过浏览器看到详细的信息，使用webbrowser来实现

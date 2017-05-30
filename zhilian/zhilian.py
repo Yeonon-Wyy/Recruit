@@ -18,8 +18,7 @@ from GenImage import GenImage
 
 
 class ZhilianCrawl(CrawlBase):
-	trigger = pyqtSignal()
-	trigger2 = pyqtSignal()
+	trigger = pyqtSignal(list)
 	def __init__(self,position,keyword,progressBar,page_number):
 		super().__init__()
 		print('ZHILIANCRAWL')
@@ -83,10 +82,9 @@ class ZhilianCrawl(CrawlBase):
 		self.position_handle()
 		self.saveAll()
 		self.staff_handle()																		#保存文件，单独存放职位名称和对应的URL
-		
-		#self.trigger2.emit()				
+					
 
-		self.trigger.emit()																		#爬取完毕，要发送信号给UI主线程，并执行相应的槽函数
+		self.trigger.emit(self.job_infos)																		#爬取完毕，要发送信号给UI主线程，并执行相应的槽函数
 
 	
 	def crawl(self,url):
