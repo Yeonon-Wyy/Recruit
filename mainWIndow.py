@@ -117,9 +117,7 @@ class Ui_MainWindow(object):
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
 
         #界面初始化时，读取一次文件并存入内存中，方便提取
-        self.StaffTheard = HandleStaff(self.listWidget)
-        self.StaffTheard.start()
-        print('初始化')
+        
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
@@ -133,14 +131,16 @@ class Ui_MainWindow(object):
 
 #开启线程，为listwidget添加项目
 class HandleStaff(QtCore.QThread):
-    def __init__(self,listWidget):
+    def __init__(self,listWidget,staff_list):
         super().__init__()
         self.listWidget = listWidget
+        self.staff_list = staff_list
 
     def run(self):
         with open(os.getcwd() + '/resource/zhilian/staff.txt','r',encoding='utf-8') as f:
             for i in range(50):
                 staff = f.readline()
+                self.staff_list.append(staff)
                 staff = staff.split(',')[0]
                 self.listWidget.addItem(staff)
 

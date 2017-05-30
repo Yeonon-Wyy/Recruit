@@ -57,7 +57,6 @@ class ZhilianCrawl(CrawlBase):
 	
 	def run(self):
 		self.progressBar.setValue(0)
-		
 		#这里的线程感觉存在问题，但是并不知道问题出现在哪（暂时这样吧，回去看看书）
 		#开启多线程	这里暂定为4个线程（其实8个更好，为避免爬取速度过快，导致用户IP被封，故暂定4个
 		t1 = threading.Thread(target=self.processUrl)
