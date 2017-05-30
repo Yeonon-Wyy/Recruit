@@ -20,6 +20,7 @@ class Main(QMainWindow,Ui_MainWindow):
 
     #开启主线程外的另一个线程，防止UI阻塞，注意到在那个线程里爬数据的时候再次开启了多线程，这是可以的，也是python和Qt 灵活的地方
     def work(self):
+        self.serchBtn.setEnabled(False)
         position = self.positionEdit.text()
         position = position.strip()
         if position == '':
@@ -44,6 +45,7 @@ class Main(QMainWindow,Ui_MainWindow):
      
     #将图像显示到界面上来，使用QLabel
     def show_image(self,job_infos):
+        self.serchBtn.setEnabled(True)
         #这里本来想在后台执行的，但是会造成 main thread is not in main loop 的错误，既然不在main loop中，我就直接把他放到主线程中来，虽然这样可能会短暂阻塞UI，但是用户基本感觉不到
         try:
             self.zhilian_image = GenImage(os.getcwd() + '/resource/zhilian/')
