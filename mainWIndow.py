@@ -28,9 +28,13 @@ class Ui_MainWindow(object):
 
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
-  
+        
+
+        self.TypeBox = QtWidgets.QComboBox(self.centralwidget)
+        self.TypeBox.setGeometry(QtCore.QRect(20, 40, 100, 30))
+
         self.positionEdit = QtWidgets.QLineEdit(self.centralwidget)
-        self.positionEdit.setGeometry(QtCore.QRect(20, 40, 300, 30))
+        self.positionEdit.setGeometry(QtCore.QRect(170, 40, 150, 30))
         self.positionEdit.setObjectName("postionEdit")
     
         self.keywordEdit = QtWidgets.QLineEdit(self.centralwidget)
@@ -52,13 +56,17 @@ class Ui_MainWindow(object):
         self.PositionImage.setAlignment(QtCore.Qt.AlignCenter)
         self.PositionImage.setObjectName("PositionImage")
 
-        PixMapSalary = QtGui.QPixmap(os.getcwd() + '/resource/zhilian/images/1.png').scaled(400,600)
-        self.SalaryImage.setPixmap(PixMapSalary)
-        PixMapPosition = QtGui.QPixmap(os.getcwd() + '/resource/zhilian/images/2.png').scaled(500,500)
-        self.PositionImage.setPixmap(PixMapPosition)
+        #PixMapSalary = QtGui.QPixmap(os.getcwd() + '/resource/zhilian/images/1.png').scaled(400,600)
+        #self.SalaryImage.setPixmap(PixMapSalary)
+        #PixMapPosition = QtGui.QPixmap(os.getcwd() + '/resource/zhilian/images/2.png').scaled(500,500)
+        #self.PositionImage.setPixmap(PixMapPosition)
+
+        self.TypeLabel = QtWidgets.QLabel(self.centralwidget)
+        self.TypeLabel.setGeometry(QtCore.QRect(20,5,100,30))
+        self.TypeLabel.setObjectName("TypeLabel")
       
         self.PositionLabel = QtWidgets.QLabel(self.centralwidget)
-        self.PositionLabel.setGeometry(QtCore.QRect(20, 5, 300, 30))
+        self.PositionLabel.setGeometry(QtCore.QRect(170, 5, 150, 30))
         self.PositionLabel.setObjectName("PostionLabel")
 
         self.KeywordLabel = QtWidgets.QLabel(self.centralwidget)
@@ -126,6 +134,9 @@ class Ui_MainWindow(object):
         self.PositionLabel.setText(_translate("MainWindow", "位置 （例如 北京）:"))
         self.KeywordLabel.setText(_translate("MainWindow", "关键字（例如 C++）:"))
         self.Crawl_label.setText(_translate("MainWindow", "爬取的网页数: "))
+        self.TypeLabel.setText(_translate("MainWindow", "选择爬取的网站: "))
+        self.TypeBox.addItem("拉勾网")
+        self.TypeBox.addItem("智联招聘")
 
         
 

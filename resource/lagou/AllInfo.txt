@@ -1,0 +1,15 @@
+{'staff': 'c/c++', 'salary': 13000.0, 'position': '上海', 'details_url': 'https://www.lagou.com/jobs/3119394.html'}
+{'staff': 'c#工程师', 'salary': 7000.0, 'position': '广州', 'details_url': 'https://www.lagou.com/jobs/3234836.html'}
+{'staff': 'C++ engineer-Data Quality', 'salary': 20000.0, 'position': '上海', 'details_url': 'https://www.lagou.com/jobs/3098739.html'}
+{'staff': 'C/C++研发工程师', 'salary': 15000.0, 'position': '广州', 'details_url': 'https://www.lagou.com/jobs/1880322.html'}
+{'staff': 'C++后台开发工程师（搜索，推荐，广告业务）', 'salary': 37500.0, 'position': '北京', 'details_url': 'https://www.lagou.com/jobs/2923840.html'}
+{'staff': 'C++开发实习生(J10917)', 'salary': 3000.0, 'position': '北京', 'details_url': 'https://www.lagou.com/jobs/3056932.html'}
+{'staff': 'C++后端工程师', 'salary': 14000.0, 'position': '广州', 'details_url': 'https://www.lagou.com/jobs/2900054.html'}
+{'staff': 'C++服务器主程序', 'salary': 27500.0, 'position': '北京', 'details_url': 'https://www.lagou.com/jobs/3012346.html'}
+{'staff': 'C++开发工程师', 'salary': 17000.0, 'position': '上海', 'details_url': 'https://www.lagou.com/jobs/3078193.html'}
+{'staff': 'C++服务端开发工程师', 'salary': 22500.0, 'position': '杭州', 'details_url': 'https://www.lagou.com/jobs/3120881.html'}
+{'staff': 'C/C++开发工程师', 'salary': 10000.0, 'position': '杭州', 'details_url': 'https://www.lagou.com/jobs/2834155.html'}
+{'staff': 'c#.net工程师', 'salary': 12500.0, 'position': '成都', 'details_url': 'https://www.lagou.com/jobs/3052025.html'}
+{'staff': '棋牌游戏开发C++', 'salary': 5000.0, 'position': '杭州', 'details_url': 'https://www.lagou.com/jobs/3104449.html'}
+{'staff': 'C++开发', 'salary': 9500.0, 'position': '广州', 'details_url': 'https://www.lagou.com/jobs/3024847.html'}
+{'staff': 'C++软件开发工程师', 'salary': 10500.0, 'position': '武汉', 'details_url': 'https://www.lagou.com/jobs/3132660.html'}

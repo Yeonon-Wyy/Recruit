@@ -88,6 +88,7 @@ class ZhilianCrawl(CrawlBase):
 	
 	def crawl(self,url):
 		try:
+			self.getRandomUserAgent()
 			r = requests.get(url,headers=self.headers,timeout=10)
 		except:
 			raise TimeoutError('超时')
