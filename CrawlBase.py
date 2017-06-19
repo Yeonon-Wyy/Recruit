@@ -18,19 +18,7 @@ class CrawlBase(QThread):
                    'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) \Chrome/28.0.1468.0 Safari/537.36',
                    'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; TheWorld)'
                    ]
-		self.IPList = [
-			{'http': '115.220.6.209:808', 'https': '115.220.6.209:808'},
-			{'http': '114.218.2.209:808', 'https': '114.218.2.209:808'},
-			{'http': '139.224.237.33:8888', 'https': '139.224.237.33:8888'},
-			{'http': '116.226.90.12:808', 'https': '116.226.90.12:808'},
-			{'http': '218.108.107.70:909', 'https': '218.108.107.70:909'},
-			{'http': '112.111.4.210:8118', 'https': '112.111.4.210:8118'},
-			{'http': '140.250.78.132:808', 'https': '140.250.78.132:808'},
-			{'http': '223.156.250.97:80', 'https': '223.156.250.97:80'},
-			{'http': '125.118.69.94:808', 'https': '125.118.69.94:808'},
-			{'http': '113.250.180.64:8118', 'https': '113.250.180.64:8118'},
-
-		]
+		self.IPList = self.getListProxies()
 		self.headers = {}
 		self.proxies = {}
 		self.job_infos = []													#保存信息到内存中（暂时）
@@ -68,16 +56,8 @@ class CrawlBase(QThread):
 		taglist = soup.find_all('tr', attrs={'class': re.compile("(odd)|()")})  
 		for trtag in taglist:  
 		    tdlist = trtag.find_all('td')  
-		    proxy = {'http': tdlist[1].string + ':' + tdlist[2].string,  
-		             'https': tdlist[1].string + ':' + tdlist[2].string}  
-		    url = "http://ip.chinaz.com/getip.aspx"  #用来测试IP是否可用的url  
-		    try:  
-		        response = session.get(url, proxies=proxy, timeout=2)  
-		        proxyList.append(proxy)  
-		        if(len(proxyList) == 10):  
-		            break  
-		    except Exception as e:  
-		        continue  
+		    proxy = { 'https': tdlist[1].string + ':' + tdlist[2].string }  
+		    proxyList.append(proxy)  
 
 		return proxyList
 	

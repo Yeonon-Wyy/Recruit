@@ -19,7 +19,7 @@ class LagowCrwal(CrawlBase):
 	trigger = pyqtSignal(list)
 	def __init__(self, position, keyword, progressBar, page_number):
 		super().__init__()
-		self.main_url = "http://www.lagou.com/jobs/positionAjax.json?px=%s&first=true&kd=%s&pn=%s"
+		self.main_url = "http://www.lagou.com/jobs/positionAjax.json?px=default&city=%s&first=true&kd=%s&pn=%s"
 		self.POSITION = position
 		self.file_path = os.getcwd() + '/resource/lagou/'	
 		self.job_infos = []
@@ -49,7 +49,6 @@ class LagowCrwal(CrawlBase):
 			url = self.url_queue.get()
 			self.getRandomUserAgent()
 			self.getRandomIP()
-			print (url)
 			try:
 				time.sleep(1)															#用户有可能在断网的环境先执行，为避免因网络原因导致强退，要执行Exception Checkout
 				self.crawl(url)
@@ -68,14 +67,10 @@ class LagowCrwal(CrawlBase):
 		t2.start()
 		t3.start()
 		t4.start()
-		print('t1是否存活')
-		print(t1.is_alive())
 		t1.join()
 		t2.join()
 		t3.join()
 		t4.join()
-		print('t1是否存活')
-		print(t1.is_alive())
 
 		self.salaryHandle()																	#保存文件，单独存放薪水，用于方便生成图像，下同
 		self.positionHandle()
@@ -89,11 +84,10 @@ class LagowCrwal(CrawlBase):
 	def crawl(self, url):
 		try:
 			r = requests.get(url, headers=self.headers, proxies = self.proxies, timeout=10)
+			job_data = json.loads(r.text)['content']['positionResult']['result']
 		except:
 			self.url_queue.put(url)
 			raise TimeoutError('超时')
-
-		job_data = json.loads(r.text)['content']['positionResult']['result']
 
 		self.MyLock.acquire()
 		self.progressBarStep += self.progressBarPerStep
@@ -108,7 +102,13 @@ class LagowCrwal(CrawlBase):
 			else:
 				infos['salary'] = -1
 
-			infos['position'] = job['city']
+			position = str(job['district'])
+			if position == '':
+				infos['position'] = self.POSITION
+			else:
+				infos['position'] = position
+
+			print(position)
 			infos['details_url'] = "https://www.lagou.com/jobs/%s.html" % (job['positionId'])
 			self.job_infos.append(infos)
 
