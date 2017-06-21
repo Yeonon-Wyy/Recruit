@@ -21,18 +21,15 @@ class ZhilianCrawl(CrawlBase):
 	trigger = pyqtSignal(list)
 	def __init__(self,position,keyword,progressBar,page_number):
 		super().__init__()
-		print('ZHILIANCRAWL')
 		self.main_url = "http://sou.zhaopin.com/jobs/searchresult.ashx?jl=%s&kw=%s&sm=0&p=%s"
 		self.job_infos = []																		#保存信息到内存中（暂时）
 		self.file_path = os.getcwd() + '/resource/zhilian/'										#通用路径
-		print(self.file_path)
 		self.POSITION = position					
 		self.KEYWORD = keyword
 		self.progressBar = progressBar
 		self.progressBarStep = 0
 		self.page_number = page_number
 		self.progressBarPerStep = 100 / self.page_number
-		print('初始化')
 		self.url_queue = self.generateUrl()													#url队列，用于多线程
 		self.MyLock = threading.Lock()															#线程锁，保证线程同步
 
@@ -67,14 +64,10 @@ class ZhilianCrawl(CrawlBase):
 		t2.start()
 		t3.start()
 		t4.start()
-		print('t1是否存活')
-		print(t1.is_alive())
 		t1.join()
 		t2.join()
 		t3.join()
 		t4.join()
-		print('t1是否存活')
-		print(t1.is_alive())
 		
 		
 		self.salaryHandle()																	#保存文件，单独存放薪水，用于方便生成图像，下同
@@ -94,7 +87,6 @@ class ZhilianCrawl(CrawlBase):
 			raise TimeoutError('超时')
 		soup = BeautifulSoup(r.text,'lxml')
 		job_list = soup.find_all('table', class_='newlist')
-		print(threading.current_thread())
 		self.MyLock.acquire()																	#给进程上锁，保证同步，因为这里要修改共享的数据，self.job_infos
 		self.progressBarStep += self.progressBarPerStep
 		self.progressBar.setValue(self.progressBarStep)
@@ -116,7 +108,6 @@ class ZhilianCrawl(CrawlBase):
 			info['details_url'] = job.find_all('a')[0].get('href')
 
 			self.job_infos.append(info)															#修改共享数据
-		print('start_process')
 		self.MyLock.release()	
 		self.url_queue.task_done()																#务必要解锁，否则其他线程永远无法进入这个部分，但是其他线程又已经从URL队列里得到url并请求了，最终会导致爬取数据不全
 

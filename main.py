@@ -17,7 +17,6 @@ class Main(QMainWindow,Ui_MainWindow):
         self.staff_list = []
         self.type = "lagou"
         self.ItemNumber = 0
-        print("main chushihua")
         #self.StaffTheard = HandleStaff(self.listWidget,self.staff_list)
         #self.StaffTheard.start()
 
@@ -31,7 +30,6 @@ class Main(QMainWindow,Ui_MainWindow):
 
     #开启主线程外的另一个线程，防止UI阻塞，注意到在那个线程里爬数据的时候再次开启了多线程，这是可以的，也是python和Qt 灵活的地方
     def work(self):
-
         position = self.positionEdit.text()
         position = position.strip()
         if position == '':
@@ -49,6 +47,7 @@ class Main(QMainWindow,Ui_MainWindow):
         else:
             self.workTheard = ZhilianCrawl(position, keyword, self.progressBar, page_number)
         self.workTheard.start()
+        print("中间")
         self.workTheard.trigger.connect(self.showImage)
     
     def showStaff(self,job_infos):
@@ -57,7 +56,6 @@ class Main(QMainWindow,Ui_MainWindow):
         
                                          #staff_list 常驻内存，切记每次都要初始化为空，否则列表将无限增长，最终程序崩溃
         N = 50 if len(job_infos) >= 50 else len(job_infos)
-        print(N)
 
         for i in range(N):
             self.staff_list.append(job_infos[i]['staff'] + ',' + job_infos[i]['details_url'])
@@ -71,7 +69,6 @@ class Main(QMainWindow,Ui_MainWindow):
     def showImage(self,job_infos): 
         #这里本来想在后台执行的，但是会造成 main thread is not in main loop 的错误，既然不在main loop中，我就直接把他放到主线程中来，虽然这样可能会短暂阻塞UI，但是用户基本感觉不到
         try:
-            print(self.type)
             image = GenImage(os.getcwd() + '/resource/%s/' % (self.type))
             image.generateImage('position_for_image.csv','1.png','bar')				
             image.generateImage('salary_for_image.csv','2.png','pie')
@@ -88,7 +85,6 @@ class Main(QMainWindow,Ui_MainWindow):
         del PixMapPosition,PixMapSalary,image
         gc.collect()
         
-        self.serchBtn.setEnabled(True)
         
         #读取新的数据
         self.showStaff(job_infos)
@@ -99,7 +95,6 @@ class Main(QMainWindow,Ui_MainWindow):
         for i in range(current_row + 1):
             if i == current_row:
                 url = self.staff_list[i].split(',')[1]
-                print(url)
                 webbrowser.open_new(url)
 
 

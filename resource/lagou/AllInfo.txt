@@ -1,300 +1,528 @@
-{'staff': 'C语言（研究院）', 'salary': 12500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2147203.html'}
-{'staff': '搜狗AI云-高级C/C++开发工程师', 'salary': 32500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3099239.html'}
-{'staff': 'C/C++高级工程师', 'salary': 12000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1968374.html'}
-{'staff': 'C/C++开发工程师（广告方向）', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2966207.html'}
-{'staff': 'C/C++开发工程师', 'salary': 12000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3234018.html'}
-{'staff': 'C/C++开发工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2919485.html'}
-{'staff': 'C 语言', 'salary': 17500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2662712.html'}
-{'staff': 'C/C++工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2364127.html'}
-{'staff': 'C/C++工程师--无人车方向', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2586390.html'}
-{'staff': 'C/C++软件工程师', 'salary': 27500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2987957.html'}
-{'staff': 'C/C++开发工程师', 'salary': 12000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2871565.html'}
-{'staff': 'c应用开发工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2967508.html'}
-{'staff': 'C/C++实习工程师', 'salary': 3000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3213047.html'}
-{'staff': 'C/C++高级软件开发工程师', 'salary': 15000.0, 'position': '大兴区', 'details_url': 'https://www.lagou.com/jobs/2747117.html'}
-{'staff': 'C/C++', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/1792587.html'}
-{'staff': '高级linux c/c++开发工程师', 'salary': 17500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3021497.html'}
-{'staff': 'Linux C/C++软件工程师', 'salary': 11500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3186058.html'}
-{'staff': 'Linux C/C++', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1416752.html'}
-{'staff': '播放器底层C/C++资深开发工程师', 'salary': 24000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2636507.html'}
-{'staff': 'Linux C/C++高级/资深工程师', 'salary': 27500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3212934.html'}
-{'staff': 'C语言高级软件开发工程师', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3157258.html'}
-{'staff': 'C语言开发工程师 中高级', 'salary': 15000.0, 'position': '昌平区', 'details_url': 'https://www.lagou.com/jobs/3131785.html'}
-{'staff': 'linux c/c++引擎开发工程师', 'salary': 27000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1883990.html'}
-{'staff': 'Linux C研发工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1851309.html'}
-{'staff': 'linux C/C++ 研发工程师（CDN调度系统）', 'salary': 17500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2763614.html'}
-{'staff': 'VC/C/C++', 'salary': 11500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2212178.html'}
-{'staff': 'linux c实习生', 'salary': 3000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3204557.html'}
-{'staff': 'Linux C开发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2413226.html'}
-{'staff': 'C/C++/GO软件工程师', 'salary': 11500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3050545.html'}
-{'staff': '高级linux C开发工程师', 'salary': 22500.0, 'position': '丰台区', 'details_url': 'https://www.lagou.com/jobs/603391.html'}
-{'staff': 'C', 'salary': 12500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2101034.html'}
-{'staff': 'C/C++工程师', 'salary': 25000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3202594.html'}
-{'staff': 'C语言开发工程师', 'salary': 11500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3243869.html'}
-{'staff': 'C/C++开发', 'salary': 26500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3192286.html'}
-{'staff': 'C', 'salary': 25000.0, 'position': '大兴区', 'details_url': 'https://www.lagou.com/jobs/3146766.html'}
-{'staff': 'C研发', 'salary': 11500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3068991.html'}
-{'staff': 'C/C++研发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3165362.html'}
-{'staff': '高级c/c++开发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2383915.html'}
-{'staff': 'C', 'salary': 7000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2316900.html'}
-{'staff': 'c/c++', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3074740.html'}
-{'staff': 'C/C++研发工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3165827.html'}
-{'staff': 'C研发工程师', 'salary': 14000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2847565.html'}
-{'staff': 'C/C++ 高级开发工程师', 'salary': 27500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1984487.html'}
-{'staff': 'C语言开发工程师', 'salary': 17500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3125650.html'}
-{'staff': 'C C++ 研发工程师', 'salary': 37500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3150215.html'}
-{'staff': 'C开发工程师(中级)', 'salary': 12500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/66297.html'}
-{'staff': 'C/C++开发工程师', 'salary': 14000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3205097.html'}
-{'staff': '推荐系统检索端专家（C/C++）', 'salary': 35000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3040960.html'}
-{'staff': 'c/c++开发工程师', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3150262.html'}
-{'staff': '基础运维平台-C/C++高级开发工程师', 'salary': 32500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3008040.html'}
-{'staff': 'C/C++开发工程师', 'salary': 8000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3190242.html'}
-{'staff': 'C', 'salary': 7000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3029144.html'}
-{'staff': 'C/C++工程师', 'salary': 9000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1968354.html'}
-{'staff': 'C/C++-00001', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2802299.html'}
-{'staff': 'C/C++研发工程师（针对应届生）', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2837757.html'}
-{'staff': 'C/C++核心研发工程师', 'salary': 19000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3165941.html'}
-{'staff': '高级服务端开发工程师(c/c++)', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2884096.html'}
-{'staff': 'WX-后台开发工程师（c/C++）', 'salary': 21000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3089949.html'}
-{'staff': 'C/C++开发工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2927460.html'}
-{'staff': 'C/C++工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3144959.html'}
-{'staff': '手机百度--C/C++工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2399542.html'}
-{'staff': '初/中级后端开发工程师（PHP/JAVA/C++/C/Python）', 'salary': 26500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3146412.html'}
-{'staff': 'C++开发工程师（服务器端）', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3185262.html'}
-{'staff': '.net(c#)开发工程师', 'salary': 11500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3115888.html'}
-{'staff': '后台架构师/C++研发高级工程师', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3121770.html'}
-{'staff': '搜索App-资深C++开发工程师', 'salary': 32500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2512601.html'}
-{'staff': 'C++架构研发工程师-北京(001673)', 'salary': 27500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3041148.html'}
-{'staff': 'C++软件工程师', 'salary': 15000.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3051622.html'}
-{'staff': 'Sr.Software Engineer(C++)', 'salary': 32500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2783193.html'}
-{'staff': 'C++后台开发工程师', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2394191.html'}
+{'staff': 'Python开发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3057223.html'}
+{'staff': 'Python研发工程师', 'salary': 28000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3237012.html'}
+{'staff': 'python', 'salary': 25000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2710118.html'}
+{'staff': 'python开发工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3036662.html'}
+{'staff': 'python开发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2528713.html'}
+{'staff': 'Python开发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3192578.html'}
+{'staff': 'Python工程师', 'salary': 24000.0, 'position': '昌平区', 'details_url': 'https://www.lagou.com/jobs/2845532.html'}
+{'staff': 'Python开发工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3184801.html'}
+{'staff': 'Python开发工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2879999.html'}
+{'staff': 'Python工程师', 'salary': 17500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2537125.html'}
+{'staff': 'python工程师(000877)', 'salary': 25000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2775662.html'}
+{'staff': 'Python', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3203157.html'}
+{'staff': 'Python开发工程师', 'salary': 12500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3255091.html'}
+{'staff': 'Python开发工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/1069314.html'}
+{'staff': 'Python开发工程师', 'salary': 14000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2953494.html'}
+{'staff': 'Python开发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3057223.html'}
+{'staff': 'Python研发工程师', 'salary': 28000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3237012.html'}
+{'staff': 'python', 'salary': 25000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2710118.html'}
+{'staff': 'python开发工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3036662.html'}
+{'staff': 'python开发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2528713.html'}
+{'staff': 'Python开发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3192578.html'}
+{'staff': 'Python工程师', 'salary': 24000.0, 'position': '昌平区', 'details_url': 'https://www.lagou.com/jobs/2845532.html'}
+{'staff': 'Python开发工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3184801.html'}
+{'staff': 'Python开发工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2879999.html'}
+{'staff': 'Python工程师', 'salary': 17500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2537125.html'}
+{'staff': 'python工程师(000877)', 'salary': 25000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2775662.html'}
+{'staff': 'Python', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3203157.html'}
+{'staff': 'Python开发工程师', 'salary': 12500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3255091.html'}
+{'staff': 'Python开发工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/1069314.html'}
+{'staff': 'Python开发工程师', 'salary': 14000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2953494.html'}
+{'staff': 'Python开发', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3238973.html'}
+{'staff': 'Python开发工程师', 'salary': 22500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/2691654.html'}
+{'staff': 'Python', 'salary': 25000.0, 'position': 'None', 'details_url': 'https://www.lagou.com/jobs/2504617.html'}
+{'staff': '服务器端开发工程师（Python）', 'salary': 13000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/1230540.html'}
+{'staff': '高级软件工程师 （Python）', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3199947.html'}
+{'staff': 'Python高级开发', 'salary': 35000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3238461.html'}
+{'staff': 'python开发', 'salary': 11500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3249415.html'}
+{'staff': 'Python工程师', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3123954.html'}
+{'staff': 'PYTHON开发', 'salary': 12000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2905487.html'}
+{'staff': 'Python', 'salary': 14500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3181754.html'}
+{'staff': 'Python高级开发工程师', 'salary': 25000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2696329.html'}
+{'staff': 'Python开发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3232579.html'}
+{'staff': 'Python研发工程师', 'salary': 19000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/1942854.html'}
+{'staff': 'Python工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3233928.html'}
+{'staff': 'Python', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1489831.html'}
+{'staff': 'Python开发工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2352309.html'}
+{'staff': '高级Python开发工程师', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3153199.html'}
+{'staff': '爬虫工程师（python）--急招', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2995487.html'}
+{'staff': 'Python开发工程师', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3246074.html'}
+{'staff': 'python', 'salary': 19500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3205831.html'}
+{'staff': 'Python开发工程师', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3167076.html'}
+{'staff': 'Python高级（资深）工程师', 'salary': 27500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1499388.html'}
+{'staff': 'Python 高级开发工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3164507.html'}
+{'staff': '大数据平台开发工程师（java/python）', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2759492.html'}
+{'staff': 'Python资深研发工程师', 'salary': 32500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2736184.html'}
+{'staff': 'Python研发工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3145309.html'}
+{'staff': 'Python工程师', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3085536.html'}
+{'staff': '高级python工程师', 'salary': 24000.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3032476.html'}
+{'staff': 'Python', 'salary': 19000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2483626.html'}
+{'staff': 'python', 'salary': 24000.0, 'position': '昌平区', 'details_url': 'https://www.lagou.com/jobs/2711869.html'}
+{'staff': 'python工程师--数据爬虫', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3102037.html'}
+{'staff': '系统开发工程师（Python）', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3106720.html'}
+{'staff': 'Python工程师', 'salary': 24000.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/1911203.html'}
+{'staff': 'python高级工程师', 'salary': 42500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2710558.html'}
+{'staff': 'Python', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2182008.html'}
+{'staff': 'Software Engineer -Python', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3081019.html'}
+{'staff': 'Python工程师', 'salary': 20000.0, 'position': 'None', 'details_url': 'https://www.lagou.com/jobs/2519443.html'}
+{'staff': 'python工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3174411.html'}
+{'staff': 'python开发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1077311.html'}
+{'staff': '游戏研发工程师 （Python）（初级）', 'salary': 7000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/327391.html'}
+{'staff': 'Python', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2405039.html'}
+{'staff': '高级Python工程师', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/685070.html'}
+{'staff': 'Python研发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2749529.html'}
+{'staff': 'Python开发工程师', 'salary': 17500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3001213.html'}
+{'staff': 'Python开发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/521224.html'}
+{'staff': '急招：爬虫工程师（python）', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3020967.html'}
+{'staff': '高级python研发工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2766411.html'}
+{'staff': 'Service Engineer - Python', 'salary': 18000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3105835.html'}
+{'staff': '游戏研发工程师 （Python）（中高级）', 'salary': 19000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/327385.html'}
+{'staff': 'Python工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3093928.html'}
+{'staff': 'python开发工程师', 'salary': 20000.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3215795.html'}
+{'staff': 'Python开发工程师', 'salary': 12000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2766848.html'}
+{'staff': 'Python工程师', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3014158.html'}
+{'staff': 'Python开发工程师(J10644)', 'salary': 14000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2842698.html'}
+{'staff': 'Python研发中级工程师', 'salary': 22500.0, 'position': 'None', 'details_url': 'https://www.lagou.com/jobs/2469568.html'}
+{'staff': '广告后台开发工程师（Python）', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3243406.html'}
+{'staff': 'Python资深开发/架构师', 'salary': 37500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3085771.html'}
+{'staff': 'Python', 'salary': 25000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2503078.html'}
+{'staff': 'python开发工程师', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2565526.html'}
+{'staff': 'Python高级开发工程师', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3175737.html'}
+{'staff': '爬虫工程师（python） -- 急招', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2953938.html'}
+{'staff': '中级python研发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2766418.html'}
+{'staff': '高级工程师-Python', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2736190.html'}
+{'staff': 'Python开发工程师', 'salary': 8000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3250844.html'}
+{'staff': 'python研发工程师（初级）', 'salary': 11500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3098745.html'}
+{'staff': 'python开发工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1638652.html'}
+{'staff': '爬虫工程师（python）', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3174337.html'}
+{'staff': 'Python开发（北京）', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3241782.html'}
+{'staff': 'Python开发工程师', 'salary': 12500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3142083.html'}
+{'staff': 'python开发工程师', 'salary': 12000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3055626.html'}
+{'staff': 'Python开发工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3147216.html'}
+{'staff': 'Python开发工程师', 'salary': 29000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3036233.html'}
+{'staff': '技术工程部-python开发工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3119907.html'}
+{'staff': 'python研发工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3207708.html'}
+{'staff': 'Python开发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2363923.html'}
+{'staff': '软件工程师- Python', 'salary': 18000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3081060.html'}
+{'staff': 'Python开发', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3071525.html'}
+{'staff': '高级python工程师', 'salary': 25000.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3081593.html'}
+{'staff': '高级Python开发工程师', 'salary': 24000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2862273.html'}
 {'staff': 'Linux C++/Python高级研发工程师', 'salary': 42500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2600432.html'}
-{'staff': '手游服务器高级工程师（C++）', 'salary': 12500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/1291727.html'}
-{'staff': 'C#/C++开发工程师', 'salary': 11000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3115133.html'}
-{'staff': 'C++开发', 'salary': 12500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2270299.html'}
-{'staff': 'C#（一体化）', 'salary': 14000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/893982.html'}
-{'staff': '高级linux c/c++开发工程师(dsj)', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3028871.html'}
-{'staff': '高级 Linux C/C++软件工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3186080.html'}
-{'staff': 'linux C/C++高级研发工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3053087.html'}
-{'staff': 'Linux C开发工程师', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2317795.html'}
-{'staff': 'Linux C嵌入式开发工程师', 'salary': 19000.0, 'position': '西城区', 'details_url': 'https://www.lagou.com/jobs/3242361.html'}
-{'staff': 'Linux C/C++研发工程师', 'salary': 12500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2551794.html'}
-{'staff': 'Linux C 工程师', 'salary': 12500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3158503.html'}
-{'staff': 'linux c高级软件工程师', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3060392.html'}
-{'staff': 'Linux C开发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2813287.html'}
-{'staff': '桌面云Windows C/C++研发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2873968.html'}
-{'staff': '基础平台C语言研发工程师（嵌入式与交换）', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2956551.html'}
-{'staff': 'linux c/c++桌面云研发', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3052849.html'}
-{'staff': 'C C++逆向分析工程师', 'salary': 9000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2764744.html'}
-{'staff': 'C开发 Linux', 'salary': 17500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/1314442.html'}
-{'staff': 'Linux C开发工程师', 'salary': 11500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3116976.html'}
-{'staff': 'C/C++技术专家', 'salary': 25000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1968381.html'}
-{'staff': 'C语言高级工程师', 'salary': 25000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3040107.html'}
-{'staff': 'C/C++语言的技术开发人员', 'salary': 10000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2803987.html'}
-{'staff': 'C语言开发工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2907421.html'}
-{'staff': 'C/C++高级研发工程师', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3088199.html'}
-{'staff': '资深c/c++系统研发工程师-存储方向（北京）', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2883117.html'}
-{'staff': 'C语言讲师', 'salary': 9000.0, 'position': '昌平区', 'details_url': 'https://www.lagou.com/jobs/3153224.html'}
-{'staff': 'C（安全产品研发工程师）', 'salary': 12500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1706105.html'}
-{'staff': 'C/C++开发工程师（客户端）', 'salary': 16500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3148205.html'}
-{'staff': 'linux C／C++研发工程师', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3070891.html'}
-{'staff': 'c/c++软件研发工程师', 'salary': 13000.0, 'position': '昌平区', 'details_url': 'https://www.lagou.com/jobs/3035800.html'}
-{'staff': 'C/C++高级工程师', 'salary': 25000.0, 'position': '昌平区', 'details_url': 'https://www.lagou.com/jobs/3185421.html'}
-{'staff': '高级C/C++研发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3200280.html'}
-{'staff': 'c程序设计讲师', 'salary': 10000.0, 'position': '房山区', 'details_url': 'https://www.lagou.com/jobs/2971347.html'}
-{'staff': 'c➕➕开发工程师', 'salary': 17000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3117626.html'}
-{'staff': '高级Linux C/C++研发工程师', 'salary': 37500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2749540.html'}
-{'staff': 'Linux/C/C++开发工程师', 'salary': 18000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3019440.html'}
-{'staff': '高级C/C++后端开发工程师', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3173783.html'}
-{'staff': 'C/C++中级工程师', 'salary': 8000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2833366.html'}
-{'staff': 'c语言大学讲师', 'salary': 11000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2977725.html'}
-{'staff': '展示广告-C/C++研发工程师', 'salary': 45000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/288543.html'}
-{'staff': '技术专家 资深架构师 C/C++ 架构', 'salary': 37500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3022053.html'}
-{'staff': '高级 linux C/C++ 研发工程师', 'salary': 27500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3147261.html'}
-{'staff': '流媒体开发工程师（C/C++）', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2993520.html'}
-{'staff': 'C C++架构师', 'salary': 42500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3183249.html'}
-{'staff': 'C（研发工程师）', 'salary': 25000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1664975.html'}
-{'staff': 'Linux c研发工程师', 'salary': 17500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3106138.html'}
-{'staff': 'C/C++研发工程师', 'salary': 7500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3140375.html'}
-{'staff': 'C语言开发工程师', 'salary': 11500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3157858.html'}
-{'staff': 'C语言工程师', 'salary': 8000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2998894.html'}
-{'staff': 'C', 'salary': 12500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2101034.html'}
-{'staff': 'C/C++工程师', 'salary': 25000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3202594.html'}
-{'staff': 'C语言开发工程师', 'salary': 11500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3243869.html'}
-{'staff': 'C/C++开发', 'salary': 26500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3192286.html'}
-{'staff': 'C', 'salary': 25000.0, 'position': '大兴区', 'details_url': 'https://www.lagou.com/jobs/3146766.html'}
-{'staff': 'C研发', 'salary': 11500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3068991.html'}
-{'staff': 'C/C++研发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3165362.html'}
-{'staff': '高级c/c++开发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2383915.html'}
-{'staff': 'C', 'salary': 7000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2316900.html'}
-{'staff': 'c/c++', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3074740.html'}
-{'staff': 'C/C++研发工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3165827.html'}
-{'staff': 'C研发工程师', 'salary': 14000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2847565.html'}
-{'staff': 'C/C++ 高级开发工程师', 'salary': 27500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1984487.html'}
-{'staff': 'C语言开发工程师', 'salary': 17500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3125650.html'}
-{'staff': 'C C++ 研发工程师', 'salary': 37500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3150215.html'}
-{'staff': 'Linux C/C++工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3103952.html'}
-{'staff': 'linux c/c++开发工程师', 'salary': 12500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3021466.html'}
-{'staff': 'LInux C开发-01', 'salary': 12500.0, 'position': 'None', 'details_url': 'https://www.lagou.com/jobs/2342509.html'}
-{'staff': 'Windows C/C++软件工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3186130.html'}
-{'staff': 'C，C++ 机器人系统工程师', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3107316.html'}
-{'staff': 'Windows下C/C++软件工程师', 'salary': 23000.0, 'position': '大兴区', 'details_url': 'https://www.lagou.com/jobs/3164827.html'}
-{'staff': 'Linux C/C++开发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3190777.html'}
-{'staff': 'C/C++开发实习生', 'salary': 6000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2942900.html'}
-{'staff': 'Linux C/C++开发工程师', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3123579.html'}
-{'staff': '服务端开发工程师-C/C++', 'salary': 26500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2975378.html'}
-{'staff': 'linux c', 'salary': 17500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3197902.html'}
-{'staff': 'Linux C/C++', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1409694.html'}
-{'staff': '.net开发工程师（C/S架构）', 'salary': 11500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3154733.html'}
-{'staff': 'C/C++ Linux gcc/g++ gdb', 'salary': 37500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3023236.html'}
-{'staff': 'C++/C工程师', 'salary': 13500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/306808.html'}
-{'staff': '资深Linux C/C++研发工程师', 'salary': 37500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2749541.html'}
-{'staff': '资深C/C++后台开发工程师（北京）', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3186345.html'}
-{'staff': 'C/C++开发工程师', 'salary': 12500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3098423.html'}
-{'staff': 'C/C++安全研发工程师', 'salary': 24000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3134603.html'}
-{'staff': 'C/C++', 'salary': 9000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2716951.html'}
-{'staff': 'c/c++开发工程师', 'salary': 45000.0, 'position': '大兴区', 'details_url': 'https://www.lagou.com/jobs/3130256.html'}
-{'staff': 'C/C++高级研发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2083213.html'}
-{'staff': 'C/C++软件工程师', 'salary': 11000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1741089.html'}
-{'staff': '高级C/C++软件工程师', 'salary': 9000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2663426.html'}
-{'staff': 'C高级软件工程师', 'salary': 24000.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/1314498.html'}
-{'staff': 'linux C/C++ 开发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3172832.html'}
-{'staff': 'C/C++开发（Windows底层）', 'salary': 26500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3200430.html'}
-{'staff': 'Linux c /c++研发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1486155.html'}
-{'staff': 'C/C++软件工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2801548.html'}
-{'staff': 'Linux C工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2098241.html'}
-{'staff': 'linux C／C++', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3070890.html'}
-{'staff': 'C/C++（信息安全方向）', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2761751.html'}
-{'staff': 'C(Nginx)', 'salary': 12500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1576927.html'}
-{'staff': 'Linux C/C++开发工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3103953.html'}
-{'staff': 'c/c++应届毕业生', 'salary': 11000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3098676.html'}
-{'staff': 'C/C++ 兼职工作', 'salary': 4000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/498376.html'}
-{'staff': 'linux c/c++开发工程师(dsj)', 'salary': 12500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3028915.html'}
-{'staff': 'Linux C开发实习生（18年毕业）', 'salary': 4000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3236099.html'}
-{'staff': 'C开发工程师或C++ 开发', 'salary': 7500.0, 'position': '昌平区', 'details_url': 'https://www.lagou.com/jobs/3187637.html'}
-{'staff': 'Linux C/C++ 开发牛人', 'salary': 22500.0, 'position': '大兴区', 'details_url': 'https://www.lagou.com/jobs/545637.html'}
-{'staff': 'vc/Unix C开发工程师', 'salary': 16500.0, 'position': '西城区', 'details_url': 'https://www.lagou.com/jobs/2910861.html'}
-{'staff': 'C/C++中级研发工程师', 'salary': 17500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3154054.html'}
-{'staff': 'C/C++软件研发工程师 （应届生、实习生）', 'salary': 11500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2987114.html'}
-{'staff': 'Linux C/C++ 开发工程师/架构师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2532516.html'}
-{'staff': 'C/C++服务端高级工程师', 'salary': 16500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2870980.html'}
-{'staff': 'C语言高级讲师', 'salary': 10500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3239372.html'}
-{'staff': 'C语言开发工程师', 'salary': 12000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3049225.html'}
-{'staff': 'C语言', 'salary': 12500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3148900.html'}
-{'staff': 'linux c/c++开发工程师', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3115159.html'}
-{'staff': 'C/C++', 'salary': 13000.0, 'position': '西城区', 'details_url': 'https://www.lagou.com/jobs/3162939.html'}
-{'staff': 'C/C++开发实习生（无人车方向）', 'salary': 10000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2896307.html'}
-{'staff': 'c', 'salary': 7000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3112586.html'}
-{'staff': 'C/C++软件工程师', 'salary': 26500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/1510158.html'}
-{'staff': 'C/C++开发工程师', 'salary': 8000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2676460.html'}
-{'staff': '高级C/C++开发工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1715496.html'}
-{'staff': 'C/C++安全工程师', 'salary': 20000.0, 'position': '通州区', 'details_url': 'https://www.lagou.com/jobs/1858777.html'}
-{'staff': 'C软件工程师', 'salary': 11500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2374301.html'}
-{'staff': 'C研发', 'salary': 6500.0, 'position': '昌平区', 'details_url': 'https://www.lagou.com/jobs/3187516.html'}
-{'staff': 'C/C++工程师', 'salary': 15000.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/1981150.html'}
-{'staff': 'C', 'salary': 14000.0, 'position': '西城区', 'details_url': 'https://www.lagou.com/jobs/1888026.html'}
-{'staff': '高级Linux 服务端C/C++软件工程师', 'salary': 19000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3215375.html'}
-{'staff': '百度大搜索_C/C++高级架构师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3185360.html'}
-{'staff': '高级/资深C/C++/Golang系统研发工程师--北京', 'salary': 27000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2699026.html'}
-{'staff': 'Linux C/C++开发工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3000162.html'}
-{'staff': '平台c开发工程师（嵌入式与交换）', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2967610.html'}
-{'staff': 'linux C工程师（2017校园招聘）', 'salary': 12500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2528401.html'}
-{'staff': '高级Linux C/C++工程师', 'salary': 15000.0, 'position': '昌平区', 'details_url': 'https://www.lagou.com/jobs/2343913.html'}
-{'staff': 'Linux C软件开发工程师', 'salary': 12500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2926272.html'}
-{'staff': 'Linux C开发（全额五险一金 急聘）', 'salary': 12000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/1162632.html'}
-{'staff': 'Linux C/C++中高级开发-北京-00360', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3036842.html'}
-{'staff': 'wpf开发工程师（.net c/s 方向）', 'salary': 15000.0, 'position': '大兴区', 'details_url': 'https://www.lagou.com/jobs/1938968.html'}
-{'staff': 'c语言课程内容编辑', 'salary': 1500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3175033.html'}
-{'staff': '高级C/C++逆向分析（反汇编）工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1510967.html'}
-{'staff': 'C++/C开发工程师', 'salary': 11500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2806317.html'}
-{'staff': '资深后台开发工程师（Java/Go/C/C++）', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3167659.html'}
-{'staff': '地图数据引擎部_Linux C/C++工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3113695.html'}
-{'staff': '瓜子金融技术-高级后端开发工程师（PHP/JAVA/C++/C）', 'salary': 30000.0, 'position': '昌平区', 'details_url': 'https://www.lagou.com/jobs/2940589.html'}
-{'staff': '服务端开发工程师-C++', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3094968.html'}
-{'staff': 'Linux c++服务器高级研发工程师', 'salary': 40000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3192312.html'}
-{'staff': 'C++引擎开发工程师', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3185269.html'}
-{'staff': 'c#/.net开发工程师', 'salary': 11500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3118108.html'}
-{'staff': 'C++算法高级/资深开发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2628039.html'}
-{'staff': 'C++', 'salary': 12000.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3241454.html'}
-{'staff': 'C++开发工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3243991.html'}
-{'staff': '中级C#开发工程师', 'salary': 11500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3039542.html'}
-{'staff': '服务端高级研发工程师-酒店C端', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2977644.html'}
-{'staff': 'C++开发工程师（偏客户端软件）', 'salary': 11500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2270223.html'}
-{'staff': 'C++高级工程师', 'salary': 25000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3086322.html'}
-{'staff': 'NET/C#软件开发', 'salary': 16000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3244118.html'}
-{'staff': 'C++高级开发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3238874.html'}
-{'staff': 'C#开发工程师', 'salary': 12000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2616107.html'}
-{'staff': 'C++', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3164437.html'}
-{'staff': 'c++高级服务器开发工程师', 'salary': 12500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3180609.html'}
-{'staff': '高级C++研发工程师', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3040591.html'}
-{'staff': 'c++/java/golang高级工程师', 'salary': 25000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2844261.html'}
-{'staff': 'C++开发工程师', 'salary': 11500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/2904577.html'}
-{'staff': 'C++高级工程师', 'salary': 30000.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3128092.html'}
-{'staff': 'c#', 'salary': 11000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3159925.html'}
-{'staff': 'C#开发工程师（偏客户端软件）', 'salary': 11500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2270180.html'}
-{'staff': 'C#开发工程师（高级）', 'salary': 19000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1638540.html'}
-{'staff': '流媒体研发工程师(C++)', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3239966.html'}
-{'staff': 'c++研发工程师（应届生有户口指标）', 'salary': 9000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3133899.html'}
-{'staff': 'C++高级软件开发工程师', 'salary': 17500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2894533.html'}
-{'staff': 'C++开发工程师', 'salary': 12500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/1351445.html'}
-{'staff': 'C++研发工程师', 'salary': 22500.0, 'position': '大兴区', 'details_url': 'https://www.lagou.com/jobs/3237676.html'}
-{'staff': 'C/C++开发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3027188.html'}
-{'staff': 'C/C++', 'salary': 10000.0, 'position': '大兴区', 'details_url': 'https://www.lagou.com/jobs/3146668.html'}
-{'staff': 'C（限硕士应届）', 'salary': 10500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/217136.html'}
-{'staff': 'C开发工程师（北京）', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3157489.html'}
-{'staff': 'C/C++(存储行业）', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3085442.html'}
-{'staff': '资深C/C++工程师', 'salary': 19500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/215245.html'}
-{'staff': 'C/C++研发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3113732.html'}
-{'staff': 'C/C++高级工程师', 'salary': 10000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3213044.html'}
-{'staff': '高级C\\C++开发工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2918781.html'}
-{'staff': 'C/C++研发工程师', 'salary': 35000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3147184.html'}
-{'staff': 'C', 'salary': 16000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2355150.html'}
-{'staff': 'C/C++高级软件工程师', 'salary': 23000.0, 'position': '大兴区', 'details_url': 'https://www.lagou.com/jobs/3215241.html'}
-{'staff': 'C开发工程师（应届生）', 'salary': 5000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1761263.html'}
-{'staff': 'C/C++', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3130986.html'}
-{'staff': 'C', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/1905977.html'}
-{'staff': '网页搜索-C++开发工程师', 'salary': 22500.0, 'position': 'None', 'details_url': 'https://www.lagou.com/jobs/2019443.html'}
-{'staff': 'C#/C++开发工程师（外驻微软）', 'salary': 11500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3147266.html'}
-{'staff': '主任研发工程师（C++）', 'salary': 38500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3023098.html'}
-{'staff': '高级c++开发工程师', 'salary': 25000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2999962.html'}
-{'staff': 'c++中级开发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2996005.html'}
-{'staff': 'c#.net研发工程师（b/s）', 'salary': 12500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3129388.html'}
-{'staff': '高级c++服务器开发工程师', 'salary': 17500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3182321.html'}
-{'staff': 'C++高级开发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2660190.html'}
-{'staff': 'C++', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3164493.html'}
-{'staff': 'PHP高级开发工程师-C2B业务部', 'salary': 25000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2158449.html'}
-{'staff': 'C#开发工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2646469.html'}
-{'staff': 'C++开发工程师（即时通讯）', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3239976.html'}
-{'staff': 'C++开发', 'salary': 12500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2929515.html'}
-{'staff': '高级C++工程师', 'salary': 25000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3236587.html'}
-{'staff': 'C++开发工程师', 'salary': 17500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1185179.html'}
-{'staff': '技术总监（C++）', 'salary': 37500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2642713.html'}
-{'staff': '商业平台-C++高级开发工程师-北京-02106', 'salary': 32500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3021503.html'}
-{'staff': '.net/C#软件开发工程师', 'salary': 11500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3128334.html'}
-{'staff': '【资深】C++研发工程师', 'salary': 32500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2793533.html'}
-{'staff': 'C#开发工程师', 'salary': 7500.0, 'position': 'None', 'details_url': 'https://www.lagou.com/jobs/2237625.html'}
-{'staff': 'C++高级开发工程师', 'salary': 36000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2821271.html'}
-{'staff': 'C++开发工程师', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2077710.html'}
-{'staff': '百度外卖C++架构研发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3022018.html'}
-{'staff': 'c++服务器高级研发工程师', 'salary': 40000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3149967.html'}
-{'staff': 'C++工程师', 'salary': 12500.0, 'position': '丰台区', 'details_url': 'https://www.lagou.com/jobs/3071722.html'}
-{'staff': 'c++服务器开发工程师', 'salary': 12500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3180642.html'}
-{'staff': 'UMCloud-C++开发工程师（北京）', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2401450.html'}
-{'staff': '学而思网校—C++后台开发工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3205205.html'}
-{'staff': '高级C++工程师', 'salary': 18500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3149044.html'}
-{'staff': '搜索引擎Linux后端高级开发工程师(c++)', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/128870.html'}
-{'staff': '地图基础业务部_Linux C/C++高级/资深工程师', 'salary': 27500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2640763.html'}
-{'staff': 'Linux C/C++ 开发主管-北京-00362', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3036845.html'}
-{'staff': '滴滴 后端开发工程师/架构师（Linux C/C++）', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/887829.html'}
-{'staff': 'C/C++逆向分析（反汇编）工程师', 'salary': 9000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1487606.html'}
-{'staff': 'C++/C开发工程师', 'salary': 19500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/463044.html'}
-{'staff': 'C++/C高级软件开发工程师', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3185819.html'}
-{'staff': 'Linux C开发（网络编程 高级）', 'salary': 12000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/1359143.html'}
-{'staff': '高级后端开发工程师（PHP/JAVA/C++/C）', 'salary': 30000.0, 'position': '昌平区', 'details_url': 'https://www.lagou.com/jobs/2940225.html'}
-{'staff': '游戏c++服务器研发', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2727487.html'}
-{'staff': 'C++', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3209288.html'}
-{'staff': 'Linux c++服务器研发工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3172174.html'}
-{'staff': 'C++开发', 'salary': 18500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2461721.html'}
-{'staff': 'C#wpf开发工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3207705.html'}
-{'staff': 'C++开发工程师（客户端）', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3185265.html'}
-{'staff': '后台研发工程师/C++研发工程师', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3121791.html'}
+{'staff': '资深Python工程师', 'salary': 40000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2812960.html'}
+{'staff': '资深爬虫工程师（Python）', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2898046.html'}
+{'staff': 'Python开发工程师', 'salary': 23000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3029530.html'}
+{'staff': 'python工程师（北京）', 'salary': 12500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3110586.html'}
+{'staff': 'Python工程师（实习生）', 'salary': 6000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3176156.html'}
+{'staff': 'Python 开发工程师', 'salary': 26500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3163367.html'}
+{'staff': 'Python开发工程师-ww', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1503446.html'}
+{'staff': 'Python工程师', 'salary': 10500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2002393.html'}
+{'staff': '高级Python研发工程师', 'salary': 27500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2934538.html'}
+{'staff': 'python开发工程师(J10904)', 'salary': 35000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3130346.html'}
+{'staff': 'python开发', 'salary': 12500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3213833.html'}
+{'staff': 'python开发（北京-海淀区）', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3145892.html'}
+{'staff': '服务器端开发工程师-Python', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3233885.html'}
+{'staff': 'Python研发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3114020.html'}
+{'staff': 'python工程师', 'salary': 22500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3236037.html'}
+{'staff': 'Python开发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3142366.html'}
+{'staff': 'python开发工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2886671.html'}
+{'staff': 'Python开发工程师', 'salary': 22500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/276827.html'}
+{'staff': 'Python工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3134638.html'}
+{'staff': 'Python开发工程师', 'salary': 11500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/493225.html'}
+{'staff': 'Python工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3251086.html'}
+{'staff': 'Python研发工程师', 'salary': 9500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3096712.html'}
+{'staff': 'python开发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/1620315.html'}
+{'staff': '技术总监（灵云公有云平台/python/php）', 'salary': 37500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2759467.html'}
+{'staff': 'Python开发', 'salary': 21500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2765210.html'}
+{'staff': '高级Python开发工程师', 'salary': 27500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3140106.html'}
+{'staff': 'Software Engineer-Python', 'salary': 18000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2736175.html'}
+{'staff': '高级Python工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2555647.html'}
+{'staff': 'Python工程师（锁屏画报）', 'salary': 27500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2948277.html'}
+{'staff': 'Python高级工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2237722.html'}
+{'staff': 'Python高级开发工程师', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/429149.html'}
+{'staff': '高级Python开发工程师', 'salary': 30000.0, 'position': '昌平区', 'details_url': 'https://www.lagou.com/jobs/2729942.html'}
+{'staff': '高级Python开发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3043445.html'}
+{'staff': 'Python工程师--无人车方向', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2586400.html'}
+{'staff': '高级python开发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3164675.html'}
+{'staff': '搜狗海外输入法-Python高级开发工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3152678.html'}
+{'staff': 'python', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2304556.html'}
+{'staff': 'Python高级工程师/架构师', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2556039.html'}
+{'staff': 'python开发工程师', 'salary': 14000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3139488.html'}
+{'staff': 'python工程师', 'salary': 10000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3090917.html'}
+{'staff': '高级python开发工程师', 'salary': 22500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3085590.html'}
+{'staff': 'Python研发工程师', 'salary': 24000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3232206.html'}
+{'staff': 'Python研发工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2683634.html'}
+{'staff': 'Python开发工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3184824.html'}
+{'staff': 'Python研发工程师', 'salary': 14000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3208794.html'}
+{'staff': '高级后台开发工程师 - Python/Golang-效率工程', 'salary': 32500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2914317.html'}
+{'staff': 'Python工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2879221.html'}
+{'staff': 'Python研发工程师', 'salary': 10000.0, 'position': '石景山区', 'details_url': 'https://www.lagou.com/jobs/3253002.html'}
+{'staff': 'python开发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3177447.html'}
+{'staff': '资深爬虫工程师（JAVA或Python）', 'salary': 32500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2898031.html'}
+{'staff': 'Python开发工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3178128.html'}
+{'staff': 'Python 开发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1717631.html'}
+{'staff': 'Python 中级工程师', 'salary': 15500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/1407389.html'}
+{'staff': 'Python开发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2875277.html'}
+{'staff': 'Python/Go开发工程师-小米视频', 'salary': 27500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3232436.html'}
+{'staff': 'Python/Go开发工程师-小米视频', 'salary': 27500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3232436.html'}
+{'staff': 'Python后台开发', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3104419.html'}
+{'staff': '高级python研发工程师', 'salary': 34000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2972392.html'}
+{'staff': 'Python开发工程师[实习]', 'salary': 4500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3239120.html'}
+{'staff': 'python研发工程师', 'salary': 24000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3212919.html'}
+{'staff': 'Python开发工程师', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3015996.html'}
+{'staff': 'python工程师（无人车方向）', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2896272.html'}
+{'staff': '高级Python开发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2637379.html'}
+{'staff': 'python开发工程师', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3199168.html'}
+{'staff': 'Python开发工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3237312.html'}
+{'staff': 'python 开发工程师', 'salary': 21500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2918746.html'}
+{'staff': '高级python开发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/97805.html'}
+{'staff': 'Python开发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3227523.html'}
+{'staff': '初级python工程师', 'salary': 6000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3202917.html'}
+{'staff': 'Python开发工程师', 'salary': 14000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3234095.html'}
+{'staff': 'Python 研发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3161192.html'}
+{'staff': 'Python高级研发工程师-度假事业部(J11528)', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3155627.html'}
+{'staff': 'Python高级开发工程师', 'salary': 27000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1980336.html'}
+{'staff': 'python开发', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2989096.html'}
+{'staff': '高级/资深后端工程师（Node/Java/PHP/Python）', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2280451.html'}
+{'staff': 'Python工程师', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/1255415.html'}
+{'staff': '研发 - Python工程师岗', 'salary': 9500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3135851.html'}
+{'staff': '资深自动化测试工程师（Python方向）', 'salary': 28000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2841043.html'}
+{'staff': 'python高级开发工程师', 'salary': 29500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2886409.html'}
+{'staff': 'Python工程师', 'salary': 25000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3121073.html'}
+{'staff': '高级Python开发工程师', 'salary': 30000.0, 'position': 'None', 'details_url': 'https://www.lagou.com/jobs/2452260.html'}
+{'staff': '运维开发工程师-Python/golang', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3241839.html'}
+{'staff': 'python工程师', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3230778.html'}
+{'staff': 'python开发工程师', 'salary': 18000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3249331.html'}
+{'staff': 'Senior Python Engineer', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2736173.html'}
+{'staff': '系统组运维开发-python方向', 'salary': 19500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3255747.html'}
+{'staff': 'Python研发工程师(急聘）', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3209632.html'}
+{'staff': 'Python工程师', 'salary': 27500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2980267.html'}
+{'staff': 'Python开发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3234220.html'}
+{'staff': '高级Java/PHP/Python工程师', 'salary': 18000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2735720.html'}
+{'staff': '运维开发工程师（Python）', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2519471.html'}
+{'staff': '技术总监 （大数据、数据挖掘/java/python）', 'salary': 37500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2759422.html'}
+{'staff': 'Python工程师', 'salary': 25000.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/2777567.html'}
+{'staff': '资深Python开发', 'salary': 27500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2765201.html'}
+{'staff': 'Python 开发工程师', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3161894.html'}
+{'staff': 'Python开发', 'salary': 32500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3243334.html'}
+{'staff': 'Python 后端开发工程师', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3108295.html'}
+{'staff': 'python开发', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3133875.html'}
+{'staff': 'Python开发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/20458.html'}
+{'staff': 'Python高级开发工程师', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3101993.html'}
+{'staff': '服务端高级工程师（Python方向）', 'salary': 20000.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3037657.html'}
+{'staff': '高级Python开发工程师', 'salary': 25000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3202540.html'}
+{'staff': 'python工程师--星河易股', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2665737.html'}
+{'staff': '影视python开发', 'salary': 17000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3250044.html'}
+{'staff': 'Python高级研发工程师', 'salary': 19000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3248800.html'}
+{'staff': '高级Python工程师-Z（总部）', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/1832498.html'}
+{'staff': '高级开发工程师-Python/Java/Go', 'salary': 35000.0, 'position': '通州区', 'details_url': 'https://www.lagou.com/jobs/3237082.html'}
+{'staff': 'Python开发实习生', 'salary': 4500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/493232.html'}
+{'staff': '高级python研发工程师', 'salary': 32500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3212914.html'}
+{'staff': 'python开发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2709044.html'}
+{'staff': 'Python开发工程师', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3201535.html'}
+{'staff': 'Python高级工程师', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/971118.html'}
+{'staff': 'Python应届毕业生', 'salary': 6500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/1724711.html'}
+{'staff': '高级Python工程师', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3090318.html'}
+{'staff': 'python开发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3247474.html'}
+{'staff': 'Python', 'salary': 14000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2999070.html'}
+{'staff': '云计算Paas平台开发（python/go/shell）', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2719236.html'}
+{'staff': 'Python开发工程师', 'salary': 19500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3045622.html'}
+{'staff': 'python高级工程师/架构师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2773278.html'}
+{'staff': 'Python', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2437636.html'}
+{'staff': 'Python后端工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3191432.html'}
+{'staff': '软件测试工程师（C++、java、python）', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3118311.html'}
+{'staff': 'Python', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2194854.html'}
+{'staff': '后端开发工程师（Node\\Python\\Ruby）', 'salary': 27000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2404757.html'}
+{'staff': 'Python开发', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3232792.html'}
+{'staff': 'Python高级/架构师', 'salary': 32500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2896804.html'}
+{'staff': 'python开发工程师', 'salary': 19000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3123928.html'}
+{'staff': 'Python（Maya）', 'salary': 11500.0, 'position': '昌平区', 'details_url': 'https://www.lagou.com/jobs/3249321.html'}
+{'staff': 'Python工程师', 'salary': 10000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3150382.html'}
+{'staff': 'Python开发工程师', 'salary': 12500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2865477.html'}
+{'staff': 'Python服务器工程师-小米电视BSP', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3029972.html'}
+{'staff': 'python开发工程师', 'salary': 14500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3060650.html'}
+{'staff': 'python工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3222835.html'}
+{'staff': '瓜子二手车-Python高级开发工程师', 'salary': 27500.0, 'position': '昌平区', 'details_url': 'https://www.lagou.com/jobs/2960861.html'}
+{'staff': 'python软件工程师', 'salary': 9000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3079767.html'}
+{'staff': '中级Python开发工程师', 'salary': 13500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3066798.html'}
+{'staff': 'Python开发工程师', 'salary': 24000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2962342.html'}
+{'staff': 'Python数据平台开发工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3155764.html'}
+{'staff': '高级Python开发工程师', 'salary': 27500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3191539.html'}
+{'staff': '数据挖掘工程师(R或Python)', 'salary': 17500.0, 'position': '丰台区', 'details_url': 'https://www.lagou.com/jobs/3203171.html'}
+{'staff': 'python开发工程师', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3174436.html'}
+{'staff': 'C++/python/golang', 'salary': 19500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3056415.html'}
+{'staff': 'Python高级后端研发工程师', 'salary': 25000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2972742.html'}
+{'staff': '移动平台后端高级开发工程师（Go/Python）', 'salary': 22500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/2972420.html'}
+{'staff': 'Python', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3201705.html'}
+{'staff': 'Python高级工程师', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2709775.html'}
+{'staff': 'Python开发工程师', 'salary': 12500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2959568.html'}
+{'staff': '中级python脚本开发工程师', 'salary': 17500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3149314.html'}
+{'staff': 'python工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3174474.html'}
+{'staff': 'Python架构师', 'salary': 32500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2696205.html'}
+{'staff': '高级Python后端研发工程师:', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2816711.html'}
+{'staff': 'Python开发工程师', 'salary': 10000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2867382.html'}
+{'staff': '后端工程师（Python）', 'salary': 21500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3161488.html'}
+{'staff': 'Python程序员', 'salary': 16000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2225756.html'}
+{'staff': 'Python后端工程师-博雅大数据学院', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2924624.html'}
+{'staff': 'python工程师+qt+gui', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3066065.html'}
+{'staff': 'Python软件开发工程师', 'salary': 12500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3110070.html'}
+{'staff': 'Python开发工程师', 'salary': 15500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3127225.html'}
+{'staff': 'UMCloud-Python后端工程师（北京）', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2401519.html'}
+{'staff': '高级python开发', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3023181.html'}
+{'staff': '高级Python后端研发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2785271.html'}
+{'staff': 'python', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3217692.html'}
+{'staff': 'Python方向运维开发工程师', 'salary': 11500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2515558.html'}
+{'staff': 'python开发工程师', 'salary': 12500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3249155.html'}
+{'staff': 'UMCloud-校招-Python后端工程师（北京）', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2401550.html'}
+{'staff': '初级python脚本开发工程师', 'salary': 12500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3149248.html'}
+{'staff': 'Python工程师', 'salary': 20000.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/2966037.html'}
+{'staff': 'Python', 'salary': 12500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2016525.html'}
+{'staff': 'python后端工程师', 'salary': 25000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2911631.html'}
+{'staff': 'Python开发', 'salary': 12500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3249375.html'}
+{'staff': '高级开发工程师（java、php、python）', 'salary': 37500.0, 'position': '昌平区', 'details_url': 'https://www.lagou.com/jobs/2792147.html'}
+{'staff': 'python运维开发工程师', 'salary': 7000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3049720.html'}
+{'staff': 'Python数据工程师', 'salary': 24000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2972250.html'}
+{'staff': 'Python工程师', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2893943.html'}
+{'staff': 'Python 实习', 'salary': 6000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/148225.html'}
+{'staff': 'python服务端开发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2541032.html'}
+{'staff': 'Python研发工程师', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2833416.html'}
+{'staff': 'Python开发工程师', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1202535.html'}
+{'staff': 'Python开发工程师', 'salary': 12500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3191618.html'}
+{'staff': '高级Python', 'salary': 27500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3014663.html'}
+{'staff': 'Python后端开发工程师', 'salary': 22500.0, 'position': '大兴区', 'details_url': 'https://www.lagou.com/jobs/3119408.html'}
+{'staff': 'Python', 'salary': 11500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2259882.html'}
+{'staff': '数据开发工程师（Python）', 'salary': 12500.0, 'position': '通州区', 'details_url': 'https://www.lagou.com/jobs/3052544.html'}
+{'staff': 'python 开发工程师', 'salary': 12500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3193059.html'}
+{'staff': 'Python开发工程师', 'salary': 17500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3148169.html'}
+{'staff': 'Python实习生', 'salary': 2500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2998805.html'}
+{'staff': 'Python 架构师', 'salary': 27500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3180822.html'}
+{'staff': '互联网(教育)应用开发工程师 python、php', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3245776.html'}
+{'staff': 'Python后端开发工程师', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3010852.html'}
+{'staff': 'python高级工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3238395.html'}
+{'staff': 'python后端开发工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3123165.html'}
+{'staff': '爬虫工程师（Java/Python）(J10161', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3027728.html'}
+{'staff': 'Python实习生', 'salary': 9000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2653020.html'}
+{'staff': '高级python工程师', 'salary': 45000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3160596.html'}
+{'staff': '数据挖掘-Python语言', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3208786.html'}
+{'staff': '高级python工程师', 'salary': 25000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3213387.html'}
+{'staff': 'python', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3149013.html'}
+{'staff': 'python讲师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2885100.html'}
+{'staff': 'Python开发工程师', 'salary': 15000.0, 'position': 'None', 'details_url': 'https://www.lagou.com/jobs/2014146.html'}
+{'staff': 'Python开发工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3067040.html'}
+{'staff': 'Python开发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2942066.html'}
+{'staff': 'Python开发工程师', 'salary': 37500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3227099.html'}
+{'staff': 'Python高级软件工程师', 'salary': 27500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3232180.html'}
+{'staff': '高级 Python 工程师（web方向）', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2995601.html'}
+{'staff': 'Python架构师', 'salary': 30000.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3174498.html'}
+{'staff': 'Python研发工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2928052.html'}
+{'staff': 'Python后台开发工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/1581642.html'}
+{'staff': 'Python运维开发实习生', 'salary': 4500.0, 'position': 'None', 'details_url': 'https://www.lagou.com/jobs/2370833.html'}
+{'staff': 'Python研发工程师', 'salary': 25000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/1674737.html'}
+{'staff': 'Python 、PHP、后端工程师', 'salary': 16500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2688990.html'}
+{'staff': 'Python架构师', 'salary': 37500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2914195.html'}
+{'staff': 'Python研发工程师', 'salary': 19500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2789025.html'}
+{'staff': 'Python讲师', 'salary': 17500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3127281.html'}
+{'staff': 'Python后端高级工程师', 'salary': 25000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/872241.html'}
+{'staff': 'Python就业指导专员', 'salary': 12500.0, 'position': '昌平区', 'details_url': 'https://www.lagou.com/jobs/3199201.html'}
+{'staff': 'Python开发工程师', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3059325.html'}
+{'staff': 'Python 高级工程师', 'salary': 20000.0, 'position': 'None', 'details_url': 'https://www.lagou.com/jobs/2245083.html'}
+{'staff': 'python自动化运维开发', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2854345.html'}
+{'staff': '高级python工程师', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3055047.html'}
+{'staff': 'Python', 'salary': 18000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2048093.html'}
+{'staff': 'Python开发', 'salary': 10000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2812888.html'}
+{'staff': 'python高级开发工程师 (77-006)', 'salary': 17500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3009307.html'}
+{'staff': 'Python开发工程师', 'salary': 16000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2737028.html'}
+{'staff': 'Python开发工程师（maya插件）', 'salary': 12000.0, 'position': '昌平区', 'details_url': 'https://www.lagou.com/jobs/3003353.html'}
+{'staff': 'Python 游戏服务端开发', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2625209.html'}
+{'staff': '诚聘python讲师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2986644.html'}
+{'staff': 'Python工程师', 'salary': 12500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3230957.html'}
+{'staff': '资深Python开发工程师', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2114110.html'}
+{'staff': 'Python开发工程师', 'salary': 9000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2226784.html'}
+{'staff': 'Python开发工程师', 'salary': 12000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3191616.html'}
+{'staff': 'Python高级工程师', 'salary': 12000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2999418.html'}
+{'staff': 'Python工程师', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3106355.html'}
+{'staff': 'Python', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1772696.html'}
+{'staff': 'Python开发工程师', 'salary': 8000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2669389.html'}
+{'staff': 'Python 高级软件工程师', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2591321.html'}
+{'staff': 'Python开发工程师', 'salary': 12500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3005787.html'}
+{'staff': 'Python 开发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2769521.html'}
+{'staff': 'python(odoo开发工程师)', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3050702.html'}
+{'staff': '高级Python工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3158108.html'}
+{'staff': 'python工程师（高级）', 'salary': 17500.0, 'position': '丰台区', 'details_url': 'https://www.lagou.com/jobs/3230393.html'}
+{'staff': 'Python', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3198661.html'}
+{'staff': 'python安全开发工程师', 'salary': 9000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2180572.html'}
+{'staff': 'Python开发工程师', 'salary': 10000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/637226.html'}
+{'staff': 'python工程师', 'salary': 10000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3115782.html'}
+{'staff': '高德-python开发高级工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3120771.html'}
+{'staff': 'python开发', 'salary': 14000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3221900.html'}
+{'staff': 'Go/Python研发工程师', 'salary': 35000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3110006.html'}
+{'staff': 'python工程师', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3035696.html'}
+{'staff': 'Python工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2732197.html'}
+{'staff': 'Python实习生', 'salary': 4000.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3193727.html'}
+{'staff': 'python高级开发工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3083309.html'}
+{'staff': '算法工程师 Python', 'salary': 12500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3161957.html'}
+{'staff': 'Python高级工程师', 'salary': 20000.0, 'position': '西城区', 'details_url': 'https://www.lagou.com/jobs/2875398.html'}
+{'staff': 'Python', 'salary': 18000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/671216.html'}
+{'staff': 'python工程师', 'salary': 12500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2754677.html'}
+{'staff': 'Linux Python高级开发工程师', 'salary': 40000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2841137.html'}
+{'staff': 'Python开发工程师', 'salary': 7500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3063772.html'}
+{'staff': 'Python开发工程师', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3141776.html'}
+{'staff': 'python开发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3124280.html'}
+{'staff': 'Python版权监控研发工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2988744.html'}
+{'staff': '金融云平台Python开发工程师', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3213403.html'}
+{'staff': 'Python 开发工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3224148.html'}
+{'staff': 'Python工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2879808.html'}
+{'staff': 'Python 工程师', 'salary': 18000.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/1491636.html'}
+{'staff': 'Python高级软件工程师', 'salary': 20000.0, 'position': '昌平区', 'details_url': 'https://www.lagou.com/jobs/2380294.html'}
+{'staff': 'Python', 'salary': 24000.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/2369629.html'}
+{'staff': 'python开发工程师', 'salary': 11000.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/2997169.html'}
+{'staff': 'python开发工程师', 'salary': 11500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/2825039.html'}
+{'staff': 'Python开发', 'salary': 18000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2751305.html'}
+{'staff': 'python(odoo开发工程师)', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2515333.html'}
+{'staff': 'Python', 'salary': 10500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/1162408.html'}
+{'staff': '高级Python开发工程师', 'salary': 6000.0, 'position': 'None', 'details_url': 'https://www.lagou.com/jobs/2466935.html'}
+{'staff': 'PHP/Python数据平台开发', 'salary': 22500.0, 'position': 'None', 'details_url': 'https://www.lagou.com/jobs/2156248.html'}
+{'staff': 'python开发工程师（接受其他语言转）', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2854338.html'}
+{'staff': '数据分析经理(风险sas、R、python）', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2959047.html'}
+{'staff': '量化工程师（Java/C++/Python）', 'salary': 22500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3137638.html'}
+{'staff': '中高级 Python 工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2106851.html'}
+{'staff': '校园招聘-python开发实习生', 'salary': 5000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2889848.html'}
+{'staff': 'Python', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3117204.html'}
+{'staff': 'Python/Django工程师（在家工作）', 'salary': 11500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3193914.html'}
+{'staff': 'Python', 'salary': 12000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2904612.html'}
+{'staff': '固件测试(python脚本经验丰富)', 'salary': 15000.0, 'position': 'None', 'details_url': 'https://www.lagou.com/jobs/2174772.html'}
+{'staff': 'python web开发实习生(J10851)', 'salary': 6000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3130352.html'}
+{'staff': 'python', 'salary': 14500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3213323.html'}
+{'staff': 'Python开发工程师', 'salary': 14000.0, 'position': '西城区', 'details_url': 'https://www.lagou.com/jobs/3113908.html'}
+{'staff': '高级python开发工程师', 'salary': 26000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3055492.html'}
+{'staff': 'python工程师', 'salary': 7000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3219654.html'}
+{'staff': 'Python技术经理', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2977604.html'}
+{'staff': 'python高级工程师', 'salary': 15000.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3178050.html'}
+{'staff': 'Python', 'salary': 12500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3125373.html'}
+{'staff': 'Python研发工程师', 'salary': 15000.0, 'position': '昌平区', 'details_url': 'https://www.lagou.com/jobs/2835456.html'}
+{'staff': '移动平台后端高级开发工程师（Go/Python）', 'salary': 22500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3088731.html'}
+{'staff': 'Python', 'salary': 18000.0, 'position': 'None', 'details_url': 'https://www.lagou.com/jobs/2463736.html'}
+{'staff': '初级Python开发工程师', 'salary': 7500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3120389.html'}
+{'staff': 'python/服务器开发工程师', 'salary': 27500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3196859.html'}
+{'staff': 'Python 工程师', 'salary': 16500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/1160091.html'}
+{'staff': 'Python 开发工程师', 'salary': 24000.0, 'position': 'None', 'details_url': 'https://www.lagou.com/jobs/2536235.html'}
+{'staff': '高级python后端开发工程师', 'salary': 21500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3225757.html'}
+{'staff': 'Python开发工程师', 'salary': 13000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2990259.html'}
+{'staff': 'Python前端开发工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2966198.html'}
+{'staff': 'python平台开发工程师', 'salary': 20000.0, 'position': '昌平区', 'details_url': 'https://www.lagou.com/jobs/3129810.html'}
+{'staff': 'python攻城狮', 'salary': 12000.0, 'position': '大兴区', 'details_url': 'https://www.lagou.com/jobs/3217039.html'}
+{'staff': 'python开发工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3142223.html'}
+{'staff': '后台开发工程师（面试不分语言，入职后实现语言为Python/Go)', 'salary': 27500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3228349.html'}
+{'staff': 'python工程师', 'salary': 21500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3171268.html'}
+{'staff': 'python后端开发', 'salary': 17500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3148212.html'}
+{'staff': 'Python', 'salary': 7500.0, 'position': '昌平区', 'details_url': 'https://www.lagou.com/jobs/3157153.html'}
+{'staff': 'Python', 'salary': 22500.0, 'position': 'None', 'details_url': 'https://www.lagou.com/jobs/1942959.html'}
+{'staff': 'python工程师', 'salary': 11500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2986924.html'}
+{'staff': 'Python 工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/1086859.html'}
+{'staff': '中级Python开发工程师', 'salary': 19500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3085620.html'}
+{'staff': 'Python高级服务端工程师', 'salary': 16000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3183561.html'}
+{'staff': 'python开发工程师', 'salary': 16000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3133691.html'}
+{'staff': '中高级Python开发工程师', 'salary': 17500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2782278.html'}
+{'staff': 'Python/Ruby', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3019557.html'}
+{'staff': 'Python开发工程师', 'salary': 7000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2830838.html'}
+{'staff': 'Python开发工程师', 'salary': 15000.0, 'position': '丰台区', 'details_url': 'https://www.lagou.com/jobs/2941055.html'}
+{'staff': 'Python工程师', 'salary': 12000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3117106.html'}
+{'staff': 'python测试工程师', 'salary': 18000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3205796.html'}
+{'staff': 'Python全栈开发工程师', 'salary': 19000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3043644.html'}
+{'staff': 'python开发实习生', 'salary': 4000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3053290.html'}
+{'staff': 'Python架构师', 'salary': 35000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3240980.html'}
+{'staff': 'Python全栈工程师', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3122332.html'}
+{'staff': '高级后端开发工程师（后端语言转python）', 'salary': 35500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3081045.html'}
+{'staff': 'Python高级工程师', 'salary': 18000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2904650.html'}
+{'staff': 'python开发工程师', 'salary': 15000.0, 'position': 'None', 'details_url': 'https://www.lagou.com/jobs/1842858.html'}
+{'staff': 'Python开发负责人', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3030278.html'}
+{'staff': 'Java/Python', 'salary': 12000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2523325.html'}
+{'staff': 'Python（实习）', 'salary': 4000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2613898.html'}
+{'staff': 'Python架构师', 'salary': 27500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3164417.html'}
+{'staff': '后端Python开发工程师', 'salary': 16000.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3076251.html'}
+{'staff': 'Python讲师', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3114519.html'}
+{'staff': 'Java/Python（高级）', 'salary': 25000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3171584.html'}
+{'staff': 'python服务器端程序', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3163222.html'}
+{'staff': 'python服务端工程师', 'salary': 20000.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/2700903.html'}
+{'staff': 'python讲师', 'salary': 12000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3184432.html'}
+{'staff': 'Python【实习生】', 'salary': 7500.0, 'position': '大兴区', 'details_url': 'https://www.lagou.com/jobs/1744860.html'}
+{'staff': 'python/java 中级工程师（网络爬虫方向）', 'salary': 10000.0, 'position': '丰台区', 'details_url': 'https://www.lagou.com/jobs/3191775.html'}
+{'staff': 'Python 兼职程序员', 'salary': 4500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/535221.html'}
+{'staff': 'python/C++/go/java', 'salary': 19500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3137935.html'}
+{'staff': 'Python服务器端主程序', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3163248.html'}
+{'staff': '高级python工程师', 'salary': 17500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/2917974.html'}
+{'staff': 'Python技术经理/架构师', 'salary': 27500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2927941.html'}
+{'staff': '基础平台开发工程师C/Go/Python/Java(CDN)', 'salary': 30000.0, 'position': 'None', 'details_url': 'https://www.lagou.com/jobs/2411692.html'}
+{'staff': 'Python+前端开发工程师', 'salary': 9000.0, 'position': '石景山区', 'details_url': 'https://www.lagou.com/jobs/3130368.html'}
+{'staff': 'Python数据工程师（不需要懂金融）', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3203293.html'}
+{'staff': 'Python 中级工程师', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3001722.html'}
+{'staff': '全栈Python工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3019262.html'}
+{'staff': 'Python自动化测试工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3106517.html'}
+{'staff': 'Python后台开发工程师', 'salary': 22500.0, 'position': '西城区', 'details_url': 'https://www.lagou.com/jobs/3222898.html'}
+{'staff': '数据库产品Python开发工程师', 'salary': 20000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2917505.html'}
+{'staff': 'linux python 运维开发工程师', 'salary': 22500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3150837.html'}
+{'staff': 'Python数据分析师', 'salary': 12500.0, 'position': '丰台区', 'details_url': 'https://www.lagou.com/jobs/3192580.html'}
+{'staff': 'python架构师', 'salary': 45000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2806062.html'}
+{'staff': 'python服务端工程师', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3064263.html'}
+{'staff': 'python架构', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2800575.html'}
+{'staff': 'Python爬虫工程师', 'salary': 27000.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/2706023.html'}
+{'staff': 'Php/Python后端开发工程师', 'salary': 12000.0, 'position': '西城区', 'details_url': 'https://www.lagou.com/jobs/2842043.html'}
+{'staff': 'Python Web后端工程师', 'salary': 27500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2909194.html'}
+{'staff': 'python技术经理', 'salary': 21500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2785210.html'}
+{'staff': 'python后端开发', 'salary': 12500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/490877.html'}
+{'staff': 'Python爬虫', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2404939.html'}
+{'staff': 'python技术经理lg-u170516', 'salary': 25000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3125680.html'}
+{'staff': '后端node.js开发工程师（python ruby）', 'salary': 26500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1131161.html'}
+{'staff': 'UMCloud-校招-Python QA工程师（北京）', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2401604.html'}
+{'staff': 'Python 高级工程师(技术经理)', 'salary': 25000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3001695.html'}
+{'staff': '技术类（后台Java/PHP/Python+前端+iOS/Android）', 'salary': 30000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/1995199.html'}
+{'staff': 'python爬虫工程师', 'salary': 20000.0, 'position': '大兴区', 'details_url': 'https://www.lagou.com/jobs/3084007.html'}
+{'staff': 'Python 数据挖掘工程师', 'salary': 12500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3095100.html'}
+{'staff': 'Python爬虫开发工程师', 'salary': 20000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2585597.html'}
+{'staff': 'UMCloud-Python QA工程师（北京）', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2401579.html'}
+{'staff': 'python爬虫工程师', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2718694.html'}
+{'staff': '（python）爬虫工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3133670.html'}
+{'staff': 'Python开发工程师(爬虫方向)', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3082277.html'}
+{'staff': 'python测试开发工程师(互联网金融方向)', 'salary': 19500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3095055.html'}
+{'staff': 'python爬虫工程师--fintech方向', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3117914.html'}
+{'staff': 'Python Web服务器后台开发', 'salary': 3000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3042185.html'}
+{'staff': 'Python爬虫工程师', 'salary': 12500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3182238.html'}
+{'staff': '云计算产品研发（c++,python,校招）', 'salary': 9000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3132763.html'}
+{'staff': 'Python爬虫工程师', 'salary': 25000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3188667.html'}
+{'staff': 'Python爬虫工程师', 'salary': 19000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3125425.html'}
+{'staff': 'Python爬虫工程师', 'salary': 16000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3177380.html'}
+{'staff': 'Python 高级工程师（模拟请求、爬虫方向）', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2233454.html'}
+{'staff': 'python爬虫研发工程师（初级）', 'salary': 7500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3187253.html'}
+{'staff': '后台服务器（Python爬虫、数据挖掘方向）', 'salary': 14000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3225409.html'}
+{'staff': 'Python爬虫工程师', 'salary': 15000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3129251.html'}
+{'staff': 'Python爬虫实习生', 'salary': 3000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3177451.html'}
+{'staff': 'python爬虫兼职讲师', 'salary': 4500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3023196.html'}
+{'staff': 'python开发（数据爬取分析开发工程师，爬虫）', 'salary': 12000.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2676565.html'}
+{'staff': 'Python 数据爬虫与分析工程师', 'salary': 22500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/2516764.html'}
+{'staff': 'python（可其他语言转python）', 'salary': 30000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3247979.html'}
+{'staff': 'python', 'salary': 22500.0, 'position': '大兴区', 'details_url': 'https://www.lagou.com/jobs/3138424.html'}
+{'staff': 'python', 'salary': 3000.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3186750.html'}
+{'staff': 'python大数据讲师', 'salary': 15000.0, 'position': '石景山区', 'details_url': 'https://www.lagou.com/jobs/3190461.html'}
+{'staff': 'python爬虫', 'salary': 8500.0, 'position': '东城区', 'details_url': 'https://www.lagou.com/jobs/3240988.html'}
+{'staff': '爬虫工程师--python', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2925250.html'}
+{'staff': '高级python开发工程师', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/1826628.html'}
+{'staff': '爬虫工程师--python语言', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3112313.html'}
+{'staff': '高级python服务端开发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2311095.html'}
+{'staff': '高级python Web后端研发工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2953678.html'}
+{'staff': '急聘：python爬虫工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3024750.html'}
+{'staff': 'python爬虫工程师--急寻', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3036670.html'}
+{'staff': 'python爬虫工程师', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/2941969.html'}
+{'staff': 'python爬虫工程师--金融大数据', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3122820.html'}
+{'staff': 'python爬虫工程师--金融智能方向', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3093742.html'}
+{'staff': 'python爬虫工程师--金融机器人', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3064640.html'}
+{'staff': 'python爬虫工程师--金融智能', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3091142.html'}
+{'staff': 'python爬虫工程师--金融领域', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3047319.html'}
+{'staff': 'python爬虫工程师--人工智能', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3071379.html'}
+{'staff': 'python爬虫工程师--fintech领域', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3043205.html'}
+{'staff': 'python爬虫工程师 -- 金融智能', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3040504.html'}
+{'staff': 'python爬虫--金融大数据方向', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3127118.html'}
+{'staff': 'python爬虫--金融科技', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3114010.html'}
+{'staff': 'python爬虫工程师--金融智能产品', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3107367.html'}
+{'staff': 'python爬虫--fintech方向', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3118058.html'}
+{'staff': 'python爬虫工程师（金融智能）', 'salary': 22500.0, 'position': '朝阳区', 'details_url': 'https://www.lagou.com/jobs/3056850.html'}
+{'staff': 'Python工程师（爬虫工程师）', 'salary': 15000.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/2875134.html'}
+{'staff': '初/中级后端开发工程师（PHP/JAVA/C++/C/Python）', 'salary': 26500.0, 'position': '海淀区', 'details_url': 'https://www.lagou.com/jobs/3146412.html'}
