@@ -19,7 +19,6 @@ class GenImage:
 		}
 
 	def generateImage(self, sourceName, fileName, image_kind):
-		print('生成')
 		matplotlib.rcParams['font.family'] = 'SimHei'			#设置中文支持（linux下有问题）
 		matplotlib.rc('font', **self.FONT)               
 		mydata = pd.read_csv(self.FILE_PATH + sourceName)		

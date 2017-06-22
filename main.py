@@ -2,12 +2,14 @@
 import threading
 import webbrowser
 import gc
+import sqlite3
 
 #导入自写类
 from mainWIndow import *
 from zhilian.zhilian import ZhilianCrawl
 from lagou.lagou import LagowCrwal
 from GenImage import GenImage
+
 
 
 class Main(QMainWindow,Ui_MainWindow):
@@ -17,8 +19,6 @@ class Main(QMainWindow,Ui_MainWindow):
         self.staff_list = []
         self.type = "lagou"
         self.ItemNumber = 0
-        #self.StaffTheard = HandleStaff(self.listWidget,self.staff_list)
-        #self.StaffTheard.start()
 
     def typeMap(self, type):
         if type == "拉勾网":
@@ -47,47 +47,45 @@ class Main(QMainWindow,Ui_MainWindow):
         else:
             self.workTheard = ZhilianCrawl(position, keyword, self.progressBar, page_number)
         self.workTheard.start()
-        print("中间")
         self.workTheard.trigger.connect(self.showImage)
     
-    def showStaff(self,job_infos):
-        self.listWidget.clear()
+    def showStaff(self):
+        cursor = self.db.cursor()
         self.staff_list = []
+        self.listWidget.clear()                                 #staff_list 常驻内存，切记每次都要初始化为空，否则列表将无限增长，最终程序崩溃
         
-                                         #staff_list 常驻内存，切记每次都要初始化为空，否则列表将无限增长，最终程序崩溃
-        N = 50 if len(job_infos) >= 50 else len(job_infos)
+        #从数据库中得到所有职位信息
 
-        for i in range(N):
-            self.staff_list.append(job_infos[i]['staff'] + ',' + job_infos[i]['details_url'])
+        cursor.execute('SELECT * FROM %s' % (self.type))
+        values = cursor.fetchall()
+        N = 50 if len(values) >= 50 else len(values)
+
+        for i in range(N):    
+            self.staff_list.append(values[i][0] + ',' + values[i][3])
             staff = self.staff_list[i].split(',')[0]
             self.listWidget.addItem(staff)
 
-        del job_infos
-        gc.collect()
+        cursor.close()
+        self.db.commit()
+
      
     #将图像显示到界面上来，使用QLabel
-    def showImage(self,job_infos): 
+    def showImage(self): 
         #这里本来想在后台执行的，但是会造成 main thread is not in main loop 的错误，既然不在main loop中，我就直接把他放到主线程中来，虽然这样可能会短暂阻塞UI，但是用户基本感觉不到
         try:
             image = GenImage(os.getcwd() + '/resource/%s/' % (self.type))
             image.generateImage('position_for_image.csv','1.png','bar')				
             image.generateImage('salary_for_image.csv','2.png','pie')
         except:
-            print('错误')
             self.networkError()
-        
         
         PixMapSalary = QtGui.QPixmap(os.getcwd() + '/resource/%s/images/1.png' % (self.type)).scaled(400,600)
         self.SalaryImage.setPixmap(PixMapSalary)
         PixMapPosition = QtGui.QPixmap(os.getcwd() + '/resource/%s/images/2.png' % (self.type)).scaled(500,500)
         self.PositionImage.setPixmap(PixMapPosition)
-
-        del PixMapPosition,PixMapSalary,image
-        gc.collect()
-        
-        
+              
         #读取新的数据
-        self.showStaff(job_infos)
+        self.showStaff()
 
     #用于给用户双击职位名称即可通过浏览器看到详细的信息，使用webbrowser来实现
     def showItem(self):

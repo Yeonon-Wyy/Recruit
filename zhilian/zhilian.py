@@ -9,6 +9,7 @@ from queue import Queue
 import threading
 import time
 from PyQt5.QtCore import *
+import sqlite3
 
 #导入自写类
 sys.path.append('../')
@@ -18,7 +19,7 @@ from GenImage import GenImage
 
 
 class ZhilianCrawl(CrawlBase):
-	trigger = pyqtSignal(list)
+	trigger = pyqtSignal()
 	def __init__(self,position,keyword,progressBar,page_number):
 		super().__init__()
 		self.main_url = "http://sou.zhaopin.com/jobs/searchresult.ashx?jl=%s&kw=%s&sm=0&p=%s"
@@ -69,14 +70,13 @@ class ZhilianCrawl(CrawlBase):
 		t3.join()
 		t4.join()
 		
-		
+		db = sqlite3.connect('jobs.db')
 		self.salaryHandle()																	#保存文件，单独存放薪水，用于方便生成图像，下同
 		self.positionHandle()
-		self.saveAll()
+		self.saveAll('zhilian',db)
 		self.staffHandle()																		#保存文件，单独存放职位名称和对应的URL
 					
-
-		self.trigger.emit(self.job_infos)																		#爬取完毕，要发送信号给UI主线程，并执行相应的槽函数
+		self.trigger.emit()																		#爬取完毕，要发送信号给UI主线程，并执行相应的槽函数
 
 	
 	def crawl(self,url):
@@ -107,7 +107,7 @@ class ZhilianCrawl(CrawlBase):
 
 			info['details_url'] = job.find_all('a')[0].get('href')
 
-			self.job_infos.append(info)															#修改共享数据
+			self.job_infos.append(info)														#修改共享数据
 		self.MyLock.release()	
 		self.url_queue.task_done()																#务必要解锁，否则其他线程永远无法进入这个部分，但是其他线程又已经从URL队列里得到url并请求了，最终会导致爬取数据不全
 

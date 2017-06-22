@@ -2,7 +2,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QDesktopWidget,QMainWindow
 import sys
 import os
-
+import sqlite3
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
@@ -56,10 +56,18 @@ class Ui_MainWindow(object):
         self.PositionImage.setAlignment(QtCore.Qt.AlignCenter)
         self.PositionImage.setObjectName("PositionImage")
 
-        #PixMapSalary = QtGui.QPixmap(os.getcwd() + '/resource/zhilian/images/1.png').scaled(400,600)
-        #self.SalaryImage.setPixmap(PixMapSalary)
-        #PixMapPosition = QtGui.QPixmap(os.getcwd() + '/resource/zhilian/images/2.png').scaled(500,500)
-        #self.PositionImage.setPixmap(PixMapPosition)
+        #从数据库里得到最后一次搜索的网站类型，便于恢复数据显示
+        self.db = sqlite3.connect('jobs.db')
+        cursor = self.db.cursor()
+        cursor.execute("SELECT * FROM latestType")
+        self.type = cursor.fetchall()[0][1]
+        cursor.close()
+        self.db.commit()
+
+        PixMapSalary = QtGui.QPixmap(os.getcwd() + '/resource/%s/images/1.png' % self.type).scaled(400,600)
+        self.SalaryImage.setPixmap(PixMapSalary)
+        PixMapPosition = QtGui.QPixmap(os.getcwd() + '/resource/%s/images/2.png' % self.type).scaled(500,500)
+        self.PositionImage.setPixmap(PixMapPosition)
 
         self.TypeLabel = QtWidgets.QLabel(self.centralwidget)
         self.TypeLabel.setGeometry(QtCore.QRect(20,5,100,30))
@@ -81,6 +89,7 @@ class Ui_MainWindow(object):
         self.listWidget.setGeometry(QtCore.QRect(970, 80, 300, 600))
         self.listWidget.setObjectName("listWidget")
         self.listWidget.doubleClicked.connect(self.showItem)
+        self.showStaff()
 
 
         self.progressBar = QtWidgets.QProgressBar(self.centralwidget)
@@ -138,22 +147,6 @@ class Ui_MainWindow(object):
         self.TypeBox.addItem("拉勾网")
         self.TypeBox.addItem("智联招聘")
 
-        
-
-#开启线程，为listwidget添加项目
-class HandleStaff(QtCore.QThread):
-    def __init__(self,listWidget,staff_list):
-        super().__init__()
-        self.listWidget = listWidget
-        self.staff_list = staff_list
-
-    def run(self):
-        with open(os.getcwd() + '/resource/zhilian/staff.txt','r',encoding='utf-8') as f:
-            for i in range(50):
-                staff = f.readline()
-                self.staff_list.append(staff)
-                staff = staff.split(',')[0]
-                self.listWidget.addItem(staff)
 
 
 

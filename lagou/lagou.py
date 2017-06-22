@@ -7,6 +7,7 @@ import os
 from PyQt5.QtCore import *
 import time
 import re
+import sqlite3
 
 
 sys.path.append('../')
@@ -16,7 +17,7 @@ from GenImage import GenImage
 
 
 class LagowCrwal(CrawlBase):
-	trigger = pyqtSignal(list)
+	trigger = pyqtSignal()
 	def __init__(self, position, keyword, progressBar, page_number):
 		super().__init__()
 		self.main_url = "http://www.lagou.com/jobs/positionAjax.json?px=default&city=%s&first=true&kd=%s&pn=%s"
@@ -72,13 +73,15 @@ class LagowCrwal(CrawlBase):
 		t3.join()
 		t4.join()
 
+		db = sqlite3.connect('jobs.db')
+
 		self.salaryHandle()																	#保存文件，单独存放薪水，用于方便生成图像，下同
 		self.positionHandle()
-		self.saveAll()
+		self.saveAll('lagou',db)
 		self.staffHandle()																		#保存文件，单独存放职位名称和对应的URL
 					
 
-		self.trigger.emit(self.job_infos)
+		self.trigger.emit()
 
 
 	def crawl(self, url):
@@ -87,7 +90,7 @@ class LagowCrwal(CrawlBase):
 			job_data = json.loads(r.text)['content']['positionResult']['result']
 		except:
 			self.url_queue.put(url)
-			raise TimeoutError('超时')
+			raise TimeoutError('错误')
 
 		self.MyLock.acquire()
 		self.progressBarStep += self.progressBarPerStep
@@ -107,11 +110,8 @@ class LagowCrwal(CrawlBase):
 				infos['position'] = self.POSITION
 			else:
 				infos['position'] = position
-
-			print(position)
 			infos['details_url'] = "https://www.lagou.com/jobs/%s.html" % (job['positionId'])
 			self.job_infos.append(infos)
-
 
 		self.MyLock.release()	
 		self.url_queue.task_done()

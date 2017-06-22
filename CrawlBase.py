@@ -3,6 +3,7 @@ import random,re
 from PyQt5.QtCore import QThread
 import requests
 from bs4 import BeautifulSoup
+import sqlite3
 
 
 class CrawlBase(QThread):
@@ -22,6 +23,7 @@ class CrawlBase(QThread):
 		self.headers = {}
 		self.proxies = {}
 		self.job_infos = []													#保存信息到内存中（暂时）
+		
 
 	#生成url 队列
 	def generateUrl(self):
@@ -120,9 +122,16 @@ class CrawlBase(QThread):
 			for job_info in self.job_infos:
 				f.write(str(job_info[fileName]) + '\n')
 
-	#保存所有信息，用户可提取
-	def saveAll(self):
-		with open(self.file_path + 'AllInfo.txt', 'w', encoding='utf-8') as f:
-			for job_info in self.job_infos:
-				f.write(str(job_info) + '\n')
+	#保存所有信息，使用sqlite3数据库存储
+	def saveAll(self, tableName, db):
+		cursor = db.cursor()
+		cursor.execute("DELETE FROM %s" % (tableName))
+		for job in self.job_infos:
+			cursor.execute("INSERT INTO %s (staff, salary, position, details_url) values (?, ?, ?, ?)" % 
+				(tableName) , (job['staff'], job['salary'], job['position'], job['details_url']))
+
+		cursor.execute("UPDATE latestType SET latest_type = ? WHERE id = ?",(tableName,1))
+		cursor.close()
+		db.commit()
+		
 
