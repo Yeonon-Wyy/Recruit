@@ -98,13 +98,10 @@ class LagowCrwal(CrawlBase):
 		for job in job_data:
 			infos = {}
 			infos['staff'] = job['positionName']
-			salary = job['salary'].split('-')
 
-			if len(salary) == 2:
-				infos['salary'] = (int(re.sub(r'k|K','000',salary[0])) + int(re.sub(r'k|K','000',salary[1]))) / 2
-			else:
-				infos['salary'] = -1
-
+			salary = job['salary']
+			infos['salary'] = re.sub(r'k|K','000',salary)
+			
 			position = str(job['district'])
 			if position == '':
 				infos['position'] = self.POSITION

@@ -102,6 +102,8 @@ class Ui_MainWindow(object):
         aboutAction = QtWidgets.QAction(QtGui.QIcon(os.getcwd() + '/resource/myico.png'),'关于 Qt',self)
         aboutAction.triggered.connect(QtWidgets.qApp.aboutQt)
 
+        outPutAction = QtWidgets.QAction(QtGui.QIcon(os.getcwd() + '/resource/myico.png'),'导出文件',self)
+        outPutAction.triggered.connect(self.outPutFile)
 
         MainWindow.setCentralWidget(self.centralwidget)
         self.menubar = QtWidgets.QMenuBar(MainWindow)
@@ -111,8 +113,13 @@ class Ui_MainWindow(object):
         fileMenu = self.menubar.addMenu('&文件')
         fileMenu.addAction(exitAction)
 
-        aboutMent = self.menubar.addMenu('&关于')
-        aboutMent.addAction(aboutAction)
+        aboutMenu = self.menubar.addMenu('&关于')
+        aboutMenu.addAction(aboutAction)
+
+        outPutMenu = self.menubar.addMenu('&导出文件')
+        outPutMenu.addAction(outPutAction)
+        
+
 
         MainWindow.setMenuBar(self.menubar)
         self.statusbar = QtWidgets.QStatusBar(MainWindow)
@@ -133,9 +140,50 @@ class Ui_MainWindow(object):
         self.PositionLabel.setText(_translate("MainWindow", "位置 （例如 北京）:"))
         self.KeywordLabel.setText(_translate("MainWindow", "关键字（例如 C++）:"))
         self.Crawl_label.setText(_translate("MainWindow", "爬取的网页数: "))
-        self.TypeLabel.setText(_translate("MainWindow", "选择爬取的网站: "))
+        self.TypeLabel.setText(_translate("MainWindow", "选择爬取网站: "))
         self.TypeBox.addItem("拉勾网")
         self.TypeBox.addItem("智联招聘")
+
+    def outPutFile(self):
+        self.Filedialog = QtWidgets.QDialog(self.centralwidget)
+        self.Filedialog.setFixedSize(600,150)
+        self.Filedialog.setWindowTitle('导出EXCEL文件')
+        self.Filedialog.setModal(True)
+        
+
+        self.Dirlabel = QtWidgets.QLabel(self.Filedialog)
+        self.Dirlabel.move(20,40)
+        self.Dirlabel.setFixedSize(70,30)
+        self.Dirlabel.setText('文件位置: ')
+
+        self.DirlineEdit = QtWidgets.QLineEdit(self.Filedialog)
+        self.DirlineEdit.move(100,40)
+        self.DirlineEdit.setFixedSize(350,30)
+
+        self.Filelabel = QtWidgets.QLabel(self.Filedialog)
+        self.Filelabel.move(20,100)
+        self.Filelabel.setFixedSize(70,30)
+        self.Filelabel.setText('文件名称: ')
+
+        self.FilelineEdit = QtWidgets.QLineEdit(self.Filedialog)
+        self.FilelineEdit.move(100,100)
+        self.FilelineEdit.setFixedSize(350,30)
+
+        self.YesButton = QtWidgets.QPushButton(self.Filedialog)
+        self.YesButton.move(470,100)
+        self.YesButton.setFixedSize(100,30)
+        self.YesButton.setText('确定')
+        self.YesButton.clicked.connect(self.saveFileToExcel)
+
+        self.browlButton = QtWidgets.QPushButton(self.Filedialog)
+        self.browlButton.move(470,40)
+        self.browlButton.setFixedSize(100,30)
+        self.browlButton.setText('浏览')
+        self.browlButton.clicked.connect(self.openFile)
+
+        self.Filedialog.show()
+
+
 
     
 

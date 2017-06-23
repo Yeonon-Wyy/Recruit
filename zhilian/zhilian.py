@@ -96,11 +96,8 @@ class ZhilianCrawl(CrawlBase):
 			info['staff'] = job.find_all('a')[0].text
 
 			#处理工资
-			salary = job.find('td',class_='zwyx').text.split('-')
-			if len(salary) == 2:
-				info['salary'] = (int(salary[0]) + int(salary[1])) / 2
-			else:
-				info['salary'] = -1
+			info['salary'] = job.find('td',class_='zwyx').text
+			
 			#处理位置
 			info['position'] = job.find('td',class_='gzdd').text
 

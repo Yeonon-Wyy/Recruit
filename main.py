@@ -3,6 +3,7 @@ import threading
 import webbrowser
 import gc
 import sqlite3
+import xlwt
 
 #导入自写类
 from mainWIndow import *
@@ -113,6 +114,44 @@ class Main(QMainWindow,Ui_MainWindow):
                 url = self.staff_list[i].split(',')[1]
                 webbrowser.open_new(url)
 
+
+    def openFile(self):
+        DirName = QtWidgets.QFileDialog.getExistingDirectory(self.Filedialog, "浏览文件",
+                            "C:",QtWidgets.QFileDialog.ShowDirsOnly)
+        self.DirlineEdit.setText(DirName)
+
+
+    def saveFileToExcel(self):
+        fileName = self.FilelineEdit.text()
+        if fileName == '':
+            fileName = 'default'
+
+        fileName = self.DirlineEdit.text() + '/' + fileName
+        
+        cursor = self.db.cursor()
+        cursor.execute('SELECT * FROM %s' % (self.type))
+        values = cursor.fetchall()
+
+        workBook = xlwt.Workbook(encoding='ascii')
+        workSheet = workBook.add_sheet('职位信息')
+
+        workSheet.write(0, 0, '职位')
+        workSheet.write(0, 1, '薪水')
+        workSheet.write(0, 2, '位置')
+        for i in range(len(values)):
+            workSheet.write(i+1, 0, values[i][0])
+            workSheet.write(i+1, 1, values[i][1])
+            workSheet.write(i+1, 2, values[i][2])
+
+        workBook.save(fileName + '.xls')
+
+        SucessMessage = QtWidgets.QMessageBox.information( self, 
+                                                            '导出EXCEL',
+                                                            '导出成功',
+                                                            QtWidgets.QMessageBox.Yes)
+
+
+    
 
     #网络异常的时候，弹出消息框，但不退出程序
     def networkError(self):

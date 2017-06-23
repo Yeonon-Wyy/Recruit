@@ -69,7 +69,13 @@ class CrawlBase(QThread):
 		salarys = defaultdict(int)
 		#便于绘图，划分区间
 		for job_info in self.job_infos:
-			salary = job_info['salary']
+			salary = job_info['salary'].split('-')
+
+			if len(salary) == 2:
+				salary = (int(salary[0]) + int(salary[1])) / 2
+			else:
+				salary = -1
+
 			if salary >= 0 and salary < 5000:
 				salarys['0-5K'] += 1
 			elif salary >= 5000 and salary < 8000:
@@ -126,6 +132,7 @@ class CrawlBase(QThread):
 	def saveAll(self, tableName, db):
 		cursor = db.cursor()
 		cursor.execute("DELETE FROM %s" % (tableName))
+
 		for job in self.job_infos:
 			cursor.execute("INSERT INTO %s (staff, salary, position, details_url) values (?, ?, ?, ?)" % 
 				(tableName) , (job['staff'], job['salary'], job['position'], job['details_url']))
