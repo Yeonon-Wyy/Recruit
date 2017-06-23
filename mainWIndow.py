@@ -57,17 +57,7 @@ class Ui_MainWindow(object):
         self.PositionImage.setObjectName("PositionImage")
 
         #从数据库里得到最后一次搜索的网站类型，便于恢复数据显示
-        self.db = sqlite3.connect('jobs.db')
-        cursor = self.db.cursor()
-        cursor.execute("SELECT * FROM latestType")
-        self.type = cursor.fetchall()[0][1]
-        cursor.close()
-        self.db.commit()
-
-        PixMapSalary = QtGui.QPixmap(os.getcwd() + '/resource/%s/images/1.png' % self.type).scaled(400,600)
-        self.SalaryImage.setPixmap(PixMapSalary)
-        PixMapPosition = QtGui.QPixmap(os.getcwd() + '/resource/%s/images/2.png' % self.type).scaled(500,500)
-        self.PositionImage.setPixmap(PixMapPosition)
+        
 
         self.TypeLabel = QtWidgets.QLabel(self.centralwidget)
         self.TypeLabel.setGeometry(QtCore.QRect(20,5,100,30))
@@ -89,7 +79,7 @@ class Ui_MainWindow(object):
         self.listWidget.setGeometry(QtCore.QRect(970, 80, 300, 600))
         self.listWidget.setObjectName("listWidget")
         self.listWidget.doubleClicked.connect(self.showItem)
-        self.showStaff()
+        
 
 
         self.progressBar = QtWidgets.QProgressBar(self.centralwidget)
@@ -146,6 +136,9 @@ class Ui_MainWindow(object):
         self.TypeLabel.setText(_translate("MainWindow", "选择爬取的网站: "))
         self.TypeBox.addItem("拉勾网")
         self.TypeBox.addItem("智联招聘")
+
+    
+
 
 
 

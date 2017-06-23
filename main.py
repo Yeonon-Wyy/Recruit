@@ -16,8 +16,10 @@ class Main(QMainWindow,Ui_MainWindow):
     def __init__(self):
         QMainWindow.__init__(self)
         self.setupUi(self)
+        self.type = ""
         self.staff_list = []
-        self.type = "lagou"
+        self.InitImage()
+        self.showStaff()
         self.ItemNumber = 0
 
     def typeMap(self, type):
@@ -27,6 +29,20 @@ class Main(QMainWindow,Ui_MainWindow):
             return "zhilian"
         else:
             return "zhilian"
+    
+    #初始化图片展示到GUI上
+    def InitImage(self):
+        self.db = sqlite3.connect('jobs.db')
+        cursor = self.db.cursor()
+        cursor.execute("SELECT * FROM latestType")
+        self.type = cursor.fetchall()[0][1]
+        cursor.close()
+        self.db.commit()
+
+        PixMapSalary = QtGui.QPixmap(os.getcwd() + '/resource/%s/images/1.png' % self.type).scaled(400,600)
+        self.SalaryImage.setPixmap(PixMapSalary)
+        PixMapPosition = QtGui.QPixmap(os.getcwd() + '/resource/%s/images/2.png' % self.type).scaled(500,500)
+        self.PositionImage.setPixmap(PixMapPosition)
 
     #开启主线程外的另一个线程，防止UI阻塞，注意到在那个线程里爬数据的时候再次开启了多线程，这是可以的，也是python和Qt 灵活的地方
     def work(self):
@@ -55,7 +71,7 @@ class Main(QMainWindow,Ui_MainWindow):
         self.listWidget.clear()                                 #staff_list 常驻内存，切记每次都要初始化为空，否则列表将无限增长，最终程序崩溃
         
         #从数据库中得到所有职位信息
-
+        
         cursor.execute('SELECT * FROM %s' % (self.type))
         values = cursor.fetchall()
         N = 50 if len(values) >= 50 else len(values)
@@ -64,7 +80,7 @@ class Main(QMainWindow,Ui_MainWindow):
             self.staff_list.append(values[i][0] + ',' + values[i][3])
             staff = self.staff_list[i].split(',')[0]
             self.listWidget.addItem(staff)
-
+        
         cursor.close()
         self.db.commit()
 
@@ -83,7 +99,9 @@ class Main(QMainWindow,Ui_MainWindow):
         self.SalaryImage.setPixmap(PixMapSalary)
         PixMapPosition = QtGui.QPixmap(os.getcwd() + '/resource/%s/images/2.png' % (self.type)).scaled(500,500)
         self.PositionImage.setPixmap(PixMapPosition)
-              
+
+        del image
+        gc.collect()
         #读取新的数据
         self.showStaff()
 
@@ -113,4 +131,4 @@ if __name__ == '__main__':
     app = QtWidgets.QApplication(sys.argv)
     MainWindow = Main()
     MainWindow.show()
-    sys.exit(app.exec_()) 
+    sys.exit(app.exec_())
