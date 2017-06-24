@@ -1,5 +1,5 @@
 from collections import defaultdict
-import random,re
+import random,re,os
 from PyQt5.QtCore import QThread
 import requests
 from bs4 import BeautifulSoup
@@ -113,20 +113,13 @@ class CrawlBase(QThread):
 				f.write(str(position) + ',')
 				f.write(str(num) + '\n')
 
-
+	#保存文件到txt
 	def staffHandle(self):
 		fileName = 'staff.txt'
 		with open(self.file_path + fileName, 'w', encoding='utf-8') as f:
 			for job_info in self.job_infos:
 				f.write(str(job_info['staff']) + ',' + str(job_info['details_url'] + '\n'))
 
-
-	#保存文件，用户可提取
-	def saveFileCSV(self, fileName):
-		with open(self.file_path + fileName + '.csv', 'w', encoding='utf-8') as f:
-			f.write(str(fileName) + '\n')
-			for job_info in self.job_infos:
-				f.write(str(job_info[fileName]) + '\n')
 
 	#保存所有信息，使用sqlite3数据库存储
 	def saveAll(self, tableName, db):
@@ -140,5 +133,20 @@ class CrawlBase(QThread):
 		cursor.execute("UPDATE latestType SET latest_type = ? WHERE id = ?",(tableName,1))
 		cursor.close()
 		db.commit()
-		
+
+	#初始化数据库（若文件不存在，则创建数据库）
+	def InitDB(self):
+		if os.path.isfile(os.getcwd() + '/resource/jobs.db'):
+			db = sqlite3.connect(os.getcwd() + '/resource/jobs.db')
+			return db
+		else:
+			db = sqlite3.connect(os.getcwd() + '/resource/jobs.db')
+			cursor = db.cursor()
+			cursor.execute('CREATE TABLE zhilian (staff text, salary varchar(20), position varchar(20), details_url text)')
+			cursor.execute('CREATE TABLE lagou (staff text, salary varchar(20), position varchar(20), details_url text)')
+			cursor.execute('CREATE TABLE latestType (id INTEGER, latest_type varchar(20))')
+			cursor.execute('INSERT INTO latestType (id, latest_type) values (?, ?)',(1,'lagou'))
+			cursor.close()
+			db.commit()
+			return db
 

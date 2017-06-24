@@ -37,6 +37,7 @@ class LagowCrwal(CrawlBase):
 
 
 
+
 	def generateUrl(self):
 		q = Queue()
 		for i in range(self.page_number):
@@ -73,12 +74,10 @@ class LagowCrwal(CrawlBase):
 		t3.join()
 		t4.join()
 
-		db = sqlite3.connect('jobs.db')
-
+		db = self.InitDB()
 		self.salaryHandle()																	#保存文件，单独存放薪水，用于方便生成图像，下同
 		self.positionHandle()
-		self.saveAll('lagou',db)
-		self.staffHandle()																		#保存文件，单独存放职位名称和对应的URL
+		self.saveAll('lagou',db)																		#保存文件，单独存放职位名称和对应的URL
 					
 
 		self.trigger.emit()

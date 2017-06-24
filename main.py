@@ -18,10 +18,12 @@ class Main(QMainWindow,Ui_MainWindow):
         QMainWindow.__init__(self)
         self.setupUi(self)
         self.type = ""
+        self.db = self.InitDB()
         self.staff_list = []
         self.InitImage()
         self.showStaff()
         self.ItemNumber = 0
+        
 
     def typeMap(self, type):
         if type == "拉勾网":
@@ -33,7 +35,6 @@ class Main(QMainWindow,Ui_MainWindow):
     
     #初始化图片展示到GUI上
     def InitImage(self):
-        self.db = sqlite3.connect('jobs.db')
         cursor = self.db.cursor()
         cursor.execute("SELECT * FROM latestType")
         self.type = cursor.fetchall()[0][1]
@@ -44,6 +45,22 @@ class Main(QMainWindow,Ui_MainWindow):
         self.SalaryImage.setPixmap(PixMapSalary)
         PixMapPosition = QtGui.QPixmap(os.getcwd() + '/resource/%s/images/2.png' % self.type).scaled(500,500)
         self.PositionImage.setPixmap(PixMapPosition)
+
+    #这里代码和CrawlBase里的代码重复了，违背了软件开发的一些原则，但是因为sqlite3对象不能传递到另一个线程，所以暂时只能这样做
+    def InitDB(self):
+        if os.path.isfile(os.getcwd() + '/resource/jobs.db'):
+            db = sqlite3.connect(os.getcwd() + '/resource/jobs.db')
+            return db
+        else:
+            db = sqlite3.connect(os.getcwd() + '/resource/jobs.db')
+            cursor = db.cursor()
+            cursor.execute('CREATE TABLE zhilian (staff text, salary varchar(20), position varchar(20), details_url text)')
+            cursor.execute('CREATE TABLE lagou (staff text, salary varchar(20), position varchar(20), details_url text)')
+            cursor.execute('CREATE TABLE latestType (id INTEGER, latest_type varchar(20))')
+            cursor.execute('INSERT INTO latestType (id, latest_type) values (?, ?)',(1,'lagou'))
+            cursor.close()
+            db.commit()
+            return db
 
     #开启主线程外的另一个线程，防止UI阻塞，注意到在那个线程里爬数据的时候再次开启了多线程，这是可以的，也是python和Qt 灵活的地方
     def work(self):
@@ -66,14 +83,13 @@ class Main(QMainWindow,Ui_MainWindow):
         self.workTheard.start()
         self.workTheard.trigger.connect(self.showImage)
     
+    #展示staff信息到listwidget
     def showStaff(self):
         cursor = self.db.cursor()
         self.staff_list = []
         self.listWidget.clear()                                 #staff_list 常驻内存，切记每次都要初始化为空，否则列表将无限增长，最终程序崩溃
         
-        #从数据库中得到所有职位信息
-        
-        cursor.execute('SELECT * FROM %s' % (self.type))
+        cursor.execute('SELECT * FROM %s' % (self.type))        #从数据库中得到所有职位信息
         values = cursor.fetchall()
         N = 50 if len(values) >= 50 else len(values)
 
@@ -103,6 +119,7 @@ class Main(QMainWindow,Ui_MainWindow):
 
         del image
         gc.collect()
+
         #读取新的数据
         self.showStaff()
 
@@ -115,19 +132,34 @@ class Main(QMainWindow,Ui_MainWindow):
                 webbrowser.open_new(url)
 
 
+    #打开文件目录浏览器
     def openFile(self):
         DirName = QtWidgets.QFileDialog.getExistingDirectory(self.Filedialog, "浏览文件",
                             "C:",QtWidgets.QFileDialog.ShowDirsOnly)
         self.DirlineEdit.setText(DirName)
 
-
+    
+    #保存数据到EXCEL文件
     def saveFileToExcel(self):
         fileName = self.FilelineEdit.text()
         if fileName == '':
             fileName = 'default'
 
-        fileName = self.DirlineEdit.text() + '/' + fileName
+        fileName = self.DirlineEdit.text() + '/' + fileName + '.xls'
+
+        if os.path.isfile(fileName):
+            existMessage = QtWidgets.QMessageBox.warning( self, 
+                                                         '文件已存在',
+                                                         fileName + ' 已存在,是否覆盖该文件',
+                                                         QtWidgets.QMessageBox.Yes | QtWidgets.QMessageBox.No)
+
+            if existMessage == QtWidgets.QMessageBox.No:
+                return                                             
         
+
+        
+        
+
         cursor = self.db.cursor()
         cursor.execute('SELECT * FROM %s' % (self.type))
         values = cursor.fetchall()
@@ -143,12 +175,18 @@ class Main(QMainWindow,Ui_MainWindow):
             workSheet.write(i+1, 1, values[i][1])
             workSheet.write(i+1, 2, values[i][2])
 
-        workBook.save(fileName + '.xls')
+        workBook.save(fileName)
 
         SucessMessage = QtWidgets.QMessageBox.information( self, 
                                                             '导出EXCEL',
                                                             '导出成功',
                                                             QtWidgets.QMessageBox.Yes)
+
+        
+        if SucessMessage == QtWidgets.QMessageBox.Yes:
+            self.Filedialog.close()
+
+        
 
 
     
@@ -164,6 +202,7 @@ class Main(QMainWindow,Ui_MainWindow):
             self.NetworkErrorMessage.show()
         except:
             pass
+
 
 
 if __name__ == '__main__':

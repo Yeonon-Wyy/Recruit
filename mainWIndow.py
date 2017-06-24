@@ -159,6 +159,7 @@ class Ui_MainWindow(object):
         self.DirlineEdit = QtWidgets.QLineEdit(self.Filedialog)
         self.DirlineEdit.move(100,40)
         self.DirlineEdit.setFixedSize(350,30)
+        self.DirlineEdit.setText(os.getcwd())
 
         self.Filelabel = QtWidgets.QLabel(self.Filedialog)
         self.Filelabel.move(20,100)

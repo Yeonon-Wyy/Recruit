@@ -70,11 +70,10 @@ class ZhilianCrawl(CrawlBase):
 		t3.join()
 		t4.join()
 		
-		db = sqlite3.connect('jobs.db')
+		db = self.InitDB()
 		self.salaryHandle()																	#保存文件，单独存放薪水，用于方便生成图像，下同
 		self.positionHandle()
-		self.saveAll('zhilian',db)
-		self.staffHandle()																		#保存文件，单独存放职位名称和对应的URL
+		self.saveAll('zhilian',db)																		#保存文件，单独存放职位名称和对应的URL
 					
 		self.trigger.emit()																		#爬取完毕，要发送信号给UI主线程，并执行相应的槽函数
 
